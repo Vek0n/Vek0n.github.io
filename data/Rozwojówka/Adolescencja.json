@@ -1,0 +1,366 @@
+{
+  "title": "Test z Psychologii Rozwoju: Adolescencja",
+  "difficulty": "Średni",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single-choice",
+      "question": "Zgodnie z koncepcją R. Havighursta, faza wczesnego dorastania skupia się przede wszystkim na budowaniu:",
+      "options": [
+        "Podstaw tożsamości indywidualnej i stabilnych planów zawodowych na przyszłość.",
+        "Podstaw tożsamości grupowej i silnych, uniezależniających relacjach rówieśniczych.",
+        "Głębokich i dojrzałych związków opartych na pełnej intymności z jednym partnerem."
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "We wczesnej fazie adolescencji najważniejsze jest odnalezienie się w grupie (paczce, klice) i zyskanie w niej akceptacji, co staje się oparciem w separacji od rodziców."
+    },
+    {
+      "id": 2,
+      "type": "single-choice",
+      "question": "Myślenie formalne (hipotetyczno-dedukcyjne), pojawiające się u nastolatków, pozwala na:",
+      "options": [
+        "Rozwiązywanie problemów wyłącznie poprzez operowanie na konkretnych, fizycznych obiektach.",
+        "Zrozumienie mechanizmu stałości ilości masy, mimo zmiany jej zewnętrznego kształtu.",
+        "Swobodną refleksję oderwaną od rzeczywistości, tworzenie teorii i planowanie abstrakcyjne."
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Myślenie formalne uniezależnia umysł od „tu i teraz”, pozwalając na analizowanie sytuacji, które nie istnieją w realnym świecie, i wyciąganie z nich wniosków."
+    },
+    {
+      "id": 3,
+      "type": "single-choice",
+      "question": "Egocentryzm intelektualny, typowy dla wczesnej fazy dorastania, polega na:",
+      "options": [
+        "Niezdolności do wyobrażenia sobie innej perspektywy wizualnej niż ta, którą dziecko widzi ze swojego miejsca.",
+        "Przekonaniu, że świat i normy powinny bezwzględnie podporządkować się nowo odkrytym przez nastolatka ideom.",
+        "Całkowitym braku współodczuwania emocji innych osób połączonym z chłodnym izolowaniem się od rówieśników."
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Młody człowiek zakochany we własnych logicznych konstruktach uważa, że rzeczywistość społeczna musi ustąpić przed jego „idealnym” i logicznym punktem widzenia."
+    },
+    {
+      "id": 4,
+      "type": "single-choice",
+      "question": "Fizjologiczny skok pokwitaniowy, zwiastujący dojrzewanie:",
+      "options": [
+        "Przebiega niezwykle harmonijnie i w identycznym tempie rozwojowym u obu płci naraz.",
+        "Rozpoczyna się średnio o około dwa lata wcześniej w populacji dziewcząt niż u chłopców.",
+        "Powoduje u obu płci całkowity i nieodwracalny spadek sprawności układu immunologicznego."
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Dojrzewanie płciowe jest asynchroniczne – dziewczynki wchodzą w ten etap fizycznie (skok wzrostu i rozwój cech płciowych) zauważalnie wcześniej niż ich rówieśnicy."
+    },
+    {
+      "id": 5,
+      "type": "single-choice",
+      "question": "W modelu kształtowania tożsamości Alana Watermana tzw. tożsamość lustrzana to sytuacja, w której młody człowiek:",
+      "options": [
+        "Aktywnie i programowo buntuje się przeciwko wszelkim wartościom wyznawanym przez dorosłych.",
+        "Bezrefleksyjnie przyjmuje oczekiwania i role narzucone mu przez zewnętrzne autorytety (np. rodziców).",
+        "Wchodzi w intensywny, wydłużony okres eksperymentowania bez podejmowania jakichkolwiek decyzji."
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Zamiast podjąć trud samodzielnej eksploracji, nastolatek „odbija jak lustro” plany, wiarę i oczekiwania rodziców, stając się tym, kim oni każą mu być."
+    },
+    {
+      "id": 6,
+      "type": "single-choice",
+      "question": "Według L. Kohlberga, u starszych nastolatków pojawia się moralność konwencjonalna (harmonii interpersonalnej), czyli dążenie do:",
+      "options": [
+        "Oceniania czynów tylko pod kątem tego, czy przynoszą jednostce bezpośrednią nagrodę czy karę.",
+        "Ślepego, bezwzględnego posłuszeństwa uniwersalnym prawom, nawet kosztem relacji osobistych.",
+        "Zadowalania bliskich osób i przestrzegania „złotej reguły” przy uwzględnianiu intencji sprawcy."
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Na tym poziomie nastolatek chce być postrzegany jako „dobry chłopak/dziewczyna” dla swojej grupy i zważa na aprobatę innych oraz wzajemne zaufanie."
+    },
+    {
+      "id": 7,
+      "type": "single-choice",
+      "question": "Zjawisko tożsamości negatywnej, opisywane przez badaczy jako mechanizm obronny, charakteryzuje się:",
+      "options": [
+        "Osuwaniem się w stany apatyczne, bezradność i całkowite porzucenie relacji społecznych.",
+        "Programowym przejmowaniem cech i ról, które są jawnie potępiane i odrzucane przez dorosłych.",
+        "Uległością i perfekcjonizmem wykształconymi w celu uniknięcia kar od surowych nauczycieli."
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Kiedy nastolatek czuje zbytnie ograniczenie autonomii, buntuje się dla samego buntu, wybierając identyfikację z tym, co otoczenie uznaje za zakazane lub złe."
+    },
+    {
+      "id": 8,
+      "type": "single-choice",
+      "question": "W procesie kształtowania siebie etap nazwany moratorium psychospołecznym jest dla nastolatka:",
+      "options": [
+        "Zjawiskiem patologicznym wymagającym interwencji poradni psychologiczno-pedagogicznej.",
+        "Społecznie usankcjonowanym czasem na eksperymentowanie i poszukiwania przed podjęciem ról dorosłych.",
+        "Momentem trwałego regresu do fazy operacji konkretnych w wyniku nadmiaru nowych obowiązków."
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Moratorium daje przyzwolenie na bezkarne próbowanie siebie w różnych kontekstach (hobby, ideologie), co jest warunkiem osiągnięcia dojrzałej tożsamości."
+    },
+    {
+      "id": 9,
+      "type": "single-choice",
+      "question": "Jakie cechy wyróżniają pojawiające się we wczesnej adolescencji tzw. związki preintymne?",
+      "options": [
+        "Silna potrzeba zachowania ich w pełnej tajemnicy przy jednoczesnym emocjonalnym chłodzie partnerów.",
+        "Głębokie, dożywotnie zaangażowanie i pełna gotowość do ponoszenia konsekwencji własnych wyborów.",
+        "Gwałtowność i zmienność uczuć łącząca się z lękiem przed utratą tożsamości z powodu zbyt dużej bliskości."
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Są to związki przejściowe, w których nastolatki dopiero uczą się bliskości, ale wciąż bardzo chronią świeżo formujące się, kruche własne „Ja” przed zatraceniem w drugiej osobie."
+    },
+    {
+      "id": 10,
+      "type": "single-choice",
+      "question": "Czym skutkuje dla dorastającego dziecka stosowanie przez rodzica postawy tzw. usidlającej?",
+      "options": [
+        "Zapewnia to dziecku wybitnie szybki przyrost kompetencji moralnych najwyższego rzędu.",
+        "Wymusza posłuszeństwo, ale przyspiesza szybkie odejście od domu i usamodzielnienie zarobkowe.",
+        "Zaciera granice pokoleniowe, tworzy nadmierną symbiozę i skutecznie hamuje indywiduację nastolatka."
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Rodzic usidlający wciąga dziecko w problemy dorosłych (np. konflikty małżeńskie), nie dając mu odpowiedniego dystansu do poszukiwania własnej drogi."
+    },
+    {
+      "id": 11,
+      "type": "single-choice",
+      "question": "W okresie pokwitania nastolatki bywają postrzegane jako nieskoordynowane i niezdarne z uwagi na to, że:",
+      "options": [
+        "Wzrost kośćca i proporcji ciała przebiega nierównomiernie – najszybciej osiągają rozmiar dłonie i stopy.",
+        "Proces mielinizacji włókien nerwowych spowalnia o połowę na skutek produkcji testosteronu/estradiolu.",
+        "Rozwój myślenia abstrakcyjnego drastycznie blokuje prawidłowe funkcje zmysłu błędnika w móżdżku."
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Zmiany fizyczne (skok pokwitaniowy) nie zachodzą w całym ciele naraz, dystalne części rosną szybciej, co czasowo zaburza dotychczasową proporcję ciała."
+    },
+    {
+      "id": 12,
+      "type": "single-choice",
+      "question": "Bolesne rozczarowania i upadek wcześniejszych autorytetów we wczesnej fazie adolescencji są często echem:",
+      "options": [
+        "Naturalnej, biologicznej tendencji organizmu do całkowitego zerwania więzi z grupą domową.",
+        "Nabytego w tej fazie myślenia operacyjnego, skupiającego się tylko na faktach tu i teraz.",
+        "Pryncypializmu oraz bardzo silnej skłonności do bezkrytycznego idealizowania osób i koncepcji."
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Dorastający często wyobrażają sobie ideał postępowania (dzięki myśleniu formalnemu), po czym przeżywają zawód, gdy dorośli nie spełniają tych sztywnych kryteriów."
+    },
+    {
+      "id": 13,
+      "type": "single-choice",
+      "question": "Obraz kliniczny zaburzenia o typie bulimii z przeczyszczaniem charakteryzuje się najczęściej:",
+      "options": [
+        "Stałą i jawną odmową utrzymania wagi ciała minimalnej dla wieku z całkowitym brakiem apetytu.",
+        "Skrajnym ograniczeniem tylko jednego rodzaju pożywienia przy utrzymaniu stabilnej euforii.",
+        "Napadami silnego objadania się i stosowaniem wymiotów, często przy normie wagowej pacjentki."
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "W przeciwieństwie do anoreksji z wyniszczeniem, w bulimii chora często posiada prawidłową wagę, ukrywając cykle objadania się i zachowań redukujących kalorie."
+    },
+    {
+      "id": 14,
+      "type": "single-choice",
+      "question": "Znaczącym i kluczowym celem terapeutycznym przerwania „błędnego koła” w procesie leczenia otyłości u młodzieży jest:",
+      "options": [
+        "Nauczenie nastolatka trafnego rozpoznawania emocji i odróżniania ich od fizjologicznego głodu.",
+        "Zastosowanie restrykcyjnej diety całkowicie eliminującej wszelkie węglowodany do końca życia.",
+        "Odizolowanie pacjenta od środowiska rodzinnego w celu pozbawienia go wtórnych korzyści choroby."
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Główny mechanizm psychologiczny zaburzeń łaknienia to traktowanie jedzenia jako sposobu na łagodzenie napięcia i lęku, stąd praca nad rozróżnieniem emocji i głodu."
+    },
+    {
+      "id": 15,
+      "type": "single-choice",
+      "question": "Posiadanie dojrzałej struktury tożsamości oznacza, że młody człowiek na końcu procesu jest zdolny do:",
+      "options": [
+        "Obrony własnych racji poprzez całkowite zerwanie z dotychczasowymi więziami społecznymi.",
+        "Długotrwałego uchylania się od decyzji by bezpiecznie trwać w przedłużonym moratorium.",
+        "Samodzielnego podejmowania decyzji, określania własnych celów i ponoszenia za nie konsekwencji."
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Dojrzała tożsamość kończy etap niepewności; jednostka wie, kim jest, i angażuje się w wybrane ścieżki (zawód, idee) ze świadomością własnej odpowiedzialności."
+    },
+    {
+      "id": 16,
+      "type": "single-choice",
+      "question": "Aby pomóc w przejściu z tożsamości lustrzanej do moratoryjnej, rola dorosłego powinna przybrać postać:",
+      "options": [
+        "Surowego instruktora, który konsekwentnie wyznacza precyzyjne granice i dba o ich nienaruszalność.",
+        "Całkowicie obojętnego widza pozwalającego nastolatkowi na każde ryzyko w imię nauki.",
+        "Konsultanta przyzwalającego na bezpieczną eksplorację i pomagającego analizować własne błędy."
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "By młody człowiek zrzucił narzucone mu role (lustrzana), potrzebuje zaufanego dorosłego, który zachęci go do prób, ale będzie gotowy doradzić bez oceniania."
+    },
+    {
+      "id": 17,
+      "type": "single-choice",
+      "question": "Zjawisko ryzyka temperamentalnego jest u nastolatków w tym okresie wyższe przede wszystkim ze względu na:",
+      "options": [
+        "Burzę hormonalną prowadzącą do wzrostu pobudliwości, dużej drażliwości i silnej reaktywności.",
+        "Wykształcenie zdolności metapamięci prowadzącej do perfekcyjnego wyhamowywania złości.",
+        "Konieczność całkowitego przejścia w kulturę prefiguratywną, w której to oni uczą swoich dziadków."
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Gwałtowna zmiana układu hormonalnego nadmiernie stymuluje niedojrzały jeszcze w pełni układ nerwowy młodzieży, podwyższając jej podatność na stres i wybuchy emocji."
+    },
+    {
+      "id": 18,
+      "type": "single-choice",
+      "question": "Jaka struktura społeczna stanowi we wczesnym dorastaniu najważniejsze lustro oraz bezpieczną bazę dla zmian dla nastolatka?",
+      "options": [
+        "Szkoła podstawowa z dawnymi, niezmiennymi i sztywnymi autorytetami.",
+        "Grupa rówieśnicza (kliki, paczki), w której inni doświadczają podobnych problemów.",
+        "Relacja pionowa zachodząca wyłącznie między dzieckiem a rodzeństwem w rodzinie."
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Gdy stare wzorce rodzinne przestają działać, to właśnie paczka rówieśników uczy nowych norm i daje poczucie tożsamości oparte na wspólnym poszukiwaniu."
+    },
+    {
+      "id": 19,
+      "type": "single-choice",
+      "question": "Kryterium medyczne rozpoznania wczesnej fazy anorexia nervosa u młodych kobiet obejmuje m.in.:",
+      "options": [
+        "Nadmierną otyłość powstałą na skutek silnego zaburzenia procesów metabolicznych w wątrobie.",
+        "Brak poczucia kontroli i konieczność natychmiastowego uciekania w używki psychotropowe.",
+        "Brak przynajmniej trzech kolejnych cykli miesiączkowych (amenorrhoea) mimo fizjologicznej dojrzałości."
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Skrajny spadek wagi doprowadza do wyłączenia prokreacyjnych funkcji organizmu, czego efektem jest ustanie menstruacji, co stanowi jasny znak diagnostyczny."
+    },
+    {
+      "id": 20,
+      "type": "single-choice",
+      "question": "Styl socjalizacji określany w rodzinie jako niedbały (okazjonalny kontakt, luźne podejście) sprzyjać może u nastolatków:",
+      "options": [
+        "Wykształceniu ponadprzeciętnych zdolności przywódczych i wysokiej etyki prospołecznej.",
+        "Wybieraniu niekonstruktywnych dróg ucieczki, jak eksperymentowanie ze środkami odurzającymi.",
+        "Natychmiastowemu przejęciu od rodziców gotowych, dorosłych zachowań prorodzinnych."
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Brak ram i zaangażowania dorosłego pcha młodego człowieka w poszukiwanie jakichkolwiek form obniżenia napięcia – najczęściej tych najbardziej ryzykownych."
+    },
+    {
+      "id": 21,
+      "type": "single-choice",
+      "question": "Czym w kontekście adolescencji charakteryzuje się tzw. tożsamość rozproszona?",
+      "options": [
+        "Apatia, niepodejmowanie ról, brak ukierunkowanej aktywności i zaniechanie eksploracji możliwości.",
+        "Bunt przeciwko wszelkim wartościom dorosłych połączony z natychmiastowym dążeniem do zarobku.",
+        "Niezwykle duża stanowczość w wyrażaniu swoich przekonań, silna samoocena i realizacja długofalowych misji."
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Tożsamość rozproszona to stan zagubienia, w którym nastolatek wycofuje się z poszukiwań („nie wie czego chce i nie próbuje tego zmienić”), tkwiąc w impasie."
+    },
+    {
+      "id": 22,
+      "type": "single-choice",
+      "question": "W ujęciu psychopatologicznym anoreksja występująca u nastolatków często traktowana jest jako rozpaczliwa próba:",
+      "options": [
+        "Wymuszenia na rówieśnikach akceptacji statusu bycia dominującym, otyłym liderem paczki.",
+        "Uzyskania poczucia złudnej, rygorystycznej kontroli nad własnym życiem wobec bezradności przed zmianami w ciele.",
+        "Przedłużenia fazy dziecięcej z braku ukształtowania myślenia na poziomie operacji logiczno-formalnych."
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Anoreksja nie dotyczy tylko wagi – to głęboki problem tożsamości, w którym kontrola nad jedzeniem staje się zastępczym polem sukcesu i manipulowania poczuciem własnej siły."
+    },
+    {
+      "id": 23,
+      "type": "single-choice",
+      "question": "Z czego, zgodnie z ujęciem psychologicznym, wynika tak powszechny brak akceptacji własnego ciała we wczesnym dorastaniu?",
+      "options": [
+        "Z ewolucyjnie ukształtowanego przymusu dążenia do ascezy i naturalnej redukcji układu mięśniowego.",
+        "Z gwałtownego przyrostu inteligencji skrystalizowanej, która bezwzględnie tłumi pierwotne odruchy wzrokowe.",
+        "Z konfrontacji bardzo szybkich, nieznanych i „obcych” zmian tkankowych z narzucanym kulturowo wyidealizowanym wizerunkiem."
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Dorastający, zaskoczeni nowymi proporcjami i funkcjami ciała, oceniają je bardzo krytycznie przez pryzmat niemożliwych do osiągnięcia standardów narzuconych przez media."
+    },
+    {
+      "id": 24,
+      "type": "single-choice",
+      "question": "Kategoria tzw. ryzyka sytuacyjnego u dorastających wzrasta, ponieważ w tym czasie:",
+      "options": [
+        "Odnotowuje się stały ubytek pamięci krótkotrwałej wymagającej natychmiastowej stymulacji środowiskowej.",
+        "Nagromadza się duża liczba całkowicie nowych, nietypowych i zaskakujących zadań, jak zmiana szkoły czy inicjacja intymna.",
+        "Każde dziecko zjawia się u progu choroby wykluczającej je całkowicie z ram szkolnego nauczania integracyjnego."
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Ryzyko sytuacyjne polega na mnożeniu się wyzwań, do których nastolatek po raz pierwszy w życiu musi zbudować nowe i nieznane mu do tej pory sposoby radzenia sobie."
+    },
+    {
+      "id": 25,
+      "type": "single-choice",
+      "question": "W jaki sposób młodzież zazwyczaj kompensuje narastające w wieku dorastania napięcia emocjonalne i zamęt związany z nową tożsamością?",
+      "options": [
+        "Poprzez uciekanie w tak zwaną kulturę prefiguratywną i narzucanie swoich wartości osobom starym.",
+        "Dzięki budowaniu symbiotycznych i bezwarunkowo opiekuńczych relacji z najbliższymi nauczycielami w szkole.",
+        "Często uciekając w eksperymentowanie ze środkami psychoaktywnymi, wczesne związki i zachowania ryzykowne."
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Zabraknięcie dawnej pewności skutkuje często stosowaniem niekonstruktywnych lub ryzykownych zachowań by rozładować stres, zamanifestować dorosłość i sprawdzić granice."
+    },
+    {
+      "id": 26,
+      "type": "single-choice",
+      "question": "Zjawisko nasilonych konfliktów z dorosłymi, polegające na manifestowaniu sprzeciwu wobec dotychczasowych zasad, nosi charakter:",
+      "options": [
+        "Głębokiej patologii rozwojowej wymuszającej stałe leczenie farmakologiczne układu przywspółczulnego.",
+        "Procesu całkowicie zdrowego i normatywnego, gwarantującego niezbędną jednostce indywiduację oraz separację.",
+        "Symptomu zapowiadającego wczesne wkroczenie nastolatka na drogę utrwalonej osobowości antyspołecznej."
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Bunt i spięcia z opiekunami są ewolucyjnie niezbędne, by młody człowiek mógł zburzyć dotychczasowy porządek zależności i wybudować na nim samodzielność dorosłego."
+    },
+    {
+      "id": 27,
+      "type": "single-choice",
+      "question": "Wysoki poziom kompetencji moralnej u dorastającego (przechodzenie na etap postkonwencjonalny) objawia się poprzez:",
+      "options": [
+        "Unikanie jakiejkolwiek odpowiedzialności za wykonywane błędy i sprytne zrzucanie winy na inne osoby.",
+        "Przełamanie egocentryzmu intelektualnego, przyjęcie perspektywy innych ludzi oraz relatywizm ocen.",
+        "Kierowanie się w wyborach etycznych wyłącznie obawą przed naganą ze strony osób starszych stopniem."
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Dojrzałość moralna wymaga elastyczności – nastolatek uczy się, że sprawy nie są czarno-białe (jak sądził za sprawą wczesnego pryncypializmu), ale zależą od społecznego kontekstu."
+    },
+    {
+      "id": 28,
+      "type": "single-choice",
+      "question": "Gdy rodzic w komunikacji z dzieckiem zachowuje tzw. dystans nazbyt bliski (postawa nadopiekuńcza), to na przestrzeni czasu prowokuje u nastolatka:",
+      "options": [
+        "Niebywale silny rozwój zdolności altruistycznych na rzecz lokalnych placówek oświatowych.",
+        "Infantylizm społeczny, brak inicjatywy w relacjach rówieśniczych oraz tzw. wyuczoną bezradność.",
+        "Agresywny bunt w każdym możliwym środowisku, zakończony objęciem statusu absolutnego lidera bandy."
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Nadopiekuńczość rodzicielska udaremnia separację, przez co młody człowiek nie zyskuje niezbędnej autonomii i uczy się, że otoczenie zawsze rozwiąże problem za niego."
+    },
+    {
+      "id": 29,
+      "type": "single-choice",
+      "question": "Rozwój fizjologiczny u chłopców podczas dojrzewania wykazuje w budowie ich organizmu silną tendencję do:",
+      "options": [
+        "Szybszego względem dziewcząt i obfitego powiększania ogólnej objętości tkanki tłuszczowej.",
+        "Znaczącego przyrostu całkowitej beztłuszczowej masy mięśniowej kosztem tkanki tłuszczowej.",
+        "Wydłużania i całkowitego kostnienia narządów wewnętrznych przy braku stymulacji wzrostowej."
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Hormony androgenne promują u mężczyzn spadek procentowego poziomu tkanki tłuszczowej na korzyść tkanki mięśniowej, silnie odróżniając tę płeć od fizjologii kobiet."
+    },
+    {
+      "id": 30,
+      "type": "single-choice",
+      "question": "Zdaniem badaczy, o ogólnym poziomie samooceny dorastającego nastolatka (poza samooceną zadaniową) decyduje w olbrzymim stopniu:",
+      "options": [
+        "Wynik corocznych bilansów i pomiarów wagi ciała dokonywanych w ośrodkach medycyny szkolnej.",
+        "Całkowity brak jakichkolwiek nacisków zewnętrznych nakładających na niego potrzebę wyboru.",
+        "Globalne poczucie opieki i wsparcia jakiego doświadcza w kontaktach z grupą i osobami znaczącymi."
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Samoocena nie bierze się jedynie z własnych wyników, lecz z przeglądania się w innych – jeśli osoba odczuwa bezwarunkową aprobatę rodziny i rówieśników, czuje się wartościowa."
+    }
+  ]
+}
