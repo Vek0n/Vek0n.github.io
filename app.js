@@ -459,7 +459,7 @@ window.uploadTestToGitHub = async function() {
 
     // Przygotowanie danych do GitHub API
     const filename = `${testName}.json`;
-    const apiUrl = \`https://api.github.com/repos/Vek0n/Vek0n.github.io/contents/data/\${subject}/\${filename}\`;
+    const apiUrl = `https://api.github.com/repos/Vek0n/Vek0n.github.io/contents/data/${subject}/${filename}`;
     
     const contentBase64 = utf8_to_b64(jsonContent);
 
@@ -467,11 +467,11 @@ window.uploadTestToGitHub = async function() {
         const response = await fetch(apiUrl, {
             method: 'PUT',
             headers: {
-                'Authorization': \`Bearer \${token}\`,
+                'Authorization': `Bearer ${token}`,
                 'Content-Type': 'application/json'
             },
             body: JSON.stringify({
-                message: \`Dodano test: \${filename} (przez Panel Admina)\`,
+                message: `Dodano test: ${filename} (przez Panel Admina)`,
                 content: contentBase64
             })
         });
@@ -488,7 +488,7 @@ window.uploadTestToGitHub = async function() {
         document.getElementById('admin-json-content').value = '';
 
     } catch (e) {
-        errorBox.innerHTML = \`<div class="alert"><b>Błąd zapisu!</b> \${e.message}<br>Sprawdź czy token jest poprawny i ma uprawnienie 'repo'.</div>\`;
+        errorBox.innerHTML = `<div class="alert"><b>Błąd zapisu!</b> ${e.message}<br>Sprawdź czy token jest poprawny i ma uprawnienie 'repo'.</div>`;
     }
 }
 
