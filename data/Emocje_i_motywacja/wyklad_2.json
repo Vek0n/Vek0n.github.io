@@ -1,0 +1,201 @@
+{
+  "title": "Wykład 2 - Neuroanatomia emocji",
+  "difficulty": "Trudny",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single-choice",
+      "question": "W kontekście równowagi autonomicznej (autonomic balance), osoba u której dominuje układ parasympatyczny (wagotonik) charakteryzuje się zazwyczaj:",
+      "options": [
+        "Skrajnie wysoką, obezwładniającą wrażliwością skutkującą tachypsychizmem oraz bardzo mocnym, nerwowym tempem myślenia.",
+        "Gwałtowną wybuchowością i nadmierną porywczością odczuwaną przy napotkaniu nawet bardzo błahych, codziennych przeszkód.",
+        "Zdolnością do ciężkiego i żmudnego wysiłku wymagającego stałej siły, na przykład podnoszenia ogromnych ciężarów.",
+        "Skłonnością do natychmiastowej, twardej dominacji i wybitnie silnym, niezwykle wyrazistym, bezkompromisowym instynktem walki."
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Wagotonia charakteryzuje się m.in. krępą budową ciała, bradypsychizmem (powolnością), unikaniem walki oraz zdolnością do długotrwałego wysiłku siłowego."
+    },
+    {
+      "id": 2,
+      "type": "single-choice",
+      "question": "Czym z neurobiologicznego punktu widzenia skutkuje utrata zdrowej oscylacji i rozregulowanie autonomicznego układu nerwowego (AUN)?",
+      "options": [
+        "Całkowitym zablokowaniem niezbędnego wydzielania hormonów nadnerczy podczas trwania bardzo obciążającego i ostrego stresu.",
+        "Trwałym i z natury nieodwracalnym genetycznie uszkodzeniem układu, co bezpowrotnie niszczy wszelką elastyczną zdolność adaptacyjną.",
+        "Stałym wygaszeniem wrodzonych odruchów pnia mózgu, obniżając tym samym szansę na ucieczkę podczas spotkania drapieżnika.",
+        "Uwięzieniem organizmu w permanentnym i przewlekłym stanie wyczerpującego nadpobudzenia bądź też w apatycznym pod-pobudzeniu."
+      ],
+      "correctAnswerIndex": 3,
+      "explanation": "Rozregulowany AUN zatraca zdrowy rytm 'aktywacja-odpoczynek' i zacina się (utknięcie) w chronicznym nadpobudzeniu (ciągła czujność) lub pod-pobudzeniu (apatia, nadmierny sen)."
+    },
+    {
+      "id": 3,
+      "type": "single-choice",
+      "question": "Zgodnie z koncepcją Thomasa Hanny, na czym polega perspektywa postrzegania siebie jako 'somy'?",
+      "options": [
+        "Wymaga ona od doświadczonego fizjologa patrzenia na konkretnego pacjenta jako na złożony biologicznie zbiór obiektywnych organów.",
+        "Oznacza to, że istota ludzka postrzega siebie rzetelnie od wewnątrz, naturalnie przyjmując uprzywilejowaną perspektywę pierwszoosobową.",
+        "Dochodzi w niej do niezwykle silnej i groźnej amnezji sensomotorycznej, całkowicie i trwale uniemożliwiającej zmysłowe czucie głębokie.",
+        "Opiera się ona na założeniu, że skomplikowane procesy percepcyjne w nowej korze mózgowej bezwzględnie wypierają popędy ze świadomości."
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Ciało jako 'soma' to żyjące ciało odczuwane subiektywnie z perspektywy pierwszoosobowej (doznania, intencje), w opozycji do obiektywnego, trzecioosobowego postrzegania ciała z zewnątrz."
+    },
+    {
+      "id": 4,
+      "type": "single-choice",
+      "question": "W ramach koncepcji tzw. 'mózgu trójjedynego', najgłębiej położony i filogenetycznie najstarszy 'mózg gadzi' odpowiada przede wszystkim za:",
+      "options": [
+        "Rozbudowane, analityczne zachowania w stadzie i skuteczne tworzenie niezwykle nierozerwalnych więzi uczuciowych z dorastającym potomstwem.",
+        "Natychmiastową i odruchową odpowiedź organizmu zanurzonego w teraźniejszości, nie wykazując najmniejszej zdolności uczenia się z przeszłości.",
+        "Nieustanne generowanie skomplikowanych koncepcji na temat naszej codziennej rutyny celem lepszej optymalizacji zużywanej ewolucyjnie energii.",
+        "Płynne i jednoczesne komunikatywne wyrażanie kilku niezwykle złożonych, abstrakcyjnych pojęć w obrębie rozrastającej się, cywilizowanej grupy."
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Mózg gadzi (pień i móżdżek) operuje wyłącznie w trybie 'tu i teraz', generując automatyczne reakcje instynktowne (bez emocjonalnego przywiązania czy uczenia się z historii)."
+    },
+    {
+      "id": 5,
+      "type": "single-choice",
+      "question": "Co stanowi dominujący behawioralny cel układu określanego w modelu MacLeana mianem 'mózgu paleossaków' (układu limbicznego)?",
+      "options": [
+        "Błyskawiczna i odruchowa ucieczka pod wpływem potężnego stresu przed drapieżnikiem z zupełnym zaniechaniem rzetelnej oceny kognitywnej faktów.",
+        "Planowanie złożonych i niesłychanie zaawansowanych ewolucyjnie strategii w oparciu o wyższą świadomość czasu oraz abstrakcyjny, sztuczny język.",
+        "Niuansowanie wszelkich gwałtownych i mrocznych afektów, by wprawnie grupować je i bezpiecznie zamykać w chłodne, obiektywne dla ogółu pojęcia.",
+        "Skuteczne utrzymywanie ścisłej spójności społecznej i regulowanie skomplikowanych międzyludzkich interakcji we wspólnym, nadrzędnym stadzie."
+      ],
+      "correctAnswerIndex": 3,
+      "explanation": "Mózg emocjonalny (układ limbiczny) zwierząt stadnych ma na celu dbanie o spójność stada (afiliację) i regulację zachowań z udziałem emocji bazowych."
+    },
+    {
+      "id": 6,
+      "type": "single-choice",
+      "question": "Omawiając architekturę układu wewnątrzwydzielniczego, który z gruczołów odbiera wprost sygnały z układu podwzgórze-przysadka, wpływając nadrzędnie na pobudzenie w ciele oraz metabolizm?",
+      "options": [
+        "Rozległa i mocno złożona u zwierząt grasica, która w drodze ewolucji odpowiada dziś przede wszystkim za rozbudowane funkcje obronne we krwi.",
+        "Sterowana silnie odgórnie tarczyca, która na bieżąco nadzoruje generowanie ciepła oraz zawiaduje procesem ogólnego przetwarzania zapasów i sił.",
+        "Ukryta w głębi jamy brzusznej trzustka, która od urodzenia systematycznie wydziela kwaśne soki, absolutnie niezbędne do przyswajania makroelementów.",
+        "Wysoce wrażliwa na zmiany widma światła szyszynka, produkująca i uwalniająca kluczową dla zdrowego odpoczynku, zbilansowaną melatoninę."
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Tarczyca reguluje tempo metabolizmu, ciepłotę ciała i pobudzenie, działając pod kontrolą układu podwzgórze-przysadka."
+    },
+    {
+      "id": 7,
+      "type": "single-choice",
+      "question": "Według koncepcji zaprezentowanych przez Iaina McGilchrista i Marka Solmsa, funkcjonalna specjalizacja prawej półkuli objawia się głównie w:",
+      "options": [
+        "Rygorystycznie utrzymywanej, wysoce selektywnej i wąskiej uwadze badawczej, mocno skupionej na zinternalizowanych, zaplanowanych uprzednio, ambitnych celach.",
+        "Szerokiej, elastycznej i zdecydowanie bardzo ruchliwej czujności uwagi, silnie uwarunkowanej na śledzenie niespodziewanych nowości w gwarnym, obcym środowisku.",
+        "Chłodnym i opanowanym, bezwzględnie zmatematyzowanym ignorowaniu rozpraszającego otoczenia dla korzyści płynących z bardzo precyzyjnych kalkulacji analitycznych.",
+        "Całkowicie mechanicznym i odgórnie zdeterminowanym realizowaniu niezwykle głębokiej rutyny codziennej, obejmującej nabyte przez pokolenia, utarte schematy bytowe."
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Prawa półkula odpowiada za uwagę szeroką, ekstensywną, skanującą otoczenie pod kątem nowości (niespodzianek), w przeciwieństwie do wąskiej i zadaniowej uwagi półkuli lewej."
+    },
+    {
+      "id": 8,
+      "type": "single-choice",
+      "question": "Co stanowi ewolucyjnie nową i charakterystyczną funkcję powiększonych u ssaków obszarów kory drugorzędowej (asocjacyjnej) z punktu widzenia teorii Petera Gärdenforsa?",
+      "options": [
+        "Z upływem potężnych stuleci kora ta w pełni przejęła twardą i bezwzględną, mechaniczną kontrolę nad ludzkim tempem tętna i skomplikowanym rytmem oddychania.",
+        "Skoncentrowała ona w swoim wyjątkowo bezpiecznym, wierzchnim obszarze wszystkie nieokiełznane, z reguły niezwykle dzikie popędy oraz archaiczne mroczne instynkty.",
+        "Obszary te zyskały pożądaną biegłość w generowaniu potężnej, twórczej ludzkiej wyobraźni i umożliwiły formowanie niezwykle skomplikowanych, wewnętrznych światów.",
+        "Ostatecznie, w toku bardzo złożonej ewolucji ssaków, niemal całkowicie zdominowała i zastąpiła stare funkcje ślepego pnia ukierunkowane na odruchy zastygnięcia."
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Kora asocjacyjna odpowiada za zjawiska takie jak wyobraźnia i tworzenie wewnętrznego życia myślami, pozwalając na oderwanie się od reagowania wyłącznie na surowe impulsy tu i teraz."
+    },
+    {
+      "id": 9,
+      "type": "single-choice",
+      "question": "W eksperymencie D. Delisa oraz badaniach Navona dotyczących tak zwanej hipotezy globalnego pierwszeństwa stwierdzono neurobiologicznie, że:",
+      "options": [
+        "Lewa, niezwykle analityczna półkula posiada całkowity ewolucyjny monopol na tworzenie skomplikowanych idei oraz bezdusznych koncepcji na temat otaczającej nas prozy.",
+        "Wyspecjalizowana lewa kora nowa potrafi dostrzec groźnego intruza, wyodrębniając w ułamku gwałtownej sekundy mroczne i nietypowe zjawiska z przerażającego szerokiego horyzontu.",
+        "Zewnętrzny obraz rzeczywistej przestrzeni postrzegany jest całościowo przez mózg zauważalnie szybciej, niż zostaje szczegółowo i pieczołowicie rozbity na najdrobniejsze składowe.",
+        "Prawa, skrajnie intuicyjna półkula wielkich ssaków naczelnych błyskawicznie organizuje gotowość ucieczkową wegetatywnego ustroju na każdy głośny, raniący w boju ból brzucha."
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Hipoteza globalnego pierwszeństwa mówi, że postrzeganie wiedzie od ujęcia całościowego bodźca (domena prawej półkuli) do coraz bardziej szczegółowych analiz (domena lewej półkuli)."
+    },
+    {
+      "id": 10,
+      "type": "single-choice",
+      "question": "W procesach zawiadujących percepcją, w jaki dokładnie sposób lewa półkula mózgowa (w silnym przeciwieństwie do prawej) wyodrębnia i zapisuje reprezentacje znanych nam, postrzeganych obiektów?",
+      "options": [
+        "Szkicuje z pamięci niezwykle ubogie w kształt i bezbarwne obrazy wysoce abstrakcyjne, mocno zgeometryzowane, ujmując potężny świat z reguły płasko na pojedynczej perspektywie.",
+        "Ogranicza się z premedytacją niemal wyłącznie do chłodnej analizy niezmiennych, niezwykle nudnych, acz wysoce powtarzalnych i bardzo stałych cech fizycznych u badanych obiektów.",
+        "Tworzy bogate, wybitnie spersonalizowane mentalne prezentacje niezwykle realistyczne, opatrzone wyrazistymi, soczystymi detalami, pieczołowicie zachowując oryginalną głębię obrazu.",
+        "Generuje niezwykle odczuwalne, chłodne i bezrefleksyjne poczucie trwałej, cichej bezczasowości istnienia, natychmiast przyporządkowując dane z zewnątrz do bezosobowej sfery publicznej."
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Lewa półkula dba o tzw. 'prezentacje' - obrazy przestrzenne, realistyczne (detale 3D), odnoszące się do konkretnych, niepowtarzalnych i osobistych obiektów."
+    },
+    {
+      "id": 11,
+      "type": "single-choice",
+      "question": "Zgodnie z ujęciem Marka Solmsa, zdolność języka do pełnienia regulacyjnej funkcji samokontroli zachowania (tzw. mowa wewnętrzna służąca jako auto-instrukcje) związana jest głównie z rejonem:",
+      "options": [
+        "Rozległych obszarów u przedniej postawy prawego płata skroniowego i potylicznego, angażowanych podczas niezwykle trudnych i obciążających kognitywnie, dynamicznych zadań dyskusyjnych.",
+        "Sprawnego działania niezbędnych, korygujących obwodów wchodzących w ścisły skład brzuszno-przyśrodkowych rejonów anatomicznych obydwu wysoce wyewoluowanych ludzkich płatów czołowych.",
+        "Ciągłej, nieugiętej pracy pradawnych i najstarszych strukturalnie ścieżek wegetatywnych w silnie podbudowanym ciele migdałowatym, które twardo zawiadują nieuświadomioną mimiką gniewu.",
+        "Szybkiego, całkowitego stłumienia przepływu w ciele modzelowatym, co naturalnie owocuje wyłączeniem bezrefleksyjnej mowy prawej korony przedczołowej na rzecz precyzyjnego lewego namysłu."
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Badania pokazują, że lezje w brzuszno-przyśrodkowych obszarach OBU płatów czołowych znoszą funkcję autoregulacyjnej, wewnętrznej mowy (auto-instrukcji)."
+    },
+    {
+      "id": 12,
+      "type": "single-choice",
+      "question": "Zgodnie z hipotezą badaczy (H. Demaree i in.) na temat specjalizacji bocznej struktur korowych w postrzeganiu u siebie 'miejsca poczucia kontroli', aktywność kory w prawym płacie czołowym wyraża się zazwyczaj poprzez:",
+      "options": [
+        "Wyrafinowane i mocno przebiegłe, w pełni makiaweliczne czytanie głęboko ukrytych intencji rywala po to, aby bez najmniejszych wyrzutów sumienia wykorzystać jego chłodno skalkulowaną pomyłkę.",
+        "Niepodważalne odczuwanie potężnej i narzuconej w grupie bezkompromisowej dominacji społecznej, wyzwalającej u jednostki niezwykle gwałtowne oraz niebezpieczne napady furii, podłej agresji i arogancji.",
+        "Głębokie odczucie narzuconego posłuszeństwa i spolegliwego poddania się wobec niebezpiecznych czynników, sprzyjające pojawianiu się nagłego strachu, żarliwego wstrętu, apatii, dotkliwego smutku lub wstydu.",
+        "Wyuczone, sztywne i niemal automatyczne zablokowanie mrocznych odruchów walki i ucieczki ze strony pierwotnego ewolucyjnie, starszego gadziego układu przetrwania przed wrogiem w groźnym środowisku puszczy."
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Prawy płat czołowy związany jest z uległością i poddaniem (strach, wstręt, smutek), podczas gdy lewy płat czołowy odpowiada za uczucie dominacji i zewnętrznego poczucia kontroli (złość, radość, odwaga)."
+    },
+    {
+      "id": 13,
+      "type": "single-choice",
+      "question": "Jakie fundamentalne, zaskakujące psychologicznie wnioski dotyczące procesów naszej wewnętrznej uwagi wypływają wprost z prezentowanych badań Killingswortha i Gilberta nad tzw. błądzeniem umysłu (mind wandering)?",
+      "options": [
+        "Dojrzali osobnicy potrafią obiektywnie podtrzymać niesłychanie morderczą i absolutnie bezbłędną dla sukcesu koncentrację na wyznaczonym sztywno priorytecie przez ponad osiemdziesiąt trudnych, długich procent dnia.",
+        "Chroniczne, codzienne opuszczanie teraźniejszości jest obiektywnie najwspanialszą i wysoce bezbłędną pod względem terapii ustrukturyzowaną taktyką, redukującą nadmierne rozstrojenie pnia układu po przeżytej traumie.",
+        "Otaczające nas zewsząd surowe, zewnętrzne doznania i sztywne fakty fizyczne są przez całe nasze zagonione współczesne życie potężnie i niesprawiedliwie przeszacowywane z całkowitym uciszeniem chłodnej, wyższej refleksji.",
+        "Zdecydowanie silniej pochłaniają i z reguły niezwykle sprawnie absorbują nas obiekty stanowiące część środowiska zewnętrznego bądź wirtualne wymysły, niźli realne, namacalne i mądre czucie swojego somatycznego środka."
+      ],
+      "correctAnswerIndex": 3,
+      "explanation": "Badania uwydatniają, że bardziej pochłania nas świat zewnętrzny i iluzoryczny świat myśli (wirtualny, myślenie o przyszłości/przeszłości) - spędzamy tam ok. 47% czasu, drastycznie ignorując świadome zakotwiczenie w realnym świecie wewnętrznym."
+    },
+    {
+      "id": 14,
+      "type": "single-choice",
+      "question": "Śledząc ewolucyjny zarys zachowań kręgowców w prezentacji odkryto, że w toku historii organizmów to właśnie lewa półkula (sterująca zachowaniem z prawej strony) na ogół odpowiadała pierwotnie i z natury za:",
+      "options": [
+        "Błyskawiczne, wysoce ostrożne oraz wybitnie celowe, ratujące życie odnalezienie cichego drapieżnika ostrożnie i powoli skradającego się w najbliższym otoczeniu.",
+        "Skrupulatne i wielce analityczne identyfikowanie zdarzeń oraz sytuacji niezwykle unikalnych, nowych i skutecznie na co dzień wyłamujących się z utartych i nudnych schematów.",
+        "Mocno rutynowe i znane zachowania sterowane odgórnie, na przykład zwyczajne poszukiwanie pożywienia.",
+        "Holistyczne i bardzo wnikliwe skanowanie szerokiego, obszernego w szczegóły pola wizualnego w desperackim poszukiwaniu radosnych i pomocnych towarzyszy ze struktury własnego stada."
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Lewa półkula nadzorowała rutynowe czynności nakierowane wewnętrznie i na konkretny cel, np. poszukiwanie pokarmu czy wyjadanie nasion (m.in. u kur, wielorybów)."
+    },
+    {
+      "id": 15,
+      "type": "single-choice",
+      "question": "W jaki dokładnie sposób charakteryzuje się tak zwana 'patologiczna absorbcja' jako niezdrowy model funkcjonowania w relacji człowieka ze swoim ciałem z psychologicznego punktu widzenia?",
+      "options": [
+        "Bezwzględne, chłodne i bardzo odruchowe rygorystyczne odrzucanie ważnych wrażeń płynących bezpośrednio z mrocznych trzewi na rzecz zimnej i analitycznej kalkulacji napotkanych przy pracy bolesnych zjawisk.",
+        "Niekontrolowane histeryczne uleganie infantylnym pobudkom ciała wegetatywnego i jawne w kłamstwach pobłażanie podłym nałogom, co uzewnętrznia się często przez udawane lamentowanie względem zaskoczonych osób.",
+        "Uciążliwa, destrukcyjna tendencja do fiksacyjnego rozpamiętywania własnych negatywnych symptomów stresu, bez jakiegokolwiek aktywnego zaangażowania w szukanie chłodnego i skutecznego wyjścia z głośnego kłopotu.",
+        "Zdecydowane i sztuczne wypieranie świadomości ogromnego, fizjologicznego na wyczerpaniu potu i ucisku z czystej chęci zachowania cennego wizerunku bardzo dominującego, niesamowicie upartego ssaka walczącego o zysk."
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Patologiczna absorbcja (np. ruminacja) to nadmierne, powtarzalne i wyczerpujące pochłonięcie uwagą skierowaną na objawy własnego stresu i bólu, bez przechodzenia do proaktywnych prób rozwiązania problemu."
+    }
+  ]
+}
