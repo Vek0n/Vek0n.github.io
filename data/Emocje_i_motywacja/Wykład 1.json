@@ -1,0 +1,656 @@
+{
+  "title": "Wykład 1: Wprowadzenie do psychologii emocji i motywacji",
+  "difficulty": "Trudny",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single-choice",
+      "question": "Który model rodzicielstwa (wg DeMause’a) charakteryzował się zastąpieniem morderstw oddawaniem dzieci, co koreluje z osobowością masochistyczną?",
+      "options": [
+        "Model stylu porzucającego",
+        "Model stylu socjalizującego",
+        "Model stylu intruzywnego",
+        "Model stylu ambiwalentnego"
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Model porzucający dominował do XIII wieku i uważa się, że skutkował w dorosłości zaburzeniami o rysie masochistycznym."
+    },
+    {
+      "id": 2,
+      "type": "single-choice",
+      "question": "W koncepcji Lloyda deMause'a, pojawienie się żałoby za zmarłymi dziećmi jako prekursora empatii przypada na okres dominacji modelu:",
+      "options": [
+        "Wychowania ambiwalentnego",
+        "Wychowania intruzywnego",
+        "Wychowania dzieciobójczego",
+        "Wychowania socjalizującego"
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Żałoba za dziećmi pojawiła się w późnym średniowieczu i jest cechą charakterystyczną modelu ambiwalentnego (XIV-XVII w.)."
+    },
+    {
+      "id": 3,
+      "type": "single-choice",
+      "question": "Rozwój tzw. 'charakteru oralnego' (skłonność do odmawiania sobie lub kompulsywne objadanie się) Jagieła łączy wprost z doświadczeniem:",
+      "options": [
+        "Dziecka trwale zaniedbanego",
+        "Dziecka nadmiernie uwiedzionego",
+        "Dziecka w pełni zawłaszczonego",
+        "Dziecka przesadnie ubezwłasnowolnionego"
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Dziecko zaniedbane, którego podstawowe potrzeby nie są zaspokajane, rozwija charakter oralny (np. kompensacyjne objadanie się)."
+    },
+    {
+      "id": 4,
+      "type": "single-choice",
+      "question": "Jeżeli rodzic przesadnie kontroluje pociechę, hamuje jej swobodę i zapobiega eksploracji (dziecko zawłaszczone), sprzyja to wykształceniu:",
+      "options": [
+        "Cech charakteru symbiotycznego",
+        "Cech charakteru narcystycznego",
+        "Cech charakteru psychopatycznego",
+        "Cech charakteru schizoidalnego"
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Dziecko zawłaszczone (odmawianie samodzielności) rozwija charakter zależny/symbiotyczny (obawa i dążenie do bliskości jednocześnie)."
+    },
+    {
+      "id": 5,
+      "type": "single-choice",
+      "question": "Zgodnie z tezami Marka Solmsa, uczucia w stosunku do procesów myślowych (chronologicznie oraz hierarchicznie):",
+      "options": [
+        "Stanowią system zawsze nadrzędny i wcześniejszy",
+        "Pojawiają się wtórnie jako efekt oceny poznawczej",
+        "Rozwijają się w pełni symultanicznie z myśleniem",
+        "Są formą zinternalizowanych percepcyjnie obrazów"
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Solms twierdzi, że uczucia pojawiają się pierwsze, a myślenie (kognicja) jest jedynie aparatem do rozwiązywania problemów narzucanych przez uczucia."
+    },
+    {
+      "id": 6,
+      "type": "single-choice",
+      "question": "Najszerszym pod względem zakresu pojęciem, obejmującym wszelkie subiektywne doświadczenia towarzyszące stanom psychicznym, jest:",
+      "options": [
+        "Zjawisko afektu",
+        "Zjawisko emocji",
+        "Zjawisko nastroju",
+        "Zjawisko pasji"
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Afekt (dawniej uczucie) to aktualnie pojęcie o najszerszym zakresie w psychologii procesów afektywnych."
+    },
+    {
+      "id": 7,
+      "type": "single-choice",
+      "question": "W psychologii panuje zgoda, że trzy główne aspekty każdego afektu to walencja (przyjemne/nieprzyjemne), pobudzenie oraz:",
+      "options": [
+        "Gotowość motywacyjna",
+        "Percepcja poznawcza",
+        "Reaktywność trzewna",
+        "Wewnętrzna atrybucja"
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Trzy osie to walencja, pobudzenie i motywacja (tendencja do przyciągania lub odpychania)."
+    },
+    {
+      "id": 8,
+      "type": "single-choice",
+      "question": "Które z wymienionych zjawisk jest klasycznym przykładem afektu trzewnego (interoceptywnego), informującego o stanie ustroju?",
+      "options": [
+        "Dojmujące poczucie głodu",
+        "Zaskoczenie nowym bodźcem",
+        "Wstręt do zepsutego mięsa",
+        "Ból na powierzchni skóry"
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Głód, duszność czy pragnienie to afekty trzewne. Wstręt, zaskoczenie czy ból powierzchniowy to afekty sensoryczne (eksteroceptywne)."
+    },
+    {
+      "id": 9,
+      "type": "single-choice",
+      "question": "Emocje pierwotne określane są często przez neurobiologów jako wrodzone schematy motoryczne. Która cecha jest dla nich charakterystyczna?",
+      "options": [
+        "Nie wymagają złożonego myślenia",
+        "Rozwijają się po piątym roku życia",
+        "Są zależne od kontekstu kultury",
+        "Łatwo poddają się kontroli woli"
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Emocje pierwotne (np. wściekłość, strach) są wrodzone, zautomatyzowane, uniwersalne i wyzwalane bezwiednie (pre-kognitywne)."
+    },
+    {
+      "id": 10,
+      "type": "single-choice",
+      "question": "Zgodnie z ewolucyjną hipotezą (Jack et al.), emocja podstawowa złości (gniewu) wyewoluowała bezpośrednio z pre-emocji:",
+      "options": [
+        "Fizjologicznego wstrętu",
+        "Bólu powierzchniowego",
+        "Nagłego zaskoczenia",
+        "Homeostatycznego głodu"
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Uważa się, że złość wyewoluowała ze wstrętu (obrzydzenia), strach z zaskoczenia, a ciekawość z głodu."
+    },
+    {
+      "id": 11,
+      "type": "single-choice",
+      "question": "Co postuluje zasada 'wzajemnego wykluczania się emocji' w odniesieniu do silnych afektów pierwotnych?",
+      "options": [
+        "Silny afekt blokuje inne afekty",
+        "Emocje zawsze wzmacniają się",
+        "Radość i smutek działają łącznie",
+        "Aktywacja zależy od kory mózgu"
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Silne pobudzenie jednego systemu emocjonalnego hamuje pozostałe (zapobiega to konfliktom decyzyjnym, np. nie da się jednocześnie wściekać i relaksować)."
+    },
+    {
+      "id": 12,
+      "type": "single-choice",
+      "question": "Afekty pochodne (wtórne), w przeciwieństwie do czystych afektów pierwotnych, uaktywniają się przede wszystkim pod wpływem:",
+      "options": [
+        "Wyuczonych bodźców warunkowych",
+        "Wrodzonych bodźców z narządów",
+        "Świadomych procesów myślenia",
+        "Zmian temperatury środowiska"
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Afekty pochodne są wynikiem mimowolnego uczenia się (warunkowania) i aktywują się pod wpływem nabytych bodźców warunkowych."
+    },
+    {
+      "id": 13,
+      "type": "single-choice",
+      "question": "Zjawisko idealizowania zakochanej osoby lub skrajnego dewaluowania wroga, będące efektem silnego pobudzenia emocjonalnego, to przykład:",
+      "options": [
+        "Dyfuzyjnego rozlewania się afektu",
+        "Skrajnego tłumienia kory mózgowej",
+        "Aktywacji nastroju egzystencjalnego",
+        "Działania afektu czysto trzewnego"
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Afekt ma charakter dyfuzyjny - rozlewa się i dominuje nad poznawczą oceną całego otoczenia (wszystko jawi się jako czarne lub białe)."
+    },
+    {
+      "id": 14,
+      "type": "single-choice",
+      "question": "Stosowanie skrótów myślowych, pozwalających na szybkie decyzje dotyczące ryzyka wyłącznie na bazie własnych, aktualnych odczuć, to:",
+      "options": [
+        "Heurystyka procesów afektywnych",
+        "Błąd uzasadniania emocjonalnego",
+        "Trzeciorzędowa regulacja odgórna",
+        "Zjawisko projekcji podświadomej"
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Heurystyka afektu pozwala na szybkie decyzje w warunkach niepewności bazując na pozytywnym lub negatywnym uczuciu skojarzonym z bodźcem."
+    },
+    {
+      "id": 15,
+      "type": "single-choice",
+      "question": "Osoba myśli: 'Czuję ogromne przygnębienie, co dowodzi, że moje życie pozbawione jest jakiegokolwiek sensu'. Jest to przykład błędu:",
+      "options": [
+        "Uzasadniania emocjonalnego",
+        "Heurystyki dostępu do afektu",
+        "Afektywnego przeniesienia winy",
+        "Atrybucji całkowicie zewnętrznej"
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Emocjonalne uzasadnianie to wyciąganie wniosków o faktach na podstawie własnych, subiektywnych uczuć ('czuję to, więc to prawda')."
+    },
+    {
+      "id": 16,
+      "type": "single-choice",
+      "question": "Która grupa zjawisk zaliczana jest przez badaczy (np. Pankseppa) do tzw. procesów trzeciorzędowych (kognitywnych i świadomych)?",
+      "options": [
+        "Afekty poznawcze oraz uczucia wyższe",
+        "Afekty receptorowe (ból i pragnienie)",
+        "Odruchy ucieczki uwarunkowane fobią",
+        "Czyste emocje systemu wściekłości"
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Procesy trzeciorzędowe odpowiadają za afekty poznawcze (wybieganie w przyszłość, wola) i samoświadomościowe."
+    },
+    {
+      "id": 17,
+      "type": "single-choice",
+      "question": "W ujęciu Lewisa emocja wstydu różni się od poczucia winy tym, że jej powstanie warunkowane jest przez:",
+      "options": [
+        "Całościową negatywną ocenę własnego Ja",
+        "Skupienie uwagi wyłącznie na jednym czynie",
+        "Całkowity brak przyjęcia odpowiedzialności",
+        "Odruchowe i bezwarunkowe działanie pnia"
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Wstyd wynika z całościowej autoatrybucji (oceny Ja jako bezwartościowego), natomiast poczucie winy ze szczegółowej (oceny konkretnego czynu)."
+    },
+    {
+      "id": 18,
+      "type": "single-choice",
+      "question": "Zjawisko okazywania radości, która w rzeczywistości ma celowo ukryć i maskować głęboki smutek podczas pogrzebu, nazywamy emocją:",
+      "options": [
+        "Skrajnie sztuczną (udawaną)",
+        "Silnie i trwale wymuszoną",
+        "Czysto samoświadomościową",
+        "Trzeciorzędową intelektualną"
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Emocje udawane/sztuczne to takie, które maskują inny stan. Różnią się od wymuszonych, które po chwili same mogą stać się autentyczne."
+    },
+    {
+      "id": 19,
+      "type": "single-choice",
+      "question": "Według klasyfikacji Plutchika, diada łącząca ewolucyjnie Oczekiwanie i Zaskoczenie ma na celu przede wszystkim:",
+      "options": [
+        "Ocenę znaności nowo napotkanego bodźca",
+        "Błyskawiczną mobilizację mięśni do ucieczki",
+        "Zmysłową ocenę stopnia zatrucia pokarmu",
+        "Natychmiastowe obniżenie tempa metabolizmu"
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Diada Oczekiwanie-Zaskoczenie odpowiada za orientację, czy bodziec jest zgodny z naszym wcześniejszym doświadczeniem (znany), czy nowy."
+    },
+    {
+      "id": 20,
+      "type": "single-choice",
+      "question": "Z perspektywy ewolucyjnej (np. u Plutchika), pierwotna złość (irytacja) jest traktowana jako emocja:",
+      "options": [
+        "Pozytywna, bo mobilizuje do walki",
+        "Negatywna, bo wywołuje bezradność",
+        "Obojętna, bo działa automatycznie",
+        "Wtórna, bo zależy od naszej woli"
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Złość uznawana jest za emocję 'pozytywną' w tym sensie, że rozwiązuje problem poprzez zmuszenie nas do konstruktywnego ataku (poradzenia sobie z wyzwaniem)."
+    },
+    {
+      "id": 21,
+      "type": "single-choice",
+      "question": "Powstanie złożonego afektu 'rozczarowania' według koncepcji mieszania diad Plutchika to efekt połączenia:",
+      "options": [
+        "Emocji smutku oraz zaskoczenia",
+        "Emocji złości oraz obrzydzenia",
+        "Emocji oczekiwania oraz radości",
+        "Emocji strachu oraz zaskoczenia"
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Smutek + Zaskoczenie = Rozczarowanie."
+    },
+    {
+      "id": 22,
+      "type": "single-choice",
+      "question": "Połączenie emocji wstrętu (obrzydzenia) ze smutkiem daje w rezultacie złożoną jakość afektywną nazywaną potocznie:",
+      "options": [
+        "Silnymi wyrzutami sumienia",
+        "Pogardą wobec oponenta",
+        "Głębokim poczuciem beznadziei",
+        "Egzystencjalnym brakiem sensu"
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Wstręt + Smutek = Wyrzuty sumienia."
+    },
+    {
+      "id": 23,
+      "type": "single-choice",
+      "question": "Jak Richard Davidson określa główną różnicę funkcjonalną między emocjami a trwałymi nastrojami u człowieka?",
+      "options": [
+        "Nastrój moduluje poznanie, emocje zachowanie",
+        "Nastrój blokuje działanie, emocje poznanie",
+        "Emocja trwa dłużej, a nastrój znacznie krócej",
+        "Emocja kształtuje myślenie, nastrój motorykę"
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Zgodnie z hipotezą Davidsona: główną funkcją emocji jest modulacja działań, a nastroju – modulacja procesów poznawczych."
+    },
+    {
+      "id": 24,
+      "type": "single-choice",
+      "question": "Głównym kryterium, za pomocą którego Nico H. Frijda odróżnia epizody emocjonalne od długotrwałych nastrojów, jest:",
+      "options": [
+        "Kryterium konkretnej intencjonalności",
+        "Intensywność pobudzenia kory mózgowej",
+        "Poziom zaangażowania dróg wegetatywnych",
+        "Wrodzony stopień uwarunkowania afektu"
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Frijda podkreśla, że emocje są intencjonalne (dotyczą konkretnego obiektu), a nastroje nie (ich obiektem jest rozmyty 'świat jako całość')."
+    },
+    {
+      "id": 25,
+      "type": "single-choice",
+      "question": "Richard Lazarus uważa, że nasz codzienny, dominujący nastrój nie zależy od nagłych bodźców, lecz wynika bezpośrednio z:",
+      "options": [
+        "Podświadomej oceny tła egzystencjalnego życia",
+        "Szybkiej aktywacji podkorowej drogi dolnej lęku",
+        "Fluktuacji neurochemicznych poziomu serotoniny",
+        "Natężenia zewnętrznych stymulantów i używek"
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Lazarus twierdzi, że nastrój wynika z oceny egzystencjalnego tła życia (kim jesteśmy, jak na dłuższą metę nam się wiedzie)."
+    },
+    {
+      "id": 26,
+      "type": "single-choice",
+      "question": "Badania Killingswortha i Gilberta nad zjawiskiem 'błądzenia myślami' w ciągu dnia jednoznacznie udowodniły, że:",
+      "options": [
+        "Błądzenie umysłem jest główną przyczyną smutku",
+        "Depresja zawsze powoduje szybsze błądzenie",
+        "Brak skupienia znacząco podnosi jakość życia",
+        "Uważność sprzyja silnym wahaniom nastrojów"
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Błądzenie umysłu (myślenie o tym, czego nie ma tu i teraz) jest przyczyną zmartwienia, a nie tylko jego konsekwencją."
+    },
+    {
+      "id": 27,
+      "type": "single-choice",
+      "question": "Dlaczego, zgodnie z poglądem Watsona i Clark (oraz Pankseppa), ludzkie codzienne stany bywają tak bardzo złożone i ambiwalentne?",
+      "options": [
+        "Niskie pobudzenie pozwala łączyć różne emocje",
+        "Silny stres wymaga aktywacji wielu schematów",
+        "Mieszanie afektów jest odruchem pnia mózgu",
+        "Kora przedczołowa nieustannie kreuje konflikty"
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Umiarkowane/słabe afekty (typowe dla nastroju) umożliwiają ambiwalencję afektywną (jednoczesne trwanie różnych systemów), podczas gdy silne afekty wymuszają wyłączność."
+    },
+    {
+      "id": 28,
+      "type": "single-choice",
+      "question": "Poczucia bycia (uczucia egzystencjalne, np. poczucie wyobcowania) różnią się od klasycznych nastrojów głównie tym, że:",
+      "options": [
+        "Stanowią tylko głębokie, drugoplanowe tło myśli",
+        "Mają jeden, bardzo sprecyzowany cel w świecie",
+        "Zawsze dominują w sposób nagły w świadomości",
+        "Trwają jedynie przez ułamek mijającej sekundy"
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Poczucia bycia są ukryte głęboko w tle świadomości ('na drugim planie') i rzadko przykuwają bezpośrednią uwagę, w przeciwieństwie do nastrojów."
+    },
+    {
+      "id": 29,
+      "type": "single-choice",
+      "question": "Syndrom Cotarda, w którym pacjent odczuwa subiektywnie, że jego ciało jest martwe lub nie istnieje, to przykład głębokiego zaburzenia:",
+      "options": [
+        "Czystych poczuć egzystencjalnych bycia żywym",
+        "Społecznych poczuć więzi międzyludzkich i ufności",
+        "Specyficznych poczuć przynależenia do elity",
+        "Emocjonalnych uczuć nastrojo-podobnych relacji"
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Poczucie bycia żywym (lub poczucie bycia ciałem) to według klasyfikacji Slabego i Stephana 'czyste poczucia egzystencjalne'."
+    },
+    {
+      "id": 30,
+      "type": "single-choice",
+      "question": "Skuteczna regulacja uszkodzonych poczuć egzystencjalnych (wg literatury psychologicznej) wymaga zazwyczaj:",
+      "options": [
+        "Holistycznej przebudowy całego stylu życia",
+        "Tłumienia mimiki podczas odczuwania lęku",
+        "Prostej reinterpretacji pojedynczego bodźca",
+        "Technik bardzo szybkiego oddychania klatką"
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Zmienić szkodliwe poczucia bycia można jedynie kompleksowo rozważając własny styl życia i relację ze światem, a nie poprzez reinterpretację jednej sytuacji."
+    },
+    {
+      "id": 31,
+      "type": "single-choice",
+      "question": "W psychologii osobowości cechę określaną jako 'emocjonalność' lub 'neurotyzm' rozpatruje się jako dyspozycję afektywną, czyli:",
+      "options": [
+        "Skłonność do specyficznego reagowania emocjami",
+        "Brak jakichkolwiek uczuć wobec bodźców zewnątrz",
+        "Natychmiastowe przeniesienie złości na inną osobę",
+        "Wrodzoną odporność na działanie lęku w stresie"
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Cecha afektywna/emocjonalna to trwała skłonność i predyspozycja (osobowościowa) do reagowania w określony sposób (łatwiejszego wpadania w daną emocję)."
+    },
+    {
+      "id": 32,
+      "type": "single-choice",
+      "question": "Teoria neurobiologiczna Josepha LeDoux zakłada, że w mózgu funkcjonuje szybka 'droga dolna' powstawania emocji, która anatomie omija:",
+      "options": [
+        "Analityczną, świadomą korę mózgową",
+        "Przekaźnikowe ciało migdałowate lęku",
+        "Bezpośredni przekaźnik jakim jest wzgórze",
+        "Sieć głębokiego wegetatywnego pnia mózgu"
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Droga dolna przebiega bezpośrednio od receptora przez wzgórze do ciała migdałowatego, całkowicie omijając wolniejszą korę nową."
+    },
+    {
+      "id": 33,
+      "type": "single-choice",
+      "question": "Jeśli droga dolna (wg LeDoux) wygeneruje bardzo słaby afekt, pozwala to impulsom na podróż drogą górną (korową), co w konsekwencji:",
+      "options": [
+        "Umożliwia złożoną, racjonalną ocenę bodźców",
+        "Automatycznie wyzwala atak i brutalną agresję",
+        "Całkowicie blokuje aktywność jądra podstawnego",
+        "Prowadzi wyłącznie do ataku ślepej furi u zwierząt"
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Gdy afekt pierwotny nie jest paraliżująco silny, droga korowa zdąży przetworzyć informacje, dokonując w pełni rozumowej oceny sytuacji."
+    },
+    {
+      "id": 34,
+      "type": "single-choice",
+      "question": "Główny wniosek płynący z hipotezy 'pierwszeństwa afektywnego' (Zajonc) mówi jasno, że w procesie percepcji świata:",
+      "options": [
+        "Uczucie może wyprzedzać sam akt rozpoznania",
+        "Myślenie z zasady chronologicznie wyprzedza afekt",
+        "Analiza kognitywna jest konieczna do bicia serca",
+        "Racjonalizm ewolucyjnie chronił przed stratą życia"
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Zajonc udowodnił, że reakcja emocjonalna zachodzi przed świadomym ułożeniem informacji poznawczej (często boimy się czegoś, nie wiedząc jeszcze, czym to w ogóle jest)."
+    },
+    {
+      "id": 35,
+      "type": "single-choice",
+      "question": "Zjawisko, w którym złość na szefa przenosi się bezwiednie na pierwszą napotkaną w domu osobę, to przykład wpływu:",
+      "options": [
+        "Silnego afektu na element niezwiązany ze źródłem",
+        "Procesu relaksacji z wykorzystaniem wibracji ciała",
+        "Skryptu radzenia sobie w modelu kory przedczołowej",
+        "Zaawansowanej regulacji o charakterze korygującym"
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Silne emocje rozlewają się dyfuzyjnie, przez co elementy zupełnie niezwiązane ze źródłem gniewu stają się jego obiektem."
+    },
+    {
+      "id": 36,
+      "type": "single-choice",
+      "question": "Władysław Witwicki przestrzegał przed myleniem 'przedmiotu' uczucia z jego 'powodem'. Wynika z tego, że:",
+      "options": [
+        "Powód afektu może być dla nas nieuświadomiony",
+        "Obiekt złości to w każdym przypadku jej realny powód",
+        "Radość nigdy nie posiada zewnętrznego przedmiotu",
+        "Intelektualna ocena zdarzeń blokuje wybuch złości"
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Przedmiot uczucia (na co się złościmy) nie zawsze jest jego powodem (prawdziwą przyczyną może być głód lub wyczerpanie, o czym nie wiemy)."
+    },
+    {
+      "id": 37,
+      "type": "single-choice",
+      "question": "Według matrycy czterech podstawowych nastrojów R. Thayera, poranne dobre samopoczucie i wigor opisuje się mianem stanu:",
+      "options": [
+        "Spokojnego z dominującą, dużą energią",
+        "Spiętego połączonego z silną energią",
+        "Spokojnego z uczuciem zmęczenia rano",
+        "Spiętego z głębokim wyczerpaniem tła"
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Thayer definiuje idealny stan do pracy o poranku jako 'spokojny z energią' (niski poziom stresu/napięcia, duża podaż sił)."
+    },
+    {
+      "id": 38,
+      "type": "single-choice",
+      "question": "Stan 'Spięty zmęczony' (Thayer), charakteryzujący się wypaleniem i kryzysem około godziny 16:00, charakteryzuje obiektywnie:",
+      "options": [
+        "Zbyt niski poziom energii oraz duże napięcie",
+        "Maksymalny zasób sił i potężne napięcie karku",
+        "Całkowity brak energii i silny, pełen relaks",
+        "Idealna homeostaza pracy układu przywspółczulnego"
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Spięty zmęczony to najgorszy tryb popołudniowy: brak energii przy zachowanym wysokim poziomie napięcia nerwowego."
+    },
+    {
+      "id": 39,
+      "type": "single-choice",
+      "question": "Osoby chorujące na schizofrenię bardzo często zgłaszają zachwianie tak zwanego 'poczucia realności'. Do jakiej kategorii należą takie poczucia?",
+      "options": [
+        "Do warstwy elementarnych poczuć egzystencjalnych",
+        "Do procesów intelektualnych opartych na sądach",
+        "Do klasycznych i bardzo nagłych ataków paniki",
+        "Do wrodzonych nastrojów o wysokim pobudzeniu"
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Zgodnie z klasyfikacją T. Fuchsa, poczucie bycia żywym, realności świata lub siebie (oraz ich brak) to najbardziej elementarne poczucia egzystencjalne."
+    },
+    {
+      "id": 40,
+      "type": "single-choice",
+      "question": "W badaniach dziennych K. Scherera (2004) nad częstotliwością przeżywania stanów mieszanych, dominującą kompozycją emocji u ludzi była zazwyczaj:",
+      "options": [
+        "Mieszanka agresywnej złości i bolesnego smutku",
+        "Mieszanka euforycznej radości i potężnego strachu",
+        "Mieszanka obrzydzenia z pełną miłością do bliskich",
+        "Mieszanka głębokiego zaskoczenia ze wstrętem rano"
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Scherer wykazał, że najczęstsze emocje mieszane to mieszanki złości ze smutkiem, a następnie smutku z niepokojem."
+    },
+    {
+      "id": 41,
+      "type": "single-choice",
+      "question": "Do emocji określanych jako autentyczne uczucia intelektualne (według W. Witwickiego) zaliczają się przede wszystkim uczucia:",
+      "options": [
+        "Przekonaniowe dotyczące samej wartości zdobytej wiedzy",
+        "Moralne opierające się całkowicie na sprawiedliwości",
+        "Wrodzone wywodzące się z biologicznego pnia lęku",
+        "Udawane i maskujące wewnętrzny smutek na zewnątrz"
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Witwicki dzieli uczucia intelektualne na uczucia wartości (sąd) oraz przekonaniowe (przyjemność ze znalezienia prawdy niezależnie jaka ona jest)."
+    },
+    {
+      "id": 42,
+      "type": "single-choice",
+      "question": "Emocje estetyczne, charakteryzujące się docenianiem własności dzieła sztuki lub natury bez konieczności reagowania, należą (według Scherera) do grupy emocji przeciwstawianych emocjom:",
+      "options": [
+        "Przystosowawczym (utylitarnym)",
+        "Rozproszonym nastrojom życia",
+        "Przedłużonym cechom neurotyzmu",
+        "Czysto biologicznym popędom"
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Scherer przeciwstawia emocje utylitarne (wymuszające działanie dla przetrwania, np. lęk) emocjom estetycznym (kontemplacyjnym)."
+    },
+    {
+      "id": 43,
+      "type": "single-choice",
+      "question": "Jaka struktura mózgu bywa potocznie nazywana w materiałach neurobiologicznych 'siedliskiem rozumu', korygującym prymitywne popędy?",
+      "options": [
+        "Zewnętrzna powłoka kory nowej",
+        "Zintegrowane ciało migdałowate",
+        "Podstawowy przekaźnik ciał wzgórza",
+        "Wewnętrzna ścieżka z pnia głowy"
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Kora nowa (cortex) odpowiada za kontrolę zachowania, planowanie i procesy poznawcze, podczas gdy ciało migdałowate to emocjonalne 'serce' lęku."
+    },
+    {
+      "id": 44,
+      "type": "single-choice",
+      "question": "Jakie proporcje zachodzą w codziennym doświadczaniu afektów z punktu widzenia badań Scherera (2004)?",
+      "options": [
+        "Około trzy czwarte to czyste emocje jednej kategorii",
+        "Niemalże wszystkie doświadczane emocje to mikstury",
+        "Połowę dnia spędzamy w całkowitym zawieszeniu uczuć",
+        "Większość czasu zajmują skrajnie wrogie nam nastroje"
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "3/4 z nich to emocje pojedyncze (czyste), a tylko około 25% to w pełni świadome emocje mieszane."
+    },
+    {
+      "id": 45,
+      "type": "single-choice",
+      "question": "Zjawisko określane jako 'meta-emocje' odnosi się do skomplikowanej wewnątrzpsychicznej sytuacji, w której zachodzi:",
+      "options": [
+        "Aktywacja emocji, której bodźcem jest inna emocja",
+        "Całkowite zablokowanie układu nagrody i dopaminy",
+        "Zlewanie się miłości ze złością wobec obcych osób",
+        "Udawanie wściekłości wobec bliskich na pogrzebie"
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Meta-emocje to stany, gdy jedna emocja odnosi się do drugiej (np. czujemy poczucie winy Z POWODU tego, że czujemy radość z czyjejś porażki)."
+    },
+    {
+      "id": 46,
+      "type": "single-choice",
+      "question": "U dzieci proces wychowania polegający na okazywaniu im uwagi tylko wtedy, gdy bezwzględnie tłumią własne uczucia, to znak czasów:",
+      "options": [
+        "Typowego ojcostwa intruzywnego",
+        "Nurtu zwanego ambiwalencyjnym",
+        "Rozwoju wychowania socjalizującego",
+        "Nurtu silnie wspierającego marzenia"
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Model intruzywny (XVIII w.) zmuszał dzieci do ukrywania złości, co miało złamać ich niezależną wolę w zamian za uwagę rodziców."
+    },
+    {
+      "id": 47,
+      "type": "single-choice",
+      "question": "Według Hilla H. Goldsmitha, skokowe reakcje emocjonalne mają z zasady i biologicznego założenia charakter przede wszystkim:",
+      "options": [
+        "Głęboko relacyjny oraz w pełni interpersonalny",
+        "Wizualny i skupiony wyłącznie na sobie samym",
+        "Urojony, związany ściśle ze sferą marzeń nocnych",
+        "Odroczony w długim, co najmniej miesięcznym czasie"
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Goldsmith uważa, że emocje sygnalizują zmianę w relacji 'ja' i świata społecznego, nadając im naturę wysoce interpersonalną."
+    },
+    {
+      "id": 48,
+      "type": "single-choice",
+      "question": "Kto był twórcą znanej wypowiedzi: 'Wychowanie to nie miła zabawa, a zadanie, w które należy włożyć kapitał ciężkich przeżyć'?",
+      "options": [
+        "Stary, przedwojenny polski pedagog Janusz Korczak",
+        "Współczesny terapeuta w nurcie behawioralnym Skinner",
+        "Znany psycholog rozwojowy nurtu psychoanalizy Freud",
+        "Badacz ewolucyjnego ujęcia lęków u dzieci, N. Frijda"
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Są to autentyczne słowa Janusza Korczaka o odpowiedzialnym rodzicielstwie bazującym na 'mądrej miłości'."
+    },
+    {
+      "id": 49,
+      "type": "single-choice",
+      "question": "Z czego wynikają (zgodnie z neurobiologią) stany, w których niemal od urodzenia czujemy chroniczne poczucie nieukierunkowanego lęku w tle?",
+      "options": [
+        "Ze skumulowanych interakcji i wczesnych traum tła",
+        "Z jednorazowej, świadomej oceny zagrażającej sytuacji",
+        "Z uszkodzenia wzrokowego na drodze kory wzrokowej",
+        "Z wrodzonego braku jakichkolwiek funkcji wegetatywnych"
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Poczucia bycia (np. tło ciągłego wyobcowania) uważa się za nabyte w wyniku głębokich, wczesnych, skumulowanych interakcji cielesno-afektywnych z matką/otoczeniem."
+    },
+    {
+      "id": 50,
+      "type": "single-choice",
+      "question": "Test psychologiczny znany jako VVIQ służy u badanych pacjentów do pomiaru poziomu:",
+      "options": [
+        "Zdolności kreowania plastycznych obrazów w myślach",
+        "Szybkiej identyfikacji ukrytego lęku i silnej złości",
+        "Siły mięśni u pacjentów diagnozowanych pod kątem lęku",
+        "Obiektywnego pułapu IQ w oparciu o pamięć epizodyczną"
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "VVIQ (Vivid Visual Imagery Questionnaire) bada plastyczność i żywość wyobraźni wizualnej, co przekłada się na natężenie afektów poznawczych."
+    }
+  ]
+}
