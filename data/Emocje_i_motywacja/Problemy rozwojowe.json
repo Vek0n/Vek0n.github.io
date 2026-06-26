@@ -1,0 +1,788 @@
+{
+
+  "title": "Wykład - Problemy rozwojowe i wspomaganie rozwoju",
+
+  "difficulty": "Trudny",
+
+  "questions": [
+
+    {
+
+      "id": 1,
+
+      "type": "single-choice",
+
+      "question": "W ujęciu dynamiki cyklu życia, na czym polega stan „pomieszania” charakterystyczny dla ostatniej fazy (fazy c) w danym etapie rozwoju?",
+
+      "options": [
+
+        "Na nagłym i bezpowrotnym zaniku wszystkich kompetencji, co wymusza powrót do fazy wstępnej.",
+
+        "Na nakładaniu się zadań z kończącego się etapu oraz wymagań z nowego cyklu.",
+
+        "Na całkowitej utracie motywacji do nauki spowodowanej wyczerpaniem naturalnych zasobów.",
+
+        "Na sztucznym i przedwczesnym odrzuceniu opanowanych zdolności na rzecz nowości i trendów."
+
+      ],
+
+      "correctAnswerIndex": 1,
+
+      "explanation": "Zjawisko 'pomieszania' w fazie c wynika z faktu, że nakładają się w niej stare wymagania kończącego się cyklu oraz zupełnie nowe zadania."
+
+    },
+
+    {
+
+      "id": 2,
+
+      "type": "single-choice",
+
+      "question": "Czym w diagnozie psychologicznej różni się kryzys normatywny od kryzysu o charakterze nienormatywnym?",
+
+      "options": [
+
+        "Kryzys normatywny zawsze wymaga pilnej i długotrwałej interwencji farmakologicznej od lekarza.",
+
+        "Kryzys ten jest zjawiskiem punktualnym, wpisanym w typowy cykl życia większości ludzi.",
+
+        "Kryzys normatywny wynika wyłącznie z drastycznych i nieprzewidywalnych katastrof życiowych.",
+
+        "Kryzys normatywny dotyka tylko i wyłącznie osób dorosłych w okresie transformacji rynkowej."
+
+      ],
+
+      "correctAnswerIndex": 1,
+
+      "explanation": "Kryzysy normatywne mają charakter punktualny i zdarzają się większości ludzi w określonym wieku, w przeciwieństwie do losowych kryzysów nienormatywnych."
+
+    },
+
+    {
+
+      "id": 3,
+
+      "type": "single-choice",
+
+      "question": "Istotną różnicą wskazującą, że jednostka przeżywa kryzys grożący załamaniem linii życia, a nie zwykły kryzys rozwojowy, jest:",
+
+      "options": [
+
+        "Występowanie uogólnionego poczucia dyskomfortu oraz głębokiego rozbicia w wielu sferach życia.",
+
+        "Uporczywe fiksowanie się na starych zainteresowaniach i aktywne unikanie nowych sytuacji.",
+
+        "Pojawienie się rażącej niespójności zachowań obserwowanych w bardzo różnych okolicznościach.",
+
+        "Silne dążenie do poszukiwania całkowicie nowych, dotychczas nieznanych form aktywności i ról."
+
+      ],
+
+      "correctAnswerIndex": 1,
+
+      "explanation": "Zwykły kryzys rozwojowy skutkuje poszukiwaniem nowych aktywności, natomiast kryzys grożący załamaniem powoduje sztywne fiksowanie się na znanych rzeczach z lęku przed zmianą."
+
+    },
+
+    {
+
+      "id": 4,
+
+      "type": "single-choice",
+
+      "question": "W oparciu o koncepcję L. Wygotskiego, trafna diagnoza strefy najbliższego rozwoju polega na:",
+
+      "options": [
+
+        "Wykazaniu wszystkich tych trudnych zadań, które dziecko potrafi rozwiązać bez niczyjej pomocy.",
+
+        "Obliczeniu różnicy między działaniem samodzielnym a takim pod kierunkiem dorosłego.",
+
+        "Opisaniu wyłącznie tych kompetencji, które ukształtowały się ostatecznie w poprzednim cyklu.",
+
+        "Oszacowaniu maksymalnego potencjału intelektualnego dziecka za pomocą obiektywnych testów."
+
+      ],
+
+      "correctAnswerIndex": 1,
+
+      "explanation": "Strefa najbliższego rozwoju ukazuje funkcje in statu nascendi i określa ją dystans między pracą całkowicie samodzielną a tą wspartą przez kogoś z zewnątrz."
+
+    },
+
+    {
+
+      "id": 5,
+
+      "type": "single-choice",
+
+      "question": "W procesie wspomagania rozwoju, zjawisko wysokiego realizmu psychologicznego (E. Aronson) oznacza, że:",
+
+      "options": [
+
+        "Oferowana pomoc w sposób absolutny odzwierciedla codzienne, rutynowe sytuacje z życia adresata.",
+
+        "Adresat angażuje się emocjonalnie w interakcję, wykazując inicjatywę oraz chęć do działania.",
+
+        "Osoba pomagająca posługuje się wyłącznie sprawdzonymi, bezstronnymi i twardymi metodami oceny.",
+
+        "Warunki udzielania wsparcia pozostają całkowicie oderwane od faktycznych możliwości odbiorcy."
+
+      ],
+
+      "correctAnswerIndex": 1,
+
+      "explanation": "Realizm psychologiczny dotyczy poziomu emocjonalnego zaangażowania odbiorcy w proces zmiany, gdzie interakcja uruchamia jego wewnętrzną motywację."
+
+    },
+
+    {
+
+      "id": 6,
+
+      "type": "single-choice",
+
+      "question": "Trudności pokolenia dorosłych we współczesnym wspomaganiu rozwoju młodzieży, wynikające z wejścia w tzw. kulturę prefiguratywną, opierają się na:",
+
+      "options": [
+
+        "Bezwzględnym obowiązku naśladowania przez dzieci starych i mocno zakorzenionych wzorców zachowań.",
+
+        "Spychaniu na margines starszych, ponieważ to młodzi znacznie szybciej przyswajają innowacje.",
+
+        "Całkowitym i nieodwracalnym zaniku jakiejkolwiek wymiany informacji między nauczycielem a uczniem.",
+
+        "Prawnym i kategorycznym zakazie ingerowania rodziców w ścieżkę edukacyjną czy zawodową potomstwa."
+
+      ],
+
+      "correctAnswerIndex": 1,
+
+      "explanation": "Kultura prefiguratywna, odwracając tradycję, sprawia, że to młodzi łatwiej asymilują technologię, przez co starsze pokolenia tracą swoją pozycję ekspertów."
+
+    },
+
+    {
+
+      "id": 7,
+
+      "type": "single-choice",
+
+      "question": "Zgodnie z modelem wzajemności H. R. Schaffera, w interakcji podmiotowej „wspólny system znaczeń”:",
+
+      "options": [
+
+        "Jest on rygorystycznie i autorytarnie narzucany słabszej stronie w celu przyspieszenia nauki.",
+
+        "Stanowi zawsze idealne i bezbłędne odwzorowanie prywatnego systemu wartości osoby wspomaganej.",
+
+        "Powstaje poprzez negocjacje i nigdy nie pokrywa się całkowicie z prywatnymi znaczeniami.",
+
+        "Opiera się wyłącznie na biernym i mechanicznym naśladowaniu zachowań eksperta przez nowicjusza."
+
+      ],
+
+      "correctAnswerIndex": 2,
+
+      "explanation": "W modelu wzajemności partnerzy wspólnie negocjują znaczenia, przez co ostateczny system odniesienia nie jest prostą kopią poglądów ani jednej, ani drugiej strony."
+
+    },
+
+    {
+
+      "id": 8,
+
+      "type": "single-choice",
+
+      "question": "W strategiach wspomagania rozwoju, działanie określane jako „odpowiadanie na intencje partnera” (proaktywne) różni się od zwykłego „reagowania” tym, że:",
+
+      "options": [
+
+        "Stanowi w swej istocie bardzo automatyczny i całkowicie bezwarunkowy odruch na dany bodziec w środowisku.",
+
+        "Wymaga od pomagającego izolacji oraz bezwzględnego zignorowania trudnych stanów emocjonalnych u partnera.",
+
+        "Poprzedzone jest autorefleksją nad całym łańcuchem zdarzeń, zamiast prostą odpowiedzią na sam bodziec.",
+
+        "Zakłada natychmiastowe ukaranie partnera za błędy, zanim ten zdąży podjąć jakiekolwiek niepożądane kroki."
+
+      ],
+
+      "correctAnswerIndex": 2,
+
+      "explanation": "Działanie proaktywne wymaga od analizującego zatrzymania się i refleksji nad całością uwarunkowań partnera, zamiast odruchowej odpowiedzi na dany impuls."
+
+    },
+
+    {
+
+      "id": 9,
+
+      "type": "single-choice",
+
+      "question": "Działania wspomagające o charakterze „rusztowania” (scaffolding), tworzone na drodze negocjowanej oferty, charakteryzują się:",
+
+      "options": [
+
+        "Skrajnie sztywną strukturą, która absolutnie nie dopuszcza wprowadzania żadnych modyfikacji w trakcie pracy.",
+
+        "Wskazaniem węzła problemu przy zachowaniu elastyczności środków i plastycznym wypełnianiu go treścią.",
+
+        "Skupieniem się wyłącznie na trywialnych i ubocznych szczegółach zamiast na istotnych problemach węzłowych.",
+
+        "Wymuszaniem na zdezorientowanym odbiorcy ślepego posłuszeństwa względem z góry narzuconego algorytmu zadań."
+
+      ],
+
+      "correctAnswerIndex": 1,
+
+      "explanation": "Metoda rusztowania stanowi elastyczną ramę – zarysowuje główny cel węzłowy, ale pozwala obu stronom na plastyczne modyfikowanie środków w trakcie pracy."
+
+    },
+
+    {
+
+      "id": 10,
+
+      "type": "single-choice",
+
+      "question": "Podstawowa różnica między modelem „pogotowia ratunkowego” a modelem „animacji i wsparcia” w pracy psychologa polega na tym, że w modelu animacji:",
+
+      "options": [
+
+        "Psycholog stara się zdiagnozować problem najszybciej jak to możliwe, działając całkowicie i wyłącznie w pojedynkę.",
+
+        "Oddziaływania często kieruje się na środowisko i pośredników, a nie jedynie wprost na ofiarę kryzysu.",
+
+        "Całkowita i ostateczna odpowiedzialność za wypracowane efekty interwencji spoczywa wyłącznie na samej ofierze.",
+
+        "Głównym adresatem prowadzonych oddziaływań staje się zawsze jednoznacznie chora jednostka izolowana z grupy."
+
+      ],
+
+      "correctAnswerIndex": 1,
+
+      "explanation": "W odróżnieniu od podejścia ratunkowego, model animacji nie zamyka się na pacjencie, lecz aktywnie poszukuje oparcia w jego rodzinie, szkole czy lokalnej wspólnocie."
+
+    },
+
+    {
+
+      "id": 11,
+
+      "type": "single-choice",
+
+      "question": "Brak zgody co do celów wychowawczych oraz niewspółmierny system znaczeń między nauczycielem a uczniem, to w ujęciu systemowym przykład zakłócenia na płaszczyźnie:",
+
+      "options": [
+
+        "Intrapersonalnej, wyrastającej zawsze bezpośrednio ze skrajnie niskiego poziomu osobistych kompetencji pracownika.",
+
+        "Interpersonalnej, objawiającej się u rozmówców ubogimi środkami komunikacji oraz niespójnością przekazów.",
+
+        "Instytucjonalnej, która zawsze i bezbłędnie przejawia się brakiem fundamentalnej zdolności do ewolucji systemu.",
+
+        "Społecznej, mocno uwarunkowanej sztywną oraz nadzwyczaj archaiczną polityką oświatową na szczeblu ministerialnym."
+
+      ],
+
+      "correctAnswerIndex": 1,
+
+      "explanation": "Według tabeli zakłóceń, niedopasowanie systemu znaczeń oraz problemy komunikacyjne to wprost wskaźniki problemów na relacyjnej płaszczyźnie interpersonalnej."
+
+    },
+
+    {
+
+      "id": 12,
+
+      "type": "single-choice",
+
+      "question": "W procesie formułowania hipotez diagnostycznych, do tzw. „czynników podmiotowych” wpływających na ocenę sytuacji przez diagnostę zalicza się:",
+
+      "options": [
+
+        "Medialny szum, aktualną modę terapeutyczną oraz odgórnie i twardo narzuconą politykę danej instytucji pomocowej.",
+
+        "Bieżące i gwałtowne zmiany prawne oraz ogólnospołeczne transformacje na poziomie nowej, globalnej gospodarki.",
+
+        "Osobiste nastawienia diagnosty, nabywane przez lata stereotypy oraz wiedzę potoczną i naukową.",
+
+        "Presję wywieraną bezpośrednio przez sfrustrowanych rodziców badanego dziecka na dyrekcję lokalnej szkoły."
+
+      ],
+
+      "correctAnswerIndex": 2,
+
+      "explanation": "Do czynników podmiotowych u diagnosty należą jego wewnętrzne zasoby: wiek, płeć, wyznawane stereotypy oraz stan posiadanej przez niego wiedzy."
+
+    },
+
+    {
+
+      "id": 13,
+
+      "type": "single-choice",
+
+      "question": "Zgodnie ze schematem dopasowywania oferty pomocy (Brzezińska), ostateczna modyfikacja tej oferty ma na celu:",
+
+      "options": [
+
+        "Całkowite ubezwłasnowolnienie odbiorcy poprzez nagłe odebranie mu możliwości podejmowania samodzielnych decyzji.",
+
+        "Dopasowanie propozycji do zasobów adresata i jednoczesne wykreowanie dużej przestrzeni dla jego rozwoju.",
+
+        "Spełnienie absolutnie wszystkich, nawet najbardziej roszczeniowych i wysoce nierealnych zachcianek ze strony klienta.",
+
+        "Zmuszenie najbliższego środowiska lokalnego do finansowania bardzo drogich terapii, bez weryfikacji ich skuteczności."
+
+      ],
+
+      "correctAnswerIndex": 1,
+
+      "explanation": "Udane wspomaganie nie łamie woli adresata, lecz elastycznie dopasowuje się do jego kompetencji, podnosząc motywację bez zamykania drogi do eksperymentów."
+
+    },
+
+    {
+
+      "id": 14,
+
+      "type": "single-choice",
+
+      "question": "Która z poniższych cech trafnie opisuje warunki skutecznej pomocy udzielanej przez „osobę znaczącą”?",
+
+      "options": [
+
+        "Siłowe i bezdyskusyjne narzucanie swoich sprawdzonych rozwiązań, aby skutecznie zapobiec najdrobniejszym błędom.",
+
+        "Zdolność do stawiania jednostki przed wyzwaniami, które mogą nieco przekraczać jej dotychczasowe zasoby.",
+
+        "Celowe utrzymywanie wieloletniej, silnej zależności podopiecznego, która skutecznie uniemożliwia jego samodzielność.",
+
+        "Rygorystyczne unikanie wszelkich kontaktów o podłożu emocjonalnym i zachowywanie wyłącznie bardzo chłodnego dystansu."
+
+      ],
+
+      "correctAnswerIndex": 1,
+
+      "explanation": "Dobra 'osoba znacząca' stymuluje do rozwoju poprzez rzucanie wyzwań wykraczających poza aktualną strefę komfortu, co podnosi poczucie sprawstwa jednostki."
+
+    },
+
+    {
+
+      "id": 15,
+
+      "type": "single-choice",
+
+      "question": "Czym różni się „wspomaganie rozwoju” od zwykłego, doraźnego udzielania pomocy w nagłych wypadkach?",
+
+      "options": [
+
+        "Uwzględnia dotychczasowy rytm rozwoju oraz posiadane wcześniej zasoby, a nie skupia się tylko na brakach.",
+
+        "Jest ona rygorystycznie zarezerwowana wyłącznie dla profesjonalistów posiadających państwowe licencje terapeutyczne.",
+
+        "Skupia się jedynie na błyskawicznym naprawieniu szkód fizycznych, całkowicie ignorując długofalowe skutki dla psychiki.",
+
+        "Ma charakter zawsze krótkofalowy i ustaje całkowicie i natychmiastowo po usunięciu najbardziej zagrażającego stresora."
+
+      ],
+
+      "correctAnswerIndex": 0,
+
+      "explanation": "Wspomaganie nie polega na naprawianiu usterek, lecz bazuje na potencjale, śledząc dotychczasowe osiągnięcia i wpisując pomoc w szerszą logikę życia jednostki."
+
+    },
+
+    {
+
+      "id": 16,
+
+      "type": "single-choice",
+
+      "question": "Z perspektywy faz cyklu rozwojowego, jakie ryzyko diagnostyczne niesie ze sobą obserwacja osoby znajdującej się w fazie samodzielnego działania (faza b)?",
+
+      "options": [
+
+        "Bezwzględne ignorowanie poleceń uznane mylnie za postępujący i całkowity deficyt inteligencji oraz wrodzonej zdolności do uwagowego skupienia.",
+
+        "Uznanie powtarzających się dla uzyskania satysfakcji zachowań za patologiczną persewerację, nadpobudliwość lub sztywność funkcji myślenia.",
+
+        "Błędne odczytywanie gwałtownych ataków agresji słownej jako wyłącznie pozytywnych sygnałów rosnącej, normatywnej dla wieku asertywności.",
+
+        "Traktowanie skrajnej bierności oraz odcinania kontaktów jako ewolucyjnej, bardzo typowej i wysoce przydatnej formy oszczędzania energii."
+
+      ],
+
+      "correctAnswerIndex": 1,
+
+      "explanation": "Zafascynowanie jednostki nową umiejętnością (szukanie mistrzostwa) bywa przez niekompetentnych dorosłych błędnie postrzegane jako zaburzenie polegające na bezsensownym i sztywnym uporze."
+
+    },
+
+    {
+
+      "id": 17,
+
+      "type": "single-choice",
+
+      "question": "Co w ujęciu diagnozy rozwojowej stanowi najważniejsze kryterium pozwalające zaklasyfikować dany kryzys jako w pełni punktualny i normatywny?",
+
+      "options": [
+
+        "Posiada on zasięg globalny i dotyka przede wszystkim grup marginalizowanych, wymuszając wdrożenie całkowicie nowatorskich technik medycznych.",
+
+        "Charakteryzuje się on bardzo szybkim i samoistnym ustępowaniem pod warunkiem rygorystycznej izolacji pacjenta od jego bliskiego środowiska.",
+
+        "Pojawia się on nagle i zawsze w wyniku skrajnie losowych zdarzeń traumatycznych, bezpowrotnie burząc równowagę procesów neurochemicznych.",
+
+        "Doświadczany jest przez większość jednostek w danej warstwie wiekowej z racji naturalnych zmian biologicznych oraz oczekiwań ze strony ról."
+
+      ],
+
+      "correctAnswerIndex": 3,
+
+      "explanation": "Kryzys punktualny wiąże się ze statystyczną normatywnością, będącą zderzeniem u większości ludzi zegara biologicznego z zegarem ról i wymogów społecznych."
+
+    },
+
+    {
+
+      "id": 18,
+
+      "type": "single-choice",
+
+      "question": "Według autorki, najpoważniejszym błędem podczas ustalania przedmiotu wstępnej diagnozy psychologicznej jest bardzo silna i wyłączna koncentracja badacza na:",
+
+      "options": [
+
+        "Bezwzględnym i surowym dyscyplinowaniu podopiecznego w oparciu o sztywne regulaminy placówek by uniemożliwić jakikolwiek opór w trakcie sesji.",
+
+        "Narzuconym z góry środowisku kulturowym, co zawsze maskuje całkowicie wrodzone predyspozycje genetyczne i ewolucyjne uwarunkowania odruchów.",
+
+        "Samym wyizolowanym problemie z całkowitym pominięciem unikalnej ścieżki życia, płci oraz etapu rozwoju człowieka doświadczającego trudności.",
+
+        "Bardzo dalekich i wysoce abstrakcyjnych prognozach bez powiązania ich z twardymi, statystycznymi wskaźnikami poziomu gospodarki finansowej."
+
+      ],
+
+      "correctAnswerIndex": 2,
+
+      "explanation": "Diagnozowanie samego wyizolowanego problemu mija się z celem; ten sam przejaw buntu ma zupełnie inne znaczenie dla chłopca w wieku dojrzewania, a inne dla mężczyzny w kryzysie środka życia."
+
+    },
+
+    {
+
+      "id": 19,
+
+      "type": "single-choice",
+
+      "question": "Co, zgodnie z zaprezentowanym modelem, stanowi często czynnik kontekstowy bardzo silnie zniekształcający weryfikację rzetelnych hipotez diagnostycznych?",
+
+      "options": [
+
+        "Patologiczna wręcz niechęć młodego diagnosty do wszelkiej nowoczesnej technologii, zamykająca go całkowicie na korzystanie z baz i statystyk.",
+
+        "Brak jakiegokolwiek dostępu do twardych procedur instytucjonalnych, co na zawsze blokuje wdrażanie obowiązkowych i ratujących farmakoterapii.",
+
+        "Bezkrytyczne i niezwykle silne uleganie aktualnym modom na wybrane teorie psychologiczne oraz powielanie w ocenach społecznej poprawności.",
+
+        "Gwałtowny i wrodzony spadek inteligencji płynnej u weteranów psychologii uniemożliwiający im wnikliwe analizowanie mierzalnych parametrów."
+
+      ],
+
+      "correctAnswerIndex": 2,
+
+      "explanation": "Uleganie intelektualnym trendom i poprawności medialnej powoduje naginanie rozpoznania do teorii, zamiast rzetelnej analizy podpartej krytycznym dystansem diagnosty."
+
+    },
+
+    {
+
+      "id": 20,
+
+      "type": "single-choice",
+
+      "question": "W metodyce diagnozowania problemu rozwojowego, ostateczna weryfikacja wysnutych już wcześniej wniosków (tzw. trzeci etap postępowania) opiera się zazwyczaj na:",
+
+      "options": [
+
+        "Wyłącznym zebraniu niezwykle obszernych i subiektywnych opowieści od sąsiadów oraz nauczycieli podczas bardzo długich i luźnych wywiadów.",
+
+        "Stosowaniu wysoce ustrukturyzowanych i profesjonalnych narzędzi, takich jak testy projekcyjne czy kwestionariusze zbadanego już potencjału.",
+
+        "Biernym i całkowicie cichym obserwowaniu klienta podczas jego naturalnej zabawy w środowisku domowym bez włączania do niej obcych bodźców.",
+
+        "Przepisywaniu sztywnych procedur farmakologicznych mających za ostateczny cel radykalne obniżenie lęku i napięcia w obszarach podkorowych."
+
+      ],
+
+      "correctAnswerIndex": 1,
+
+      "explanation": "Trzeci etap diagnozy wymaga specjalistycznego uwierzytelnienia informacji pozyskanych z naturalnych i nietypowych obserwacji, do czego służą twarde i zarezerwowane dla psychologów testy."
+
+    },
+
+    {
+
+      "id": 21,
+
+      "type": "single-choice",
+
+      "question": "Jakie psychologiczne konsekwencje dla rozwoju ludzi niesie ze sobą specyficzny kontekst transformacyjny, obfitujący w bardzo gwałtowną zmienność ofert?",
+
+      "options": [
+
+        "Zawsze i bezwarunkowo gwarantuje wybitnie harmonijny, radosny i bezkrytyczny rozwój poznawczy wszystkim zaangażowanym w rynek jednostkom.",
+
+        "Wymusza całkowite odrzucenie wszelkich technologii na rzecz powrotu do izolowanych i mocno zradykalizowanych grup o charakterze pierwotnym.",
+
+        "Skraca perspektywę czasową działań, zachęcając do pospiesznego chwytania okazji bez wdrożenia odpowiedzialnego i długofalowego planowania.",
+
+        "Prowadzi do trwałej i nieodwracalnej apatii społecznej z racji wrodzonego unikania jakichkolwiek nieznanych wcześniej struktur kulturowych."
+
+      ],
+
+      "correctAnswerIndex": 2,
+
+      "explanation": "Zalew nowości oraz brak stabilności transformacyjnej wymuszają u ludzi strategię natychmiastowego eksploatowania tu i teraz, utrudniając im strategiczne spojrzenie w przyszłość."
+
+    },
+
+    {
+
+      "id": 22,
+
+      "type": "single-choice",
+
+      "question": "Na czym polega trudny dylemat opisywanego współcześnie procesu detradycjonalizacji z punktu widzenia skutecznego wspomagania rozwoju najmłodszych generacji?",
+
+      "options": [
+
+        "Odrzucenie sztywnych wzorców stanowi klucz do adaptacji, ale upadek wszystkich autorytetów rodzi silny chaos, potęgując niepewność i lęki.",
+
+        "Zjawisko to w pełni uodparnia dzieci przed stresami, lecz zamyka starszym osobom całkowicie drogę do pozyskiwania jakichkolwiek informacji.",
+
+        "Utrwalenie najstarszych systemów wiedzy daje doskonałe i bezstresowe schronienie, ale absolutnie uniemożliwia zdobycie jakiegokolwiek fachu.",
+
+        "Proces ten zjawiskowo ulepsza współpracę międzypokoleniową usuwając trwale wszystkie fizyczne przeszkody przed uczeniem abstrakcyjnej matmy."
+
+      ],
+
+      "correctAnswerIndex": 0,
+
+      "explanation": "Brak twardej tradycji z jednej strony pozwala jednostce samodzielnie zdefiniować swoje życie, jednak z drugiej zabiera poczucie bezpieczeństwa i punkt odniesienia dla ocen moralnych."
+
+    },
+
+    {
+
+      "id": 23,
+
+      "type": "single-choice",
+
+      "question": "Podczas dopasowywania oferty wsparcia, warunkiem uznania jej za wysoce trafną z perspektywy ściśle psychologicznych potrzeb samej jednostki jest to, aby była ona:",
+
+      "options": [
+
+        "Całkowicie uwarunkowana bardzo archaicznymi metodami, co skutecznie minimalizuje konieczność wysiłku poznawczego u pacjenta i diagnosty.",
+
+        "Adekwatna wobec najistotniejszych i aktualnych problemów jej cyklu życia, nawet jeżeli klient na razie w ogóle ich samodzielnie nie uświadamia.",
+
+        "Ekstremalnie atrakcyjna pod względem medialnego szumu, co zagwarantuje zawsze bardzo rygorystyczne posłuszeństwo podczas trudnej terapii.",
+
+        "Oparta wyłącznie na zaspokajaniu wszystkich doraźnych zachcianek by bezwzględnie usunąć ryzyko wystąpienia u adresata najdrobniejszych burz."
+
+      ],
+
+      "correctAnswerIndex": 1,
+
+      "explanation": "Trafność oferty pomocy psychologicznej wiąże się z odpowiedzeniem na esencję problemu jednostki z perspektywy psychologii rozwoju, wykraczając poza to, czego życzy sobie aktualnie klient."
+
+    },
+
+    {
+
+      "id": 24,
+
+      "type": "single-choice",
+
+      "question": "Jeśli psycholog natrafia na bardzo wyraźny brak gotowości podmiotu do przyjęcia pomocy rozwojowej, to pierwszym i najbardziej konstruktywnym krokiem powinna być:",
+
+      "options": [
+
+        "Ostateczna i bezpowrotna rezygnacja z dalszych prób oraz odesłanie opornego adresata do państwowych organów wykonawczych i penitencjarnych.",
+
+        "Otwarta konfrontacja siłowa, zmuszająca do przyjęcia zaleceń przy użyciu radykalnych, niezwykle bolesnych kar lub silnego ostracyzmu w grupach.",
+
+        "Modyfikacja oferty oraz wdrożenie procedur wzmacniających ukrytą motywację poprzez zaktualizowanie zasobów i podniesienie poczucia kompetencji.",
+
+        "Skupienie całej wolnej energii na wyłącznym uspokojeniu własnych stanów lękowych by zapobiec ryzyku obciążenia się niewdzięczną postawą pacjenta."
+
+      ],
+
+      "correctAnswerIndex": 2,
+
+      "explanation": "Zamiast porzucania pomocy, należy przygotować adresata: wzmacniając jego wiarę we własne siły i odpowiednio przebudowując samą ofertę do jego aktualnego poziomu otwartości."
+
+    },
+
+    {
+
+      "id": 25,
+
+      "type": "single-choice",
+
+      "question": "Według charakterystyki osób znaczących, paradoksalnym warunkiem podtrzymania skutecznego rozwoju w relacji pomocowej jest umiejętność eksperta do:",
+
+      "options": [
+
+        "Chronienia jednostki przed popełnieniem chociażby najdrobniejszego błędu i rygorystyczne kontrolowanie każdej decyzji poprzez autorytarny styl.",
+
+        "Szybkiego wycofania udzielanego bezpośrednio wsparcia zaraz w momencie, w którym uczeń zaczyna sobie sam radzić, dla wzmocnienia jego sprawstwa.",
+
+        "Sztucznego stwarzania i mnożenia barier administracyjnych, aby podopieczny po latach mógł bardzo głęboko uświadomić sobie wagę odniesionych ran.",
+
+        "Wchodzenia z uczniem w relację tak bardzo przyjacielską, by w efekcie bezpowrotnie zamazać naturalny dystans, kompetencje oraz autorytet wiedzy."
+
+      ],
+
+      "correctAnswerIndex": 1,
+
+      "explanation": "Osoba wspierająca stymuluje autonomię wycofując się celowo i zostawiając wolną przestrzeń od chwili, w której adresat pomocy potrafi już przejąć twardą kontrolę nad nowym problemem."
+
+    },
+
+    {
+
+      "id": 26,
+
+      "type": "single-choice",
+
+      "question": "Koncepcja określana w literaturze mianem ideologii romantycznego idealizmu u podstaw wspierania dzieci zakłada z ogromnym, bezkrytycznym przekonaniem:",
+
+      "options": [
+
+        "Bezwzględny nakaz stosowania wybitnie behawioralnych systemów kar, aby trwale zdusić naturalne popędy zagrażające prawidłowemu wychowywaniu.",
+
+        "Ślepą wiarę w ogromną moc samorealizacji oraz naturalny pęd jednostki do wiedzy, który potrzebuje tylko i wyłącznie całkowitego braku barier.",
+
+        "Konieczność autorytarnego wbijania informacji z mądrego i doświadczonego umysłu w całkowicie puste ramy myślowe u niesfornych, opornych uczniów.",
+
+        "Że rozwój jest zdeterminowany jedynie przez skomplikowane i zepsute uwarunkowania genetyczne, których edukator nie może w żaden sposób zmienić."
+
+      ],
+
+      "correctAnswerIndex": 1,
+
+      "explanation": "W przeciwieństwie do restrykcyjnej transmisji wiedzy, romantyczny idealizm naiwnie gloryfikuje wrodzony i nieskrępowany niczym potencjał rozwojowy u samego dziecka, negując systemy zakazów."
+
+    },
+
+    {
+
+      "id": 27,
+
+      "type": "single-choice",
+
+      "question": "W modelu wielopoziomowych zakłóceń systemu edukacyjnego, deficyt usytuowany konkretnie i ściśle na płaszczyźnie instytucjonalnej charakteryzuje się:",
+
+      "options": [
+
+        "Występowaniem bardzo zubożałych, ułomnych środków komunikacji niewerbalnej wyłącznie pomiędzy dwiema bliskimi sobie osobami z bloku zajęć.",
+
+        "Skrajną niezdolnością dużej organizacji do elastycznej zmiany swego funkcjonowania w obliczu gwałtownie ewoluujących warunków ekonomicznych.",
+
+        "Trwałym i wrodzonym brakiem kompetencji umysłowych czy pamięciowych u pojedynczego nauczyciela w konfrontacji z prostym, klasycznym wymogiem.",
+
+        "Agresywnym odrzucaniem polityki państwowej i oświatowej przez całe społeczeństwo buntujące się masowo wobec wytycznych z rządu centralnego."
+
+      ],
+
+      "correctAnswerIndex": 1,
+
+      "explanation": "Na płaszczyźnie instytucjonalnej (powyżej interpersonalnej i grupowej) kryzys ujawnia się najczęściej w autorytarnym sztywnieniu klimatu w obrębie placówki czy struktury nadzoru."
+
+    },
+
+    {
+
+      "id": 28,
+
+      "type": "single-choice",
+
+      "question": "Psychologiczna praktyka pogotowia ratunkowego, mimo ogromnych chęci interwencyjnych, niesie ze sobą istotną, ukrytą pułapkę. Polega ona bezpośrednio na:",
+
+      "options": [
+
+        "Zdjęciu naturalnej odpowiedzialności za działania z rąk rodzica czy nauczyciela poprzez oddelegowanie problemu opieki całkowicie na specjalistę.",
+
+        "Nadmiernym i nieskutecznym poszukiwaniu rzeszy bardzo zróżnicowanych sojuszników, co znacznie i niepotrzebnie wydłuża czas usunięcia zaburzenia.",
+
+        "Wzmacnianiu nadzwyczaj szkodliwych i mocno narcystycznych zjawisk agresji rówieśniczej ukierunkowanych na systematyczne rozbicie placówki od spodu.",
+
+        "Gwałtownym wyparciu objawów nerwicowych bez stworzenia chociażby najprostszych procedur gwarantujących podmiotowi ocalenie integralności i tożsamości."
+
+      ],
+
+      "correctAnswerIndex": 0,
+
+      "explanation": "Gdy psycholog działa jak twarde pogotowie, izoluje problem od naturalnego środowiska, sprawiając, że rodzice pozbywają się odpowiedzialności, spychając naprawę na gabinet."
+
+    },
+
+    {
+
+      "id": 29,
+
+      "type": "single-choice",
+
+      "question": "Gdy oferowana pomoc charakteryzuje się wysokim realizmem życiowym, lecz skrajnie niskim realizmem psychologicznym, oznacza to w praktyce, iż odbiorca:",
+
+      "options": [
+
+        "Zupełnie nie rozpoznaje otaczającego go świata, jednak natychmiastowo zakochuje się w badaczu ulegając ślepo jego magnetyzującej wyobraźni i magii.",
+
+        "Odrzuca proponowane procedury jako zbyt groźne dla ciała, całkowicie wycofując swój wkład w terapię na skutek wystąpienia silnych szoków z bólu.",
+
+        "Zna świetnie i akceptuje sytuację jako bardzo typową dla swojego wieku, lecz uważa ją za kompletnie pozbawioną sensu i nie angażuje się wcale emocjonalnie.",
+
+        "Wykazuje bardzo entuzjastyczne emocje, bezwzględnie ufając we wszystko, chociaż obiektywnie proponowane warunki są kompletną, oderwaną abstrakcją."
+
+      ],
+
+      "correctAnswerIndex": 2,
+
+      "explanation": "Brak realizmu psychologicznego to u odbiorcy poczucie, że działanie oparte na pomocy nie ma dla niego wewnętrznego znaczenia motywacyjnego, mimo że sytuacja wydaje się mu życiowo powszechna."
+
+    },
+
+    {
+
+      "id": 30,
+
+      "type": "single-choice",
+
+      "question": "Ujęcie strefy najbliższego rozwoju (Wygotski) podczas diagnozy przewyższa ocenę samych gotowych kompetencji głownie tym, że pozwala psychologowi sprawnie:",
+
+      "options": [
+
+        "Obniżyć w sposób ostateczny poprzeczkę wymagań stawianą pacjentowi tak bardzo, by ten w ogóle nigdy nie doświadczał choćby śladowego wysiłku w nauce.",
+
+        "Przeniknąć strukturę głęboką badanej jednostki by móc precyzyjnie zrozumieć obiektywną, autentyczną logikę ukrytego w trwających u niej procesach rozwoju.",
+
+        "Ominąć mozolne, uciążliwe negocjowanie celów z rodziną, wymuszając w sposób wysoce zautomatyzowany twarde reguły dla przyspieszenia adaptacji szkolnej.",
+
+        "Zaprogramować chorego na bezrefleksyjne posłuszeństwo dla autorytetów wykorzystując jego naturalne słabości i ogromne wahania uwagowe z okresu dzieciństwa."
+
+      ],
+
+      "correctAnswerIndex": 1,
+
+      "explanation": "Zbadanie stref in statu nascendi i reakcji na okazaną pomoc ukazuje ukryty potencjał i kierunek wewnętrznego postępu człowieka, co stanowi wyższość względem testowania suchych, utrwalonych nawyków."
+    }
+  ]
+}
