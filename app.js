@@ -49,7 +49,14 @@ async function init() {
         const data = await response.json();
         // Wyłapujemy tylko foldery (typ 'dir')
         appState.subjects = data.filter(item => item.type === 'dir');
-        renderHome();
+        
+        // Złapanie parametru URL ?admin=true
+        const urlParams = new URLSearchParams(window.location.search);
+        if (urlParams.get('admin') === 'true') {
+            window.renderAdminPanel();
+        } else {
+            renderHome();
+        }
     } catch (error) {
         console.error(error);
         renderError("Wystąpił błąd podczas łączenia z GitHub API.");
@@ -322,6 +329,168 @@ window.renderSummary = function() {
 window.renderHome = renderHome;
 window.renderSubject = renderSubject;
 window.init = init;
+
+// === PANEL ADMINISTRATORA ===
+
+window.renderAdminPanel = function() {
+    const token = localStorage.getItem('gh_token');
+
+    let html = `
+        <div class="header">
+            <h2>Panel Administratora</h2>
+            <button class="back-btn" onclick="window.location.href='index.html'">Wróć do strony</button>
+        </div>
+    `;
+
+    if (!token) {
+        // Ekran logowania
+        html += `
+            <div class="form-group">
+                <label>GitHub Personal Access Token</label>
+                <input type="password" id="gh-token-input" class="form-input" placeholder="ghp_xxxxxxxxxxxxxxxxx">
+                <p style="font-size:0.8rem; margin-top:8px;">Zostanie zapisany tylko w tej przeglądarce.</p>
+            </div>
+            <button class="primary-btn" onclick="saveAdminToken()">Zaloguj się</button>
+        `;
+    } else {
+        // Ekran dodawania testu
+        let subjectOptions = appState.subjects.map(s => `<option value="${s.name}">${s.name.replace(/_/g, ' ')}</option>`).join('');
+        subjectOptions += `<option value="NEW">--- Stwórz nowy przedmiot ---</option>`;
+
+        html += `
+            <div class="form-group" style="text-align:right">
+                <button class="back-btn" onclick="logoutAdmin()">Wyloguj (Usuń klucz)</button>
+            </div>
+            
+            <div class="form-group">
+                <label>Przedmiot</label>
+                <select id="admin-subject-select" class="form-input" onchange="toggleNewSubjectInput()">
+                    ${subjectOptions}
+                </select>
+            </div>
+
+            <div class="form-group" id="admin-new-subject-group" style="display:none;">
+                <label>Nazwa nowego przedmiotu</label>
+                <input type="text" id="admin-new-subject" class="form-input" placeholder="Np. Psychologia_Poznawcza (bez spacji, użyj _)">
+            </div>
+
+            <div class="form-group">
+                <label>Nazwa testu (bez .json)</label>
+                <input type="text" id="admin-test-name" class="form-input" placeholder="Np. kolokwium_1">
+            </div>
+
+            <div class="form-group">
+                <label>Treść testu (Kod JSON z NotebookLM)</label>
+                <textarea id="admin-json-content" class="form-input" placeholder='Wklej wygenerowany JSON tutaj...'></textarea>
+            </div>
+
+            <div id="admin-error-box"></div>
+
+            <button class="primary-btn" onclick="uploadTestToGitHub()" style="width:100%">Dodaj test na serwer</button>
+        `;
+    }
+
+    appContainer.innerHTML = html;
+}
+
+window.toggleNewSubjectInput = function() {
+    const select = document.getElementById('admin-subject-select');
+    const newSubjGroup = document.getElementById('admin-new-subject-group');
+    if (select.value === 'NEW') {
+        newSubjGroup.style.display = 'block';
+    } else {
+        newSubjGroup.style.display = 'none';
+    }
+}
+
+window.saveAdminToken = function() {
+    const input = document.getElementById('gh-token-input').value.trim();
+    if (input) {
+        localStorage.setItem('gh_token', input);
+        window.renderAdminPanel();
+    }
+}
+
+window.logoutAdmin = function() {
+    localStorage.removeItem('gh_token');
+    window.renderAdminPanel();
+}
+
+// Funkcja Base64 wspierająca polskie znaki (UTF-8)
+function utf8_to_b64(str) {
+    return window.btoa(unescape(encodeURIComponent(str)));
+}
+
+window.uploadTestToGitHub = async function() {
+    const token = localStorage.getItem('gh_token');
+    const select = document.getElementById('admin-subject-select');
+    const errorBox = document.getElementById('admin-error-box');
+    
+    let subject = select.value;
+    if (subject === 'NEW') {
+        subject = document.getElementById('admin-new-subject').value.trim();
+        if (!subject) {
+            errorBox.innerHTML = '<div class="alert">Podaj nazwę nowego przedmiotu!</div>';
+            return;
+        }
+    }
+
+    const testName = document.getElementById('admin-test-name').value.trim();
+    if (!testName) {
+        errorBox.innerHTML = '<div class="alert">Podaj nazwę testu!</div>';
+        return;
+    }
+
+    const jsonContent = document.getElementById('admin-json-content').value.trim();
+    if (!jsonContent) {
+        errorBox.innerHTML = '<div class="alert">Wklej zawartość JSON!</div>';
+        return;
+    }
+
+    // Walidacja JSON (Sprawdzenie czy jest poprawny)
+    try {
+        JSON.parse(jsonContent);
+    } catch(e) {
+        errorBox.innerHTML = `<div class="alert"><b>Błąd w strukturze JSON!</b> Prawdopodobnie brakuje przecinka lub cudzysłowu.<br><br>Szczegóły: ${e.message}</div>`;
+        return;
+    }
+
+    errorBox.innerHTML = '<div class="alert success" style="color:#6ee7b7">Walidacja poprawna. Wysyłam do GitHuba...</div>';
+
+    // Przygotowanie danych do GitHub API
+    const filename = `${testName}.json`;
+    const apiUrl = \`https://api.github.com/repos/Vek0n/Vek0n.github.io/contents/data/\${subject}/\${filename}\`;
+    
+    const contentBase64 = utf8_to_b64(jsonContent);
+
+    try {
+        const response = await fetch(apiUrl, {
+            method: 'PUT',
+            headers: {
+                'Authorization': \`Bearer \${token}\`,
+                'Content-Type': 'application/json'
+            },
+            body: JSON.stringify({
+                message: \`Dodano test: \${filename} (przez Panel Admina)\`,
+                content: contentBase64
+            })
+        });
+
+        if (!response.ok) {
+            const errData = await response.json();
+            throw new Error(errData.message || 'Błąd API GitHuba');
+        }
+
+        errorBox.innerHTML = '<div class="alert success"><b>SUKCES!</b> Test dodany. Zmiany pojawią się na stronie w ciągu 1-2 minut.</div>';
+        
+        // Czyszczenie formularza
+        document.getElementById('admin-test-name').value = '';
+        document.getElementById('admin-json-content').value = '';
+
+    } catch (e) {
+        errorBox.innerHTML = \`<div class="alert"><b>Błąd zapisu!</b> \${e.message}<br>Sprawdź czy token jest poprawny i ma uprawnienie 'repo'.</div>\`;
+    }
+}
 
 // Start aplikacji po załadowaniu
 document.addEventListener('DOMContentLoaded', init);
