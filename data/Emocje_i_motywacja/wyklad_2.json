@@ -196,6 +196,331 @@
       ],
       "correctAnswerIndex": 2,
       "explanation": "Patologiczna absorbcja (np. ruminacja) to nadmierne, powtarzalne i wyczerpujące pochłonięcie uwagą skierowaną na objawy własnego stresu i bólu, bez przechodzenia do proaktywnych prób rozwiązania problemu."
+    },
+    {
+      "id": 16,
+      "type": "single-choice",
+      "question": "W koncepcji Thomasa Myersa dotyczącej neuroanatomii, które trzy fizyczne sieci, po ich wyekstrahowaniu, ukazałyby pełny kształt ciała?",
+      "options": [
+        "Układ naczyniowy, układ nerwowy oraz obwodowa sieć komórek włóknistej tkanki łącznej nazywanej powięzią.",
+        "Układ limfatyczny, wegetatywny oraz głęboko umiejscowiona w ciele powięziowa sieć mięśni gładkich brzucha.",
+        "Układ pokarmowy, somatyczny układ nerwowy oraz nader twarda szkieletowa powłoka wewnątrz tkanki kostnej.",
+        "Układ krwionośny, autonomiczny układ nerwowy i podskórna pofalowana sieć grubych gruczołów potowych."
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Myers uważa, że tylko trzy określone sieci w ciele: naczyniowa, nerwowa i włóknista (powięź) w pełni odwzorowują i utrzymują z zewnątrz całkowity kształt ludzkiego ustroju."
+    },
+    {
+      "id": 17,
+      "type": "single-choice",
+      "question": "Jaką zasadniczą rolę, w podziale na zewnętrzny i wewnętrzny system nerwowy, pełni z neurobiologicznego punktu widzenia ludzki układ somatyczny?",
+      "options": [
+        "Odpowiada za uciążliwą autonomiczną regulację trzewi, w tym nieświadomą pracę serca, trzustki i wątroby.",
+        "Pełni rolę zewnętrzną, rzetelnie odbierając bodźce ze zmysłów i celowo inicjując świadome ruchy motoryczne.",
+        "Zarządza trzewiami i powolnym metabolizmem, całkowicie wyłączając naszą korową zmysłową percepcję zjawisk.",
+        "Służy wyłącznie do hamowania pierwotnych dzikich odruchów pnia mózgu podczas skrajnie bolesnych wydarzeń."
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Układ somatyczny z definicji klasyfikowany jest jako system 'zewnętrzny', ponieważ odpowiada za interakcje ze środowiskiem (odbiór przez zmysły) oraz świadome inicjowanie ruchu ciała."
+    },
+    {
+      "id": 18,
+      "type": "single-choice",
+      "question": "Jaki jest obiektywnie udowodniony wpływ aktywacji gałęzi sympatycznej (współczulnej) na aktywność kory mózgu oraz narządy obwodowe pacjenta?",
+      "options": [
+        "Wywołuje ona głęboką synchronizację fal EEG oraz wyraźnie i trwale wzmacnia działanie układu odpornościowego.",
+        "Prowadzi do silnej desynchronizacji fal widocznych w EEG i zauważalnie osłabia ogólną odporność organizmu.",
+        "Całkowicie wygasza aktywność falową w korze czołowej, stymulując produkcję limfocytów na poziomie grasicy.",
+        "Powoduje naprzemienną rytmiczną synchronizację fal EEG, kategorycznie nie wpływając w ogóle na odporność."
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Pobudzenie ewolucyjnego układu współczulnego, nastawionego z natury na akcję i stres, prowadzi u ssaków do wyraźnej desynchronizacji fal EEG w mózgu i jednoczesnego osłabienia odporności."
+    },
+    {
+      "id": 19,
+      "type": "single-choice",
+      "question": "Dlaczego u pacjentów o dominującym profilu wagotonicznym nader często diagnozuje się zjawisko meteopatii, objawiające się dużą wrażliwością na aurę?",
+      "options": [
+        "Ich obwodowy układ współczulny całkowicie odcina korę od narządów, generując bolesne urojone w głowie fantazje.",
+        "Mają oni opóźnioną transmisję impulsów podkorowych, co wymusza gwałtowny mroczny wysiłek fizjologiczny ciała.",
+        "Posiadają niezwykle szybki przekaz czucia z narządów wewnętrznych, który wysoce łatwo przekracza próg świadomości.",
+        "Cechuje ich relatywnie bardzo słaby przepływ wewnętrznych impulsów, co zmusza porywcze ciało do tworzenia iluzji."
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Wagotonicy charakteryzują się bardzo szybką i wyraźną transmisją bodźców z narządów do kory; próg ich świadomości jest łatwiej osiągany przez te sygnały, stąd wyższa meteoropatia (wrażliwość na zmiany ciśnienia)."
+    },
+    {
+      "id": 20,
+      "type": "single-choice",
+      "question": "Na co jednoznacznie i obiektywnie wskazują wieloletnie obserwacje kliniczne w odniesieniu do występowania tzw. „czystych typów” równowagi autonomicznej u ludzi?",
+      "options": [
+        "Typy obiektywnie czyste dominują szeroko w populacji, co bardzo ułatwia lekarzom proste i precyzyjne interwencje medyczne.",
+        "Czyste typy fizjologicznie wcale nie istnieją, gdyż ssaczy wegetatywny układ z zasady stale zachowuje pełną homeostazę ról.",
+        "Zjawisko to odnotowuje się u lekarzy bardzo rzadko, ponieważ w społeczeństwie biologicznie występują w pełni typy mieszane.",
+        "Klinicznie czyste i skrajne do bólu profile rozwijają się genetycznie lawinowo na zewnątrz tylko pod wpływem ciężkiej diety."
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Praktyka medyczna i kliniczna wskazuje, że bardzo rzadko obserwujemy 'idealnych' wagotoników lub sympatykotoników; najczęściej mamy do czynienia z typami mieszanymi, o asymetrycznym pobudzeniu na ciele."
+    },
+    {
+      "id": 21,
+      "type": "single-choice",
+      "question": "Biorąc pod celową uwagę neuroanatomiczną budowę układu wewnątrzwydzielniczego, która para gruczołów zawiaduje odpornością oraz napięciem w dużym stresie?",
+      "options": [
+        "Mała szyszynka kontrolująca cykle obwodowe oraz wielka i pofalowana trzustka ustalająca z zasady poziomy twardych minerałów.",
+        "Ukryta grasica mądrze pełniąca funkcje stricte immunologiczne oraz nadnercza odpowiadające chłodno za stężenie we krwi kortyzolu.",
+        "Zlokalizowana w mózgu przysadka wysoce silnie stymulująca ustrój nerwowy oraz tarczyca obniżająca rzetelnie hormon we krwi.",
+        "Produkujące pobudzający testosteron męskie jądra wokół oraz unaczyniona mocno długa śledziona usuwająca stary pot z czoła."
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "W układzie tym za kluczowe budowanie immunologii i komórek odporności odpowiada grasica, natomiast nadnercza reagują w chwili zagrożenia uwalniając do ciała kortyzol (regulując stan w stresie)."
+    },
+    {
+      "id": 22,
+      "type": "single-choice",
+      "question": "W jaki merytorycznie potwierdzony naukowo sposób kooperują szyszynka i przysadka mózgowa w kontekście utrzymania właściwej dla pacjenta gospodarki hormonami?",
+      "options": [
+        "Szyszynka uwalnia porywczą i radosną oksytocynę, a z kolei przysadka gęstą serotoninę sztucznie wyciszającą przednią lewą korę.",
+        "Szyszynka sprawnie wydziela w ciele soki ułatwiające metabolizm, a podłużna przysadka u podstawy stymuluje serce do adrenaliny.",
+        "Szyszynka po zmroku produkuje ułatwiającą odpoczynek melatoninę, a kierowana podwzgórzem przysadka m.in. wspiera oksytocynę.",
+        "Szyszynka nadzoruje opieszałą mrocznie tarczycę hamując jej nagły wzrost, a chłodna przysadka dba o sztywną barierę ciał z limfy."
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Szyszynka reaguje zmysłowo na światło sterując cyklem czuwania (dzięki melatoninie), a podległa podwzgórzu przysadka jest gruczołem nadrzędnym uwalniającym np. oksytocynę."
+    },
+    {
+      "id": 23,
+      "type": "single-choice",
+      "question": "Które wrodzone neuroanatomicznie obszary układu nerwowego służą u ssaków za centralę do odbierania i przypisywania znaczeń z informacji płynących wprost z trzewi?",
+      "options": [
+        "Najwyższa, analitycznie myśląca zewnętrzna chłodna warstwa nowej ludzkiej kory, wraz z bardzo wyspecjalizowanymi płatami potylicznymi.",
+        "Mocno rozbudowane sztywne drogi wegetatywne cichego pnia u podstawy czaszki w połączeniu z chłodną ruchową na boku korą skroniową.",
+        "Odbierające sygnały głośno z ciała podwzgórze pod korą, oraz silnie uwarunkowany układ limbiczny wiążący czucie z nastrojami i popędami.",
+        "Będące na wierzchu z góry o mroku ciało modzelowate stanowiące pomost do rzetelnej korowej nowej motoryki w pełni wyuczonych zachowań mięśni."
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Zgodnie z podziałem perspektywy 'środowiska wewnętrznego', to podwzgórze i blisko z nim związany układ limbiczny interpretują te somatyczne sygnały, nadając im we mgle pnia popędową formę uczuć."
+    },
+    {
+      "id": 24,
+      "type": "single-choice",
+      "question": "Czym w precyzyjnym wymiarze mechanizmów psychologicznych odróżnia się u człowieka potoczne i znane „zaprzeczanie” od bolesnego i wyparto całkowicie „wyparcia”?",
+      "options": [
+        "Zaprzeczanie to wyolbrzymianie fizycznie małego urojonego z dołu bólu ciała, a ciche wyparcie to nagłe namiętne oddanie się nałogowi alkoholu.",
+        "Zaprzeczanie to w neurobiologii uparte powolne przerzucanie wad i agresji w całości na wroga, a lewe wyparcie stanowi na chłodno logiczną grę kory.",
+        "Zaprzeczanie to minimalizowanie odgórnie prawdziwej realnej u pacjenta emocji w słowach, z kolei wyparcie to pełna negacja faktu jej trzewnego istnienia.",
+        "Zaprzeczanie to potężnie ruminacyjne obsesyjne wyuczone w bólu skupianie na ciele, a spolegliwe wyparcie to nagła kliniczna fizjologiczna amnezja w oku."
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "W formach braku kontaktu z ciałem, zaprzeczanie (denial) umniejsza wagę np. lęku (mówiąc 'jestem tylko zmęczony'), natomiast wyparcie z całą stanowczością go wykreśla na stałe z osądu ('ja absolutnie lęku w ciele nie mam!')."
+    },
+    {
+      "id": 25,
+      "type": "single-choice",
+      "question": "Na czym merytorycznie opiera się wybitnie cenna psychoterapeutycznie z psychologii Alana Fogela umiejętność obiektywnego i rzetelnego „kontenerowania” emocji pod presją?",
+      "options": [
+        "Na chłodnym i wybitnie dołująco w nocy mądrym analitycznie z drapieżnikiem wyizolowaniu porywczych negatywnych uczuć u ucha omijającym całą zawiłą terapię z rad.",
+        "Na celowej i obronnej wybuchowej nader opanowanej technice gwałtownego pozbycia się nagle agresji wprost i namacalnie fizycznie na wybraną groźną u podłoża ofiarę.",
+        "Na mądrej z kory od czoła zdolności do subiektywnego akceptującego pozostawania z obecną uciążliwie cielesną trudną w odbiorze emocją w przestrzeni tu i teraz rzetelnie.",
+        "Na udanym chłodno wyrachowanym z boku nienamacalnie głośno wypartym o mroku w całości pod przymusem nader usilnym unikaniu lęku dzięki ostrej mowie wewnętrznej pod ścianą."
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Zdolność do 'kontenerowania' (zawierania) u Fogela oznacza bycie zdolnym do rzetelnego, odważnego subiektywnego akceptowania stanu ('tu i teraz') wraz z bolesną cielesną złością bez niepotrzebnego sztucznego jej tłumienia w panice."
+    },
+    {
+      "id": 26,
+      "type": "single-choice",
+      "question": "W neuroanatomicznym modelu podziału na dwa „światy”, w jaki sposób układ nerwowy przetwarza sygnały ze środowiska wewnętrznego (somy) w opozycji do zewnętrznego?",
+      "options": [
+        "Sygnały wewnętrzne odbierane przez eksteroreceptory trafiają wprost do kory ruchowej celem szybkiej reakcji.",
+        "Bodźce z trzewi, z interoreceptorów, są integrowane głównie przez podwzgórze i ssaczy układ limbiczny.",
+        "Informacje proprioceptywne omiją układ limbiczny, kierując się od razu do lewego płata czołowego pnia ssaka.",
+        "Zewnętrzne sygnały zmysłowe są asymilowane przez potężny rdzeń kręgowy bez jakiegokolwiek udziału kory mózgu."
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Środowisko wewnętrzne (trzewia, ciało) jest odbierane przez interoreceptory i proprioreceptory, a informacje te trafiają głównie do podwzgórza i układu limbicznego, podczas gdy za interakcje ze środowiskiem zewnętrznym odpowiada kora mózgowa."
+    },
+    {
+      "id": 27,
+      "type": "single-choice",
+      "question": "Biorąc pod uwagę ewolucyjny model mózgu trójjedynego, jakie ograniczenia społeczne i emocjonalne charakteryzują funkcjonowanie najstarszego ewolucyjnie tzw. mózgu gadziego?",
+      "options": [
+        "Potrafi on wykrzesać jedynie bardzo krótkotrwałą, płytką empatię wobec zagrożonego biologicznie obcego stada.",
+        "Utrzymuje on niezwykle silną więź tylko i wyłącznie z własnym, nowo narodzonym seryjnie wrażliwym potomstwem.",
+        "Całkowicie brakuje w nim jakiejkolwiek emocjonalnej więzi czy rzetelnego, ciepłego przywiązania do innych.",
+        "Opiera się na niezwykle powolnej, ale za to bardzo trwałej wegetatywnie relacji z jednym wybranym partnerem."
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Mózg gadzi operuje wyłącznie ślepymi instynktami „tu i teraz” (posiadając jedynie popęd seksualny), nie wykształcając ewolucyjnie absolutnie żadnych więzi emocjonalnych z partnerami czy przywiązania do potomstwa."
+    },
+    {
+      "id": 28,
+      "type": "single-choice",
+      "question": "Zgodnie z koncepcją Paula MacLeana, na czym polega ewolucyjnie nowa funkcja kognitywnego „niuansowania” uczuć, która staje się możliwa dopiero na najwyższym poziomie kory mózgu neossaków?",
+      "options": [
+        "Na zdolności do niemal całkowitego, trwałego zablokowania przepływu trudnych emocji do ludzkiej świadomości.",
+        "Na werbalnym precyzowaniu i ostrym różnicowaniu stanów, a także swobodnym odczuwaniu wielu z nich na raz.",
+        "Na natychmiastowym i bardzo surowym tłumieniu wszelkich naturalnie radosnych popędów wywodzących się z pnia.",
+        "Na fizjologicznym i gwałtownym przekierowaniu energii z układu limbicznego wprost do grubego rdzenia kręgu."
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Kora mózgowa nowej generacji pozwala człowiekowi na nazywanie emocji precyzyjnymi słowami (np. bycie sfrustrowanym, a nie tylko zezłoszczonym) oraz na wyrażanie i odczuwanie świadomie kilku afektów równocześnie."
+    },
+    {
+      "id": 29,
+      "type": "single-choice",
+      "question": "W jaki obiektywny sposób wegetatywny, autonomiczny układ nerwowy wpływa z zasady na fizjologię ludzkiego oka w kontekście specyficznego działania jego poszczególnych gałęzi w zróżnicowanym otoczeniu?",
+      "options": [
+        "Gwałtowne pobudzenie ewolucyjnego układu sympatycznego wywołuje silne łzawienie i szybkie zwężenie się źrenic.",
+        "Aktywacja bezpiecznego układu parasympatycznego silnie rozszerza źrenice, poprawiając ostre widzenie w mroku.",
+        "Pobudzenie gałęzi sympatycznej wyraźnie rozszerza źrenice, wyhamowując absolutnie całkowicie gruczoły łzowe.",
+        "Aktywacja układu przywspółczulnego prowadzi do pełnego, trwałego zablokowania produkcji nawilżających łez z oczu."
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Układ sympatyczny, przygotowujący ewolucyjnie organizm do walki i ucieczki w zagrożeniu, silnie rozszerza źrenice (by wpuścić więcej światła) i jednocześnie hamuje wydzielanie gruczołów łzowych."
+    },
+    {
+      "id": 30,
+      "type": "single-choice",
+      "question": "Jaka jest czysto fizjologiczna, obiektywna reakcja dolnego odcinka układu pokarmowego i wydalniczego ssaków na nagłą biologiczną aktywację w ciele układu współczulnego w sytuacji silnego zagrożenia?",
+      "options": [
+        "Następuje błyskawiczne powstrzymanie trawienia w jelitach i silne, mocno obronne zaciśnięcie wielu zwieraczy.",
+        "Dochodzi do natychmiastowego rozluźnienia dolnych zwieraczy i niekontrolowanego przyspieszenia trawienia strawy.",
+        "Obserwuje się wysoce wzmożone wydzielanie specjalistycznych enzymów trzustkowych w głębokim świetle jelita ssaka.",
+        "Rejestruje się ostre spowolnienie tętna przy jednoczesnym, silnym rozkurczu napiętego pęcherza w drogach moczowych."
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "W sytuacji zagrażającego życiu alarmu, aktywowana współczulna gałąź układu autonomicznego wstrzymuje na czas kryzysu zbędne i energochłonne procesy życiowe, m.in. hamując trawienie w trzewiach oraz mocno zaciskając zwieracze."
+    },
+    {
+      "id": 31,
+      "type": "single-choice",
+      "question": "Według zaprezentowanego materiału omawiającego formy zaburzonego kontaktu z ciałem (np. amnezji sensomotorycznej), czym w dłuższej perspektywie skutkuje u człowieka wyuczone i przewlekłe niewyczuwanie naprężenia własnych mięśni?",
+      "options": [
+        "Znaczącym i nagłym obniżeniem nastroju, sporym spadkiem witalności oraz drastycznymi problemami z oddychaniem.",
+        "Rozwojem chronicznego zmęczenia, bólami obolałych pleców oraz postępującymi, bolesnymi zwyrodnieniami stawów.",
+        "Gwałtownymi do bólu zaburzeniami rytmu serca, arytmią i ukrytymi, uciążliwymi patologiami krążenia na obwodzie.",
+        "Bezwiednym i absolutnie niekontrolowanym zwiotczeniem napięcia w dolnych zwieraczach przewodu pokarmowego na dole."
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Prezentacja na sztywno wiąże zredukowane czucie w poszczególnych rejonach z różnymi chorobami; wyparcie ze świadomości sygnałów o naprężeniu mięśni obiektywnie doprowadza do groźnych bólów pleców i destrukcji stawów z przeciążenia."
+    },
+    {
+      "id": 32,
+      "type": "single-choice",
+      "question": "Zgodnie z ugruntowaną w fizjologii koncepcją Davida Boadelli, jakimi cechami behawioralnymi na co dzień charakteryzuje się w obliczu nagłego dystresu osoba wykazująca obiektywnie tzw. profil „wyładowujący się”?",
+      "options": [
+        "Ogromnym powolnym brakiem energii życiowej, głęboką rezygnacją oraz narastającą, chroniczną depresją na co dzień.",
+        "Całkowitym brakiem logicznego zdecydowania, znacząco obniżoną czujnością oraz usilną potrzebą chłodnego napięcia.",
+        "Silną mobilizacją do boju, kompulsywnym angażowaniem w pracę i bardzo wzmożoną, ostrą czujnością na zagrożenia.",
+        "Skrajną i wyuczoną spolegliwością, nagłym zatrzymaniem zapasów energii oraz bolesną absorbcją wewnętrzną na jawie."
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Osoba o profilu 'wyładowującym się' (gdzie u podłoża w pniu trwale dominuje potężny układ współczulny) jest nadaktywna, mocno asertywna, ma skłonności do przesady i kompulsywnie angażuje się w wyczerpującą pracę lub walkę."
+    },
+    {
+      "id": 33,
+      "type": "single-choice",
+      "question": "Jakie cenne i historyczne odkrycie z zakresu mrocznej i trudnej w diagnozie neuroanatomii sformułował ostatecznie Carl Wernicke w 1874 roku, na zawsze uzupełniając wcześniejsze badania i ustalenia o asymetrii mózgowej?",
+      "options": [
+        "Wykazał on dowodnie w testach, że za czynną produkcję bystrej mowy odpowiada w głównej mierze prawy płat na czole.",
+        "Udowodnił z całą pewnością, że głębokie i ostre uszkodzenie spoidła wielkiego generuje dwie odrębne osobowości.",
+        "Odkrył rzetelnie, że lewy płat tylny mózgowia jest absolutnie kluczowy dla rozumienia mowy słyszanej i czytanej.",
+        "Zaobserwował on chłodno, że lewa kora mózgowa naczelnych posiada absolutny, twardy monopol na bujną wyobraźnię."
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Po odkryciach chirurga P. Broki, Carl Wernicke udowodnił w roku 1874, że uszkodzenie lewego płata tylnego (a nie tylko przedczołowego) prowadzi z kolei do całkowitej utraty możliwości rozumienia mowy, którą pacjent słyszy lub czyta."
+    },
+    {
+      "id": 34,
+      "type": "single-choice",
+      "question": "Co obecnie aktualne badania neurobiologiczne wykazują bezlitośnie i twardo na temat powszechnie powielanego, popularnego szeroko w kulturze lat siedemdziesiątych mitu o ostrym podziale na lewą „racjonalną” i prawą w pełni „kreatywną” półkulę?",
+      "options": [
+        "Potwierdzają w całej rozciągłości, że prawa kora asocjacyjna jest jedynym obszarem odpowiedzialnym za ludzką sztukę.",
+        "Wykazują bezsprzecznie i logicznie, że lewa półkula jest całkowicie pozbawiona jakichkolwiek funkcji wyobrażeniowych.",
+        "Udowadniają dobitnie, że skomplikowane procesy kreatywności wymagają zintegrowanej współpracy obydwu wielkich półkul.",
+        "Pokazują twardo i dobitnie, że kreatywność artystyczna rezyduje wyłącznie w filogenetycznie starym pniu mózgowia."
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Współczesna zbadana psychologia ostatecznie i bezpowrotnie obala popkulturowy mit wykluczających się ról, potwierdzając z całą mocą, że silnie złożone procesy z udziałem kory mózgowej (jak rozumowanie czy kreatywność) absolutnie wymagają obustronnej, bliskiej współpracy obu zintegrowanych półkul mózgowych."
+    },
+    {
+      "id": 35,
+      "type": "single-choice",
+      "question": "W jaki obiektywny naukowo sposób ceniony badacz Iain McGilchrist definiuje na nowo najważniejszą, ewolucyjną rolę obficie wysoce rozwiniętych u inteligentnych ludzi wyższych kognitywnych płatów przedczołowych z przedniej kory mózgowej?",
+      "options": [
+        "Służą one głównie do mechanicznego i odruchowego pobudzania najstarszych struktur pnia mózgu podczas nagłego lęku.",
+        "Odpowiadają one bezpośrednio za hamowanie reszty mózgu, dając w ten sposób niezwykle cenny dystans do sytuacji.",
+        "Ich wyłącznym celem jest błyskawiczna produkcja neuroprzekaźników stresu całkowicie bez udziału kory mózgowej.",
+        "Działają jako twardy, biologiczny izolator, całkowicie odcinając ciało od wszelkich informacji z nerwów wzrokowych."
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Zgodnie z wizją McGilchrista, potężnie rozwinięta na przedzie kora nowa służy u ludzi wyższych do celowego, racjonalnego tłumienia i wyciszania ślepych rzutów z gadziego pnia mózgu i szybkiej drogi emocji, by wymusić chłodny dystans badawczy do ocenianych faktów."
+    },
+    {
+      "id": 36,
+      "type": "single-choice",
+      "question": "Zgodnie z udokumentowanym na slajdach i prelekcji zapisem, obok wielkiego całego i rozległego bocznie płata przedczołowego, w jakim drugim dużym obszarze wybitnie anatomicznym na powierzchni powolnej kory mózgowej silnie uwidacznia się ludzka asymetria?",
+      "options": [
+        "W mocno ukrytym, głębokim i obustronnie identycznym pasmie pierwszorzędowej gęstej kory motorycznej pnia na dole.",
+        "Na rozległym i wysoce wyspecjalizowanym węźle potyliczno-skroniowo-ciemieniowym ulokowanym w tyłach naszej głowy.",
+        "W ściśle wyizolowanej, ewolucyjnie najstarszej brzusznej części potężnego, długiego i chłodnego rdzenia kręgowego.",
+        "Wyłącznie w fizycznym obrębie silnie zintegrowanego, grubego i rzetelnie symetrycznego gęstego ciała modzelowatego."
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Specjalizacja lateralna i asymetria jest obiektywnie silnie zauważalna wyłącznie u góry kory drugorzędowej (asocjacyjnej) i grupuje się ściśle tylko w dwóch dużych rejonach kory: przedczołowym oraz w skrzyżowaniu znajdującym się na tyłach (potyliczno-skroniowo-ciemieniowym)."
+    },
+    {
+      "id": 37,
+      "type": "single-choice",
+      "question": "Analizując chłodno psychologiczne profile asymetrycznych postaw dwóch półkul ludzkiego mózgu wobec otaczających obiektów ze środowiska, kora lewa ssaka u czoła charakteryzuje się w istocie zazwyczaj dużą i sztywną preferencją oraz sporym zainteresowaniem dla:",
+      "options": [
+        "Zdecydowanie bezosobowych, mocno publicznych oraz wysoce utylitarnych w swym rzetelnym i codziennym, szybkim użyciu.",
+        "W pełni sztucznych, stworzonych chłodno ludzką ręką i opartych na prawach głębokiej mechaniki oraz fizyki ciał.",
+        "Zjawisk wysoce osobistych, a także naturalnie żywych i wyraźnie ożywionych w otaczającym środowisku.",
+        "Głęboko i wysoce abstrakcyjnych, zgeometryzowanych w ciele, niemających fizycznego odpowiednika w realnym środowisku."
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Lewa półkula wykazuje w swoich relacjach z otoczeniem duże, rzetelne ukierunkowanie na to, co jest osobowe (i z zasady silnie osobiste), a także zjawiskowo ożywione i w pełni naturalne, w jaskrawej i ostrej opozycji do prawej połowy skłaniającej się mocno ku mechanice, obiektywności, chłodnym narzędziom i sztuczności."
+    },
+    {
+      "id": 38,
+      "type": "single-choice",
+      "question": "Jaka jest najważniejsza, merytoryczna rzetelna neurobiologiczna różnica obiektywnie w ustroju, która z natury definitywnie odróżnia od siebie odrębne szlaki głośnego przesyłu sygnałów w ciele na nienamacalnej osi nazywanej bezpośrednio i wprost „komunikacją mózg-ciało”?",
+      "options": [
+        "Impulsy w układzie nerwowym przekazują informacje czysto chemicznie, z kolei krwiobieg używa fal elektrycznych.",
+        "Ssaczy układ hormonalny bazuje na ładunkach prądu, a szeroka sieć nerwów na uwalnianiu do krwi wolnych białek.",
+        "Transmisja w nerwach ma formę elektro-chemiczną, podczas gdy dystrybucja hormonów to droga ściśle chemiczna.",
+        "Zarówno wewnętrzna sieć nerwów, jak i wyspecjalizowanych gruczołów używa gęstych sygnałów elektromagnetycznych."
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Zgodnie ze ścisłą wiedzą i naukowym modelem biologicznym ciało komunikuje się obiektywnie z mózgiem tylko i wyłącznie na dwa szerokie sposoby: poprzez szybkie, uderzające sygnały pędzące elektrochemicznie w układzie przewodzących sieci nerwowych oraz z użyciem powolnej, czysto i całkowicie chemicznej obwodowej drogi za pomocą gęstych hormonów z gruczołów uwalnianych ociężale bezpośrednio we krwi."
+    },
+    {
+      "id": 39,
+      "type": "single-choice",
+      "question": "Omawiając dogłębnie ewolucyjnie ukształtowany u dawnych obiektywnie stadnych zwierząt dziki mózg emocjonalny pnia z ujęcia MacLeana (mózg paleossaków), jak z neurofizjologicznego i czysto trzewnego punktu obiektywnego widzenia definiuje się w nim dynamikę pojawiających się uczuć?",
+      "options": [
+        "Doświadczane na tym poziomie emocje są zawsze pojedyncze, sztywne w swym odbiorze i wcale nie ewoluują w czasie.",
+        "Afekty te są wysoce odczuwalne w ciele, a w serii doświadczeń bardzo często płynnie przepływają jedne w drugie.",
+        "Gwałtowne uczucia na tym ssaczym etapie występują jedynie w wirtualnej, oderwanej od organizmu myślowej sferze.",
+        "Zmysłowe i porywcze doznania te pozostają trwale zamrożone i wyalienowane, całkowicie nie poddając się ewolucji."
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "W mózgu ssaków starych ewolucyjnie afekty (np. ostre złości, strachy) są ze swej silnie ukształtowanej w ciele natury bardzo mocno odczuwane rzetelnie we wczesnym rzucie trzewnym u dołu, często też pojawiają się u pacjenta i zwierząt seryjnie bez oporu, wybitnie łagodnie zmieniając się i wylewnie płynnie przepływając rzetelnie z jednej pierwotnej formy prosto w drugą (np. szok i stratę o mroku potężnie ociężała ofiara opłakuje początkowym bolesnym smutkiem po to, by pod presją ten w ułamku zjawiska obiektywnie o mdłym samotniczym przekształcił się w stresie w dziki mroczny atak strachu, a na koniec opieszale po chłodnym rzucie we łzach - w uciążliwie rzetelny potężnie destrukcyjny bolesny gniew z woli o dziwo)."
+    },
+    {
+      "id": 40,
+      "type": "single-choice",
+      "question": "W jaki merytorycznie potwierdzony twardym dowodem z medycyny klinicznej sposób poważne rzetelnie obiektywnie od bazy w pniu u zwierząt nabyte ewolucyjnie neurologiczne schorzenie twarzy określane w nauce mianem uciążliwej prozopagnozji udowadnia obiektywnie ukierunkowaną asymetrię wyższej kory mózgowej w bólach u ludzi?",
+      "options": [
+        "Upośledzenie orientacji przestrzennej w otoczeniu wynika zazwyczaj tylko z niezwykle rzadkich mikrouszkodzeń lewej kory.",
+        "Całkowita niemożność płynnego czytania tekstów na głos powstaje nagle wskutek uciążliwych wad wegetatywnych pnia mózgu.",
+        "Poważne upośledzenie zdolności do rozpoznawania znajomych ludzkich twarzy łączy się u pacjentów z lezją prawej półkuli.",
+        "Fizyczny i obiektywny paraliż lewej dłoni wynika wprost z bardzo rozległego uszkodzenia spoidła w tylnej części czaszki."
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Prozopagnozja (rzetelnie chorobowe obiektywne mroczne w opinii nader usilne chłodne w leczeniu bolesne schorzenie głęboko polegające obiektywnie u góry od ciężkich z dystansem chłodno rzetelnie na oknie z tyłu na całkowitej obiektywnej i uciążliwie upartej dla psychologa utracie merytorycznie z błędu szkodliwie bardzo gwałtownej naocznie zdolności chłodnego rozpoznawania tożsamości znajomych mrocznie pod presją i na wyrost cicho u czoła twarzy podziwianych szeroko hucznie z tyłu) znacznie częściej twardo do boju powszechnie badanym u szczytu opinii wynika w ujęciu u ucha u chorych trudnym merytorycznie i bezlitośnie od wczesnego twardego w pracy wprost z nader rzetelnie w pniu twardego porywczego i opieszale wyizolowanego uszkodzenia u ssaków tkanki na obwodzie u prawej, a nie powolnej u dołu namacalnie cichej lewej połówki chłodnej z pnia kory."
     }
   ]
 }
