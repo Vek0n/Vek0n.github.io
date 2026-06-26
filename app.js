@@ -26,7 +26,7 @@ const appContainer = document.getElementById('app-container');
 async function init() {
     renderLoader();
     try {
-        const response = await fetch(GITHUB_API_URL);
+        const response = await fetch(`${GITHUB_API_URL}?t=${Date.now()}`);
         if (!response.ok) {
             if (response.status === 404) {
                 renderError("Folder 'data' jeszcze nie istnieje na GitHubie. Wrzuć pierwsze testy!");
@@ -34,7 +34,7 @@ async function init() {
             }
             throw new Error("Błąd pobierania danych API");
         }
-        const data = await fetch(GITHUB_API_URL).then(res => res.json());
+        const data = await response.json();
         // Wyłapujemy tylko foldery (typ 'dir')
         appState.subjects = data.filter(item => item.type === 'dir');
         renderHome();
@@ -91,7 +91,7 @@ function renderHome() {
 async function loadSubject(folderName, apiUrl) {
     renderLoader();
     try {
-        const response = await fetch(apiUrl);
+        const response = await fetch(`${apiUrl}?t=${Date.now()}`);
         const data = await response.json();
         appState.currentSubject = folderName;
         // Wyłapujemy pliki JSON
@@ -134,7 +134,7 @@ function renderSubject() {
 async function loadTest(jsonUrl) {
     renderLoader();
     try {
-        const response = await fetch(jsonUrl);
+        const response = await fetch(`${jsonUrl}?t=${Date.now()}`);
         const data = await response.json();
         
         appState.currentTestUrl = jsonUrl;
