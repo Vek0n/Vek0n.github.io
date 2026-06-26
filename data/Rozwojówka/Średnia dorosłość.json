@@ -1,0 +1,396 @@
+{
+  "title": "Rozbudowany Test Wiedzy: Środkowa Dorosłość (Analiza i Zjawiska)",
+  "difficulty": "Trudny",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single-choice",
+      "question": "W modelu R. Kwaśnicy faza „samorealizacji” w wypełnianiu roli zawodowej u dorosłego charakteryzuje się tym, że jednostka:",
+      "options": [
+        "Odtwarza jedynie zewnętrzne formy zachowań bez analizy ich ukrytego sensu.",
+        "Wprowadza innowacje o radykalnym charakterze, wykraczając poza konwencje.",
+        "Skupia się wyłącznie na zdobywaniu informacji o nowej dla niej instytucji.",
+        "Akceptuje przepisy własnej roli i dąży do sprostania obowiązującej konwencji."
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Stadium postkonwencjonalne (samorealizacja) to etap, na którym zmiany wprowadzane przez człowieka mają charakter transformacji i wynikają z osobistych celów, a nie presji otoczenia."
+    },
+    {
+      "id": 2,
+      "type": "single-choice",
+      "question": "Zgodnie z koncepcją G. Labouvie-Vief, dojrzały człowiek odchodzi od dominującego w dorastaniu sztywnego myślenia logicznego na rzecz podejścia:",
+      "options": [
+        "Pragmatycznego, przydatnego do rozwiązywania niejednoznacznych problemów.",
+        "Algorytmicznego, gwarantującego bezbłędne wyniki w testach akademickich.",
+        "Dogmatycznego, opierającego się na bezkrytycznej wierze w dawne autorytety.",
+        "Sensorycznego, bazującego wyłącznie na bezpośrednich bodźcach zmysłowych."
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Pragmatyka życia i myślenie postformalne pozwalają dorosłym na rozwiązywanie otwartych dylematów codzienności, w których rygorystyczna logika często zawodzi."
+    },
+    {
+      "id": 3,
+      "type": "single-choice",
+      "question": "Badania międzykulturowe dotyczące doświadczania symptomów menopauzy (Avis) wykazują, że w odniesieniu do uwarunkowań społecznych:",
+      "options": [
+        "Japonki znacznie rzadziej zgłaszają klasyczne napady ciepła i przygnębienie.",
+        "Amerykanki przechodzą menopauzę o kilka lat później dzięki lepszej diecie.",
+        "Kanadyjki cierpią na absolutnie najsilniejsze fizyczne objawy klimakterium.",
+        "Symptomy są identyczne i niezmienne we wszystkich badanych kulturach."
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Kulturowe uwarunkowania sprawiają, że kobiety w Japonii czy Indiach rzadziej narzekają na objawy, co może wiązać się z wyższym statusem zyskiwanym przez nie po okresie prokreacyjnym."
+    },
+    {
+      "id": 4,
+      "type": "single-choice",
+      "question": "Według badaczy (m.in. Lambertsa), proces andropauzy u mężczyzn (zespół AMS) powiązany jest histologicznie z:",
+      "options": [
+        "Całkowitym zatrzymaniem produkcji adrenaliny w korze nadnerczy po 40. roku życia.",
+        "Zmniejszeniem liczby komórek Leydiga w jądrach i osłabieniem syntezy białek.",
+        "Szybkim i nieodwracalnym zanikiem osłonek mielinowych w ośrodkowym układzie.",
+        "Natychmiastowym i trwałym ustaniem wytwarzania plemników u mężczyzny."
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "AMS wynika ze zmian w układzie gonadalnym, m.in. spadku liczby komórek Leydiga odpowiadających za produkcję testosteronu oraz obniżenia odporności organizmu."
+    },
+    {
+      "id": 5,
+      "type": "single-choice",
+      "question": "Według typologii H. Bee „dziadkowie zaangażowani” różnią się od „towarzyskich” tym, że:",
+      "options": [
+        "Ignorują swoje wnuki, skupiając się całkowicie na własnej karierze zawodowej.",
+        "Spędzają z dziećmi czas, ale bezwzględnie unikają brania za nie odpowiedzialności.",
+        "Podejmują się stałej opieki, nierzadko całkowicie zastępując zapracowanych rodziców.",
+        "Wymagają od wnuków absolutnego posłuszeństwa oraz rygorystycznej dyscypliny."
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Podczas gdy dziadkowie towarzyscy skupiają się na zabawie i cieple bez formalnej opieki, zaangażowani (opiekunowie) aktywnie współwychowują wnuki, często zdejmując ten ciężar z rodziców."
+    },
+    {
+      "id": 6,
+      "type": "single-choice",
+      "question": "W andragogice podkreśla się, że w procesie kształcenia dorosłych ocena stopnia osiągania celów powinna mieć charakter głównie:",
+      "options": [
+        "Formatywnego, wskazującego jasno obszary wymagające modyfikacji lub poprawy.",
+        "Afirmującego, skupionego wyłącznie na bezkrytycznym chwaleniu ich wysiłków.",
+        "Sumatywnego, służącego do rygorystycznego porównywania ich z młodzieżą.",
+        "Karzącego, eliminującego głęboko zakorzenione i obiektywnie błędne nawyki."
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Dorośli (w przeciwieństwie do dzieci łaknących afirmacji) preferują oceny proaktywne (formatywne), które dostarczają użytecznej informacji zwrotnej o tym, jak mogą udoskonalić swoje działanie."
+    },
+    {
+      "id": 7,
+      "type": "single-choice",
+      "question": "Badania nad satysfakcją z pożycia małżeńskiego w cyklu życia rodziny dowodzą, że zazwyczaj:",
+      "options": [
+        "Spada ona systematycznie i nieodwracalnie od momentu narodzin pierwszego dziecka.",
+        "Osiąga swoje absolutne minimum natychmiast po wyprowadzce dorosłego potomstwa.",
+        "Pozostaje całkowicie i niezmiennie stabilna, niezależnie od obecności dzieci w domu.",
+        "Wzrasta po odejściu dzieci, nierzadko osiągając z powrotem poziom z początku związku."
+      ],
+      "correctAnswerIndex": 3,
+      "explanation": "Opuszczenie domu przez dzieci zdejmuje z małżonków ciężar problemów wychowawczych, dając im czas dla siebie, co często skutkuje odnowieniem i poprawą wzajemnych relacji."
+    },
+    {
+      "id": 8,
+      "type": "single-choice",
+      "question": "Badania H. Sęk nad stresem polskich nauczycieli wykazują, że w przeciwieństwie do kolegów z krajów zachodnich, za główne źródło napięcia uznają oni:",
+      "options": [
+        "Agresywne i jawnie buntownicze zachowanie dorastających uczniów w klasach.",
+        "Niski status ekonomiczno-społeczny oraz wyraźny brak prestiżu swojego zawodu.",
+        "Konieczność nieustannego dokształcania się z zakresu nowoczesnych technologii.",
+        "Nadmierną kontrolę ze strony niezwykle zaangażowanych, roszczeniowych rodziców."
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "W badaniach transkulturowych polscy nauczyciele wskazali, że udręki finansowe i spadek poważania społecznego generują u nich o wiele większy stres niż same problemy wychowawcze z uczniami."
+    },
+    {
+      "id": 9,
+      "type": "single-choice",
+      "question": "Zachowania ukierunkowane na ochronę zdrowia, określane w psychologii mianem prewencyjnych, opierają się przede wszystkim na:",
+      "options": [
+        "Maksymalizowaniu własnych sił witalnych poprzez wysoce innowacyjne diety sportowe.",
+        "Świadomym i systematycznym unikaniu czynników zagrażających poprawnej homeostazie.",
+        "Bagatelizowaniu drobnych urazów w przekonaniu o silnej odporności genetycznej ustroju.",
+        "Doraźnym stosowaniu radykalnych i niezwykle drogich metod medycyny niekonwencjonalnej."
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Prewencja polega na zapobieganiu (unikaniu zagrożeń, kontroli medycznej), w przeciwieństwie do zachowań promocyjnych, które koncentrują się na aktywnym pomnażaniu zasobów."
+    },
+    {
+      "id": 10,
+      "type": "single-choice",
+      "question": "W rozszerzonym modelu generatywności McAdamsa, element określany jako „wiara w dobro i wartość ludzkich doświadczeń” stanowi składnik:",
+      "options": [
+        "Aspektu poznawczego generatywności u dorosłego.",
+        "Aspektu motywacyjnego generatywności u dorosłego.",
+        "Aspektu behawioralnego generatywności u dorosłego.",
+        "Aspektu tożsamościowego generatywności u dorosłego."
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Wiara w dobro i wartość doświadczeń, podobnie jak troska o następną generację, stanowi według badaczy poznawcze zaplecze postawy życiodajnej dorosłego."
+    },
+    {
+      "id": 11,
+      "type": "single-choice",
+      "question": "Dane statystyczne dotyczące bezrobocia dowodzą, że największa grupa zarejestrowanych bezrobotnych w Polsce (prawie 45%) to osoby znajdujące się w stadium:",
+      "options": [
+        "Wczesnej dorosłości, dopiero szukające na rynku swojego pierwszego zatrudnienia.",
+        "Środkowej dorosłości, nierzadko brutalnie zmuszane do całkowitej zmiany kwalifikacji.",
+        "Późnej adolescencji, pozbawione jakiegokolwiek wykształcenia oraz wsparcia od państwa.",
+        "Późnej dorosłości, bezwzględnie wypychane przez system na wcześniejsze emerytury."
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Osoby w wieku 35-54 lat (środkowa dorosłość) stanowią trzon bezrobotnych, co uderza w nich najmocniej, gdyż faza ta wymaga utrzymania stabilizacji i rodziny."
+    },
+    {
+      "id": 12,
+      "type": "single-choice",
+      "question": "Pacjentka z chorobą nowotworową przejawiająca psychologiczny mechanizm „sensytyzacji” w adaptacji do trudnej sytuacji będzie najprawdopodobniej:",
+      "options": [
+        "Zdecydowanie wypierać swoją chorobę i unikać kolejnych wizyt w przychodni onkologicznej.",
+        "Koncentrować się bardzo silnie na chorobie, szczegółowo analizując objawy i proces leczenia.",
+        "Ignorować polecenia lekarzy, naiwnie licząc na samoistne i cudowne ustąpienie groźnego guza.",
+        "Projektować lęk na otoczenie, bezpodstawnie obwiniając o swój stan zdrowia członków rodziny."
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Sensytyzacja to mechanizm obronny polegający na uwrażliwieniu i poznawczym drążeniu problemu (np. poprzez studiowanie literatury medycznej), co stanowi opozycję do mechanizmu zaprzeczania."
+    },
+    {
+      "id": 13,
+      "type": "single-choice",
+      "question": "Założenie o „funkcjonalnej determinacji zachowania” (Kowalik) w kształtowaniu relacji z otoczeniem mówi, że u człowieka dorosłego:",
+      "options": [
+        "Zewnętrzne warunki rynkowe wymuszają każde ludzkie zachowanie w sposób przyczynowo-skutkowy.",
+        "Geny w pełni determinują każdy wybór w życiu, całkowicie uodparniając jednostkę na stres.",
+        "Jednostka wykorzystuje własną aktywność, by świadomie wybierać odpowiedzi na wymagania środowiska.",
+        "Presja społeczna bezwzględnie odbiera autonomię, zmuszając do infantylnej i ślepej uległości."
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Środowisko stwarza jedynie okazje i zapotrzebowanie, ale to sama jednostka (jej aktywność) decyduje funkcjonalnie, jak na nie odpowie, kształtując swoją niezależność."
+    },
+    {
+      "id": 14,
+      "type": "single-choice",
+      "question": "Proces radzenia sobie w modelu Lazarusa i Folkman pełni funkcję samouspokajającą (regulacja emocji), która jest szczególnie korzystna, gdy:",
+      "options": [
+        "Prowadzi ostatecznie do trwałej apatii i całkowitego wycofania się jednostki z problemu.",
+        "Trwale zastępuje wszelkie instrumentalne oraz zadaniowe próby naprawy trudnej sytuacji.",
+        "Niweluje paraliżujący zamęt i napięcie, umożliwiając stworzenie racjonalnego planu działania.",
+        "Polega w głównej mierze na przerzuceniu agresji i złości na całkowicie niewinne osoby z pracy."
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Redukcja napięcia (samouspokojenie) nie jest zła, o ile nie staje się jedynym celem ucieczkowym, lecz służy jako bufor pozwalający odzyskać trzeźwość umysłu przed przystąpieniem do naprawy problemu."
+    },
+    {
+      "id": 15,
+      "type": "single-choice",
+      "question": "Zjawisko określane mianem tworzenia „self-made biography” (Giddens), zyskujące na znaczeniu w dobie współczesnych przemian, podkreśla:",
+      "options": [
+        "Konieczność ścisłego trzymania się tradycji, by skutecznie uniknąć narastającego chaosu.",
+        "Ogromną odpowiedzialność jednostki za w pełni indywidualne kształtowanie własnego życia.",
+        "Rolę nowoczesnego państwa w rygorystycznym planowaniu karier młodych i zdolnych obywateli.",
+        "Biologiczny i sztywny determinizm, który dyktuje współczesnym ludziom kamienie milowe ról."
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Wskutek detradycjonalizacji człowiek jest wolny od starych rygorów, ale ponosi za to wyłączną i nierzadko przytłaczającą odpowiedzialność za każdy wybór życiowy i swój unikalny los."
+    },
+    {
+      "id": 16,
+      "type": "single-choice",
+      "question": "W klasycznym ujęciu psychosomatycznym, Wzór Zachowania A (WZA), istotnie podnoszący ryzyko zawałów serca w dorosłości, definiowany jest przez:",
+      "options": [
+        "Chroniczny i patologiczny pośpiech, silną potrzebę osiągnięć oraz ukrytą bądź jawną wrogość.",
+        "Skrajną uległość, bierną postawę w pracy oraz brak jakichkolwiek znaczących ambicji rynkowych.",
+        "Głębokie wycofanie emocjonalne i potężną tendencję do chronicznych stanów depresyjnych.",
+        "Ogromną witalność skupioną wyłącznie na bezpiecznym odpoczynku oraz beztroskiej rekreacji."
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Typ A żyje w ciągłym stresie kompetencyjnym; rywalizuje, narzuca presję czasu i reaguje agresją na przeszkody, co dewastuje jego układ naczyniowo-sercowy."
+    },
+    {
+      "id": 17,
+      "type": "single-choice",
+      "question": "Badania T. Salthouse’a nad różnicami wiekowymi w pracy maszynistek udowodniły, że mimo spowolnienia neurobiologicznego, starsze kobiety:",
+      "options": [
+        "Pisały znacznie wolniej z powodu silnych i nieodwracalnych strat w obrębie koordynacji motorycznej.",
+        "Utrzymywały wysokie tempo pracy dzięki kompensacyjnej strategii wybiegania wzrokiem daleko w przód.",
+        "Popełniały o wiele więcej błędów merytorycznych, dobitnie dowodząc spadku inteligencji skrystalizowanej.",
+        "Musiały polegać w całości na dyskretnej pomocy swoich o wiele młodszych i sprawniejszych współpracowników."
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Zjawisko kompensacji w dorosłości sprawia, że braki w elementarnej szybkości układu nerwowego są nadrabiane fachowym doświadczeniem i lepszą strategią antycypacji u eksperta."
+    },
+    {
+      "id": 18,
+      "type": "single-choice",
+      "question": "Zdaniem badaczy z nurtu edukacji dorosłych (np. A. Maslowa), jedną z kluczowych przeszkód w otwarciu się na nową wiedzę przez dojrzałego ucznia jest:",
+      "options": [
+        "Całkowity zanik jakichkolwiek struktur poznawczych niezbędnych do zaawansowanej analizy logicznej.",
+        "Niekontrolowana, dziecięca ciekawość, która stale i uporczywie odrywa jego uwagę od nadrzędnego zadania.",
+        "Silny opór wobec nowości wynikający z faktu obrony zdobytego już doświadczenia i lęku przed popełnieniem błędu.",
+        "Zupełna, fizyczna niezdolność kory mózgowej do skupienia celowej uwagi na dłużej niż kilka minut w sali."
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Dorośli rzadziej przejawiają naturalną gotowość do ryzyka i zabawy poznawczej; ich wiedza jest już ustrukturyzowana, a nowości wywołują często opór, gdyż naruszają ich wypracowane latami status quo."
+    },
+    {
+      "id": 19,
+      "type": "single-choice",
+      "question": "Psychologiczne podejście do momentu opuszczenia gniazda rodzinnego przez dzieci dowodzi, że owo wydarzenie przynosi zdrowym dorosłym z reguły:",
+      "options": [
+        "Głęboki, nieodwracalny spadek zadowolenia i narastające z każdym dniem poczucie wszechogarniającej pustki.",
+        "Znaczną redukcję wymagań zewnętrznych, co wyraźnie sprzyja wzrostowi poczucia ulgi i satysfakcji z wolnego życia.",
+        "Konieczność natychmiastowego podjęcia leczenia z powodu nagłej utraty własnej, ściśle ustalonej tożsamości.",
+        "Silną, nieodpartą potrzebę zaadoptowania kolejnych dzieci w zastępstwie za utracone, biologiczne potomstwo."
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Choć dla części osób (głównie tych żyjących tylko dla dzieci) jest to kryzys, to jednak statystycznie uwolnienie od trudów opieki pozwala odzyskać przestrzeń na nowe hobby i zadowolenie w związku."
+    },
+    {
+      "id": 20,
+      "type": "single-choice",
+      "question": "W klasycznym ujęciu psychologii stresu, zjawisko nazywane „dystresem” u dorosłego występuje wtedy, gdy:",
+      "options": [
+        "Stresor jest obiektywnie zbyt silny lub trwa tak długo, że jednostka ma ogromne trudności z adekwatnym działaniem.",
+        "Jednostka w ułamku sekundy mobilizuje wszystkie siły i niezwykle skutecznie rozwiązuje stojący przed nią problem.",
+        "Organizm nie otrzymuje z monotonnego otoczenia absolutnie żadnych nowych, stymulujących rozwój bodźców.",
+        "Człowiek wykorzystuje wysoce elastyczne i innowacyjne strategie zadaniowe w oparciu o silne wsparcie grupy."
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Dystres to destrukcyjny biegun przeciążenia, w którym mechanizmy radzenia sobie ulegają wyczerpaniu, wywołując bezradność i dezorganizację zachowania pod naporem zbyt długiego napięcia."
+    },
+    {
+      "id": 21,
+      "type": "single-choice",
+      "question": "Punkt kulminacyjny osiągnięć zawodowych (np. w fizyce lub matematyce) przypada na różne momenty życia, jednak w naukach ścisłych wypada on zazwyczaj:",
+      "options": [
+        "W okolicach 40. roku życia, zdecydowanie wcześniej niż w większości zawodów opartych na pragmatyce.",
+        "Tuż przed przejściem na wymarzoną emeryturę, najczęściej w bezpośrednich okolicach 60. roku życia.",
+        "Bezpośrednio po ukończeniu trudnych studiów uniwersyteckich, zazwyczaj jeszcze przed 30. rokiem życia.",
+        "Dopiero po całkowitym zrezygnowaniu z pełnienia wyczerpujących, administracyjnych funkcji kierowniczych."
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Dziedziny wymagające błyskotliwości operacyjnej i myślenia abstrakcyjnego (matematyka, fizyka) cechują się wcześniejszym punktem szczytowym niż te bazujące na gromadzonej latami mądrości życiowej (np. filozofia, historia)."
+    },
+    {
+      "id": 22,
+      "type": "single-choice",
+      "question": "Opisywana przez D. Levinsona początkowa faza nowicjatu we wczesnej dorosłości (wejście w role zawodowe) charakteryzuje się w ujęciu psychologicznym:",
+      "options": [
+        "Radykalnym, programowym odrzuceniem kultury nowej instytucji i stanowczym wdrażaniem własnych reguł.",
+        "Stosunkowo dużą uległością, badaniem terenu i przystosowaniem się do wymagań obowiązujących w danym otoczeniu.",
+        "Pełną i nieskrępowaną niezależnością od wszelkich krytycznych ocen wydawanych przez znacznie starszych przełożonych.",
+        "Natychmiastowym i bezproblemowym przejęciem najwyższych funkcji kierowniczych w dziale po zaledwie kilku dniach."
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Młody dorosły w nowicjacie dopiero rozpoznaje konwencje świata zawodowego. Będąc najsłabszym ogniwem, najpierw wykazuje silny konformizm, by zyskać akceptację grupy, a dopiero z czasem ją przekracza."
+    },
+    {
+      "id": 23,
+      "type": "single-choice",
+      "question": "W badaniach K. Appelt nad reakcją na zmiany, najliczniejsza grupa nauczycieli (aż 78%) wykazała w obliczu głębokiej reformy tendencję do:",
+      "options": [
+        "Otwartego i niezwykle agresywnego bojkotowania wszelkich wprowadzanych wymagań formalno-prawnych.",
+        "Biernego przystosowania i całkowicie bezrefleksyjnego, niewolniczego wykonywania odgórnych poleceń.",
+        "Twórczej adaptacji, wskazującej na silną gotowość do zindywidualizowanego wdrażania koniecznych innowacji.",
+        "Skrajnego i błyskawicznego wypalenia zawodowego, skutkującego masowym odchodzeniem ze struktur szkolnictwa."
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Wbrew stereotypom o sztywności zawodu, większość przebadanych nauczycieli nie stawiała tępego oporu (tylko nieliczni) ani uległego przystosowania, lecz deklarowała innowacyjną gotowość do włączenia nowych standardów we własny warsztat."
+    },
+    {
+      "id": 24,
+      "type": "single-choice",
+      "question": "Naturalny, inwolucyjny proces starzenia się aparatu słuchu ujawnia się u dorosłych w wieku średnim początkowo poprzez ograniczenie zdolności do słyszenia:",
+      "options": [
+        "Zwykłych dźwięków mowy ludzkiej przy standardowej, bezpiecznej dla zdrowia codziennej głośności.",
+        "Dźwięków o skrajnych pasmach, to znaczy o bardzo wysokiej oraz bardzo niskiej częstotliwości.",
+        "Większości dźwięków o średniej częstotliwości, takich jak gwar domowy czy też typowy szum uliczny.",
+        "Wyłącznie nagłych, niezwykle głośnych i gwałtownych trzasków uszkadzających mechanicznie kosteczki."
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Z wiekiem aparat słuchu traci wydolność w wychwytywaniu skrajnych tonów częstotliwości, przy czym utrata słyszenia częstotliwości wysokich jest z reguły najszybsza."
+    },
+    {
+      "id": 25,
+      "type": "single-choice",
+      "question": "Medycyna ostrzega, że choć Hormonalna Terapia Zastępcza u mężczyzn (podawanie testosteronu) leczy skutki andropauzy, to w perspektywie długoterminowej niesie ryzyko:",
+      "options": [
+        "Znacznego i szybkiego zrzeszotnienia kości oraz trwałego, patologicznego spadku siły masy mięśniowej.",
+        "Zatrzymywania wody w organizmie, wzrostu hematokrytu oraz silnego niebezpieczeństwa raka prostaty.",
+        "Całkowitej i nieodwracalnej utraty wszelkich zaawansowanych funkcji z zakresu inteligencji skrystalizowanej.",
+        "Bardzo gwałtownego przyspieszenia rozwoju blaszek amyloidowych typowych dla wczesnego stadium Alzheimera."
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Według E. Baulieu długotrwała suplementacja testosteronu przynosi uboczne skutki fizjologiczne, z których onkogenny wzrost ryzyka dla prostaty stanowi najcięższą barierę medyczną."
+    },
+    {
+      "id": 26,
+      "type": "single-choice",
+      "question": "Podejmowanie w wieku dojrzałym wyczerpującej opieki nad starymi i niedołężnymi rodzicami spada statystycznie najczęściej na barki:",
+      "options": [
+        "Samotnych i bezrobotnych synów, mieszkających niezwykle daleko od swoich schorowanych przodków.",
+        "Zdrowych i zamężnych córek, które mają własne dzieci i z reguły zamieszkują w niedalekiej odległości.",
+        "Najmłodszych wnuków w rodzinie, które wciąż jeszcze przebywają w powszechnym systemie szkolnej edukacji.",
+        "Wyspecjalizowanych pracowników instytucjonalnych, ponieważ biologiczne rodziny rzadko przejmują taką rolę."
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Badania pokazują zjawisko „kobiety w środku” – to córki, najczęściej obarczone własnymi obowiązkami rodzinnymi, decydują się przejąć bezpośredni, pełen troski nadzór nad starzejącymi się rodzicami."
+    },
+    {
+      "id": 27,
+      "type": "single-choice",
+      "question": "Według psychologii stresu u dorosłych, specyficzna kategoria tzw. „subiektywnych stresorów” różni się od katastrof życiowych tym, że jest silnie powiązana z:",
+      "options": [
+        "Niezwykle prostą przewidywalnością, co w efekcie zupełnie nie ma negatywnego wpływu na emocje.",
+        "Indywidualnym poczuciem i niezwykle silną potrzebą sprawowania skutecznej kontroli nad własnym życiem.",
+        "Szerokim, obiektywnym i globalnym zasięgiem, dotykającym jednocześnie całe państwa lub narody.",
+        "Faktem, że biologicznie manifestuje się u pacjentów dopiero w okresie bardzo sędziwej starości."
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Nagła utrata kontroli i subiektywna interpretacja zagrożenia (np. we własnej firmie) wyzwala potężne reakcje stresowe nawet bez obecności obiektywnego, wielkiego kataklizmu zewnętrznego."
+    },
+    {
+      "id": 28,
+      "type": "single-choice",
+      "question": "W ramach diagnostyki Zespołu Męskiego Starzenia się (AMS), do obiektywnych objawów z kategorii czysto fizycznych (somatycznych) zalicza się:",
+      "options": [
+        "Przewlekłą i silną drażliwość na drobne bodźce oraz nagły, głęboki spadek naturalnej motywacji do pracy.",
+        "Istotną redukcję całkowitej masy mięśniowej ciała oraz niebezpieczny spadek gęstości mineralnej kości.",
+        "Zauważalny i skokowy wzrost ogólnej aktywności i sprawności intelektualnej podczas rozwiązywania zadań.",
+        "Całkowitą, obronną utratę pamięci semantycznej dotyczącej podstawowych faktów ze świata zewnętrznego."
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Zgodnie z tabelą u Charltona, AMS dzieli się na dysfunkcje seksualne, psychologiczne i fizyczne, a utrata tkanki i siły należy ewidentnie do somatycznych obciążeń organizmu."
+    },
+    {
+      "id": 29,
+      "type": "single-choice",
+      "question": "Z perspektywy psychologii rozwojowej (m.in. A. Oleszkowicz), nasilone zaburzenia równowagi odczuwane w toku kryzysu wieku średniego zazwyczaj:",
+      "options": [
+        "Pełnią rolę motywującą, dając cenną szansę na zmianę rutyny i przekroczenie niezadowalającego stanu.",
+        "Zawsze prowadzą do groźnych i nieodwracalnych zmian patologicznych, bezwzględnie wymagając leczenia.",
+        "Są procesem wyłącznie fizjologicznym i zaprogramowanym, zupełnie pozbawionym skutków dla psychiki.",
+        "Świadczą o absolutnej porażce edukacyjnej oraz braku jakiejkolwiek moralnej socjalizacji w wieku nastoletnim."
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Kryzys nie jest tu synonimem klęski klinicznej; jest przełomem, zakłóceniem zmuszającym do refleksji, dzięki któremu dorosły może zrewidować priorytety i naprawić błędy młodości."
+    },
+    {
+      "id": 30,
+      "type": "single-choice",
+      "question": "W teorii E. Eriksona postawa „negacji”, będąca patologiczną i ucieczkową alternatywą dla generatywnej troskliwości, przejawia się w codzienności przez:",
+      "options": [
+        "Wyjątkowo ciepłe, lecz skrajnie pobłażliwe i bezstresowe podejście do edukacji swoich małoletnich uczniów.",
+        "Arbitralne i chłodne odrzucanie innych poza obręb swojego osobistego zaangażowania oraz autorytaryzm.",
+        "Nadmierne i niezwykle kosztowne skupienie się na akcjach pomocowych kosztem utraty własnego zdrowia.",
+        "Rozpaczliwą i neurotyczną próbę fizycznego odmłodzenia się poprzez nieskończone modyfikacje swego ciała."
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Negacja to zjawisko wynikające z egoistycznej stagnacji. Zamiast dzielić się sobą z młodszymi (troskliwość), człowiek odcina się od opieki, staje się chłodny i sprawuje władzę dla samej władzy."
+    }
+  ]
+}

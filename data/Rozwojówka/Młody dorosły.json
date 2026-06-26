@@ -1,0 +1,396 @@
+{
+  "title": "Test z Psychologii Rozwoju - Wczesna Dorosłość",
+  "difficulty": "Trudny",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single-choice",
+      "question": "W ujęciu psychologicznym, cnota wierności ukształtowana u młodego dorosłego różni się od aspiracji nastolatka tym, że pozwala ona jednostce na:",
+      "options": [
+        "Odrzucenie dawnych autorytetów i całkowite poświęcenie się budowaniu bardzo szybkiej kariery.",
+        "Unikanie wszelkich niepowodzeń poprzez wręcz perfekcyjne planowanie każdego życiowego kroku.",
+        "Realistyczne stawianie celów i branie trwałej odpowiedzialności za efekty swoich trudnych wyborów.",
+        "Utrzymywanie niezwykle sztywnych poglądów niezależnie od zmieniających się nagle okoliczności."
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Cnota wierności wspiera dojrzałe struktury osobowości, pozwalając dorosłemu nie tylko inicjować wyzwania, ale konsekwentnie je realizować i ponosić za nie odpowiedzialność."
+    },
+    {
+      "id": 2,
+      "type": "single-choice",
+      "question": "Badania nad umiejętnościami obywatelskimi i społecznymi studentów (J. Schmidt) wykazały, że młodzi dorośli najniżej oceniają u siebie kompetencje związane z:",
+      "options": [
+        "Zdolnością do uważnego słuchania innych osób i pełną otwartością na nowe pomysły całej grupy.",
+        "Biegłym rozwiązywaniem zaawansowanych dylematów moralnych i mediacją u swoich przyjaciół.",
+        "Chęcią do niesienia dobrowolnej pomocy potrzebującym i wspierania słabszych w swoim otoczeniu.",
+        "Obejmowaniem funkcji lidera, twardym kierowaniem ludźmi oraz jawną publiczną ekspozycją."
+      ],
+      "correctAnswerIndex": 3,
+      "explanation": "Studenci najwyżej oceniali swoje bierne umiejętności wspierające (słuchanie, pomaganie), natomiast zdecydowanie unikali wyzwań wymagających bezpośredniego przywództwa."
+    },
+    {
+      "id": 3,
+      "type": "single-choice",
+      "question": "W procesie radzenia sobie ze stresem we wczesnej dorosłości (wg modelu Lazarusa i Folkman) funkcja samouspokajająca ma na celu przede wszystkim:",
+      "options": [
+        "Bezpośrednie i obiektywne rozwiązanie uciążliwego problemu, by usunąć główny rynkowy stresor.",
+        "Obniżenie przykrego, negatywnego napięcia emocjonalnego wywołanego działaniem owego stresora.",
+        "Całkowite i trwałe odcięcie się od relacji społecznych w celu szybkiej regeneracji swoich sił fizycznych.",
+        "Przerzucenie wszelkiej odpowiedzialności za sytuację kryzysową na innych, silniejszych członków grupy."
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Proces radzenia sobie pełni dwie funkcje: instrumentalną (rozstrzygnięcie obiektywnego problemu) oraz samouspokajającą (wyciszenie paraliżującego napięcia psychicznego)."
+    },
+    {
+      "id": 4,
+      "type": "single-choice",
+      "question": "Z badań J. Wojciechowskiej nad współczesnymi młodymi rodzicami wynika, że w porównaniu do starszych pokoleń, młode matki wykazują tendencję do:",
+      "options": [
+        "Całkowitego rezygnowania z ról ekspresyjnych na rzecz agresywnego wręcz rozwoju zawodowego.",
+        "Oddawania absolutnie wszystkich obowiązków instrumentalnych w domu wyłącznie swoim partnerom.",
+        "Przejmowania większego ciężaru ról instrumentalnych, przy jednoczesnym zachowaniu ekspresyjności.",
+        "Unikania jakichkolwiek norm nakazywanych przez tradycyjne, patriarchalne zasady i wzorce ról."
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Najmłodsze pokolenie rodziców zaciera tradycyjny podział ról – matki stają się w domu bardziej instrumentalne, nie rezygnując jednak ze swojej funkcji ekspresyjnej."
+    },
+    {
+      "id": 5,
+      "type": "single-choice",
+      "question": "Zgodnie z typologią Raskina, związek o charakterze pseudointymnym u młodych dorosłych to relacja, w której partnerzy zazwyczaj:",
+      "options": [
+        "Doświadczają wręcz skrajnej namiętności, ale całkowicie brakuje im formalnego zaangażowania.",
+        "Angażują się w formalne więzi, lecz wyraźnie brakuje im wzajemnej, autentycznej bliskości i głębi.",
+        "Posiadają jedynie luźne, przypadkowe znajomości i w ogóle nie są trwale związani z żadną osobą.",
+        "Tworzą bardzo głębokie relacje opiekuńcze, ale czynią to wyłącznie z wybraną grupą rówieśników."
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Związki pseudointymne bazują na zachowaniu formy (angażują się w związki), lecz pozbawione są prawdziwego zaangażowania emocjonalnego, doznawania opieki i głębokiego oparcia."
+    },
+    {
+      "id": 6,
+      "type": "single-choice",
+      "question": "Według ujęcia H. Sęk (klasyfikacja zachowań zdrowotnych), zachowania młodych dorosłych ukierunkowane stricte na ochronę to zachowania:",
+      "options": [
+        "Promocyjne, których najważniejszym celem jest szybkie maksymalizowanie własnego potencjału sił.",
+        "Prewencyjne, opierające się głównie na świadomym i aktywnym unikaniu czynników zagrażających.",
+        "Antyzdrowotne, wynikające bezpośrednio z nałogów oraz lekceważenia procedur leczenia w chorobie.",
+        "Interwencyjne, polegające wyłącznie na stosowaniu specjalistycznej, doraźnej farmakoterapii w domu."
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Ze względu na treść działań wyróżnia się zachowania ukierunkowane na prewencję (zapobieganie, np. omijanie ryzyka) oraz na promocję (aktywne budowanie większych zasobów zdrowia)."
+    },
+    {
+      "id": 7,
+      "type": "single-choice",
+      "question": "Co we współczesnym, psychologicznym modelu wchodzenia w dorosłość uznaje się za typowy wskaźnik subiektywny osiągnięcia tego etapu?",
+      "options": [
+        "Uzyskanie pełnej i stałej niezależności finansowej oraz nagłe wyprowadzenie się z domu rodzinnego.",
+        "Ukończenie edukacji na najwyższym poziomie uniwersyteckim i zdobycie pierwszego zatrudnienia.",
+        "Wzięcie pełnej odpowiedzialności za samego siebie oraz umiejętność podejmowania własnych decyzji.",
+        "Zawarcie sformalizowanego związku małżeńskiego połączone bezpośrednio z narodzinami dziecka."
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Podczas gdy zdobycie pracy czy ślub to obiektywne role społeczne, subiektywnym wyznacznikiem wejścia w ten etap jest poczucie sprawstwa i decydowanie o własnym losie."
+    },
+    {
+      "id": 8,
+      "type": "single-choice",
+      "question": "Sytuacja, w której młoda kobieta buduje swoją tożsamość przede wszystkim w oparciu o rolę żony i karierę męża, to według badaczki Pals:",
+      "options": [
+        "Tożsamość zakotwiczona, w której osoba wykazuje się dużą autonomią, a małżeństwo jest jedynie tłem.",
+        "Tożsamość ograniczana, wywołująca powszechną frustrację i stałe postrzeganie relacji jako formy kary.",
+        "Tożsamość rozproszona, charakteryzująca się u dorosłego ogromnymi, nieleczonymi wątpliwościami.",
+        "Tożsamość definiowana przez małżeństwo, gdzie jej prywatne cele zyskują drugorzędny i słaby status."
+      ],
+      "correctAnswerIndex": 3,
+      "explanation": "Kiedy kobieta określa się przez pryzmat sukcesów męża, marginalizując własne ambicje zawodowe, wpisuje się w prototyp tzw. tożsamości definiowanej (defined) przez zawarty związek."
+    },
+    {
+      "id": 9,
+      "type": "single-choice",
+      "question": "Czym różni się postformalne myślenie dialektyczne, stanowiące o dojrzałości we wczesnej dorosłości, od typowego dla młodzieży myślenia formalnego?",
+      "options": [
+        "Myślenie dialektyczne dąży za wszelką cenę do odnalezienia jednego, niezmiennego prawa logiki.",
+        "Myślenie dialektyczne usiłuje tolerować sprzeczności oraz opisać dynamikę zachodzących zmian.",
+        "Myślenie dialektyczne opiera swoje tezy wyłącznie na najbardziej oczywistych dowodach wzrokowych.",
+        "Myślenie dialektyczne całkowicie i trwale wyklucza jakąkolwiek zdolność do analizowania dylematów."
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "O ile intelekt formalny opiera się na szukaniu jednej żelaznej prawdy, dialektyka pozwala dorosłemu dostrzec, że zjawiska społeczne są bardzo złożone i podlegają ciągłej transformacji."
+    },
+    {
+      "id": 10,
+      "type": "single-choice",
+      "question": "Proces psychologicznej emancypacji młodego dorosłego od rodziców, uznawany za niezbędny do założenia własnej rodziny, polega w istocie na:",
+      "options": [
+        "Całkowitym, wrogim i bezpowrotnym zerwaniu wszelkich dawnych więzi ze środowiskiem domowym.",
+        "Utrzymaniu wręcz absolutnej zależności od autorytetu ojca dla uniknięcia późniejszych sporów w pracy.",
+        "Przeniesieniu w całości swoich skrywanych frustracji z okresu wczesnego dzieciństwa na nowego męża.",
+        "Nabieraniu adekwatnego emocjonalnego dystansu przy jednoczesnym zachowaniu ciepłej więzi i relacji."
+      ],
+      "correctAnswerIndex": 3,
+      "explanation": "Emancypacja dorosłego to nie bunt z odrzuceniem relacji (jak często u nastolatka), ale przewartościowanie priorytetów tak, by to więź z nowym partnerem stała się osią jego zaangażowania."
+    },
+    {
+      "id": 11,
+      "type": "single-choice",
+      "question": "Teoria przywiązania zakłada dwa mechanizmy jego wpływu na związek dorosłych. Pierwszy to wewnętrzne modele operacyjne, a drugi wiąże się stricte z:",
+      "options": [
+        "Celowym ustalaniem rygorystycznych barier komunikacyjnych w celu znacznego osłabienia lęku.",
+        "Specyficznym, często uwarunkowanym stylem modelem dokonywania wyboru konkretnego partnera.",
+        "Systematycznym wygasaniem wszelkiej namiętności z każdym nowym rokiem trwania małżeństwa.",
+        "Biologicznym mechanizmem wyzwalającym narastającą z czasem fobię przed głębokim zranieniem."
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Jakość związku zależy nie tylko od sposobu postrzegania intencji w relacji (modele operacyjne), ale również od samego etapu wyboru i selekcji (np. unikający dobierają sobie unikających)."
+    },
+    {
+      "id": 12,
+      "type": "single-choice",
+      "question": "We współczesnych badaniach nad radzeniem sobie uważa się, że dominujące znaczenie dla korzystania ze wsparcia w młodym wieku dorosłym mają:",
+      "options": [
+        "Subiektywne aspekty oceny, takie jak osobiste przekonanie o czyjejś prawdziwej gotowości do pomocy.",
+        "Wyłącznie bardzo twarde, obiektywne fakty demograficzne, takie jak stan cywilny czy liczba rodzeństwa.",
+        "Wrodzone, sztywne zasoby genetyczne, które całkowicie znoszą potrzebę korzystania z rad otoczenia.",
+        "Udokumentowane świadectwa z renomowanych szkół, gwarantujące automatyczny brak nagłych stresów."
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Samo bycie w grupie lub związku nie obniża stresu – najważniejszy jest subiektywny wymiar psychologiczny: czy dorosły ocenia swoje zasoby i relacje jako bezpieczne środowisko wsparcia."
+    },
+    {
+      "id": 13,
+      "type": "single-choice",
+      "question": "Zgodnie z ujęciem D. Levinsona, proces konsolidacji ego zachodzący u schyłku wczesnej dorosłości bezwzględnie wymaga od badanej jednostki:",
+      "options": [
+        "Ignorowania wcześniejszych pomyłek i opierania przyszłości na niedojrzałych wizjach adolescencji.",
+        "Ślepego, pasywnego i ciągłego odtwarzania wzorców poleconych wyłącznie przez autorytety z firmy.",
+        "Zrzucenia z własnych barków ciężkich ról obywatelskich na rzecz dbania wyłącznie o samorealizację.",
+        "Krytycznej oceny podjętych dotąd ról oraz ewentualnej, odważnej restrukturyzacji swojego planu."
+      ],
+      "correctAnswerIndex": 3,
+      "explanation": "Przełom lat 30-tych zmusza dorosłego do trudnej inwentaryzacji swoich zysków i strat – jeśli bilans ról zawodowych czy prywatnych jest zły, warunkiem rozwoju staje się redefinicja drogi."
+    },
+    {
+      "id": 14,
+      "type": "single-choice",
+      "question": "Analiza K. Appelt dotycząca nauczycieli w dobie oświatowych przemian w szkołach ujawniła, że młodzi dorośli wchodzący w rolę pracownika najczęściej:",
+      "options": [
+        "Prezentują styl przystosowawczy, poddając się regułom, by zdobyć potrzebną akceptację współpracowników.",
+        "Cechują się najwyższym poczuciem sprawstwa i kompetencji w starciu z całą nowo powstającą biurokracją.",
+        "Przejawiają postawę jawnie buntowniczą, błyskawicznie łamiąc wszystkie zastane w danym miejscu prawa.",
+        "Szybko ulegają skrajnemu wypaleniu i trwale przenoszą całą swą energię tylko na obszar związków intymnych."
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Okres tzw. nowicjatu charakteryzuje się tym, że młody dorosły w obawie o utratę pozycji woli najpierw poddać się i zintegrować z tradycjami firmy, a dopiero po czasie zaczyna narzucać zmiany."
+    },
+    {
+      "id": 15,
+      "type": "single-choice",
+      "question": "W świetle psychologicznych uwarunkowań radzenia sobie, posiadanie silnego wewnętrznego umiejscowienia kontroli sprawia, że młody dorosły w kryzysie:",
+      "options": [
+        "Całkowicie i biernie zamraża swoje działania licząc naiwnie na to, że problem zniknie z biegiem czasu.",
+        "Koncentruje się wyłącznie na użalaniu się nad własnymi deficytami i wymuszaniu na partnerze litości.",
+        "Cechuje się podejściem racjonalnym, zadaniowym i przejawia odpowiedzialność w budowaniu strategii.",
+        "Zawsze ignoruje logiczne argumenty zespołu, polegając w pracy wyłącznie na swoich nagłych przeczuciach."
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Osoby z wewnętrzną kontrolą (LOC) wierzą w swoją skuteczność, dlatego w obliczu trudności odrzucają zachowania unikowe czy emocjonalne, stawiając czoła problemom za pomocą analizy."
+    },
+    {
+      "id": 16,
+      "type": "single-choice",
+      "question": "Jakie specyficzne ryzyko rozwojowe wiąże się u młodego dorosłego z wcześniejszym obobraniem tzw. tożsamości nadanej?",
+      "options": [
+        "Wydłuża ona niebezpiecznie okres moratorium, uniemożliwiając stabilizację.",
+        "Sprzyja niepunktualnemu podejmowaniu zadań, na które nie jest gotowy.",
+        "Prowadzi do ostrego odrzucenia autorytetów i ucieczki w nałogi.",
+        "Powoduje głęboką apatię i wycofanie z interakcji społecznych."
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Skrócenie moratorium i przyjęcie cudzych ról wzmaga ryzyko zbyt wczesnego i niepunktualnego wchodzenia w obowiązki dorosłych bez pełnej gotowości psychicznej."
+    },
+    {
+      "id": 17,
+      "type": "single-choice",
+      "question": "Czym charakteryzuje się opisywana przez P. Arlin zdolność do „wyszukiwania problemów” u dorosłych?",
+      "options": [
+        "Biegłym stosowaniem ścisłych algorytmów do znanych już problemów.",
+        "Skupianiem uwagi na osobistych deficytach i błędach przeszłości.",
+        "Twórczym spostrzeganiem dawnych dylematów w nieoczywistym świetle.",
+        "Mechanizmem obronnym delegowania trudnych dylematów na innych."
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Wyszukiwanie problemów (problem finding) to kreatywna cecha dojrzałego intelektu pozwalająca na nowatorskie formułowanie wyzwań i spojrzenie na stare dylematy pod nowym kątem."
+    },
+    {
+      "id": 18,
+      "type": "single-choice",
+      "question": "W modelu S. Hobfolla sytuacja wysoce stresująca dla młodego dorosłego powstaje przede wszystkim, gdy:",
+      "options": [
+        "Następuje realna utrata zasobów, zagrożenie stratą lub brak zysku.",
+        "Wymagania środowiska zmuszają go do drastycznej zmiany nawyków.",
+        "Otrzymuje on zbyt wiele sprzecznych informacji od swojego otoczenia.",
+        "Następuje nagły konflikt między jego celami a presją społeczeństwa."
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Zgodnie z Modelem Zachowania Zasobów (COR) stres wynika z utraty ważnych dla jednostki zasobów, groźby ich utraty lub braku oczekiwanego przyrostu po inwestycji."
+    },
+    {
+      "id": 19,
+      "type": "single-choice",
+      "question": "Podejmowanie w dorosłości wielu ról życiowych w sposób jednoczesny (zamiast sekwencyjnego) skutkuje najczęściej:",
+      "options": [
+        "Szybkim osiągnięciem pełnej harmonii z nowo wyznaczonymi zadaniami.",
+        "Płynnym odłożeniem najtrudniejszych decyzji na środek życia.",
+        "Znacznym przeciążeniem, poczuciem braku satysfakcji i rezygnacją.",
+        "Skoncentrowaniem całej uwagi tylko na jednym wymiarze aktywności."
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Jednoczesne wchodzenie w nowe role (np. małżeństwo, praca, dziecko naraz) prowadzi do kumulacji napięć i konfliktów, co często rodzi przeciążenie i chęć wycofania się."
+    },
+    {
+      "id": 20,
+      "type": "single-choice",
+      "question": "Na czym polega mechanizm tzw. wtórnego starzenia się obserwowany u młodych dorosłych?",
+      "options": [
+        "Na uniwersalnym, biologicznym zaprogramowaniu ustroju do wygasania.",
+        "Na naturalnych i odwracalnych zmianach inteligencji skrystalizowanej.",
+        "Na zjawisku wywołanym przez zaniedbania zdrowotne oraz nałogi.",
+        "Na nakładaniu się na siebie wielu gwałtownych kryzysów normatywnych."
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Wtórne starzenie się nie jest uniwersalne; stanowi konsekwencję nieodpowiedniego stylu życia, przebytych chorób oraz braku profilaktyki zdrowotnej."
+    },
+    {
+      "id": 21,
+      "type": "single-choice",
+      "question": "Zgodnie z badaniami N. Collins, młodzi dorośli charakteryzujący się unikającym stylem przywiązania wykazują tendencję do:",
+      "options": [
+        "Wiązania się z partnerami lękowymi w relacjach pełnych dystansu.",
+        "Szukania osób wyłącznie o stylu bezpiecznym celem wyrównania braków.",
+        "Gwałtownego i ślepego wchodzenia w bardzo liczne, głębokie romanse.",
+        "Otwartego dominowania w związku i agresywnego karania partnera."
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Dorośli o unikającym stylu często dobierają lękowych partnerów, sami dystansując się od wsparcia i wchodząc w niekonstruktywne wzorce obronne w związku."
+    },
+    {
+      "id": 22,
+      "type": "single-choice",
+      "question": "Zjawisko indywidualizacji ścieżek życiowych we współczesnym wchodzeniu w dorosłość objawia się przede wszystkim:",
+      "options": [
+        "Rygorystycznym i ślepym przestrzeganiem narzuconych tradycji rynkowych.",
+        "Zróżnicowaną kolejnością podejmowania ról i odsuwaniem stałych decyzji.",
+        "Masowym porzucaniem zarobkowania przez zniechęconych studentów.",
+        "Gwałtownym dążeniem do pełnej stabilizacji zaraz po zdaniu matury."
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Wskutek słabnącej standaryzacji, młodzi odchodzą od jednego wytyczonego schematu biografii, swobodnie dobierając kolejność i moment podejmowania ról dorosłych."
+    },
+    {
+      "id": 23,
+      "type": "single-choice",
+      "question": "Jaką funkcję w relacjach zawodowych kobiet w dorosłości opisuje zjawisko określone jako efekt „szklanego sufitu”?",
+      "options": [
+        "Świadomą rezygnację z kariery w korporacji na rzecz życia rodzinnego.",
+        "Niewidzialną barierę ograniczającą im awans na szczebel decyzyjny.",
+        "Naturalną zdolność do błyskawicznego radzenia sobie z biurokracją.",
+        "Zjawisko skrajnego unikania ryzykownych posad we wczesnej młodości."
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Szklany sufit to system stereotypowych uprzedzeń uniemożliwiających kompetentnym kobietom zdobywanie najwyższych ról kierowniczych i zarządczych."
+    },
+    {
+      "id": 24,
+      "type": "single-choice",
+      "question": "W ujęciu R. Sternberga elementem pozwalającym ugruntować trwałość związku mimo naturalnego spadku namiętności jest:",
+      "options": [
+        "Zależność ekonomiczna wykluczająca rozwód w świetle prawa.",
+        "Powierzchowna bliskość oparta na silnym lęku przed samotnością.",
+        "Świadome zaangażowanie w decyzję o kontynuowaniu intymnej relacji.",
+        "Wyparta ambiwalencja emocjonalna maskująca wszelkie wady partnera."
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Poznawczy komponent zaangażowania to swoista decyzja i wola trwania w relacji, stanowiąca filar związku gdy początkowe uniesienia afektywne słabną."
+    },
+    {
+      "id": 25,
+      "type": "single-choice",
+      "question": "Według modelu D. J. Levinsona przejście przez fazę oceny koło 30. roku życia polega na:",
+      "options": [
+        "Całkowitym odrzuceniu przeszłych ról na rzecz powrotu pod opiekę.",
+        "Krytycznym zbilansowaniu dotychczasowych dokonań i zmianie planu.",
+        "Ostatecznym utrwaleniu obranej ścieżki bez możliwości żadnej poprawy.",
+        "Wyłącznym skupieniu na zysku przy porzuceniu relacji towarzyskich."
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Około 30. roku życia człowiek dokonuje pierwszego bilansu – konfrontuje młodzieńcze wizje z realiami, co nierzadko skutkuje korektą życiowych priorytetów."
+    },
+    {
+      "id": 26,
+      "type": "single-choice",
+      "question": "Wyłaniająca się dorosłość (emerging adulthood) ujęta w teorii J. Arnetta stanowi specyficzną fazę, która:",
+      "options": [
+        "Wymusza punktualne i wczesne podjęcie wszystkich najważniejszych ról.",
+        "Polega na przedłużonym eksplorowaniu możliwości bez stałych ról.",
+        "Dotyka wyłącznie osób o drastycznie obniżonym potencjale intelektu.",
+        "Stanowi celowy powrót do infantylnej zależności od własnych rodziców."
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Czas między 18. a 25. rokiem życia to nowa faza, w której jednostka nie jest już zależnym dzieckiem, ale odsuwa ostateczne zobowiązania by dalej swobodnie eksperymentować."
+    },
+    {
+      "id": 27,
+      "type": "single-choice",
+      "question": "Powszechnie badane przemiany intelektu u progu środkowej dorosłości (według K. W. Schaie) przejawiają się poprzez:",
+      "options": [
+        "Gwałtowny wzrost pojemności nieograniczonej pamięci krótkotrwałej.",
+        "Stopniowe obniżanie się abstrakcyjnej i biologicznej inteligencji płynnej.",
+        "Wyraźny zanik zdolności operowania inteligencją skrystalizowaną.",
+        "Całkowitą niezdolność do posługiwania się myśleniem postformalnym."
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Inteligencja płynna (zależna od biologicznej wydajności układu nerwowego) zaczyna jako pierwsza ulegać subtelnemu osłabieniu już po 35.-40. roku życia."
+    },
+    {
+      "id": 28,
+      "type": "single-choice",
+      "question": "W teorii E. Eriksona patologicznym biegunem normatywnego kryzysu we wczesnej dorosłości jest izolacja, objawiająca się:",
+      "options": [
+        "Potrzebą przebywania w głośnym tłumie dla zagłuszenia swoich lęków.",
+        "Niezdolnością do dzielenia bliskości z obawy o utratę kruchej tożsamości.",
+        "Całkowitym i ślepym podporządkowaniem cudzym decyzjom zawodowym.",
+        "Podejmowaniem wyłącznie bezrefleksyjnych zachowań wobec rówieśników."
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Izolacja to obronne odseparowanie się od głębokich relacji intymnych, wynikające z obawy, że pełne zjednoczenie z drugim człowiekiem doprowadzi do zatracenia własnego 'Ja'."
+    },
+    {
+      "id": 29,
+      "type": "single-choice",
+      "question": "Zasoby „okolicznościowe” w rozumieniu teorii radzenia sobie ze stresem S. Hobfolla oznaczają:",
+      "options": [
+        "Osobiste cechy temperamentu ułatwiające sprawne ominięcie kryzysów.",
+        "Rzadkie, statusowe uwarunkowania jak udane małżeństwo i dobra posada.",
+        "Gromadzony systematycznie materialny majątek w postaci kont w banku.",
+        "Zakres wrodzonej witalności obniżającej wpływ biologicznych starzeń."
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Zasoby okolicznościowe to szczególne właściwości i role (np. świetna praca, udany związek), które rzutują na pozycję człowieka, a których nie da się wprost 'kupić'."
+    },
+    {
+      "id": 30,
+      "type": "single-choice",
+      "question": "Posiadanie dojrzałej kompetencji planowania własnego życia przez młodego dorosłego, zgodnie z badaniami Clausena:",
+      "options": [
+        "Pozwala mu bezboleśnie omijać konflikty i zachować bierność rynkową.",
+        "Sprzyja stabilizacji małżeństwa oraz osiągnięciom w karierze zawodowej.",
+        "Wymusza rezygnację z osobistych pasji celem rygorystycznej nauki ról.",
+        "Prowadzi zazwyczaj do drastycznej sztywności i braku tolerancji błędu."
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Badania dowodzą, że asertywne i kontrolowane projektowanie przyszłości silnie i pozytywnie koreluje ze spójnością, osiągnięciami zawodowymi oraz trwałością relacji u dorosłych."
+    }
+  ]
+}
