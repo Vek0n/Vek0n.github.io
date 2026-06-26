@@ -1,0 +1,812 @@
+{
+  "title": "Pytania na kolokwium z Emocji i Motywacji (62 pytania)",
+  "difficulty": "Średni",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single-choice",
+      "question": "Emocja to:",
+      "options": [
+        "trwała cecha osobowości",
+        "krótkotrwały stan afektywny wywołany określonym bodźcem",
+        "zaburzenie psychiczne",
+        "utrwalona postawa wobec obiektu"
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Emocja jest krótkotrwałym stanem afektywnym wywołanym przez konkretny bodziec, w odróżnieniu od trwałych cech czy postaw."
+    },
+    {
+      "id": 2,
+      "type": "single-choice",
+      "question": "Według Mandlera podejście organistyczne zakłada, że:",
+      "options": [
+        "emocje są wyłącznie procesem społecznym",
+        "procesy psychiczne poprzedzają reakcje fizjologiczne",
+        "emocje są pochodną procesów zachodzących w ciele",
+        "emocje nie mają podłoża biologicznego"
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Podejście organistyczne wg Mandlera zakłada, że emocje wynikają z procesów cielesnych (fizjologicznych), a nie odwrotnie."
+    },
+    {
+      "id": 3,
+      "type": "single-choice",
+      "question": "Według Frijdy emocje pojawiają się w odpowiedzi na:",
+      "options": [
+        "bodźce obojętne",
+        "bodźce przypadkowe",
+        "zdarzenia znaczące dla jednostki",
+        "wyłącznie zagrożenia"
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Frijda podkreślał, że emocje są reakcją na zdarzenia istotne (znaczące) dla dobrostanu jednostki."
+    },
+    {
+      "id": 4,
+      "type": "single-choice",
+      "question": "Który element NIE należy do sekwencji procesu emocjonalnego?",
+      "options": [
+        "ocena zdarzenia",
+        "planowanie działania",
+        "zmiany fizjologiczne",
+        "iloraz inteligencji"
+      ],
+      "correctAnswerIndex": 3,
+      "explanation": "Iloraz inteligencji nie jest elementem sekwencji procesu emocjonalnego – ta obejmuje ocenę zdarzenia, zmiany fizjologiczne, tendencje do działania itp."
+    },
+    {
+      "id": 5,
+      "type": "single-choice",
+      "question": "Strach różni się od lęku tym, że:",
+      "options": [
+        "strach dotyczy konkretnego zagrożenia",
+        "lęk jest reakcją na realne zagrożenie",
+        "strach trwa dłużej",
+        "lęk zawsze jest świadomy"
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Strach jest reakcją na konkretne, zidentyfikowane zagrożenie, podczas gdy lęk jest bardziej rozproszony i często nie ma jasno określonego źródła."
+    },
+    {
+      "id": 6,
+      "type": "single-choice",
+      "question": "Wstyd i poczucie winy należą do:",
+      "options": [
+        "emocji podstawowych",
+        "emocji samoświadomościowych",
+        "nastrojów",
+        "afektów"
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Wstyd i poczucie winy to emocje samoświadomościowe – wymagają rozwiniętej samoświadomości i zdolności do oceny własnego zachowania."
+    },
+    {
+      "id": 7,
+      "type": "single-choice",
+      "question": "Emocje samoświadomościowe pojawiają się około:",
+      "options": [
+        "6 miesiąca życia",
+        "1 roku życia",
+        "3 roku życia",
+        "10 roku życia"
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Emocje samoświadomościowe (wstyd, duma, poczucie winy) pojawiają się około 3 roku życia, gdy dziecko rozwija poczucie ja."
+    },
+    {
+      "id": 8,
+      "type": "single-choice",
+      "question": "Najważniejszą strukturą mózgu w warunkowaniu lęku jest:",
+      "options": [
+        "móżdżek",
+        "ciało migdałowate",
+        "płat ciemieniowy",
+        "wzgórze"
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Ciało migdałowate (amygdala) jest kluczową strukturą odpowiedzialną za warunkowanie lęku i przetwarzanie bodźców zagrożenia."
+    },
+    {
+      "id": 9,
+      "type": "single-choice",
+      "question": "Jądro środkowe ciała migdałowatego pełni funkcję:",
+      "options": [
+        "wejścia informacji",
+        "wyjścia reakcji warunkowych",
+        "pamięci deklaratywnej",
+        "percepcji wzrokowej"
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Jądro środkowe (centralne) ciała migdałowatego odpowiada za wysyłanie sygnałów do struktur efektorowych – jest wyjściem reakcji warunkowych strachu."
+    },
+    {
+      "id": 10,
+      "type": "single-choice",
+      "question": "Proste warunkowanie lęku może zachodzić bez udziału:",
+      "options": [
+        "ciała migdałowatego",
+        "wzgórza",
+        "kory słuchowej",
+        "jądra bocznego"
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Proste warunkowanie lęku może zachodzić bez udziału kory mózgowej – droga wzgórzowo-migdałowata omija korę, umożliwiając szybkie reakcje."
+    },
+    {
+      "id": 11,
+      "type": "single-choice",
+      "question": "Traumatyczne doświadczenia z wczesnego dzieciństwa mogą wpływać na dorosłe życie ponieważ:",
+      "options": [
+        "układ pamięci emocjonalnej rozwija się wcześnie",
+        "dzieci mają lepszą pamięć deklaratywną",
+        "hipokamp jest wtedy najbardziej rozwinięty",
+        "emocje nie są wtedy zapamiętywane"
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Układ pamięci emocjonalnej (ciało migdałowate) rozwija się bardzo wcześnie w ontogenezie, podczas gdy hipokamp (pamięć deklaratywna) dojrzewa później."
+    },
+    {
+      "id": 12,
+      "type": "single-choice",
+      "question": "Za odporność emocjonalną odpowiada przede wszystkim połączenie:",
+      "options": [
+        "hipokamp – wzgórze",
+        "kora przedczołowa – ciało migdałowate",
+        "pień mózgu – móżdżek",
+        "kora wzrokowa – wzgórze"
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Odporność emocjonalna (rezyliencja) zależy od silnych połączeń między korą przedczołową a ciałem migdałowatym – kora hamuje nadmierne reakcje lękowe."
+    },
+    {
+      "id": 13,
+      "type": "single-choice",
+      "question": "Za samoświadomość odpowiada głównie:",
+      "options": [
+        "wyspa",
+        "móżdżek",
+        "płat potyliczny",
+        "wzgórze"
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Wyspa (insula) jest kluczową strukturą dla samoświadomości – integruje sygnały z ciała (interocepcja) i uczestniczy w świadomym odczuwaniu emocji."
+    },
+    {
+      "id": 14,
+      "type": "single-choice",
+      "question": "Twórcą teorii przywiązania był:",
+      "options": [
+        "Ekman",
+        "Bowlby",
+        "Lazarus",
+        "Davidson"
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "John Bowlby jest twórcą teorii przywiązania, opisującej fundamentalną rolę wczesnych więzi emocjonalnych w rozwoju człowieka."
+    },
+    {
+      "id": 15,
+      "type": "single-choice",
+      "question": "Styl lękowo-ambiwalentny rozwija się najczęściej przy:",
+      "options": [
+        "przewidywalnej opiece",
+        "niekonsekwentnych reakcjach opiekunów",
+        "bezpiecznej więzi",
+        "braku emocji"
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Styl lękowo-ambiwalentny powstaje, gdy opiekunowie reagują niekonsekwentnie – raz są dostępni, raz niedostępni, co wywołuje u dziecka niepewność i lęk."
+    },
+    {
+      "id": 16,
+      "type": "single-choice",
+      "question": "Konflikt motywacyjny oznacza:",
+      "options": [
+        "brak emocji",
+        "współwystępowanie sprzecznych tendencji działania",
+        "uszkodzenie mózgu",
+        "brak potrzeb"
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Konflikt motywacyjny to stan, w którym jednostka doświadcza jednocześnie sprzecznych tendencji do działania (np. dążenie i unikanie)."
+    },
+    {
+      "id": 17,
+      "type": "single-choice",
+      "question": "Konflikt „dążenie–dążenie\" występuje wtedy, gdy:",
+      "options": [
+        "trzeba wybrać między dwoma atrakcyjnymi celami",
+        "trzeba wybrać między dwoma nieprzyjemnymi sytuacjami",
+        "występuje jedna możliwość działania",
+        "nie ma żadnego celu"
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Konflikt dążenie–dążenie zachodzi, gdy trzeba wybrać jeden z dwóch pozytywnych, atrakcyjnych celów."
+    },
+    {
+      "id": 18,
+      "type": "single-choice",
+      "question": "Konflikt „unikanie–unikanie\" dotyczy:",
+      "options": [
+        "dwóch atrakcyjnych możliwości",
+        "dwóch nieprzyjemnych możliwości",
+        "jednej nagrody",
+        "jednej kary"
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Konflikt unikanie–unikanie to wybór między dwoma negatywnymi, nieprzyjemnymi alternatywami."
+    },
+    {
+      "id": 19,
+      "type": "single-choice",
+      "question": "Konflikt „dążenie–unikanie\" oznacza:",
+      "options": [
+        "ten sam cel ma zarówno cechy atrakcyjne, jak i nieprzyjemne",
+        "wybór między dwiema nagrodami",
+        "brak motywacji",
+        "brak emocji"
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "W konflikcie dążenie–unikanie jeden cel ma jednocześnie cechy pozytywne i negatywne – np. awans oznaczający więcej pieniędzy, ale i więcej stresu."
+    },
+    {
+      "id": 20,
+      "type": "single-choice",
+      "question": "Hipoteza frustracja–agresja zakłada, że:",
+      "options": [
+        "frustracja zawsze prowadzi do depresji",
+        "frustracja zwiększa tendencję do agresji",
+        "agresja zmniejsza frustrację",
+        "frustracja nie wpływa na zachowanie"
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Hipoteza frustracja–agresja (Dollard i Miller) zakłada, że frustracja – zablokowanie celu – zwiększa prawdopodobieństwo zachowań agresywnych."
+    },
+    {
+      "id": 21,
+      "type": "single-choice",
+      "question": "Przykładem agresji przemieszczonej jest:",
+      "options": [
+        "krzyk na szefa za niesprawiedliwą ocenę",
+        "krzyk na domownika po konflikcie z szefem",
+        "pochwała współpracownika",
+        "wycofanie społeczne"
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Agresja przemieszczona polega na wyładowaniu złości na obiekcie zastępczym (np. domowniku) zamiast na faktycznym źródle frustracji (szefie)."
+    },
+    {
+      "id": 22,
+      "type": "single-choice",
+      "question": "Według Butlera ciekawość jest:",
+      "options": [
+        "wyłącznie zachowaniem wyuczonym",
+        "jednym z najsilniejszych motywów zachowania",
+        "odmianą lęku",
+        "reakcją fizjologiczną"
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Butler uznawał ciekawość za jeden z najsilniejszych, wrodzonych motywów zachowania, niezależny od popędów biologicznych."
+    },
+    {
+      "id": 23,
+      "type": "single-choice",
+      "question": "W eksperymentach Harlowa młode małpy preferowały:",
+      "options": [
+        "drucianą matkę z pokarmem",
+        "miękką matkę pokrytą materiałem",
+        "matkę o większych rozmiarach",
+        "dowolną matkę jednakowo"
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Małpy Harlowa wybierały miękką, materiałową matkę zapewniającą komfort kontaktu, nawet gdy pokarm znajdował się przy drucianej matce."
+    },
+    {
+      "id": 24,
+      "type": "single-choice",
+      "question": "Według Harlowa „komfort kontaktu\" jest:",
+      "options": [
+        "mniej ważny niż pokarm",
+        "podstawą tworzenia więzi",
+        "formą kary",
+        "nieistotny dla rozwoju"
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Harlow udowodnił, że komfort kontaktu fizycznego jest fundamentalny dla tworzenia więzi – ważniejszy niż samo karmienie."
+    },
+    {
+      "id": 25,
+      "type": "single-choice",
+      "question": "Korzystniejszą dla dobrostanu strategią regulacji emocji jest:",
+      "options": [
+        "tłumienie ekspresji",
+        "reinterpretacja poznawcza",
+        "wyparcie",
+        "projekcja"
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Reinterpretacja poznawcza (cognitive reappraisal) to adaptacyjna strategia – zmiana znaczenia sytuacji zamiast tłumienia objawów emocji, co jest zdrowsze psychologicznie."
+    },
+    {
+      "id": 26,
+      "type": "single-choice",
+      "question": "Tłumienie emocji jest uruchamiane:",
+      "options": [
+        "przed powstaniem emocji",
+        "po zakończeniu emocji",
+        "gdy emocja jest już rozwinięta",
+        "wyłącznie w dzieciństwie"
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Tłumienie (suppression) to strategia regulacji korygującej – uruchamiana gdy emocja już powstała, polega na hamowaniu jej ekspresji."
+    },
+    {
+      "id": 27,
+      "type": "single-choice",
+      "question": "Wybór między dwoma atrakcyjnymi nagrodami to konflikt:",
+      "options": [
+        "dążenie-dążenie",
+        "unikanie-unikanie",
+        "dążenie-unikanie",
+        "regresja"
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Konflikt dążenie–dążenie polega na wyborze między dwoma pozytywnymi, atrakcyjnymi celami."
+    },
+    {
+      "id": 28,
+      "type": "single-choice",
+      "question": "Wyładowanie złości na niewinnym domowniku zamiast na szefie, który nas zdenerwował, to:",
+      "options": [
+        "agresja bezpośrednia",
+        "agresja przemieszczona",
+        "regresja",
+        "apatia"
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Agresja przemieszczona to skierowanie agresji na obiekt zastępczy zamiast na rzeczywiste źródło frustracji."
+    },
+    {
+      "id": 29,
+      "type": "single-choice",
+      "question": "Która strategia regulacji emocji może prowadzić do pogorszenia pamięci?",
+      "options": [
+        "Reinterpretacja poznawcza",
+        "Zmiana poznawcza",
+        "Tłumienie ekspresji",
+        "Wybór sytuacji"
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Tłumienie ekspresji emocji zużywa zasoby poznawcze potrzebne do kodowania pamięciowego, co może prowadzić do pogorszenia zapamiętywania."
+    },
+    {
+      "id": 30,
+      "type": "single-choice",
+      "question": "Według modelu Grossa przekierowanie uwagi jest przykładem:",
+      "options": [
+        "Regulacji korygującej",
+        "Regulacji wyprzedzającej",
+        "Mechanizmu obronnego",
+        "Regulacji fizjologicznej"
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Przekierowanie uwagi jest strategią regulacji wyprzedzającej w modelu Grossa – następuje przed pełnym rozwinięciem się emocji."
+    },
+    {
+      "id": 31,
+      "type": "single-choice",
+      "question": "Który wniosek najlepiej wynika z eksperymentu Harlowa?",
+      "options": [
+        "Karmienie jest jedynym źródłem przywiązania.",
+        "Przywiązanie rozwija się niezależnie od kontaktów społecznych.",
+        "Potrzeba kontaktu fizycznego jest podstawowym składnikiem przywiązania.",
+        "Młode wybierają opiekuna wyłącznie na podstawie wielkości nagrody."
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Eksperymenty Harlowa wykazały, że potrzeba komfortu kontaktu fizycznego jest fundamentalna dla przywiązania – ważniejsza niż samo karmienie."
+    },
+    {
+      "id": 32,
+      "type": "single-choice",
+      "question": "Które twierdzenie zostało podważone przez wyniki Harlowa?",
+      "options": [
+        "Emocje mają podłoże biologiczne.",
+        "Przywiązanie wynika głównie z karmienia.",
+        "Dzieci potrzebują kontaktów społecznych.",
+        "Rozwój zależy od środowiska."
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Harlow podważył behawiorystyczne twierdzenie, że przywiązanie wynika głównie z zaspokajania potrzeby pokarmu – komfort kontaktu okazał się kluczowy."
+    },
+    {
+      "id": 33,
+      "type": "single-choice",
+      "question": "Co tłumaczy fakt, że osoba po terapii fobii może ponownie odczuć lęk?",
+      "options": [
+        "Pamięć emocjonalna została usunięta.",
+        "Terapia nie działa.",
+        "Pamięć lęku została zahamowana, a nie wymazana.",
+        "Hipokamp nie działa prawidłowo."
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Wygaszanie (ekstynkcja) w terapii nie usuwa pamięci lęku, lecz tworzy nowe hamujące połączenia – stąd możliwość nawrotu."
+    },
+    {
+      "id": 34,
+      "type": "single-choice",
+      "question": "Który przypadek najlepiej pokazuje niezależność pamięci emocjonalnej od deklaratywnej?",
+      "options": [
+        "Pamiętam datę egzaminu.",
+        "Rozpoznaję twarz znajomego.",
+        "Odczuwam lęk, ale nie pamiętam źródła tego lęku.",
+        "Zapamiętuję numer telefonu."
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Niezależność tych systemów widać, gdy odczuwamy emocjonalną reakcję (lęk) bez świadomej pamięci zdarzenia – ciało migdałowate działa niezależnie od hipokampa."
+    },
+    {
+      "id": 35,
+      "type": "single-choice",
+      "question": "Jakie znaczenie kliniczne ma odkrycie dwóch dróg przetwarzania emocji?",
+      "options": [
+        "Emocje są zawsze świadome.",
+        "Reakcje emocjonalne mogą pojawić się przed świadomą analizą sytuacji.",
+        "Kora mózgowa kontroluje wszystkie emocje.",
+        "Lęk jest wyłącznie procesem poznawczym."
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Droga wzgórzowo-migdałowata (szybka, nieświadoma) pozwala na reakcję emocjonalną zanim kora dokona pełnej analizy – ma to znaczenie np. w PTSD."
+    },
+    {
+      "id": 36,
+      "type": "single-choice",
+      "question": "Student otrzymał słabą ocenę z egzaminu. Początkowo poczuł złość i rozczarowanie, ale po chwili pomyślał: „To dobra informacja, wiem już nad czym muszę popracować przed poprawą\". Jaką strategię regulacji emocji zastosował?",
+      "options": [
+        "Tłumienie ekspresji emocjonalnej",
+        "Reinterpretację poznawczą",
+        "Unikanie sytuacji",
+        "Przemieszczenie emocji"
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Student zmienił znaczenie porażki – z porażki na informację zwrotną. To klasyczny przykład reinterpretacji poznawczej."
+    },
+    {
+      "id": 37,
+      "type": "single-choice",
+      "question": "Który z poniższych przykładów najlepiej ilustruje reinterpretację poznawczą?",
+      "options": [
+        "Pracownik ukrywa zdenerwowanie podczas rozmowy z klientem.",
+        "Student wychodzi z sali, aby nie myśleć o egzaminie.",
+        "Kobieta po nieudanej rozmowie kwalifikacyjnej uznaje ją za cenne doświadczenie na przyszłość.",
+        "Mężczyzna powstrzymuje się od płaczu podczas pogrzebu."
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Zmiana znaczenia negatywnego wydarzenia (porażka → cenne doświadczenie) to istota reinterpretacji poznawczej."
+    },
+    {
+      "id": 38,
+      "type": "single-choice",
+      "question": "Który przykład najlepiej ilustruje regulację wyprzedzającą?",
+      "options": [
+        "Powstrzymywanie płaczu podczas rozmowy.",
+        "Ukrywanie zdenerwowania na egzaminie.",
+        "Niepójście na wydarzenie wywołujące silny lęk.",
+        "Kontrolowanie mimiki twarzy."
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Regulacja wyprzedzająca w modelu Grossa polega na działaniu zanim emocja się rozwinie – np. unikanie sytuacji wywołującej lęk."
+    },
+    {
+      "id": 39,
+      "type": "single-choice",
+      "question": "Które odkrycie najlepiej łączy badania Harlowa i Bowlby'ego?",
+      "options": [
+        "Pokarm jest podstawą więzi.",
+        "Relacja z opiekunem pełni funkcję bezpieczeństwa.",
+        "Inteligencja determinuje przywiązanie.",
+        "Emocje są wyłącznie wyuczone."
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Zarówno Harlow (komfort kontaktu), jak i Bowlby (bezpieczna baza) wykazali, że relacja z opiekunem służy przede wszystkim bezpieczeństwu, nie tylko zaspokojeniu głodu."
+    },
+    {
+      "id": 40,
+      "type": "single-choice",
+      "question": "Co wspólnego mają PTSD i warunkowanie lęku?",
+      "options": [
+        "Oba zjawiska dotyczą pamięci emocjonalnej.",
+        "Oba zależą wyłącznie od hipokampa.",
+        "Oba wymagają świadomego przypominania.",
+        "Oba są zaburzeniami osobowości."
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Zarówno PTSD, jak i warunkowanie lęku opierają się na mechanizmach pamięci emocjonalnej zależnej od ciała migdałowatego."
+    },
+    {
+      "id": 41,
+      "type": "single-choice",
+      "question": "Dwuletnie dziecko podczas pobytu w obcym miejscu chętnie eksploruje otoczenie. Gdy matka wychodzi, dziecko jest zaniepokojone, ale po jej powrocie szybko się uspokaja i wraca do zabawy. Który styl przywiązania jest najbardziej prawdopodobny?",
+      "options": [
+        "Lękowo-ambiwalentny",
+        "Zdezorganizowany",
+        "Bezpieczny",
+        "Unikający"
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Zachowanie dziecka odpowiada stylowi bezpiecznemu – eksploracja, dystres przy rozstaniu, szybkie uspokojenie przy powrocie opiekuna."
+    },
+    {
+      "id": 42,
+      "type": "single-choice",
+      "question": "Studentka bardzo pragnie bliskich relacji, ale stale obawia się odrzucenia. Często interpretuje brak odpowiedzi na wiadomość jako oznakę utraty zainteresowania ze strony partnera. Który styl przywiązania najlepiej opisuje jej funkcjonowanie?",
+      "options": [
+        "Bezpieczny",
+        "Lękowo-ambiwalentny",
+        "Unikający",
+        "Zdezorganizowany"
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Lęk przed odrzuceniem przy silnym pragnieniu bliskości to charakterystyka stylu lękowo-ambiwalentnego."
+    },
+    {
+      "id": 43,
+      "type": "single-choice",
+      "question": "Mężczyzna twierdzi, że nie potrzebuje bliskich relacji, unika okazywania emocji i czuje dyskomfort, gdy ktoś próbuje się do niego zbliżyć emocjonalnie. Najbardziej prawdopodobny styl przywiązania to:",
+      "options": [
+        "Bezpieczny",
+        "Lękowo-ambiwalentny",
+        "Unikający",
+        "Zdezorganizowany"
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Unikanie bliskości, dyskomfort przy emocjonalnym zbliżeniu i zaprzeczanie potrzebie relacji to cechy stylu unikającego."
+    },
+    {
+      "id": 44,
+      "type": "single-choice",
+      "question": "Osoba po rozstaniu odczuwa silny stres. Po kilku tygodniach zaczyna myśleć: „Ta sytuacja jest trudna, ale dzięki niej lepiej rozumiem swoje potrzeby\". Które dwa pojęcia najlepiej opisują ten proces?",
+      "options": [
+        "Warunkowanie lęku + tłumienie",
+        "Reinterpretacja poznawcza + regulacja wyprzedzająca",
+        "Komfort kontaktu + przywiązanie unikające",
+        "Agresja przemieszczona + frustracja"
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Zmiana znaczenia trudnej sytuacji (reinterpretacja) i proaktywne podejście do regulacji to opisany proces."
+    },
+    {
+      "id": 45,
+      "type": "single-choice",
+      "question": "Dlaczego z punktu widzenia ewolucji zarówno przywiązanie, jak i lęk są korzystne?",
+      "options": [
+        "Zwiększają ilość snu.",
+        "Zmniejszają aktywność mózgu.",
+        "Pomagają przetrwać i reagować na zagrożenia.",
+        "Eliminują negatywne emocje."
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Lęk ostrzega przed zagrożeniem, przywiązanie zapewnia opiekę – obie funkcje zwiększają szanse przeżycia."
+    },
+    {
+      "id": 46,
+      "type": "single-choice",
+      "question": "Osoba po traumatycznym doświadczeniu wie, że obecnie jest bezpieczna, ale mimo to odczuwa silny lęk. Najlepiej pokazuje to, że:",
+      "options": [
+        "Pamięć emocjonalna i deklaratywna mogą działać niezależnie.",
+        "Hipokamp odpowiada za wszystkie emocje.",
+        "Emocje zawsze są świadome.",
+        "Lęk nie jest związany z pamięcią."
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Rozdźwięk między wiedzą deklaratywną (jestem bezpieczny) a reakcją emocjonalną (czuję lęk) dowodzi niezależności tych systemów pamięci."
+    },
+    {
+      "id": 47,
+      "type": "single-choice",
+      "question": "Który badacz opracował teorię emocji Jamesa-Langego?",
+      "options": [
+        "Walter Cannon",
+        "Richard Lazarus",
+        "William James",
+        "Paul Ekman"
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "William James (wspólnie z Carlem Langem) opracował teorię mówiącą, że emocje są percepcją zmian fizjologicznych."
+    },
+    {
+      "id": 48,
+      "type": "single-choice",
+      "question": "Która emocja według Ekmana jest uniwersalnie rozpoznawana we wszystkich kulturach?",
+      "options": [
+        "Duma",
+        "Wstyd",
+        "Zazdrość",
+        "Wstręt"
+      ],
+      "correctAnswerIndex": 3,
+      "explanation": "Wstręt (obok radości, smutku, strachu, złości i zaskoczenia) należy do 6 podstawowych emocji uniwersalnych wg Ekmana."
+    },
+    {
+      "id": 49,
+      "type": "single-choice",
+      "question": "Teoria Schachtera i Singera zakłada, że emocje są wynikiem:",
+      "options": [
+        "Wyłącznie zmian fizjologicznych",
+        "Dziedziczenia genetycznego",
+        "Pobudzenia fizjologicznego i interpretacji poznawczej",
+        "Procesów nieświadomych"
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Teoria dwuczynnikowa Schachtera i Singera mówi, że emocje powstają z połączenia pobudzenia fizjologicznego i poznawczej etykiety sytuacji."
+    },
+    {
+      "id": 50,
+      "type": "single-choice",
+      "question": "Który neuroprzekaźnik jest szczególnie związany z odczuwaniem przyjemności i motywacją?",
+      "options": [
+        "Acetylocholina",
+        "GABA",
+        "Noradrenalina",
+        "Dopamina"
+      ],
+      "correctAnswerIndex": 3,
+      "explanation": "Dopamina jest głównym neuroprzekaźnikiem układu nagrody – odpowiedzialnym za odczuwanie przyjemności i motywację."
+    },
+    {
+      "id": 51,
+      "type": "single-choice",
+      "question": "W teorii oczekiwań Vrooma motywacja zależy między innymi od:",
+      "options": [
+        "Poziomu inteligencji",
+        "Temperamentu",
+        "Przekonania, że wysiłek doprowadzi do osiągnięcia celu",
+        "Liczby znajomych"
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Teoria oczekiwań Vrooma opiera się na trzech elementach: oczekiwaniu (wysiłek→wynik), instrumentalności (wynik→nagroda) i wartościowości nagrody."
+    },
+    {
+      "id": 52,
+      "type": "single-choice",
+      "question": "Który rodzaj motywu zalicza się do motywów biologicznych?",
+      "options": [
+        "Potrzeba osiągnięć",
+        "Potrzeba uznania społecznego",
+        "Potrzeba samorealizacji",
+        "Pragnienie i głód"
+      ],
+      "correctAnswerIndex": 3,
+      "explanation": "Pragnienie i głód to motywy biologiczne (popędy pierwotne) związane z homeostazą organizmu."
+    },
+    {
+      "id": 53,
+      "type": "single-choice",
+      "question": "Prawo Yerkesa-Dodsona opisuje zależność między:",
+      "options": [
+        "Inteligencją a pamięcią",
+        "Temperamentem a osobowością",
+        "Poziomem pobudzenia a efektywnością działania",
+        "Samooceną a przywiązaniem"
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Prawo Yerkesa-Dodsona mówi o odwróconej U-krzywej: optymalny poziom pobudzenia daje najlepszą efektywność, zbyt niskie i zbyt wysokie pogarszają wynik."
+    },
+    {
+      "id": 54,
+      "type": "single-choice",
+      "question": "Motyw osiągnięć oznacza dążenie do:",
+      "options": [
+        "Unikania kontaktów społecznych",
+        "Zaspokojenia potrzeb fizjologicznych",
+        "Zdobywania przewagi nad innymi za wszelką cenę",
+        "Uzyskiwania wysokich wyników i realizacji ambitnych celów"
+      ],
+      "correctAnswerIndex": 3,
+      "explanation": "Motyw osiągnięć (McClelland) to dążenie do sukcesu, mistrzostwa i realizacji ambitnych celów – nie mylić z potrzebą władzy."
+    },
+    {
+      "id": 55,
+      "type": "single-choice",
+      "question": "Który z poniższych czynników najczęściej osłabia motywację wewnętrzną?",
+      "options": [
+        "Poczucie autonomii",
+        "Możliwość wyboru sposobu działania",
+        "Nadmierne nagradzanie za czynności wcześniej wykonywane dla przyjemności",
+        "Zainteresowanie zadaniem"
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Efekt nadmiernego uzasadnienia (overjustification effect) – zewnętrzne nagrody mogą osłabić motywację wewnętrzną do czynności wcześniej wykonywanych dla przyjemności."
+    },
+    {
+      "id": 56,
+      "type": "single-choice",
+      "question": "Zjawisko polegające na tym, że ludzie mają tendencję do podejmowania działań przynoszących natychmiastowe korzyści kosztem przyszłych zysków, nazywa się:",
+      "options": [
+        "Efektem halo",
+        "Dysonansem poznawczym",
+        "Heurystyką dostępności",
+        "Dyskontowaniem odroczonym"
+      ],
+      "correctAnswerIndex": 3,
+      "explanation": "Dyskontowanie odroczone (delay discounting) to tendencja do przedkładania mniejszych natychmiastowych nagród nad większe odroczone."
+    },
+    {
+      "id": 57,
+      "type": "single-choice",
+      "question": "Który badacz jest twórcą teorii emocji Cannon-Barda?",
+      "options": [
+        "Abraham Maslow",
+        "Paul Ekman",
+        "Walter Cannon",
+        "Harry Harlow"
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Walter Cannon (wraz z Philipem Bardem) opracował teorię mówiącą, że reakcja fizjologiczna i doświadczenie emocji zachodzą równocześnie."
+    },
+    {
+      "id": 58,
+      "type": "single-choice",
+      "question": "Afekt różni się od nastroju przede wszystkim tym, że:",
+      "options": [
+        "Trwa dłużej niż nastrój",
+        "Nie wywołuje zmian fizjologicznych",
+        "Występuje tylko u dzieci",
+        "Jest bardziej intensywny i krótkotrwały"
+      ],
+      "correctAnswerIndex": 3,
+      "explanation": "Afekt to krótkotrwała, intensywna reakcja emocjonalna, podczas gdy nastrój jest dłuższy i mniej intensywny."
+    },
+    {
+      "id": 59,
+      "type": "single-choice",
+      "question": "Która struktura mózgu odgrywa kluczową rolę w pamięci deklaratywnej?",
+      "options": [
+        "Ciało migdałowate",
+        "Wyspa",
+        "Hipokamp",
+        "Móżdżek"
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Hipokamp jest kluczowy dla pamięci deklaratywnej (świadomej, jawnej) – uszkodzenie hippocampa powoduje amnezję następcza."
+    },
+    {
+      "id": 60,
+      "type": "single-choice",
+      "question": "Teoria redukcji popędu została sformułowana przez:",
+      "options": [
+        "Albert Bandura",
+        "David McClelland",
+        "Abraham Maslow",
+        "Clark Hull"
+      ],
+      "correctAnswerIndex": 3,
+      "explanation": "Clark Hull jest twórcą teorii redukcji popędu, według której organizm dąży do redukcji napięcia wywołanego przez popędy biologiczne."
+    },
+    {
+      "id": 61,
+      "type": "single-choice",
+      "question": "Potrzeba osiągnięć według McClellanda oznacza dążenie do:",
+      "options": [
+        "Dominacji nad innymi ludźmi",
+        "Unikania porażek za wszelką cenę",
+        "Osiągania sukcesów i realizowania trudnych celów",
+        "Uzyskiwania akceptacji społecznej"
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Potrzeba osiągnięć (nAch) to według McClellanda dążenie do sukcesów i osiągania standardów doskonałości, nie mylić z potrzebą władzy czy afiliacji."
+    },
+    {
+      "id": 62,
+      "type": "single-choice",
+      "question": "Który rodzaj motywacji wiąże się z chęcią zdobycia pochwały lub uniknięcia kary?",
+      "options": [
+        "Motywacja autonomiczna",
+        "Motywacja poznawcza",
+        "Motywacja wewnętrzna",
+        "Motywacja zewnętrzna"
+      ],
+      "correctAnswerIndex": 3,
+      "explanation": "Motywacja zewnętrzna opiera się na zewnętrznych nagrodach (pochwała) lub karach, w przeciwieństwie do motywacji wewnętrznej (działanie dla samej przyjemności)."
+    }
+  ]
+}
