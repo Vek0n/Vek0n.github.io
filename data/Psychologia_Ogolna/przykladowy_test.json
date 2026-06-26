@@ -1,0 +1,30 @@
+{
+  "title": "Przykładowy Test: Pamięć",
+  "difficulty": "Łatwy",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single-choice",
+      "question": "Kto jako pierwszy systematycznie badał pamięć za pomocą bezsensownych sylab i opracował krzywą zapominania?",
+      "options": [
+        "Sigmund Freud",
+        "Hermann Ebbinghaus",
+        "B.F. Skinner",
+        "Jean Piaget"
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Hermann Ebbinghaus był pionierem eksperymentalnych badań nad pamięcią, znanym z odkrycia krzywej zapominania."
+    },
+    {
+      "id": 2,
+      "type": "true-false",
+      "question": "Według modelu Atkinsona-Shiffrina, pamięć sensoryczna ma dużą pojemność, ale bardzo krótki czas trwania.",
+      "options": [
+        "Prawda",
+        "Fałsz"
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Prawda. Pamięć sensoryczna przechowuje bardzo dużo informacji (np. cały obraz z siatkówki), ale tylko przez ułamek sekundy."
+    }
+  ]
+}
