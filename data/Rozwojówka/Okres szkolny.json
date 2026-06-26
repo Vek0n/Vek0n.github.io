@@ -1,0 +1,366 @@
+{
+  "title": "Test z Psychologii Rozwoju: Wiek Szkolny",
+  "difficulty": "Średni",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single-choice",
+      "question": "Główne zadanie rozwojowe w wieku szkolnym według koncepcji E. Eriksona polega na:",
+      "options": [
+        "Osiągnięciu poczucia pracowitości i uniknięciu utrwalenia się poczucia niższości.",
+        "Ukształtowaniu intymności w relacjach i uniknięciu długotrwałej izolacji społecznej.",
+        "Osiągnięciu poczucia tożsamości ego i uniknięciu zjawiska głębokiego pomieszania ról."
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "W wieku szkolnym dziecko kształtuje poczucie kompetencji (pracowitości) przez zdobywanie nowej wiedzy, a doznawane na tym polu porażki mogą rodzić poczucie niższości."
+    },
+    {
+      "id": 2,
+      "type": "single-choice",
+      "question": "Pojawienie się na etapie operacji konkretnych zdolności do decentracji spostrzeżeń oznacza, że uczeń potrafi:",
+      "options": [
+        "Zdolność do jednoczesnego uwzględniania wszystkich istotnych aspektów danego bodźca.",
+        "Umiejętność całkowitego ignorowania bodźców wzrokowych na rzecz bodźców słuchowych.",
+        "Tendencję do skupiania uwagi wyłącznie na jednym, najbardziej dominującym elemencie."
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Decentracja to przełamanie przedszkolnej centracji – pozwala dziecku brać pod uwagę kilka wymiarów obiektu naraz, co jest kluczowe dla logicznego wnioskowania."
+    },
+    {
+      "id": 3,
+      "type": "single-choice",
+      "question": "Czym charakteryzuje się zasada zachowania stałości (np. masy lub objętości) odkrywana przez dziecko w wieku szkolnym?",
+      "options": [
+        "Zrozumieniem, że podstawowe cechy przedmiotu nie zmieniają się mimo pozornej zmiany jego wyglądu.",
+        "Przekonaniem, że każdy przedmiot w otoczeniu dziecka posiada własną, bardzo niezmienną świadomość.",
+        "Zdolnością do utrzymywania stałego i wysokiego poziomu uwagi podczas wykonywania nużących zadań."
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Zasada zachowania stałości to odkrycie, że modyfikacja kształtu (np. przelanie wody do innego naczynia) nie wpływa na zmianę obiektywnej ilości substancji."
+    },
+    {
+      "id": 4,
+      "type": "single-choice",
+      "question": "W procesie kształtowania strategii pamięciowych w wieku szkolnym, strategia elaboracji polega na:",
+      "options": [
+        "Poszukiwaniu wspólnych znaczeń i powiązań między nowym materiałem a wiedzą już zjako posiadaną.",
+        "Umysłowym lub głośnym, wielokrotnym, całkowicie mechanicznym powtarzaniu tego samego słowa.",
+        "Grupowaniu wszystkich nowo poznanych informacji w jedną, bardzo szeroką i ogólną kategorię."
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Elaboracja ułatwia zapamiętywanie poprzez nadanie informacjom sensu i połączenie ich z posiadanymi już w sieci pamięciowej doświadczeniami."
+    },
+    {
+      "id": 5,
+      "type": "single-choice",
+      "question": "Na czym polega pojęcie metapamięci, rozwijające się u dzieci u progu wieku szkolnego?",
+      "options": [
+        "Wiedzy na temat tego, jak działa własna pamięć i zdolności dobierania do niej odpowiednich strategii.",
+        "Zdolności do trwałego zapamiętywania wydarzeń z bardzo wczesnego dzieciństwa, przed trzecim rokiem życia.",
+        "Tendencji do automatycznego, całkowicie nieświadomego przyswajania obszernych i skomplikowanych tekstów."
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Metapamięć to świadomość ucznia własnych procesów pamięciowych, pozwalająca m.in. na ocenę, co i w jaki sposób potrafi najlepiej zapamiętać."
+    },
+    {
+      "id": 6,
+      "type": "single-choice",
+      "question": "Rozwój emocjonalny dziecka w wieku szkolnym charakteryzuje się istotną zmianą w stosunku do wieku przedszkolnego, ponieważ:",
+      "options": [
+        "Dziecko zaczyna obejmować refleksją swoje przeżycia i poddawać je silnej kontroli własnej woli.",
+        "Dziecko całkowicie traci zdolność do odczuwania silnych emocji, takich jak gniew czy wielka radość.",
+        "Dziecko powraca do wczesnodziecięcej, niekontrolowanej impulsywności w wyrażaniu wszystkich uczuć."
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "W wieku szkolnym naturalna spontaniczność ustępuje miejsca refleksji; uczeń zaczyna rozumieć konieczność hamowania impulsów stosownie do sytuacji."
+    },
+    {
+      "id": 7,
+      "type": "single-choice",
+      "question": "Czym w perspektywie L. Wygotskiego różni się uczenie reaktywne (szkolne) od spontanicznego (przedszkolnego)?",
+      "options": [
+        "Dziecko uczy się wyłącznie tego, czego samo chce, realizując jedynie swój wewnętrzny, swobodny program.",
+        "Dziecko potrafi skutecznie podporządkować się celom i programowi zewnętrznemu wyznaczonemu przez nauczyciela.",
+        "Dziecko opanowuje wiedzę tylko i wyłącznie poprzez gwałtowne, silnie emocjonalne reakcje i manipulacje zabawkami."
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Uczenie reaktywne wymaga od dziecka powściągnięcia własnych, bieżących chęci i poddania się wymaganiom nakładanym przez system i dorosłego."
+    },
+    {
+      "id": 8,
+      "type": "single-choice",
+      "question": "W jaki sposób w okresie wczesnoszkolnym ulega zmianie dynamika tworzenia grup rówieśniczych?",
+      "options": [
+        "Chłopcy bawią się głównie z chłopcami, a dziewczynki z dziewczynkami, mocno preferując własne terytoria.",
+        "Dzieci nawiązują przyjaźnie wyłącznie z rówieśnikami płci przeciwnej, celowo unikając osób własnej płci.",
+        "Chłopcy i dziewczynki bawią się zawsze wspólnie w diadach, całkowicie ignorując różnice w upodobaniach."
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Segregacja płciowa jest w tym wieku bardzo wyraźna; chłopcy preferują rywalizację w większych grupach, a dziewczynki bliskość w mniejszych zespołach."
+    },
+    {
+      "id": 9,
+      "type": "single-choice",
+      "question": "Na czym polega istota moralności autonomicznej, kształtującej się u uczniów pod koniec wieku szkolnego?",
+      "options": [
+        "Ocenianiu czynów wyłącznie na podstawie ich fizycznych skutków i wielkości wyrządzonej otoczeniu szkody.",
+        "Wierze w to, że naturalne nieszczęścia i wypadki losowe są zawsze bezpośrednią karą za złe postępowanie.",
+        "Ocenianiu czynów przez pryzmat intencji sprawcy i uznawaniu reguł za elastyczną, zmienianą umowę społeczną."
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "W moralności autonomicznej dzieci zaczynają rozumieć intencje działań oraz fakt, że zasady są umowami między ludźmi, a nie absolutnymi dogmatami."
+    },
+    {
+      "id": 10,
+      "type": "single-choice",
+      "question": "Sprawiedliwość dystrybutywna (równościowa), typowa dla wieku szkolnego, w podejściu do karania opiera się na:",
+      "options": [
+        "Preferowaniu kar dających szansę poprawy, mających na celu restytucję i zapobieganie podobnym błędom.",
+        "Wymierzaniu surowych kar fizycznych, które mają przynieść wyłącznie bezwzględny, ślepy odwet na sprawcy.",
+        "Uznawaniu, że każdy niezależny wypadek losowy jest zawsze sprawiedliwą i nieuniknioną karą od wyższej siły."
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Zamiast żądać „oka za oko” (sprawiedliwość retrybutywna), uczniowie preferują kary, które mają sens naprawczy i przywracają równowagę."
+    },
+    {
+      "id": 11,
+      "type": "single-choice",
+      "question": "Według S. Harter na poziom samooceny ucznia w szkole decydujący wpływ mają dwa główne czynniki, z których pierwszym jest wsparcie, a drugim:",
+      "options": [
+        "Wielkość postrzeganego przez dziecko rozdźwięku między jego „Ja idealnym” a aktualnym „Ja realnym”.",
+        "Stopień całkowitej izolacji od jakichkolwiek kontaktów z rówieśnikami w klasie oraz brak rodzeństwa.",
+        "Wrodzony i całkowicie niezmienny poziom temperamentu warunkujący siłę i trwałość procesów pobudzenia."
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Im większa rozbieżność między tym, kim dziecko chciałoby być (standardy/ideały), a tym, jak widzi siebie w rzeczywistości, tym niższa staje się jego samoocena."
+    },
+    {
+      "id": 12,
+      "type": "single-choice",
+      "question": "Czym w perspektywie socjologicznej charakteryzuje się tzw. ukryty program szkoły?",
+      "options": [
+        "Nieoficjalne, rutynowe reguły i sposób organizacji przestrzeni wymuszające konkretne, uległe postawy uczniów.",
+        "Zastrzeżone i trudnodostępne procedury psychologiczne wykorzystywane tylko podczas diagnozy uczniów dyslektycznych.",
+        "Innowacyjne metody nauczania zintegrowanego, które skutecznie i całkowicie eliminują rywalizację w nowej klasie."
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Ukryty program (hidden curriculum) to codzienne praktyki i układ środowiska, które uczą konformizmu, cierpliwości i posłuszeństwa bez oficjalnego zapisywania ich w statucie."
+    },
+    {
+      "id": 13,
+      "type": "single-choice",
+      "question": "Zgodnie z ujęciem dynamicznym, tzw. gotowość szkolna dziecka jest przede wszystkim efektem:",
+      "options": [
+        "Wyłącznie wrodzonego, biologicznego i całkowicie niezależnego tempa dojrzewania układu nerwowego.",
+        "Interakcji pomiędzy postępującym dojrzewaniem dziecka a odpowiednimi oddziaływaniami jego środowiska.",
+        "Tylko i wyłącznie rygorystycznego treningu pamięciowego przeprowadzonego w klasie przedszkolnej."
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Gotowość szkolna nie jest jedynie wrodzonym stanem – kształtuje się ona dzięki połączeniu naturalnych możliwości organizmu z treningiem socjalizacyjnym z otoczenia."
+    },
+    {
+      "id": 14,
+      "type": "single-choice",
+      "question": "Gotowość emocjonalno-motywacyjna, niezbędna do rozpoczęcia nauki czytania i pisania, wyraża się poprzez:",
+      "options": [
+        "Posiadanie wysokiej sprawności dominującej ręki oraz w pełni wykształconej koordynacji wzrokowo-ruchowej.",
+        "Chęć odkrywania istoty języka pisanego, nastawienie na poznawanie i samodzielne badanie tajemnic świata.",
+        "Wrodzoną zdolność do poprawnego wymawiania wszystkich głosek i bardzo sprawnego abstrahowania pojęć."
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Aspekt emocjonalno-motywacyjny dotyczy wewnętrznej chęci ucznia do zrozumienia, jak działa komunikacja pisemna, i jego gotowości na podjęcie wysiłku uczenia się."
+    },
+    {
+      "id": 15,
+      "type": "single-choice",
+      "question": "Współczesna definicja dysleksji rozwojowej podkreśla, że jest ona zaburzeniem:",
+      "options": [
+        "Związanym z całościowym upośledzeniem funkcji intelektualnych dziecka, uniemożliwiającym ogólną edukację.",
+        "Polegającym na specyficznych trudnościach w czytaniu występujących pomimo przeciętnej lub wyższej inteligencji.",
+        "Wynikającym z poważnych wad wzroku i słuchu lub ze skrajnych zaniedbań wychowawczych w rodzinie dziecka."
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Dysleksja ma charakter specyficzny, ponieważ dotyka wybranych umiejętności, podczas gdy ogólny rozwój intelektualny pozostaje w normie i nie ma tła w zaniedbaniach."
+    },
+    {
+      "id": 16,
+      "type": "single-choice",
+      "question": "Czym przejawia się patologiczna postawa, nazywana przez badaczy przerostem adekwatności u dziecka w wieku szkolnym?",
+      "options": [
+        "Dziecko staje się skrajnie uległe i całkowicie wycofane we wszystkich relacjach z rówieśnikami na terenie całej szkoły.",
+        "Człowiek całkowicie uzależnia poczucie własnej wartości od sukcesów zadaniowych i przypisanych mu dorosłych ról.",
+        "Uczeń drastycznie odrzuca jakiekolwiek wymagania szkoły i przyjmuje postawę jawnie opozycyjno-buntowniczą."
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Przerost adekwatności to negatywne, nadmierne zafiksowanie na poczuciu pracowitości, w którym osoba utożsamia swoją wartość wyłącznie z wypełnianiem obowiązków."
+    },
+    {
+      "id": 17,
+      "type": "single-choice",
+      "question": "Rozwój kompetencji społecznych poprzez mechanizm tutoringu rówieśniczego polega w szkole na:",
+      "options": [
+        "Systemie nakładającym niezwykle surowe kary na uczniów za podpowiadanie i udzielanie sobie jakiejkolwiek pomocy.",
+        "Procesie uczenia się dzieci nawzajem od siebie, uznawanym za jedną z najskuteczniejszych metod poszerzania wiedzy.",
+        "Sytuacji, w której trudne szkolne zadanie rozwiązuje tylko wyznaczony lider grupy, a pozostali biernie mu się przyglądają."
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Tutoring rówieśniczy zakłada, że współpraca i tłumaczenie materiału między kolegami znakomicie sprzyja obopólnemu zrozumieniu i utrwaleniu wiedzy."
+    },
+    {
+      "id": 18,
+      "type": "single-choice",
+      "question": "W jaki sposób styl wychowania autorytatywny rodziców oddziałuje na funkcjonowanie dziecka w szkole?",
+      "options": [
+        "Uczniowie wychowani w ten sposób są zazwyczaj silnie nieodpowiedzialni i przejawiają wiele wycofanych zachowań lękowych.",
+        "Dzieci wychowane w tym stylu zazwyczaj stają się w swoich relacjach asertywne, kompetentne społecznie i mocno odpowiedzialne.",
+        "Styl ten powoduje, że dzieci bez wyjątków wykazują dużą skłonność do nadużywania siły i przemocy wobec rówieśników w klasie."
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Autorytatywny styl wychowania (połączenie ciepła z racjonalnymi i jasnymi granicami) uważa się za najlepszy fundament do budowania szkolnej kompetencji społecznej."
+    },
+    {
+      "id": 19,
+      "type": "single-choice",
+      "question": "Zjawisko otyłości u dzieci w wieku szkolnym, interpretowane w modelu z zakresu podejścia poznawczego, wynika przede wszystkim z:",
+      "options": [
+        "Niezwykle głębokich i silnie wypartych, nieświadomych konfliktów w relacji z nadmiernie nadopiekuńczą i rygorystyczną matką.",
+        "Wrodzonych i niemożliwych do usunięcia mutacji genetycznych determinujących trwale uszkodzony i znacznie powolniejszy metabolizm.",
+        "Istotnych zaburzeń mechanizmów sprawowania kontroli i braku umiejętności samodzielnego kierowania własnymi działaniami."
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "W podejściu poznawczym akcentuje się, że dziecko jest wyręczane przez dorosłych i nie wykształca zewnątrzsterowności oraz adekwatnej samokontroli nad impulsami."
+    },
+    {
+      "id": 20,
+      "type": "single-choice",
+      "question": "W badaniach nad uwagą nauczycieli w tradycyjnym, frontalnym układzie ławek szkolnych stwierdzono, że strefa aktywnej uwagi nauczyciela obejmuje głównie:",
+      "options": [
+        "Wszystkich bez wyjątku uczniów znajdujących się w klasie w całkowicie rozproszony i jak najbardziej równomierny sposób.",
+        "Wyłącznie uczniów zajmujących dwa najdalsze od tablicy rzędy ławek, gdzie istnieje największe prawdopodobieństwo rozproszenia.",
+        "Dzieci znajdujące się w środkowym, odwróconym trójkącie, którego bezpośrednią podstawę stanowi zawsze pierwszy rząd ławek."
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Tradycyjny układ przestrzeni faworyzuje osoby siedzące w centrum i z przodu sali, skupiając na nich wzrok oraz aktywność dydaktyczną nauczyciela."
+    },
+    {
+      "id": 21,
+      "type": "single-choice",
+      "question": "Które zjawisko w opisie diagnozy psychospołecznej najtrafniej określa zagrażający mechanizm błędnego koła u ucznia?",
+      "options": [
+        "Zbyt wysoka i zawyżona samoocena powoduje ignorowanie trudnej nauki, co bezpośrednio skutkuje szybkim wyrzuceniem ze szkoły.",
+        "Niska samoocena i wyraźny brak wsparcia potęgują doznawanie szkolnych niepowodzeń, co z kolei jeszcze bardziej obniża samoocenę.",
+        "Doświadczanie wybitnych sukcesów prowadzi do silnego narcyzmu, co z kolei wkrótce owocuje potężnymi konfliktami z wychowawcą."
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Błędne koło powstaje, gdy brak wiary we własne siły wywołuje gorsze oceny i poddanie się, a te porażki utwierdzają dziecko w poczuciu bycia słabym i bezwartościowym."
+    },
+    {
+      "id": 22,
+      "type": "single-choice",
+      "question": "W analizie dynamiki psychopatologii uznaje się, że wtórnymi skutkami długotrwałych niepowodzeń szkolnych u dzieci mogą być:",
+      "options": [
+        "Poważne i postępujące procesy patologizacji zachowania, często przybierające formę zaburzeń opozycyjno-buntowniczych w starszych klasach.",
+        "Skokowy i niezwykle szybki wzrost poziomu zaawansowanej inteligencji emocjonalnej wywołany ogromną chęcią szybkiej kompensacji.",
+        "Całkowite odcięcie się młodego człowieka od emocji społecznych i popadnięcie w głęboki, nieuleczalny, wczesnodziecięcy klasyczny autyzm."
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Niepowodzenia frustrują dziecko, co uruchamia mechanizmy obronne w postaci agresji, buntu (ODD) i z czasem wchodzenia na drogę zachowań antyspołecznych."
+    },
+    {
+      "id": 23,
+      "type": "single-choice",
+      "question": "Dzieci posiadające status socjometryczny osób „odrzuconych” w hierarchii zespołu klasowego najczęściej wykazują następujące cechy:",
+      "options": [
+        "Są urodzonymi liderami grupy, świetnie się uczą i niezwykle rzadko podważają jakiekolwiek narzucone przez nauczyciela i dyrekcję reguły.",
+        "Mają niezwykle wysoki poziom ukrytego lęku społecznego, bywają całkowicie uległe i bezwzględnie, pasywnie podporządkowane silniejszym.",
+        "Często bywają silnie agresywne, mają niezwykle niską samoocenę, doznają kłopotów z adaptacją i systematycznie naruszają szkolne zasady."
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Odrzucenie przez rówieśników w szkole koreluje mocno z brakiem kompetencji prospołecznych ucznia i manifestowaniem wrogich, antyspołecznych postaw."
+    },
+    {
+      "id": 24,
+      "type": "single-choice",
+      "question": "W modelu A. I. Brzezińskiej czynniki ryzyka niepowodzeń szkolnych rozpatruje się w szerokiej kategorii interakcyjnej „jakości dopasowania”. Oznacza to, że:",
+      "options": [
+        "Ryzyko niepowodzeń rośnie zawsze znacząco, gdy narzucane wymagania otoczenia są skrajnie nieadekwatne do realnych możliwości tego dziecka.",
+        "Ryzyko niepowodzeń szkolnych pojawia się zawsze tylko i wyłącznie wtedy, gdy dziecko już obiektywnie posiada znaczne opóźnienie rozwoju umysłowego.",
+        "Ryzyko wszelkich niepowodzeń szkolnych jest zawsze bezwzględnie wyższe w placówkach charakteryzujących się najniższym poziomem trudności zadań."
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Brak sukcesów nie musi wynikać ze słabości ucznia – to nieodpowiednio dobrane, zbyt niskie lub zbyt wysokie wymagania szkoły wyzwalają mechanizm ryzyka."
+    },
+    {
+      "id": 25,
+      "type": "single-choice",
+      "question": "Rozwój umiejętności rozumowania dziecka na etapie operacji konkretnych pozwala mu na przeprowadzenie udanej klasyfikacji obiektów, czyli na:",
+      "options": [
+        "Tworzenie czysto hipotetycznych układów bez posiadania jakiejkolwiek wiedzy na temat obiektywnie obserwowalnych, realnych i dotykalnych cech obiektu.",
+        "Zdolność do dostrzeżenia nadrzędnych relacji między klasą a podklasami oraz opanowanie zjawiska inkluzji w ramach przypisanych poszczególnych kategorii.",
+        "Wyłączne mechaniczne ułożenie obiektów jeden obok drugiego w szeregu według jednej dominującej cechy, takiej jak wyłącznie grubość lub całkowity ciężar."
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Zjawisko inkluzji klas to dowód, że dziecko potrafi zrozumieć na przykład, że podkategoria \"jamniki\" zawiera się i nie wyklucza z głównej kategorii \"psy\"."
+    },
+    {
+      "id": 26,
+      "type": "single-choice",
+      "question": "Trudności opisywane w psychologii jako Specjalne Potrzeby Edukacyjne (SPE) w odróżnieniu od klasycznego podejścia medycznego są traktowane głównie jako:",
+      "options": [
+        "Wynik wrodzonego uszkodzenia mózgu podlegający wyłącznie długotrwałej hospitalizacji z pominięciem jakiejkolwiek systematycznej nauki szkolnej.",
+        "Całkowity rezultat niekorzystnych i ciężkich barier społecznych u osób, których ogólna wydajność leży drastycznie i wyraźnie poniżej przyjętej normy.",
+        "Skutek interakcji konkretnej, indywidualnej kondycji psychofizycznej dziecka z oczekiwaniami, barierami i uwarunkowaniami środowiska szkolnego."
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Podejście edukacyjne zwraca uwagę na fakt, że problem pojawia się przy styku dziecka z systemem, a obowiązkiem szkoły jest aktywne poszukiwanie sposobów dopasowania się."
+    },
+    {
+      "id": 27,
+      "type": "single-choice",
+      "question": "Najtrudniejszy, drugi etap ostatecznego opanowania pisma i czytania (w okresie przedszkolno-szkolnym) przebiega jako złożony proces, w którym uczeń:",
+      "options": [
+        "Traktuje napisane pojęcia jako spójne graficznie obrazki i próbuje bezwzględnie wyuczyć się na pamięć kształtów bez wnikania w głoski i litery.",
+        "Potrafi poprawnie funkcjonować i złożyć tekst jedynie przy ścisłej, bezpośredniej współpracy funkcji wzrokowych, słuchowych oraz dobrej uwagi.",
+        "Działa już całkowicie w pełni bezdźwięcznie (czytanie tak zwane po cichu), niezwykle szybko łącząc ze sobą abstrakcyjne, gotowe sensy z pamięci."
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Uczeń pierwszej klasy jeszcze nie czyta lotnie „wzrokowo pojęciowo” – mozolnie koordynuje pamięć liter z przypisanymi im dźwiękami, dekodując wolno słowo."
+    },
+    {
+      "id": 28,
+      "type": "single-choice",
+      "question": "Dziecięcy schemat ról i powinności posiadany przez pierwszoklasistę odnośnie do wychowawcy (na podstawie badań K. Appelt) bywa z reguły nasycony oczekiwaniami co do jego funkcji:",
+      "options": [
+        "W przeważającej i całkowitej mierze wysoce opiekuńczych, mających na celu silne zastąpienie bezpośredniej obecności oraz emocjonalnej pomocy rodziców.",
+        "Niemal wyłącznie i wyraźnie dydaktycznych, związanych z przekazem surowej wiedzy, wystawianiem formalnych ocen oraz narzucaniem twardych zadań.",
+        "Przede wszystkim ściśle opartych o postawy socjoterapeutyczne i integrujących całą przestrzeń rówieśniczą przed jakimikolwiek procesami dydaktyki."
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Dzieci idąc do szkoły koncentrują się na stereotypie nauczyciela, który uczy, sprawdza i stawia oceny, silnie redukując inne ważne role wspierające wychowawcy."
+    },
+    {
+      "id": 29,
+      "type": "single-choice",
+      "question": "Wiek szkolny jest okresem kluczowym dla wypracowania uogólnionej, realistycznej samooceny ucznia, która na tym etapie wykazuje tendencję do bycia:",
+      "options": [
+        "Nadzwyczaj plastyczną, labilną i całkowicie uzależnioną w każdym kolejnym dniu od ulotnych ocen oraz przelotnych komentarzy całego bliskiego otoczenia.",
+        "Względnie ustabilizowaną, bazującą głównie na procesie budowania wewnętrznego ideału własnej osoby i doznawanych systematycznie stałych kompetencjach.",
+        "Poddawaną wyłącznie i bezwzględnie całkowitej skrajnej negacji z powodu ugruntowanego w toku ewolucyjnym powszechnego mechanizmu wyuczonej bezradności."
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Dzięki myśleniu na poziomie operacji konkretnych oraz zdobywaniu stałych sukcesów uczeń wreszcie uniezależnia się nieco od kaprysów otoczenia, mając świadomość własnych cech."
+    },
+    {
+      "id": 30,
+      "type": "single-choice",
+      "question": "Skuteczne i sprawne udzielanie tak zwanego wsparcia psychologicznego na terenie szkoły powinno bazować na modelu określanym jako proces:",
+      "options": [
+        "Natychmiastowego Pogotowia Ratunkowego, gdzie jedynym obowiązkiem autorytarnego eksperta jest narzucenie otoczeniu konkretnej formy uśmierzenia kłopotu.",
+        "Bezwzględnego usuwania wszystkich najdrobniejszych czynników obciążających wokół ucznia z deficytem, poprzez zorganizowanie całkowicie izolowanego otoczenia.",
+        "Udzielania rzetelnej animacji i silnego wsparcia dla wyzwalania uśpionych dotąd rezerw, ukrytych mocy i odpowiedzialności leżącej w zasobach wychowawcy i rodziców."
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Prawdziwa praca doradcza psychologa w szkole uświadamia i mobilizuje siły zaradcze najbliższego systemu ucznia zamiast bezproduktywnego wyręczania go w naprawie problemu."
+    }
+  ]
+}
