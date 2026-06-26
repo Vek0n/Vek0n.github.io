@@ -7,8 +7,18 @@ let appState = {
     tests: [], // Lista plików JSON w folderze
     currentTestData: null, // Pobrane dane z JSON
     currentQuestionIndex: 0,
-    userAnswers: [] // zapisywane odpowiedzi użytkownika: { index: 0, isCorrect: true }
+    userAnswers: [], // zapisywane odpowiedzi użytkownika: { index: 0, isCorrect: true }
+    currentTestUrl: null // adres URL aktualnego testu
 };
+
+// Funkcja tasująca elementy tablicy (Fisher-Yates shuffle)
+function shuffleArray(array) {
+    for (let i = array.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [array[i], array[j]] = [array[j], array[i]];
+    }
+    return array;
+}
 
 const appContainer = document.getElementById('app-container');
 
@@ -127,9 +137,23 @@ async function loadTest(jsonUrl) {
         const response = await fetch(jsonUrl);
         const data = await response.json();
         
-        appState.currentTestData = data;
+        appState.currentTestUrl = jsonUrl;
+        
+        // Klonujemy pytania i losowo mieszamy ich kolejność
+        const shuffledQuestions = shuffleArray([...data.questions]);
+        
+        // Dla każdego pytania losowo mieszamy również odpowiedzi
+        shuffledQuestions.forEach(q => {
+            const mappedOptions = q.options.map((opt, idx) => ({
+                text: opt,
+                isCorrect: idx === q.correctAnswerIndex
+            }));
+            q.shuffledOptions = shuffleArray(mappedOptions);
+        });
+
+        appState.currentTestData = { ...data, questions: shuffledQuestions };
         appState.currentQuestionIndex = 0;
-        appState.userAnswers = new Array(data.questions.length).fill(null);
+        appState.userAnswers = new Array(shuffledQuestions.length).fill(null);
         
         renderQuestion();
     } catch(err) {
@@ -174,10 +198,10 @@ function renderQuestion() {
         <div class="options-grid">
     `;
 
-    question.options.forEach((opt, index) => {
+    question.shuffledOptions.forEach((opt, index) => {
         let btnClass = 'option-btn';
         if (isAnswered) {
-            if (index === question.correctAnswerIndex) {
+            if (opt.isCorrect) {
                 btnClass += ' correct';
             } else if (index === savedAnswer.index) {
                 btnClass += ' wrong';
@@ -188,7 +212,7 @@ function renderQuestion() {
             <button class="${btnClass}" 
                 onclick="handleAnswer(${index})" 
                 ${isAnswered ? 'disabled' : ''}>
-                ${opt}
+                ${opt.text}
             </button>
         `;
     });
@@ -237,7 +261,7 @@ window.handleAnswer = function(selectedIndex) {
     const qIndex = appState.currentQuestionIndex;
     const question = appState.currentTestData.questions[qIndex];
     
-    const isCorrect = selectedIndex === question.correctAnswerIndex;
+    const isCorrect = question.shuffledOptions[selectedIndex].isCorrect;
     
     appState.userAnswers[qIndex] = {
         index: selectedIndex,
@@ -273,7 +297,7 @@ window.renderSummary = function() {
             </p>
             
             <div style="display:flex; justify-content:center; gap:20px;">
-                <button class="back-btn" onclick="loadTest('${appState.currentTestData.title}') /* hack for raw url need fix, better just to subject */" style="display:none">Powtórz</button>
+                <button class="back-btn" onclick="loadTest('${appState.currentTestUrl}')">Powtórz test</button>
                 <button class="primary-btn" onclick="renderSubject()">Wróć do testów</button>
             </div>
         </div>

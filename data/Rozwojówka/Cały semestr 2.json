@@ -1,0 +1,846 @@
+{
+  "title": "Rozbudowany Test z Psychologii Rozwoju i Psychopatologii",
+  "difficulty": "Średni/Zaawansowany",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single-choice",
+      "question": "Główne zadanie rozwojowe w wieku szkolnym według E. Eriksona polega na:",
+      "options": [
+        "Osiągnięciu poczucia pracowitości i uniknięciu poczucia niższości.",
+        "Rozwinięciu głębokiej intymności i uniknięciu trwałej izolacji.",
+        "Wykształceniu własnej tożsamości i uniknięciu pomieszania ról."
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "W wieku szkolnym dziecko kształtuje poczucie kompetencji (pracowitości) przez zdobywanie wiedzy, a jego brak prowadzi do poczucia niższości."
+    },
+    {
+      "id": 2,
+      "type": "single-choice",
+      "question": "Moralność autonomiczna w wieku szkolnym polega na tym, że dziecko:",
+      "options": [
+        "Ocenia zachowania ludzkie przez pryzmat intencji i motywacji sprawcy.",
+        "Ocenia zachowania ludzkie przez pryzmat wielkości fizycznej szkody.",
+        "Ocenia zachowania ludzkie przez pryzmat posłuszeństwa dorosłemu."
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Moralność autonomiczna zastępuje realizm moralny, pozwalając uczniowi na wzięcie pod uwagę intencji zamiast samych fizycznych skutków."
+    },
+    {
+      "id": 3,
+      "type": "single-choice",
+      "question": "Pojawienie się decentracji spostrzeżeń oznacza, że uczeń potrafi już:",
+      "options": [
+        "Uwzględniać jednocześnie kilka istotnych cech obserwowanego obiektu.",
+        "Skupiać swoją uwagę wyłącznie na jednej, najbardziej jaskrawej cesze.",
+        "Całkowicie ignorować wszelkie wizualne aspekty swojego otoczenia."
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Decentracja to wyjście z przedszkolnej centracji i zdolność analizy wielu wymiarów bodźca jednocześnie, co umożliwia operacje logiczne."
+    },
+    {
+      "id": 4,
+      "type": "single-choice",
+      "question": "Sprawiedliwość dystrybutywna preferowana w wieku szkolnym opiera się na:",
+      "options": [
+        "Ślepym odwecie mającym na celu wywołanie jak największego bólu.",
+        "Myleniu prawa ludzkiego z naturalnymi nieszczęściami i wypadkami.",
+        "Równym traktowaniu partnerów oraz wymierzaniu kar naprawczych."
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Uczeń odrzuca wiarę w immanentną karę i odwet, a zamiast tego wybiera kary mające na celu zadośćuczynienie ofierze i poprawę winnego."
+    },
+    {
+      "id": 5,
+      "type": "single-choice",
+      "question": "Czym w perspektywie socjologicznej charakteryzuje się tzw. ukryty program szkoły?",
+      "options": [
+        "Jest to tajny dokument udostępniany jedynie wybranym psychologom.",
+        "Są to niepisane zasady i rutyny wymuszające określoną postawę ucznia.",
+        "Jest to specjalny harmonogram wyrównywania opóźnień u dzieci z ODD."
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Ukryty program (hidden curriculum) to organizacja przestrzeni i wymogi dyscyplinarne, które nieświadomie modelują uległość i posłuszeństwo."
+    },
+    {
+      "id": 6,
+      "type": "single-choice",
+      "question": "Specyficzne trudności w uczeniu się (m.in. dysleksję rozwojową) diagnozujemy:",
+      "options": [
+        "Gdy deficyt występuje pomimo przynajmniej przeciętnej inteligencji.",
+        "Gdy uczeń cierpi na głębokie i całościowe upośledzenie umysłowe.",
+        "Gdy dziecko funkcjonuje w skrajnie patologicznym i biednym domu."
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Dysleksja jest specyficzna właśnie dlatego, że pojawia się u dzieci zdrowych, inteligentnych i wychowywanych w prawidłowym środowisku."
+    },
+    {
+      "id": 7,
+      "type": "single-choice",
+      "question": "Zgodnie z ujęciem dynamicznym, tzw. gotowość szkolna dziecka jest efektem:",
+      "options": [
+        "Wyłącznie genetycznie zdeterminowanego tempa rozwoju neurologicznego.",
+        "Zarówno biologicznego dojrzewania układu nerwowego, jak i treningu.",
+        "Wyłącznie stymulacji poznawczej dostarczanej w domu rodzinnym."
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Gotowość szkolna to właściwość interakcyjna – zależy i od wrodzonego potencjału organizmu, i od odpowiednich oddziaływań społecznych."
+    },
+    {
+      "id": 8,
+      "type": "single-choice",
+      "question": "Opanowanie przez ucznia metapamięci na wczesnym etapie edukacji oznacza:",
+      "options": [
+        "Świadomość działania własnej pamięci i umiejętność doboru strategii.",
+        "Całkowite utracenie najwcześniejszych wspomnień z okresu niemowlęctwa.",
+        "Automatyczne i nieświadome powtarzanie wyuczonych na blachę reguł."
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Metapamięć to świadoma wiedza na temat własnego procesu zapamiętywania, pozwalająca m.in. na celowe używanie strategii mnemotechnicznych."
+    },
+    {
+      "id": 9,
+      "type": "single-choice",
+      "question": "Czym według koncepcji Wygotskiego charakteryzuje się uczenie się reaktywne?",
+      "options": [
+        "Uczeń działa wyłącznie pod wpływem własnych potrzeb i chęci zabawy.",
+        "Dziecko potrafi uczyć się poprzez naśladowanie zachowań niemowląt.",
+        "Uczeń potrafi podporządkować się celom i programowi nauczyciela."
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Uczenie reaktywne polega na zdolności dziecka do wykonywania zadań w oparciu o zewnętrzny, narzucony z góry program (np. szkolny)."
+    },
+    {
+      "id": 10,
+      "type": "single-choice",
+      "question": "Wejście dziecka w wiek szkolny wpływa na zmianę jego relacji z otoczeniem:",
+      "options": [
+        "Znaczenie tracą relacje z rówieśnikami na rzecz symbiotycznych więzi.",
+        "Dominuje uczestnictwo w horyzontalnych relacjach z rówieśnikami.",
+        "Dziecko zaczyna izolować się od wszelkich dotychczasowych przyjaciół."
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Rozwój społeczny w szkole powoduje przejście z relacji pionowych (z dorosłymi) w kierunku relacji poziomych (współpraca z kolegami)."
+    },
+    {
+      "id": 11,
+      "type": "single-choice",
+      "question": "Cechą wyróżniającą myślenie formalne od konkretnego w okresie dorastania jest:",
+      "options": [
+        "Konieczność opierania wszelkich wniosków o fizyczne manipulacje.",
+        "Umiejętność stawiania czystych hipotez niezależnie od rzeczywistości.",
+        "Tendencja do przypisywania cech ludzkich przedmiotom martwym."
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Myślenie formalno-logiczne uwalnia umysł od konkretu, pozwalając nastolatkowi na abstrakcyjne rozważania teoretyczne."
+    },
+    {
+      "id": 12,
+      "type": "single-choice",
+      "question": "Zjawisko tożsamości negatywnej u zbuntowanego nastolatka przejawia się poprzez:",
+      "options": [
+        "Częste popadanie w stany depresyjne z powodu niezadowolenia z ciała.",
+        "Bezkrytyczne i uległe kopiowanie wszelkich zachowań swoich rodziców.",
+        "Programowe przejmowanie zachowań i cech odrzucanych przez dorosłych."
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Gdy otoczenie stawia zbyt wysokie wymagania, młodzież czasem obronnie przyjmuje tożsamość negatywną, buntując się dla samego buntu."
+    },
+    {
+      "id": 13,
+      "type": "single-choice",
+      "question": "Czym w modelu Watermana charakteryzuje się tzw. tożsamość lustrzana?",
+      "options": [
+        "Poddaniem się woli dorosłych i brakiem samodzielnej eksploracji ról.",
+        "Trwającym bardzo długo etapem nieustannego poszukiwania własnej drogi.",
+        "Odrzuceniem jakichkolwiek norm prawnych obowiązujących w społeczeństwie."
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Nastolatek rezygnuje z moratorium (prób i błędów) i przyjmuje narzuconą przez innych wizję siebie jako lustrzane odbicie ich oczekiwań."
+    },
+    {
+      "id": 14,
+      "type": "single-choice",
+      "question": "Egocentryzm intelektualny typowy dla młodzieży dorastającej charakteryzuje się:",
+      "options": [
+        "Bezwzględnym żądaniem, aby świat dopasował się do ich nowych idei.",
+        "Niemożnością wyobrażenia sobie perspektywy wzrokowej innych ludzi.",
+        "Częstym myleniem wypadków losowych z bezpośrednią karą od Boga."
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Nowo nabyte myślenie formalne powoduje u nastolatków wiarę, że logiczna koncepcja jest silniejsza i ważniejsza niż realia społeczne."
+    },
+    {
+      "id": 15,
+      "type": "single-choice",
+      "question": "W jaki sposób najczęściej przebiega proces tzw. skoku pokwitaniowego?",
+      "options": [
+        "Jest on zsynchronizowany w czasie i występuje u obu płci jednocześnie.",
+        "Rozpoczyna się średnio o dwa lata wcześniej w grupie dziewcząt.",
+        "Rozpoczyna się znacznie szybciej u chłopców ze względu na testosteron."
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Dojrzewanie biologiczne (skok wzrostu i rozwój cech płciowych) jest asynchroniczne i normatywnie przyspieszone u płci żeńskiej."
+    },
+    {
+      "id": 16,
+      "type": "single-choice",
+      "question": "Moratorium psychospołeczne jest okresem niezwykle pożądanym, ponieważ pozwala:",
+      "options": [
+        "Zintegrować doświadczenia poprzez eksplorację przed podjęciem ról.",
+        "Wymusić na nastolatku bezwzględne posłuszeństwo wobec autorytetów.",
+        "Szybko i bezrefleksyjnie wejść w dorosłe obowiązki tuż po maturze."
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Moratorium to usankcjonowany społecznie czas na poszukiwania i eksperymenty, niezbędny do zbudowania dojrzałej tożsamości."
+    },
+    {
+      "id": 17,
+      "type": "single-choice",
+      "question": "Jaki jest główny mechanizm funkcjonowania w bulimii typu przeczyszczającego?",
+      "options": [
+        "Stosowanie ciągłych, głodowych diet przy wadze znacznie poniżej normy.",
+        "Unikanie pokarmów ze względu na ich specyficzną i drażniącą teksturę.",
+        "Cykl niepohamowanego objadania się i wymiotów przy zachowanej normie."
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "W odróżnieniu od anoreksji, w bulimii pacjenci często utrzymują prawidłową wagę, kompensując napady obżarstwa restrykcjami (np. wymiotami)."
+    },
+    {
+      "id": 18,
+      "type": "single-choice",
+      "question": "W fazie konwencjonalnej (II poziom wg Kohlberga) młody człowiek uważa, że dobre jest to, co:",
+      "options": [
+        "Przynosi mu natychmiastową nagrodę materialną lub oddala surową karę.",
+        "Skutkuje zadowoleniem bliskich osób i zachowuje harmonię w grupie.",
+        "Służy utrzymaniu ogólnego prawa państwowego, pomimo osobistych strat."
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Na poziomie interpersonalnego konformizmu jednostka dąży do sprostania oczekiwaniom najbliższych i stawia się w roli \"dobrego chłopca/dziewczyny\"."
+    },
+    {
+      "id": 19,
+      "type": "single-choice",
+      "question": "Niekorzystna dla rozwoju postawa usidlająca rodzica względem nastolatka oznacza:",
+      "options": [
+        "Nadmierne angażowanie dziecka w sprawy dorosłych i zacieranie granic.",
+        "Ustanowienie bardzo rygorystycznych norm bez wyjaśniania ich sensu.",
+        "Pobłażliwe traktowanie i całkowity brak zainteresowania losem dziecka."
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Usidlanie polega na tworzeniu nadmiernej symbiozy i traktowaniu dziecka jako powiernika, co skutecznie hamuje jego autonomię."
+    },
+    {
+      "id": 20,
+      "type": "single-choice",
+      "question": "Według Havighursta, najważniejszym zadaniem II (późnej) fazy dorastania jest:",
+      "options": [
+        "Pomyślne wykształcenie podstaw zadowalającej tożsamości grupowej.",
+        "Uzyskanie pełnej dojrzałości na poziomie moralności przedkonwencjonalnej.",
+        "Zbudowanie solidnego fundamentu stabilnej tożsamości indywidualnej."
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Podczas gdy wczesna adolescencja skupia się na relacjach rówieśniczych (tożsamość grupowa), późna przenosi środek ciężkości na własne „Ja” i wybory życiowe."
+    },
+    {
+      "id": 21,
+      "type": "single-choice",
+      "question": "Myślenie dialektyczne, typowe dla wczesnej dorosłości (według M. Bassechesa), pozwala na:",
+      "options": [
+        "Poszukiwanie sztywnych praw i zasad organizujących codzienne zjawiska.",
+        "Wykonywanie skomplikowanych obliczeń bez pomocy kalkulatora na czas.",
+        "Akceptowanie wieloznaczności i uwzględnianie dynamiki ludzkich zmian."
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "W odróżnieniu od sztywnego myślenia formalnego, dialektyka umożliwia dorosłemu rozwiązywanie niejednoznacznych problemów społecznych."
+    },
+    {
+      "id": 22,
+      "type": "single-choice",
+      "question": "Fundamentalny konflikt normatywny u progu wczesnej dorosłości to według E. Eriksona:",
+      "options": [
+        "Ryzyko popadnięcia w emocjonalną izolację zamiast budowy intymności.",
+        "Zagrożenie paraliżującym poczuciem winy kosztem twórczej inicjatywy.",
+        "Dylemat między produktywną generatywnością a głęboką stagnacją w życiu."
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Po zbudowaniu tożsamości, najważniejszym zadaniem młodego dorosłego jest bezpieczne połączenie własnego „Ja” z tożsamością innej osoby."
+    },
+    {
+      "id": 23,
+      "type": "single-choice",
+      "question": "Rozpowszechnione współcześnie zjawisko gniazdownictwa przejawia się poprzez:",
+      "options": [
+        "Uciekanie młodych ludzi do wczesnych małżeństw w obawie przed samotnością.",
+        "Przedłużanie moratorium i pozostawanie pod ekonomiczną opieką rodziców.",
+        "Depresyjne stany starzejących się dorosłych wywołane samotnym życiem."
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Gniazdownictwo to opóźnianie przyjęcia ról dorosłych i długotrwałe mieszkanie z rodzicami mimo posiadania wieku odpowiedniego do autonomii."
+    },
+    {
+      "id": 24,
+      "type": "single-choice",
+      "question": "Jeśli młody dorosły w pełni pozytywnie rozwiąże dylemat tożsamości, ugruntuje się u niego:",
+      "options": [
+        "Wysoki poziom kompetencji i zadowolenia ze swoich osiągnięć szkolnych.",
+        "Cnota wierności wobec dokonywanych wyborów życiowych i ideologicznych.",
+        "Cnota mądrości ułatwiająca zintegrowanie wszystkich minionych porażek."
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Podręcznik wielokrotnie podkreśla, że dojrzała cnota wierności wspiera podejmowanie zobowiązań odróżniając młodego dorosłego od nastolatka."
+    },
+    {
+      "id": 25,
+      "type": "single-choice",
+      "question": "Model Zachowania Zasobów S. Hobfolla definiuje zjawisko silnego stresu przede wszystkim jako:",
+      "options": [
+        "Automatyczną reakcję organizmu na każde podjęcie ról obywatelskich.",
+        "Skutek podjęcia nadmiernie prostej i niewymagającej wysiłku aktywności.",
+        "Stan wywołany utratą, groźbą utraty lub brakiem przyrostu własnych zasobów."
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Zgodnie z koncepcją Hobfolla, stres wynika z poczucia braku równowagi i realnego zagrożenia dla inwestowanych przez jednostkę wartości."
+    },
+    {
+      "id": 26,
+      "type": "single-choice",
+      "question": "Trójczynnikowa koncepcja R. Sternberga przyjmuje, że dojrzałą miłość charakteryzują:",
+      "options": [
+        "Poczucie bliskiej intymności, silna namiętność i świadome zaangażowanie.",
+        "Całkowite posłuszeństwo, niezależność finansowa oraz bardzo wysoki status.",
+        "Nadmierna zazdrość, silna namiętność i lęk przed porzuceniem przez partnera."
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Dojrzała miłość według Sternberga wymaga równowagi tych trzech elementów, zapewniających długofalową spójność związku."
+    },
+    {
+      "id": 27,
+      "type": "single-choice",
+      "question": "Zjawisko kulturowej standaryzacji (punktualności) nakłada na młodych dorosłych:",
+      "options": [
+        "Zewnętrzną presję na podejmowanie kluczowych ról w normatywnym czasie.",
+        "Całkowite zwolnienie z odpowiedzialności za wykonywanie pracy w grupie.",
+        "Nakaz unikania wszelkich tradycyjnych instytucji społecznych i państwowych."
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Standaryzacja wymusza tzw. punktualność ról – społeczeństwo oczekuje podjęcia pracy i założenia rodziny w ściśle określonym wieku."
+    },
+    {
+      "id": 28,
+      "type": "single-choice",
+      "question": "Nadmierna eksploatacja zasobów, prowadząca do wypalenia we wczesnej dorosłości, wynika z:",
+      "options": [
+        "Spadku umiejętności pamięci operacyjnej wymagającej dłuższego uczenia się.",
+        "Paradoksu polegającego na poczuciu nieograniczonej siły i rezerwy energetycznej.",
+        "Nagłego wystąpienia kryzysu wieku średniego i obniżenia poziomu hormonów."
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Szczytowa forma biologiczna prowokuje młodych dorosłych do zacierania granic między pracą a regeneracją, co skutkuje przeciążeniami."
+    },
+    {
+      "id": 29,
+      "type": "single-choice",
+      "question": "Faza nowicjatu u progu ścieżki zawodowej obciążona jest zazwyczaj ryzykiem:",
+      "options": [
+        "Zbyt powolnego uczenia się prostych i powtarzalnych mechanizmów pracy.",
+        "Wystąpienia nagłej dekompensacji pnia mózgowego u wrażliwych jednostek.",
+        "Głębokiego zderzenia własnych idealistycznych wizji z realiami instytucji."
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Początki kariery zmuszają młodego dorosłego do kompromisów pomiędzy własnymi aspiracjami, a zastanymi standardami organizacyjnymi firmy."
+    },
+    {
+      "id": 30,
+      "type": "single-choice",
+      "question": "Z perspektywy biologicznej (soma) wczesna dorosłość (ok. 25-35 lat) uważana jest za:",
+      "options": [
+        "Czas szczytowej wydolności układów, ogromnej siły organizmu oraz płodności.",
+        "Początek wyraźnego słabnięcia układu immunologicznego i wolnej regeneracji.",
+        "Okres ostatecznego zakończenia wszelkich intensywnych procesów neurogenezy."
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Organizm człowieka we wczesnej dorosłości znajduje się u szczytu swojego ewolucyjnego i fizjologicznego potencjału życiowego."
+    },
+    {
+      "id": 31,
+      "type": "single-choice",
+      "question": "Okres środkowej dorosłości oznacza u jednostki konfrontację z kryzysem określonym jako:",
+      "options": [
+        "Intymność w relacjach społecznych przeciwko poczuciu chronicznej izolacji.",
+        "Poczucie szerokiej generatywności w opozycji do egocentrycznej stagnacji.",
+        "Osiągnięcie poczucia integralności ego w opozycji do obezwładniającej rozpaczy."
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Głównym zadaniem wieku średniego wg Eriksona jest troska o młodsze pokolenia i wytwory pracy, a niepowodzenie skutkuje jałową stagnacją."
+    },
+    {
+      "id": 32,
+      "type": "single-choice",
+      "question": "Występujące w wieku średnim zjawisko tzw. pokolenia kanapkowego (sandwich generation) to:",
+      "options": [
+        "Silne tendencje dorosłych do porzucania pracy na rzecz wypoczynku w domu.",
+        "Problemy z utrzymaniem odpowiedniej wagi wskutek niewłaściwych nawyków.",
+        "Rozdarcie między wymogami opieki nad własnymi dziećmi i starymi rodzicami."
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Dorośli poddawani są podwójnej presji, musząc jednoczesne angażować swoje zasoby w pomoc dorastającym dzieciom oraz niedołężnym starcom."
+    },
+    {
+      "id": 33,
+      "type": "single-choice",
+      "question": "Klimakterium u mężczyzn, zwane często andropauzą (zespołem AMS), objawia się w biologii:",
+      "options": [
+        "Bardzo powolnym, długotrwałym i systematycznym spadkiem poziomu testosteronu.",
+        "Całkowitym i natychmiastowym wygaśnięciem zdolności prokreacyjnych po 50 r.ż.",
+        "Gwałtownym wzrostem siły układu krążenia przy jednoczesnym obniżeniu wagi."
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "W odróżnieniu od nagłej menopauzy u kobiet, proces andropauzy jest niezwykle powolny i łagodny w swym przebiegu ewolucyjnym."
+    },
+    {
+      "id": 34,
+      "type": "single-choice",
+      "question": "Optymalne rozwiązanie głównego kryzysu w środkowej dorosłości doprowadza do wykształcenia:",
+      "options": [
+        "Cnoty niesłabnącej miłości i budowania bardzo długotrwałych związków.",
+        "Cnoty troskliwości, która skierowana jest ku osobom, ideom oraz wytworom.",
+        "Cnoty mądrości, która pozwala na bezstronne zainteresowanie samym życiem."
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Pozytywny wymiar generatywności przejawia się w zdolności do autentycznej troski o innych, wychodzącej poza własny egocentryzm."
+    },
+    {
+      "id": 35,
+      "type": "single-choice",
+      "question": "Rozpowszechniony w psychologii syndrom opustoszałego gniazda diagnozuje się zazwyczaj w sytuacji:",
+      "options": [
+        "Obniżenia nastroju i poczucia pustki po ostatecznej wyprowadzce dzieci z domu.",
+        "Buntu nastolatka przed wejściem na rynek pracy i założeniem własnej rodziny.",
+        "Nagłej utraty zatrudnienia i związanego z tym kryzysu własnej adekwatności."
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Wielu dorosłych inwestujących całą swą energię tylko w rolę rodzica doświadcza głębokiej frustracji, gdy ich dzieci stają się w pełni niezależne."
+    },
+    {
+      "id": 36,
+      "type": "single-choice",
+      "question": "Omawiana przez psychologów tzw. pragmatyka życia u dorosłych w wieku średnim pozwala na:",
+      "options": [
+        "Niesamowicie szybkie odtwarzanie olbrzymiej ilości zasłyszanych właśnie słów.",
+        "Bezbłędne przyswajanie wiedzy w sposób całkowicie bierny i mocno rutynowy.",
+        "Kompensowanie spowolnienia neurobiologicznego zdobytą wiedzą i mądrością."
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Inteligencja skrystalizowana (doświadczenie) u 50-latka skutecznie maskuje drobne ubytki w szybkości i pamięci operacyjnej układu nerwowego."
+    },
+    {
+      "id": 37,
+      "type": "single-choice",
+      "question": "Jak współcześni badacze analizują powszechnie występujący tzw. kryzys środka życia?",
+      "options": [
+        "Jako niezwykle ważny czas weryfikacji młodzieńczych marzeń i bilansu osiągnięć.",
+        "Jako jednostkę chorobową o wymiarze wybitnie patologicznym i destrukcyjnym.",
+        "Jako zjawisko wywołane obiektywnym i trwałym uszkodzeniem płatów czołowych."
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Kryzys ten nie musi być wcale zaburzeniem – jest szansą na przewartościowanie celów na tle świadomości upływającego bezpowrotnie czasu."
+    },
+    {
+      "id": 38,
+      "type": "single-choice",
+      "question": "Zachodzący obecnie proces systemowej detradycjonalizacji wywołuje u współczesnych dorosłych:",
+      "options": [
+        "Tendencję do zrzucania odpowiedzialności na rządowe instytucje publiczne.",
+        "Zarówno olbrzymią szansę na autonomię, jak i znaczne ryzyko izolacji oraz chaosu.",
+        "Przymus nieustannego podążania za nakazami sformułowanymi przez dziadków."
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Odrzucenie sztywnych wzorców kulturowych daje dorosłemu wolność tworzenia własnej biografii, ale też odbiera psychologiczne wsparcie grupy."
+    },
+    {
+      "id": 39,
+      "type": "single-choice",
+      "question": "Poważne zagrożenie, jakim jest zespół wypalenia zawodowego (burn-out), charakteryzuje się:",
+      "options": [
+        "Chroniczną rywalizacją, patologicznym pośpiechem i nadmierną ambicją pracownika.",
+        "Skłonnością do podejmowania fizycznych aktów wandalizmu u dorosłych mężczyzn.",
+        "Depersonalizacją klientów, emocjonalnym wyczerpaniem i brakiem poczucia sukcesu."
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Wypalenie (według koncepcji C. Maslach) opiera się na swoistym cynizmie, braku zadowolenia ze swoich kompetencji oraz skrajnym zmęczeniu."
+    },
+    {
+      "id": 40,
+      "type": "single-choice",
+      "question": "Czym według założeń andragogiki różni się edukacja dojrzałych dorosłych od uczenia się dzieci?",
+      "options": [
+        "Dorosły opiera swą motywację na użyteczności i silnie filtruje nowe wiadomości.",
+        "Dorosły uczy się przede wszystkim poprzez chęć zabawy oraz bezkrytyczne posłuszeństwo.",
+        "Dorosły znacznie łatwiej porzuca stare nawyki, by chłonąć czyste fakty bez oporu."
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Dojrzały uczeń selekcjonuje wiedzę pod kątem praktyki (pragmatyki) i często musi wkładać ogromny wysiłek w przełamanie utrwalonych schematów."
+    },
+    {
+      "id": 41,
+      "type": "single-choice",
+      "question": "Najważniejszym psychologicznym zadaniem i kryzysem ostatniego okresu życia (wg Eriksona) jest:",
+      "options": [
+        "Aktywne dążenie do całkowitego oderwania się od wszelkich dóbr materialnych.",
+        "Podtrzymywanie swojej niezależności fizycznej przed oddaniem pod opiekę dzieci.",
+        "Akceptacja całego swojego życia jako sensownej całości w obliczu bliskiej śmierci."
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Późna dorosłość narzuca człowiekowi konieczność dokonania obiektywnego bilansu życiowego, decydującego o poczuciu spełnienia (integralności ego)."
+    },
+    {
+      "id": 42,
+      "type": "single-choice",
+      "question": "Cnotą osiąganą dzięki pozytywnemu zbilansowaniu własnego życia w okresie podeszłym jest:",
+      "options": [
+        "Mądrość, określana jako łagodne zainteresowanie życiem pomimo naturalnych strat.",
+        "Wierność, pozwalająca podtrzymać młodzieńcze ideały pomimo słabnącego zdrowia.",
+        "Nadzieja, która łagodzi biologiczne aspekty starzenia przed nieuchronnym końcem."
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Mądrość to siła ego zamykająca cykl ludzkiego rozwoju, wyrastająca z pogodzenia się ze światem i ze świadomości nieuchronności swojego końca."
+    },
+    {
+      "id": 43,
+      "type": "single-choice",
+      "question": "Konstruowana przez gerontologów tzw. teoria krańcowego spadku dotyczy zjawiska, w którym:",
+      "options": [
+        "Inteligencja skrystalizowana drastycznie opada wraz z nadejściem trzydziestki.",
+        "Następuje nagłe pogorszenie funkcji psychicznych na kilka lat przed naturalną śmiercią.",
+        "Większość chorych odczuwa wyraźną ulgę emocjonalną po przekroczeniu wieku 85 lat."
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Zdolności poznawcze starca mogą być dość stabilne przez lata, ale zazwyczaj ulegają dramatycznej redukcji bezpośrednio zwiastując kres organizmu."
+    },
+    {
+      "id": 44,
+      "type": "single-choice",
+      "question": "Teoria selektywności społeczno-emocjonalnej (autorstwa L. Carstensen) dowodzi, że seniorzy:",
+      "options": [
+        "Odczuwają paniczną potrzebę poszukiwania jak największej liczby nowych przyjaźni.",
+        "Wybierają całkowite odizolowanie społeczne jako formę ochrony przed zdradą bliskich.",
+        "Celowo zawężają grono znajomych, koncentrując się jedynie na najgłębszych więziach."
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Mając świadomość ubywającego czasu, osoby starsze optymalizują swoje środowisko, by czerpać maksimum komfortu i oparcia z niewielkiej grupy zaufanych."
+    },
+    {
+      "id": 45,
+      "type": "single-choice",
+      "question": "Coraz bardziej rozpowszechnione w naszym społeczeństwie zjawisko określane jako ageizm to:",
+      "options": [
+        "Postawa dyskryminująca, wykluczająca lub marginalizująca ludzi z uwagi na podeszły wiek.",
+        "Głęboko zakorzeniona tradycja obdarzania starszych najwyższym zaufaniem w rodzinach.",
+        "Fizjologiczny proces uszkadzania obwodowego układu nerwowego w chorobie wieńcowej."
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Ageizm zrównuje wartość człowieka z jego rynkową wydajnością produkcyjną, spychając seniorów na margines zainteresowania kultury dominującej."
+    },
+    {
+      "id": 46,
+      "type": "single-choice",
+      "question": "W myśl koncepcji M. Mead, współczesna tzw. kultura prefiguratywna odznacza się tym, że:",
+      "options": [
+        "Całkowity i wyłączny autorytet we wszystkich sprawach pozostaje w rękach dziadków.",
+        "To najstarsze pokolenie zmuszone jest uczyć się nowoczesności od własnych wnuków.",
+        "Tradycja i nowinki technologiczne rozkładają się równomiernie między obu płciami."
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Zawrotne tempo rewolucji technologicznej powoduje odwrócenie kierunku transmisji wiedzy – dorośli stają się uczniami dla pokolenia urodzonego z komputerem."
+    },
+    {
+      "id": 47,
+      "type": "single-choice",
+      "question": "Najczęściej występująca i nieodwracalna forma chorób otępiennych wieku podeszłego to diagnoza:",
+      "options": [
+        "Ciężkiej choroby Alzheimera wpływającej na powstawanie blaszek amyloidowych.",
+        "Przewlekłej dyskalkulii połączonej z nagłym zespołem napięcia naczyniowego.",
+        "Całkowitej amnezji dziecięcej, leczącej się samoistnie po zmianie leków na serce."
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Procesy neurodegeneracyjne (zwłaszcza Alzheimer) pustoszą struktury pamięci długotrwałej seniora i drastycznie pozbawiają go poczucia własnej tożsamości."
+    },
+    {
+      "id": 48,
+      "type": "single-choice",
+      "question": "Wykorzystywany w gerontologii model SOK autorstwa P. i M. Baltesów zaleca seniorom strategię:",
+      "options": [
+        "Porzucenia dawnych celów, by oddać całą kontrolę instytucjonalnej służbie zdrowia.",
+        "Ciągłego porównywania się z wynikami młodzieży by wyzwolić dodatkową frustrację.",
+        "Zawężania swoich ambicji, ciągłego ćwiczenia umiejętności i wprowadzania kompensacji."
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Selektywna optymalizacja z kompensacją pozwala dopasować wyzwania do kurczących się sił biologicznych z pomocą protez oraz silnego doświadczenia."
+    },
+    {
+      "id": 49,
+      "type": "single-choice",
+      "question": "Brak wypracowania pozytywnej integralności w ramach ostatecznego bilansu wywołuje u seniora zazwyczaj:",
+      "options": [
+        "Olbrzymi przypływ sztucznej witalności i nagłą potrzebę zmiany zawodu u podstaw.",
+        "Olbrzymi lęk przed zbliżającą się śmiercią, silną gorycz oraz nieustanne żale do innych.",
+        "Całkowitą obojętność wobec losów ludzkości połączoną z pogodnym akceptowaniem strat."
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Poczucie zmarnowanego na przestrzeni lat czasu wyzwala obronny pesymizm oraz narzekanie ukrywające wewnętrzną panikę przez niemożnością poprawy."
+    },
+    {
+      "id": 50,
+      "type": "single-choice",
+      "question": "Wdowieństwo i nieuchronna utrata osób z dawnej, ugruntowanej grupy odniesienia to proces, który:",
+      "options": [
+        "Zmusza seniora do potężnego i niezwykle trudnego wysiłku rekonfiguracji swoich więzi.",
+        "Stymuluje go do nieskrępowanej niczym euforii na fali odzyskanej niedawno wolności.",
+        "Nie ma jakiegokolwiek wpływu na samopoczucie dzięki dużej liczbie leków we krwi."
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Utrata towarzysza życia często stanowi dramatyczny w skutkach cios w odporność, łamiąc wypracowaną homeostazę i sieć wsparcia w najtrudniejszym czasie."
+    },
+    {
+      "id": 51,
+      "type": "single-choice",
+      "question": "Pojęcie stworzone przez L. Wygotskiego określane mianem „Strefy Najbliższego Rozwoju” obrazuje:",
+      "options": [
+        "Zakres zadań, z którymi badane dziecko radzi sobie w całkowicie samodzielny sposób.",
+        "Różnicę między samodzielnymi możliwościami ucznia a jego potencjałem przy wsparciu.",
+        "Liczbę miesięcy dzielącą pierwszoklasistę od normatywnego skoku pokwitaniowego."
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "To kluczowe pojęcie diagnostyczne ukazuje, jakiej kompetencji dziecko uczy się aktualnie poprzez tak zwane rusztowanie tworzone dzięki obcym osobom."
+    },
+    {
+      "id": 52,
+      "type": "single-choice",
+      "question": "Kryzys nienormatywny można najtrafniej odróżnić w diagnozie od kryzysu punktualnego poprzez to, że:",
+      "options": [
+        "Występuje jako bezpośrednie uwarunkowanie skomplikowanych procesów dojrzewania.",
+        "Wszyscy uczniowie obowiązkowo i jednakowo doświadczają go pod koniec gimnazjum.",
+        "Uderza on na skutek losowych, nagłych i nieprzewidywalnych wcześniej traum życiowych."
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "O ile dojrzewanie czy egzaminy to punktualne kryzysy rozwojowe, to wypadki losowe czy klęski pozbawiają z góry nabytych mechanizmów radzenia sobie."
+    },
+    {
+      "id": 53,
+      "type": "single-choice",
+      "question": "W ocenie diagnosty zjawisko niebezpiecznego przeciążenia rozwojowego młodego człowieka polega na:",
+      "options": [
+        "Jednoczesnym nałożeniu się wymagań kończącego się i dopiero powstającego cyklu życia.",
+        "Fizycznym noszeniu nadmiaru bardzo ciężkich książek osłabiających naturalną postawę.",
+        "Otrzymywaniu skrajnie wygórowanych, lecz dopasowanych do wieku pochwał od innych."
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Nakładanie się wyzwań i burz hormonalnych na zmianę środowiska szkolnego lub ról wywołuje kumulację mogącą prowadzić do nieprzystosowania jednostki."
+    },
+    {
+      "id": 54,
+      "type": "single-choice",
+      "question": "Model pracy w szkole opierający się na postawie „Animacji i Wsparcia” wymaga, aby psycholog:",
+      "options": [
+        "Usunął problem wyrywając ucznia na terapię z dala od rodziny by wymusić autorytet.",
+        "Zlecił rodzicom sztywne wykonanie testu przed rozpoczęciem wszelkich interwencji.",
+        "Stymulował środowisko w celu wykrzesania jego własnych kompetencji w rozwiązaniu."
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "W przeciwieństwie do narzucającego gotowe recepty „Pogotowia”, animacja aktywizuje sprawstwo rodzica i nauczyciela w odnalezieniu własnej, dobrej ścieżki."
+    },
+    {
+      "id": 55,
+      "type": "single-choice",
+      "question": "Co we wspieraniu rozwoju określamy terminem odpowiedniego tzw. „realizmu psychologicznego”?",
+      "options": [
+        "Ścisłe realizowanie metody narzuconej urzędowo i pominięcie zdania samego klienta.",
+        "Dostosowanie formy pomocy do motywacji podmiotu, by wzbudzić w nim chęć na zmianę.",
+        "Odmawianie interwencji dla trudnych roczników nie rokujących na poprawę frekwencji."
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Pomoc musi być atrakcyjna i zrozumiała w celach dla samego odbiorcy, by zlikwidować opór i zainicjować wewnętrzny napęd adaptacyjny u tego podmiotu."
+    },
+    {
+      "id": 56,
+      "type": "single-choice",
+      "question": "Współczesna i dojrzała diagnostyka zorientowana jako tzw. podejście funkcjonalno-rozwojowe analizuje:",
+      "options": [
+        "Etiologię, znaczenie objawu w jego środowisku oraz profilowe zasoby samego pacjenta.",
+        "Jedynie statystyczne wymiary uchybień by zrównać jednostkę i przydzielić jej zasiłek.",
+        "Wyłącznie błędy leżące po stronie niewydolnej szkoły z całkowitym ułaskawieniem grupy."
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Oderwanie się od ślepej klasyfikacji ICD zmusza do znalezienia odpowiedzi na to, czemu ów objaw służy dziecku na obecnym etapie zmagania się ze światem."
+    },
+    {
+      "id": 57,
+      "type": "single-choice",
+      "question": "Mniej efektywny model tzw. „Pogotowia Ratunkowego” stawia eksperta szkolnego zazwyczaj w roli:",
+      "options": [
+        "Bezstronnego doradcy pytającego wychowawcę o zdanie przed każdą ingerencją w klasie.",
+        "Osoby diagnozującej patologię w obiekcie i narzucającej otoczeniu natychmiastowy lek.",
+        "Cichego konsultanta w pełni ukrytego przed wzrokiem poddawanej testom zbiorowości."
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Zrzuca on całą siłę zaradczą otoczenia i ceduje decyzyjność bezpośrednio na barki dyrektywnego specjalisty stawiającego pieczątkę potwierdzającą chorobę."
+    },
+    {
+      "id": 58,
+      "type": "single-choice",
+      "question": "Zasada ekwifinalności stosowana niezwykle często w paradygmacie patologii rozwojowej zakłada, że:",
+      "options": [
+        "Jedna, identyczna etiologia u dwóch osób w 100% wywoła u nich równie głęboką chorobę.",
+        "Zarówno chłopcy jak i dziewczynki wykazują równe zapotrzebowanie na czas wolny.",
+        "Skrajnie różne i nienormatywne przyczyny mogą z łatwością ukształtować identyczny objaw."
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Dwie osoby mogą zapaść np. na ciężką depresję pomimo faktu, że u jednej wywołał to nowotwór a u drugiej ciągły buling rówieśników u progu nowej placówki."
+    },
+    {
+      "id": 59,
+      "type": "single-choice",
+      "question": "Brak przyjęcia optyki rozwojowej przy powierzchownym ocenianiu dziwacznego zachowania grozi tym, że:",
+      "options": [
+        "Normatywne i zwykłe dla wieku zmaganie się z fazą uznane zostanie za ciężkie zaburzenie.",
+        "Każdy bez wyjątku problem fizjologiczny zostanie usprawiedliwiony okresem edukacji.",
+        "Rozwój dziecka automatycznie ulegnie opóźnieniu przed pójściem do wyższej instytucji."
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "To co u dorosłego byłoby powodem do wezwania psychiatry, u przeżywającego burzę hormonów nastolatka bywa niezwykle często powszechną formą dojrzewania."
+    },
+    {
+      "id": 60,
+      "type": "single-choice",
+      "question": "Rozwinięcie tzw. diagnozy na poziomie określanym z medycyny mianem diagnozy pozytywnej kładzie nacisk na:",
+      "options": [
+        "Ukrywanie przed rodzicami nieprzychylnych opisów objawów celem wpojenia u nich nadziei.",
+        "Zmuszanie podmiotów do uśmiechania się i zaprzeczania istnieniu nieprawidłowości u ciała.",
+        "Ocenę zachowanych kompetencji w celu stymulacji pomimo ewidentnych uszkodzeń kory."
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Sama etykieta medyczna dla mózgu daje deficyt, natomiast diagnoza pozytywna szuka tych silnych punktów dających punkt zaczepienia do poprawy rokowań."
+    },
+    {
+      "id": 61,
+      "type": "single-choice",
+      "question": "Zaburzenia eksternalizacyjne (wymiar od zewnętrzny w modelu T. Achenbacha) przejawiają się poprzez:",
+      "options": [
+        "Trudności objawiające się jedynie cichym wycofaniem i obniżeniem somatycznym bez konfliktów.",
+        "Zachowania agresywne, trudności z samokontrolą, naruszanie norm i konflikty z otoczeniem.",
+        "Problemy polegające wyłącznie na zaburzeniach czytania pomimo wysokiej bazy u potencjałów."
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Zaburzenia kierowane na zewnątrz cechują się dużą uciążliwością dla nauczycieli ze względu na łamanie dyscypliny, buntowniczość oraz wzmożoną furię."
+    },
+    {
+      "id": 62,
+      "type": "single-choice",
+      "question": "Szeroka i ukierunkowana do wewnątrz grupa tzw. zaburzeń internalizacyjnych na ogół bardzo często charakteryzuje się:",
+      "options": [
+        "Lękami separacyjnymi, wycofaniem się dziecka w samotność i długotrwałymi dolegliwościami.",
+        "Okrucieństwem względem kolegów w paczce oraz zrzucaniem odpowiedzialności na bliskich.",
+        "Całościowymi ubytkami z zakresu teorii umysłu połączonymi ze zjawiskiem mutyzmu."
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Ciche cierpienie w postaci nadmiaru obaw, zahamowania i spadku nastroju jest znacznie trudniejsze do wykrycia niż agresywny i bardzo głośny objaw ADHD."
+    },
+    {
+      "id": 63,
+      "type": "single-choice",
+      "question": "Główna, typowa triada objawów decydująca o klasyfikacyjnej diagnozie dziecięcego spektrum autyzmu obejmuje:",
+      "options": [
+        "Znaczną utratę orientacji przestrzennej i koordynacji ręki z nogą a także upośledzenie pamięci.",
+        "Napady silnego gniewu kierowanego ku rodzicowi wraz ze złamaniem norm u praw z kradzieżami.",
+        "Zaburzenia komunikacji, trudności w nawiązywaniu relacji i uparte, sztywne wzorce aktywności."
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Choć klasyfikacje DSM-5 próbują modyfikować objawy, to rdzeniem ASD niezmiennie pozostają problemy z teorią umysłu, stereotypiami i kontaktami z ludźmi."
+    },
+    {
+      "id": 64,
+      "type": "single-choice",
+      "question": "Obserwowana u pacjentów z ASD hipoteza o tak zwanej „słabej centralnej koherencji” udowadnia, że jednostka ta:",
+      "options": [
+        "Nie jest w stanie sprostać wymaganiom ruchowym na skutek głębokiego uszkodzenia pnia.",
+        "Koncentruje się silnie na wyizolowanych detalach bodźca, zupełnie nie potrafiąc uchwycić całości.",
+        "Całkowicie traci zdolność odczuwania dotyku co stymuluje wysoce niepohamowaną agresję ciał."
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Osoba autystyczna może bez trudu dostrzec drobny szczegół w obrazie, lecz całkowicie omija ją globalny, społeczno-logiczny i powiązany kontekst relacji."
+    },
+    {
+      "id": 65,
+      "type": "single-choice",
+      "question": "Neurorozwojowe zaburzenie określane skrótem FASD powstaje i kształtuje objawy jako niezaprzeczalny rezultat:",
+      "options": [
+        "Wewnątrzmacicznego, mocno teratogennego narażenia układu nerwowego dziecka na działanie alkoholu.",
+        "Rozłąki matki z dzieckiem przed ukształtowaniem bezpiecznego stylu w procesie przywiązania w 2 r.ż.",
+        "Silnego uszkodzenia istoty szarej będącego bezpośrednim skutkiem długiego używania narzędzi."
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Fetal Alcohol Spectrum Disorder to nabyte u źródła ciąży trwałe uszkodzenie tkanki i inteligencji na skutek picia toksycznej dla embriogenezy substancji matki."
+    },
+    {
+      "id": 66,
+      "type": "single-choice",
+      "question": "Optymalna metoda ugruntowanej terapii (np. ABA) dla dziecka cierpiącego na ASD powinna odznaczać się przede wszystkim:",
+      "options": [
+        "Radykalnym odsunięciem ucznia od grupy rówieśniczej i nałożeniem przymusowej kuracji litem.",
+        "Odstąpieniem od działań edukacyjnych na rzecz swobodnego, niekierowanego dryfowania w domu.",
+        "Wysoką intensywnością pracy (powyżej 25h w tygodniu), strukturą oraz bezwzględnym włączeniem w nią rodziców."
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Edukacja w spektrum to wczesna, kierowana z ogromnym wysiłkiem i konsekwencją terapia wymagająca silnego zorganizowania bodźców i kroków w uczeniu."
+    },
+    {
+      "id": 67,
+      "type": "single-choice",
+      "question": "Deficyt tzw. funkcji zarządczych (wykonawczych), według najnowszego modelu Russella Barkleya, stanowi oś i bezpośredni patomechanizm dla:",
+      "options": [
+        "Ograniczenia funkcji wydalniczych w wieku średnim z uwagi na spadek poziomu męskich testosteronów.",
+        "Uporczywych zaburzeń w zespole nadpobudliwości psychoruchowej wraz z deficytem dla poziomu uwagi.",
+        "Kształtowania wizerunku lustrzanego opisywanego często jako podstawa głębokiej schizofrenii dziecięcej."
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Zahamowanie reakcji i nieumiejętność zarządzania impulsem odpowiada wprost za brak hamulca na korze przedczołowej u podopiecznych z diagnozą ADHD."
+    },
+    {
+      "id": 68,
+      "type": "single-choice",
+      "question": "Psychologiczne dysfunkcje poznawcze stanowiące mechanizm dziecięcych zaburzeń zachowania (CD) charakteryzują się najczęściej poprzez:",
+      "options": [
+        "Tendencyjne przypisywanie wyraźnie wrogich intencji innym nawet przy zdarzeniach losowych.",
+        "Skrajnie pesymistyczne przewidywanie klęski własnej, owocujące niepohamowanym płaczem w klasie.",
+        "Brak zainteresowania zdobywaniem dominacji, a przejawianie silnego poddania na złość i submisję."
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Osoba aspołeczna dopatruje się intencji ataku u rówieśnika tam, gdzie zaszło jedynie zwykłe potknięcie na korytarzu, usprawiedliwiając tym swą odwetową postawę."
+    },
+    {
+      "id": 69,
+      "type": "single-choice",
+      "question": "W obrazie wskaźników klinicznych dotyczących częstotliwości występowania zaburzeń o skali eksternalizacyjnej (np. z grupy ADHD lub ODD):",
+      "options": [
+        "Obserwuje się olbrzymią i zbadaną naukowo przewagę dziewcząt, obciążonych dodatkowo zjawiskiem z anoreksją.",
+        "Zdecydowanie i powszechniej w literaturze podaje się i diagnozuje ogromną przewagę objawów dotyczących mężczyzn.",
+        "Eksperci zgodnie potwierdzają całkowity brak uwarunkowań związanych ze zmienną opartą u podłoża z płcią pacjenta."
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Buntownicze wyskoki, łamanie z premedytacją norm i słaba odporność kontroli na układ impulsów o wiele dotkliwiej manifestuje się zazwyczaj we wczesnej populacji męskiej."
+    },
+    {
+      "id": 70,
+      "type": "single-choice",
+      "question": "Kategoria nazywana ze sfer diagnostycznych u dzieci pojęciem „rozwoju atypowego” (lub ujęta nakładaniem zaburzeń) znajduje uzasadnienie gdy:",
+      "options": [
+        "Potencjał ucznia znacznie odbiega w górę i przerasta z kompetencją każdego, w tym silnie ugruntowanego dorosłego.",
+        "Proces dojrzewania wygasa zupełnie samoistnie pod wpływem bezradności środowiska nie tworzącego wsparcia.",
+        "Rozbieżności i różnorodność ciężkich ubytków utrudniają z łatwością proste wpasowanie w jedną kategorię testu."
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Kiedy symptomy mieszają się na pograniczach autyzmu i np. nadruchliwości z licznymi cechami obu, wpisanie sztywnej etykiety bez określenia szerokości patologii zatraca jej użyteczność."
+    }
+  ]
+}
