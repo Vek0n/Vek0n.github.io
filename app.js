@@ -20,13 +20,25 @@ function shuffleArray(array) {
     return array;
 }
 
+// Funkcja dodająca cache-buster (znacznik czasu) do adresu URL, obsługująca parametry zapytania
+function addCacheBuster(urlStr) {
+    try {
+        const url = new URL(urlStr);
+        url.searchParams.set('t', Date.now());
+        return url.toString();
+    } catch (e) {
+        const separator = urlStr.includes('?') ? '&' : '?';
+        return `${urlStr}${separator}t=${Date.now()}`;
+    }
+}
+
 const appContainer = document.getElementById('app-container');
 
 // Inicjalizacja
 async function init() {
     renderLoader();
     try {
-        const response = await fetch(`${GITHUB_API_URL}?t=${Date.now()}`);
+        const response = await fetch(addCacheBuster(GITHUB_API_URL));
         if (!response.ok) {
             if (response.status === 404) {
                 renderError("Folder 'data' jeszcze nie istnieje na GitHubie. Wrzuć pierwsze testy!");
@@ -91,7 +103,7 @@ function renderHome() {
 async function loadSubject(folderName, apiUrl) {
     renderLoader();
     try {
-        const response = await fetch(`${apiUrl}?t=${Date.now()}`);
+        const response = await fetch(addCacheBuster(apiUrl));
         const data = await response.json();
         appState.currentSubject = folderName;
         // Wyłapujemy pliki JSON
@@ -134,7 +146,7 @@ function renderSubject() {
 async function loadTest(jsonUrl) {
     renderLoader();
     try {
-        const response = await fetch(`${jsonUrl}?t=${Date.now()}`);
+        const response = await fetch(addCacheBuster(jsonUrl));
         const data = await response.json();
         
         appState.currentTestUrl = jsonUrl;
