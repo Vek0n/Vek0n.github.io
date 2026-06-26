@@ -1,0 +1,396 @@
+{
+  "title": "Rozbudowany Test Wiedzy: Późna Dorosłość i Starość",
+  "difficulty": "Trudny",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single-choice",
+      "question": "W klasyfikacji późnej dorosłości (H. Bee), grupa określana mianem młodszych starszych (60-75 lat) wyróżnia się na tle pozostałych faz tym, że jej przedstawiciele:",
+      "options": [
+        "Zazwyczaj całkowicie rezygnują z aktywności społecznej, skupiając całą uwagę na refleksji nad śmiercią.",
+        "Najczęściej doświadczają radykalnego załamania zdrowia fizycznego i wymagają całodobowej, stałej opieki.",
+        "Często przeżywają ożywienie towarzyskie i wykorzystują wolny czas na aktywne uporządkowanie przeszłości.",
+        "Ponownie wchodzą w intensywne role zawodowe, próbując za wszelką cenę udowodnić rynkową przydatność."
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Po przejściu na emeryturę, najmłodsi seniorzy (młodsi starsi) zazwyczaj są jeszcze sprawni, odnawiają kontakty i cieszą się odzyskanym czasem wolnym zwanym 'złotą jesienią'."
+    },
+    {
+      "id": 2,
+      "type": "single-choice",
+      "question": "Teoria tempa życia sformułowana przez Raymonda Pearla zakłada, że proces biologicznego starzenia się organizmu jest bezpośrednio zdeterminowany przez:",
+      "options": [
+        "Szybkość skracania się telomerów w cyklach podczas systematycznych podziałów komórek macierzystych.",
+        "Ilość energii wyprodukowanej na gram masy ciała pomnożoną przez całkowitą długość życia danego osobnika.",
+        "Ilość nagromadzonych w tkankach toksyn pochodzących bezpośrednio z przetwarzania wolnych rodników.",
+        "Uwarunkowany i zamknięty genetycznie ścisły limit podziałów komórkowych w obrębie danego gatunku."
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Zgodnie z koncepcją Pearla, organizmy żyjące niezwykle intensywnie, o szybkim metabolizmie szybciej wyczerpują życiowy 'zapas' i krócej żyją (odwrotnie niż np. słoń)."
+    },
+    {
+      "id": 3,
+      "type": "single-choice",
+      "question": "Najdotkliwszym zjawiskiem neurologicznym w starzejącym się mózgu, odpowiedzialnym głównie za spowolnienie reakcji u ludzi starszych, jest proces:",
+      "options": [
+        "Całkowitego i nieodwracalnego zaniku zdolności do neurogenezy we wszystkich obszarach pnia mózgowia.",
+        "Gwałtownego obumierania ciał komórkowych neuronów zlokalizowanych wyłącznie w korze przedczołowej.",
+        "Wyraźnej redukcji układu sieci dendrytów i ostatecznego eliminowania wielu ważnych połączeń synaptycznych.",
+        "Zahamowania produkcji obwodowej istoty szarej, co bezpowrotnie niszczy powiązania w układzie limbicznym."
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "To utrata plastyczności synaptycznej (wynikająca z przerzedzania dendrytów) sprawia, że impuls nerwowy musi szukać okrężnej drogi, co wydłuża czas wykonania czynności u seniora."
+    },
+    {
+      "id": 4,
+      "type": "single-choice",
+      "question": "W miarę postępującego procesu starzenia się, inwolucyjna utrata zdolności precyzyjnego odbierania dźwięków przez układ słuchowy dotyczy w pierwszej kolejności:",
+      "options": [
+        "Sygnałów o skrajnie niskiej częstotliwości, co drastycznie utrudnia odbiór głębokich i bardzo basowych brzmień.",
+        "Dźwięków o najwyższej częstotliwości, przez co codzienne tony muszą z czasem stawać się wyraźnie głośniejsze.",
+        "Komunikatów o średniej częstotliwości, ściśle odpowiadających za naturalny ton oraz barwę mowy ludzkiego głosu.",
+        "Bodźców wysoce jednostajnych, co paradoksalnie wyostrza i ułatwia słyszenie w miejscach o gigantycznym hałasie."
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Degradacja ucha powoduje, że najpierw uciekają dźwięki o wysokiej częstotliwości; dodatkowo seniorzy gorzej odróżniają słowa w sytuacji występowania w tle szumu."
+    },
+    {
+      "id": 5,
+      "type": "single-choice",
+      "question": "Koncepcja zwana teorią krańcowego spadku (Kleemeier) wskazuje, że u osób w podeszłym wieku następuje niezwykle drastyczne pogorszenie funkcjonowania poznawczego, które:",
+      "options": [
+        "Pojawia się niemal natychmiastowo po przejściu na emeryturę i jest echem całkowitego braku społecznej stymulacji.",
+        "Występuje jako reguła na około pięć do siedmiu lat przed ostateczną i całkowicie naturalną śmiercią pacjenta.",
+        "Dotyczy selektywnie samej inteligencji płynnej, pozostawiając zasoby pamięci epizodycznej w nienaruszonym stanie.",
+        "Objawia się w zachowaniu cyklicznie, generując regularny i naprzemienny spadek oraz wzrost zapamiętywania faktów."
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Zdolności skrystalizowane są stabilne, ale ich gwałtowne załamanie we wszystkich testach zwiastuje zjawisko śmiertelne, nazywane powszechnie efektem krańcowego spadku przed zgonem."
+    },
+    {
+      "id": 6,
+      "type": "single-choice",
+      "question": "Z analiz prowadzonych nad reaktywnością wegetatywno-emocjonalną starszych osób (Kunzmann, Levenson) z użyciem filmów o stracie wynika, iż dorośli ci:",
+      "options": [
+        "Reagują na nie dużo słabiej niż ludzie młodzi, skutecznie demonstrują psychologiczne zjawisko pełnej apatii.",
+        "Reagują na te tematy równie silnie lub wręcz silniej niż młodzi z uwagi na bardzo dużą, życiową aktualność bodźca.",
+        "Wykazują ogromne pobudzenie ustrukturyzowane poznawczo, lecz ich układ nerwowy pozostaje w pełni nieaktywny.",
+        "Całkowicie ucinają percepcję wrogich sygnałów, wymuszając w sposób sztuczny i ślepy wiarę w absolutny optymizm."
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Wbrew mitom o wygasaniu czucia, seniorzy odczuwają głębokie i silne fizjologicznie reakcje na kwestie (np. strata partnera), które stanowią wysoce realny horyzont ich egzystencji."
+    },
+    {
+      "id": 7,
+      "type": "single-choice",
+      "question": "Zgodnie z tezami ugruntowanej teorii selektywności społeczno-emocjonalnej (Carstensen), obniżona liczba doznawanych negatywnych afektów u starszych ludzi wyrasta z faktu, że:",
+      "options": [
+        "Mając przed sobą uciekający dystans życia, zupełnie intencjonalnie koncentrują swoją uwagę na emocjach pozytywnych.",
+        "Zjawisko trwałej atrofii układu limbicznego uniemożliwia produkcję hormonów inicjujących i podtrzymujących u nich stres.",
+        "Skrajnie i szybko wycofują się oni z angażujących ról środowiska po to, aby sztucznie i na stałe wyzerować napięcia.",
+        "Doświadczają patologicznego wyparcia ubytku sił, wchodząc przez to w iluzoryczny i maniakalnie napędzany stan euforii."
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Wiedząc o kurczącym się czasie, seniorzy optymalizują świat: unikają jałowych, toksycznych relacji, a wybierają te niosące sens i komfort, ucząc się cenić dobre aspekty ('czas uczy pogody')."
+    },
+    {
+      "id": 8,
+      "type": "single-choice",
+      "question": "Podczas analiz strategii regulowania emocji u kobiet, badacze Helson i Srivastava ustalili, że w odróżnieniu do ogółu, typ osobowości 'poszukujący':",
+      "options": [
+        "Konsekwentnie tłumił i skrywał odczucia skrajnie negatywne w celu ułatwienia sobie bardzo szybkich ścieżek do kariery.",
+        "Cechował się wyraźnie obniżającą się z wiekiem samokontrolą, celowo otwierając i narażając się na skrajne wzruszenia.",
+        "Prezentował wyłącznie bardzo uległą postawę konformistyczną opartą mocno na wypełnianiu zachowawczych stereotypów.",
+        "Demonstrował postępującą wraz z wiekiem silną apatię, wynikającą z niemożności zrealizowania dawnych pasji i ambicji."
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Mimo że reszta kobiet w starości zwiększała samokontrolę (typ osiągający, zachowawczy, zubożony), 'poszukujące' odrzucały ramy i pozwalały sobie na silne odczuwanie i eksplorację."
+    },
+    {
+      "id": 9,
+      "type": "single-choice",
+      "question": "Dychotomia 'religijności' i 'duchowości' w ujęciu Winka i Dillona zakłada, że pogłębianie wymiaru czysto duchowego w końcówce ludzkiego życia jest istotnie skorelowane z:",
+      "options": [
+        "Stosowaniem surowych dogmatów dla zdobycia mocnej i uprzywilejowanej pozycji w hierarchiach oficjalnych wspólnot.",
+        "Skupieniem na dylematach istoty całego życia, wyrozumiałym tolerowaniem sprzeczności oraz kształtowaniem mądrości.",
+        "Pełnym wyizolowaniem od bliskich połączonym z demonstracyjną krytyką obyczajowości najmłodszej na świecie generacji.",
+        "Zaangażowaniem w bardzo rygorystyczne posłuszeństwo wobec narzuconych nakazów w celu uniknięcia winy i potępienia."
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Autorzy odróżnili religijność (tradycja, normy, generatywność) od duchowości (wewnętrzna niezależność, refleksja, paradoksy natury), wiążąc tę drugą bezpośrednio z nabytą elastyczną mądrością."
+    },
+    {
+      "id": 10,
+      "type": "single-choice",
+      "question": "W koncepcji procesów tożsamościowych J. Kroger postrzega późną dorosłość jako etap specyficzny, albowiem w przeciwieństwie do adolescencji starzejący się umysł:",
+      "options": [
+        "Skupia całą swoją uwagę na otwartym buncie dążącym do destrukcji wszelkich autorytetów podtrzymujących ład.",
+        "Przeprowadza bilans wsteczny, koncentrując się na nadaniu ostatecznego i oceniającego sensu przebytej dotąd drodze.",
+        "Skłania się bezkrytycznie ku logice czarno-białych ocen, co całkowicie paraliżuje mu zdolności współodczuwania.",
+        "Dąży z całą siłą do natychmiastowego podejmowania najbardziej ekstremalnych ról, by zbudować swą unikalność na nowo."
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Zamiast eksplorować rozmaite, możliwe kierunki przed sobą (jak nastolatek), starzec stoi przed szansą podsumowania, co pozwala mu na zbudowanie 'filozofii znaczenia' przeżytego już życia."
+    },
+    {
+      "id": 11,
+      "type": "single-choice",
+      "question": "W obrazie klinicznym całościowym choroby Alzheimera bardzo wczesne stadia zaawansowania są zazwyczaj wyjątkowo trudne do pełnego zauważenia przez otoczenie, ponieważ:",
+      "options": [
+        "Chory umiejętnie fałszuje objawy przy pomocy skomplikowanych słownych dygresji utrudniających szybką i skuteczną analizę.",
+        "Wywołują one jedynie bardzo rzadkie ataki padaczkowe, maskujące prawdziwe i dużo głębsze neurologiczne tło tego deficytu.",
+        "Dotykają one jedynie wycinka pamięci operacyjnej, przez co chory potrafi bezbłędnie posługiwać się mową i złożonymi rutynami.",
+        "Mechanizmy zaprzeczania u pacjenta wzbudzają agresywny wręcz opór wykluczający przeprowadzenie odpowiednich badań obrazowych."
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "W pierwszej fazie chory traci tylko drobne, najświeższe wątki operacyjne, podczas gdy wyuczone, silnie zautomatyzowane umiejętności (jak pieczenie placka, kierowanie pojazdem) działają dobrze."
+    },
+    {
+      "id": 12,
+      "type": "single-choice",
+      "question": "Jaką funkcję i zadanie neurobiologiczne spełnia szkodliwy dla kory mózgowej i pamięci tzw. proces odkładania się peptydów beta-amyloidu u chorych na Alzheimera?",
+      "options": [
+        "Tworzy we wnętrzu komórek sploty nieprawidłowych nitek blokując im syntezę ważnych dla mózgu witamin układu naczyniowego.",
+        "Wydziela w zewnątrzkomórkowym środowisku niekorzystne blaszki, obciążając toksycznie przylegające neurony i komórki mikrogleju.",
+        "Działa jako bardzo agresywny wirus infekujący całkowicie i trwale płat czołowy, prowadząc w szybkim tempie do pełnego rozpadu mowy.",
+        "Sprawia, że osłonki mielinowe ulegają bezpowrotnej degradacji przyspieszając do granic możliwości patologiczne impulsy elektryczne."
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Beta-amyloid kumuluje się na zewnątrz neuronów (blaszki starcze), powodując ich zatrucie i stymulując mikroglej do reakcji uszkadzających, podczas gdy splątania TAU tworzą się wewnątrz."
+    },
+    {
+      "id": 13,
+      "type": "single-choice",
+      "question": "W etiopatogenezie neurodegeneracyjnej choroby Parkinsona czynnikiem bezwzględnie odpowiedzialnym za opóźnienie ruchowe, drżenie w spoczynku oraz silną sztywność jest:",
+      "options": [
+        "Druzgocące zwężenie przestrzeni znajdującej się między lewą a prawą półkulą rozdzielającą funkcje asocjacyjne ciała i kończyn.",
+        "Zniszczenie neuronów układu limbicznego co wyhamowuje przepływ potasu na poziomie odpowiedzialnym za bodźce mięśniowe.",
+        "Całkowite zablokowanie syntezy adrenaliny wywołujące długotrwały stan otępienia pnia mózgowia podczas wykonywania zadań.",
+        "Degeneracja istoty czarnej z prążkowiem, powodująca niezwykle rygorystyczny i znaczny spadek uwalnianej do struktur dopaminy."
+      ],
+      "correctAnswerIndex": 3,
+      "explanation": "Parkinson to zespół hipokinetyczny, a jego osią jest śmierć komórek produkujących dopaminę w śródmózgowiu, bez której ośrodki kory nie mogą sterować w pełni płynnie naszą postawą i ruchami."
+    },
+    {
+      "id": 14,
+      "type": "single-choice",
+      "question": "Zjawisko wykluczenia i ageizmu w perspektywie społecznej, funkcjonujące jako 'mechanizm błędnego koła samospełniającej się przepowiedni' (Kuypers, Bengtson), opiera się na tym, że:",
+      "options": [
+        "Państwo poprzez brak emerytur wymusza na starszych twardą izolację od publicznych instytucji medycznych i lokalnych środowisk.",
+        "Młodsze generacje poddają starych bolesnemu i brutalnemu wyśmiewaniu, powodując tym nieustanny spadek ich odporności biologicznej.",
+        "Sami seniorzy poprzez akceptację wymierzonej w nich negatywnej etykiety o niesprawności, ograniczają swoje role powodując autentyczną atrofię.",
+        "Dorośli celowo symulują poważne objawy utraty sprawności umysłowej by wymusić zadośćuczynienie rynkowe w postępującym procesie odszkodowań."
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Brak wyrazistych ofert działania i szkodliwe normy otoczenia wciskają starca w rolę bezradnego, przez co zaczyna on sam wątpić w siebie, wycofuje się z treningu i faktycznie głupieje/słabnie."
+    },
+    {
+      "id": 15,
+      "type": "single-choice",
+      "question": "Jakie specyficzne mechanizmy w badaniach wykazują tzw. 'dziadkowie zaangażowani' (opiekunowie), gdy stają w odróżnieniu względem kategorii 'dziadków towarzyszy'?",
+      "options": [
+        "Uważają wiek starczy za wystarczający powód do wyeliminowania siebie z obowiązku świadczenia uciążliwej opieki nad własnymi wnukami.",
+        "Poddają małe dzieci skrajnie bezstresowej i luźnej socjalizacji nie stawiając żadnych barier ani z góry narzuconych norm porządkowych.",
+        "Biorą na siebie i na swoją głowę twardy trud codziennych rygorów odpowiedzialności, bardzo często całkowicie zastępując pracujących rodziców.",
+        "Kategorycznie alienują się względem klanu skupiając absolutnie całą siłę rezerw na rozrywkach turystycznych, jakie stwarza obiecująca wczesna emerytura."
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Dziadkowie zaangażowani/opiekunowie wchodzą głęboko w system, wypełniając braki czasowe w matkowaniu u zapracowanych pokoleń znosząc trud opieki wychowawczej (w przeciwieństwie do tylko bawiących towarzyszy)."
+    },
+    {
+      "id": 16,
+      "type": "single-choice",
+      "question": "Uwarunkowanie psychologiczne oznaczające osiągnięcie dojrzałej kompetencji na etapie niemowlęcym (ufność wobec środowiska) rzutuje w fazie starości poprzez gwarancję, że człowiek potrafi:",
+      "options": [
+        "Pozyskiwać stałą energię od młodszych celem obezwładnienia jakiegokolwiek spadku koncentracji w oparciu o ich zasoby intelektualne.",
+        "Skutecznie zignorować wszystkie narzucane z boku konwenanse publiczne dbając selektywnie jedynie o zgromadzony własnym trudem i oszczędnością majątek.",
+        "Zbudować sztywną strukturę autorytarnych nawyków decydującą we wrogi sposób o odrzucaniu zbędnych poleceń nakładanych przez nieczułych opiekunów.",
+        "Akceptować i w sposób swobodny wchodzić z optymizmem w nowe więzi i sieć bliskiego wsparcia stanowiącego bardzo pożądany bufor w samotności seniora."
+      ],
+      "correctAnswerIndex": 3,
+      "explanation": "Ufność wyniesiona ze wczesnych stadiów zmniejsza lęk przed innymi, pomagając z bezproblemową łatwością czerpać wsparcie (także od pielęgniarzy), zamiast alienować się we wrogą, nieufną rozpacz wobec obcych rąk."
+    },
+    {
+      "id": 17,
+      "type": "single-choice",
+      "question": "W perspektywie sformułowanej przez S. Kowalika reguły 'funkcjonalnej determinacji zachowania' starość to nie etap bierności, albowiem psychika udowadnia, że człowiek ten:",
+      "options": [
+        "Rozwiązuje własne bariery poprzez celowe zrzucenie winy za ubywającą energię organizmu na niewydolne procedury ze strony systemu ubezpieczeniowego.",
+        "Podporządkowuje swoje zrujnowane zdrowie całkowicie narzuconym terapiom, przez co redukuje lęk pozbywając się jakiegokolwiek trudu myślenia o chorobie.",
+        "Poddawany jest w przeważającej mierze mechanizmom czysto somatycznym niszczącym u korzeni ewolucji chęć do angażowania się we wdrażanie leczenia dla sił.",
+        "Używając bazy w wykształconej autonomii i świadomości refleksyjnej potrafi odseparować się od otoczenia by decydować własną wolą o sprostaniu ofercie ról z życia."
+      ],
+      "correctAnswerIndex": 3,
+      "explanation": "Człowiek wg Kowalika nie jest uwięziony we wpływie bodźców środowiska. Świadomość umożliwia mu swobodne wyselekcjonowanie ról z puli zadań bez bycia twardo w nie popychanym, co chroni sterowność ego."
+    },
+    {
+      "id": 18,
+      "type": "single-choice",
+      "question": "Biorąc do zestawienia wnioski J. Czapińskiego z analiz ogólnospołecznych warunków dobrostanu seniorów ustalono, że po przejściu na polską, twardą emeryturę grupą o uwarunkowaniach najbardziej sprzyjających poczuciu szczęścia dysponują byli pracownicy charakteryzujący się posiadaniem:",
+      "options": [
+        "Licznych i niewyleczonych z młodości urazów afektywnych determinujących silną, bardzo twórczą kompensację artystyczną po wykluczeniu poza mury z etatu.",
+        "Wrodzonych skłonności unikających we wcześniejszych latach wykształcenia na rzecz podążania drogą wprost na wyrobienie i zdobycie pragmatycznej mądrości życiowej.",
+        "Znakomitego zaplecza edukacyjnego w postaci świadectw szkół wyższych chroniącego trwale przed obawą o ubóstwo finansowe, i dodającego im zysków rynkowych ze ścieżki awansów.",
+        "Uprzednio ogromnych trudności we wchodzeniu na twarde struktury rynkowe z racji bierności ról w wychowaniu rodzinnym dla ułatwionego załagodzenia wymogów wobec państwa u podstaw."
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Zmienną silnie i bardzo korzystnie oddziałującą (tabele Czapińskiego z r. 2005) na brak zmartwień emeryckich o status był najwyższy i stabilny szczebel ukończonego przez pracownika wykształcenia."
+    },
+    {
+      "id": 19,
+      "type": "single-choice",
+      "question": "Rozwój kompetencji z fazy szkolnej, nazywanej erą 'pracowitości' przekłada swój zysk na funkcjonowanie w obliczu starości, w taki sposób że daje dorosłemu szansę na to by:",
+      "options": [
+        "Podejmować z całkowitym spokojem rzetelną i satysfakcjonującą pracę np. na Uniwersytetach Trzeciego Wieku z dążeniem od uczenia się po widoczny u swych dokonań uroczy plon.",
+        "Wycofać całkowitą energię na rzecz wulgarnego uciekania od trudów by dla zasady kompensacji osiągnąć obiecujące rekreacyjne przyjemności nasycone erotyzmem z późnego witalnego uniesienia.",
+        "Odrzucić jakiekolwiek nowości pod szyldem wyuczonej nieporadności polegając ze sprytu w rzemieślniczym egzekwowaniu usług wyręczających go z otoczenia za darmowe uposażenia w socjalu.",
+        "Bezwiednie ignorować w swoim środowisku ubytki z sił angażując obciążony aparat w rynkowe zmagania dla uzyskania władzy kierowniczej z furią i gniewem maskującym lęk upadków u swych sił."
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Cnota z okresu szkolnego zapewnia w dorosłości oparcie – gdy zamyka się praca, osoba szuka wyzwań jak rzemiosło z hobby, zajęcia plastyczne czy szkolenia umysłu (np. zjawisko UTW) chłonąc sens satysfakcjonującej celowości u ról."
+    },
+    {
+      "id": 20,
+      "type": "single-choice",
+      "question": "Mechanizm obronny opisywany jako 'zjawisko sensytyzacji', obserwowany np. u pań w średnim i późnym wieku zapadających na choroby nowotworowe, przejawia się na poziomie ich zachowania w taki sposób, że pacjentki:",
+      "options": [
+        "Całkowicie i odruchowo wypierają fakt postawionej im diagnozy, gwałtownie uciekając przed wszelkimi badaniami kontrolnymi by uniknąć trudnego stresu z prawdy.",
+        "Angażują się w hiperaktywne i dogłębne monitorowanie wszystkich objawów, chorobliwie czytając opracowania medyczne i szczegółowo analizując u siebie każdą zmianę.",
+        "Podnoszą fizjologiczną obronę organizmu za pomocą niekontrolowanego wybuchu agresji, zrzucając winę za całe zło medyczne wyłącznie na pracujący tam personel.",
+        "Zastępują działania o wymiarze diagnostycznym skrajną apatią domową, izolując się i rezygnując natychmiast z chęci kontynuowania kuracji klinicznej u obcych."
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Sensytyzacja to strategia nadmiernego 'wyczulenia'. W opozycji do obronnego wyparcia, osoba stale analizuje chorobę (np. sprawdzając ulotki, internet), co z jednej strony pomaga we wczesnym wykryciu, lecz nasila stan lęku i napięcia z monitoringu."
+    },
+    {
+      "id": 21,
+      "type": "single-choice",
+      "question": "W procesie fizjologicznego starzenia się układu wzrokowego, obok powiększającej się ślepej plamki, dochodzi do utraty elastyczności źrenicy, co skutkuje u osób starszych przede wszystkim:",
+      "options": [
+        "Niezwykle ostrą nadwzrocznością i potrzebą noszenia szkieł korygujących wyłącznie o ujemnej dioptrii.",
+        "Całkowitym zanikiem zdolności rozróżniania barw o krótkich falach, szczególnie koloru niebieskiego.",
+        "Bardzo dużą trudnością w adaptacji do zmian natężenia światła oraz pogorszeniem widzenia nocą.",
+        "Przyspieszonym męczeniem się mięśni gałki ocznej i występowaniem mimowolnego oczopląsu w ciemności."
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Utrata elastyczności źrenicy sprawia, że oko seniora znacznie wolniej i słabiej adaptuje się do zmieniającego się oświetlenia, przez co osoby w podeszłym wieku mają szczególne trudności z widzeniem po zmroku."
+    },
+    {
+      "id": 22,
+      "type": "single-choice",
+      "question": "Często obserwowana u ludzi po 60. roku życia tendencja do przesadnego solenia lub silnego przyprawiania posiłków ma najczęściej swoje uwarunkowanie w:",
+      "options": [
+        "Spadku wrażliwości kubków smakowych wywołanym przez zanik włókien istoty czarnej w pniu mózgu.",
+        "Znaczącym obniżeniu lub utracie zdolności węchowych oraz nasilającej się suchości w jamie ustnej.",
+        "Kompulsywnych zachowaniach związanych z lękiem przed utratą apetytu w przebiegu wczesnej formy demencji.",
+        "Wzroście zapotrzebowania organizmu na chlorek sodu w celu wyrównania strat metabolicznych nerek pacjenta."
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Choć zdolność rozróżniania podstawowych smaków gwałtownie nie zanika, to wyraźny ubytek węchu i zmniejszone wydzielanie śliny odbierają jedzeniu intensywność, co wymusza na starszych mocniejsze przyprawianie potraw."
+    },
+    {
+      "id": 23,
+      "type": "single-choice",
+      "question": "Charakterystyczna zmiana funkcjonowania dobowego u osób w wieku senioralnym (tzw. zjawisko 'rannych ptaszków') wiąże się neurobiologicznie między innymi z:",
+      "options": [
+        "Wyraźnym spadkiem częstotliwości ruchów gałek ocznych w trakcie snu, które są związane z fazą REM.",
+        "Patologicznym przyspieszeniem fal mózgowych w korze czołowej, wymuszającym bardzo szybkie i stresujące wybudzanie.",
+        "Całkowitym odwróceniem rytmu wydzielania melatoniny przez szyszynkę w odpowiedzi na obniżoną temperaturę.",
+        "Gwałtownym wzrostem zapotrzebowania na głęboki sen wolnofalowy, który o wiele szybciej regeneruje tkanki."
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "U ludzi starszych dochodzi do spłycenia snu i zredukowania fazy marzeń sennych (REM). Skutkuje to częstszymi przebudzeniami w nocy, wczesnym wstawaniem i potrzebą drzemek w ciągu dnia."
+    },
+    {
+      "id": 24,
+      "type": "single-choice",
+      "question": "Zgodnie z koncepcją Margaret Mead, ukształtowanie się współczesnej, tzw. kultury prefiguratywnej jest dla ludzi w wieku podeszłym źródłem silnego stresu społecznego, ponieważ:",
+      "options": [
+        "Wymusza na nich rygorystyczne trzymanie się dawnych zasad i twarde karanie młodych za ich postęp.",
+        "Pozbawia ich dotychczasowej roli niekwestionowanego autorytetu, czyniąc to z młodych swoistych i potężnych nauczycieli.",
+        "Narzuca im obowiązek całkowitego powrotu na rynek pracy, by udowodnić swoją równość oraz kompetencję.",
+        "Skazuje ich na absolutną izolację technologiczną z całkowitym zakazem dostępu do zasobów nowej edukacji."
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Kultura prefiguratywna (zorientowana na technologie i przyszłość) odwraca tradycyjne relacje: to najmłodsze pokolenie szybciej opanowuje innowacje, przez co starzy ludzie tracą pozycję mędrców i ekspertów."
+    },
+    {
+      "id": 25,
+      "type": "single-choice",
+      "question": "Badania nad potrzebami uczenia się starszych dorosłych (Purdie, Boulton-Lewis) wykazały paradoksalnie, że za największą i najbardziej ograniczającą barierę w poszerzaniu swojej wiedzy uważają oni:",
+      "options": [
+        "Skrajnie negatywne nastawienie oraz częste, bolesne wyśmiewanie ich prób nauki przez najbliższą rodzinę i znajomych.",
+        "Brak zgody ze strony otoczenia instytucjonalnego na to, aby seniorzy marnowali czas na publiczne szkolenia.",
+        "Osobiste, fizyczne trudności ze sprawnym przemieszczaniem się oraz odczuwany, niezwykle silny lęk o własne bezpieczeństwo.",
+        "Wrodzony, biologiczny zanik naturalnej motywacji i absolutny brak jakiejkolwiek życiowej chęci do trudnej, teoretycznej nauki."
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Wbrew powszechnym wyobrażeniom to nie trudności z technologią czy rzekomy brak motywacji ograniczają edukację seniorów, lecz przyziemne bariery motoryczne: brak możliwości dojazdu czy strach przed upadkiem w transporcie publicznym."
+    },
+    {
+      "id": 26,
+      "type": "single-choice",
+      "question": "W klasyfikacji Helson i Srivastavy typ funkcjonowania psychicznego określany u starszych kobiet jako 'zachowawczy' charakteryzował się w obliczu starzenia się:",
+      "options": [
+        "Ekstremalnie silnym poszukiwaniem nowych wrażeń i jawnym, otwartym buntem wobec utartych, dawnych konwenansów.",
+        "Pasywnym trwaniem w całkowitej bierności, któremu towarzyszył bardzo duży udział ciągłych, negatywnych stanów depresyjnych.",
+        "Koncentracją na osiąganiu bardzo ambitnych celów zawodowych przy jednoczesnym ukrywaniu własnych, trudnych w relacjach wad.",
+        "Zdecydowanym tłumieniem skrajnych emocji na rzecz bezproblemowego i skutecznego dopasowania się do panujących norm społecznych."
+      ],
+      "correctAnswerIndex": 3,
+      "explanation": "Typ zachowawczy stawia na uległość, tradycję i przystosowanie do narzuconych praw. Kobiety te unikały rozchwiania emocjonalnego i skrajności (bladość afektu), by bezkonfliktowo wpisać się w stereotypy ról."
+    },
+    {
+      "id": 27,
+      "type": "single-choice",
+      "question": "Analizując zjawiska demograficzne i wyzwania dotyczące funkcjonowania współczesnych rodzin senioralnych w Polsce (Z. Woźniak), uwydatnia się zjawisko, wedle którego:",
+      "options": [
+        "Zdecydowana większość starszych mężczyzn w miastach samodzielnie prowadzi duże, mocno zintegrowane i silne wielopokoleniowe gospodarstwa.",
+        "Znacząca większość gospodarstw jednoosobowych należących do osób po osiemdziesiątym roku życia jest prowadzona przez kobiety.",
+        "Młodzi ojcowie przejmują zdecydowaną większość ciężarów opieki pielęgnacyjnej nad schorowanymi, zależnymi teściami w rejonach oddalonych.",
+        "Instytucje publiczne wyparły zupełnie tradycyjne struktury rodzin w zakresie codziennej, trwałej i kosztownej asysty socjalnej."
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Z powodu zjawiska tzw. feminizacji starości oraz wyższej śmiertelności mężczyzn w młodszych przedziałach, najstarsze, osamotnione gospodarstwa domowe są w Polsce prowadzone w absolutnej większości przez starzejące się, owdowiałe kobiety (aż 85%)."
+    },
+    {
+      "id": 28,
+      "type": "single-choice",
+      "question": "W neurobiologicznej patogenezie choroby Parkinsona postępujący spadek poziomu dopaminy zakłóca funkcje prążkowia. Zauważalne klinicznie objawy motoryczne pojawiają się jednak dopiero, gdy:",
+      "options": [
+        "Stężenie dopaminy w tych kluczowych strukturach spadnie poniżej bezpiecznego progu, przekraczając ubytek rzędu 80 procent.",
+        "Komórki glejowe rozpoczną masową i nadmierną syntezę agresywnej acetylocholiny zlokalizowanej w samej istocie czarnej mózgowia.",
+        "Dojdzie do bezpośredniego i gwałtownego uszkodzenia osłonek mielinowych zlokalizowanych na nerwach obwodowych w obrębie kończyn dolnych.",
+        "Nastąpi ostateczny, całkowity zawał mięśnia sercowego całkowicie odcinający zaopatrzenie w tlen struktur rozległych zwojów rdzeniowych."
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Mózg posiada ogromne zdolności kompensacyjne. Degeneracja neuronów w istocie czarnej pozostaje utajona w zachowaniu pacjenta, a parkinsonizm ujawnia się obiektywnie, dopiero gdy poziom dopaminy drastycznie spadnie aż o 80%."
+    },
+    {
+      "id": 29,
+      "type": "single-choice",
+      "question": "Osiągnięcie poczucia integralności u progu starości jako pozytywny wynik normatywnego kryzysu, według psychologii E. Eriksona, objawia się u człowieka jako:",
+      "options": [
+        "Silne dążenie do udowodnienia młodszym pokoleniom swojego absolutnego autorytetu za pomocą bardzo rygorystycznych i ostrych wymagań.",
+        "Zdolność do spajania całości dotychczasowych trudnych doświadczeń i głęboka, świadoma akceptacja własnego, całkowicie niepowtarzalnego cyklu życia.",
+        "Gwałtowne oraz mocno kompulsywne angażowanie się w wybitnie ryzykowne zachowania fizyczne aby za wszelką cenę oszukać czas.",
+        "Skrajna izolacja u jednostki i chłodna obojętność wobec cierpień otoczenia w celu ocalenia swojego doskonałego spokoju."
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Poczucie integralności polega na akceptacji faktu, że przeżyło się tylko jedno, konkretne życie. Osoba odnajduje w nim głęboki, wewnętrzny ład i sens, nie odczuwając żalu czy rozpaczy za utraconymi, niemożliwymi już do zrealizowania szansami."
+    },
+    {
+      "id": 30,
+      "type": "single-choice",
+      "question": "Ukształtowane we wczesnym dzieciństwie (do 3 r.ż.) poczucie autonomii pełni w okresie późnej dorosłości wybitnie ochronną funkcję, gdyż zabezpiecza ono starego człowieka przed:",
+      "options": [
+        "Niekontrolowaną i głęboką alienacją, ułatwiając czerpanie biernej satysfakcji z pełnej, bezpiecznej oraz wielogodzinnej samotności w tłumie.",
+        "Doświadczeniem dojmującego wstydu oraz upokorzenia w sytuacjach, gdy z powodu starości musi korzystać z zabiegów opiekuńczych.",
+        "Chęcią gwałtownego obalenia dotychczasowego systemu prawnego, zachęcając do bardzo ryzykownych zachowań i jawnego, zbrojnego wręcz oporu.",
+        "Kompulsywnym i skrajnie nieadekwatnym rozdawaniem mienia wszystkim przypadkowo napotkanym, obcym ludziom w swoim najbliższym, domowym otoczeniu."
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Zdrowo zakorzeniona autonomia pozwala starszemu człowiekowi obronić poczucie dumy i nienaruszonej godności, nawet wtedy, gdy na skutek postępującego zniedołężnienia musi obnażać swoje niedoskonałości przed osobami, od których obiektywnie zależy."
+    }
+  ]
+}
