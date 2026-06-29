@@ -200,7 +200,7 @@
     {
       "id": 16,
       "type": "single-choice",
-      "question": "W eksperymentach z kurczętami, ptaki z zakrytym prawym okiem (korzystające z prawej półkuli) wykazywały:",
+      "question": "W eksperymentach z kurczętami, ptaki z zakrytym prawym okiem (korzystające z lewej półkuli) wykazywały:",
       "options": [
         "Skupienie na drobnych szczegółach podłoża.",
         "Ignorowanie bodźców zagrażających życiu.",
@@ -208,7 +208,7 @@
         "Tylko rutynowe, monotonne zachowania."
       ],
       "correctAnswerIndex": 2,
-      "explanation": "Zgodnie z neuroanatomią (skrzyżowanie nerwów wzrokowych), zakryte prawe oko → widzi lewe oko → prawa półkula. PDF: 'Kurczęta, którym zakryto prawe oko, wykazują zainteresowanie szerokim zakresem bodźców, czyli globalnym aspektem środowiska; kurczęta mające zakryte lewe oko skupiają się jedynie na konkretnych, lokalnych szczegółach otoczenia.'"
+      "explanation": "Zgodnie z neuroanatomią (skrzyżowanie nerwów wzrokowych), zakryte prawe oko → widzi lewe oko → prawa półkula. 'Kurczęta, którym zakryto prawe oko, wykazują zainteresowanie szerokim zakresem bodźców, czyli globalnym aspektem środowiska; kurczęta mające zakryte lewe oko skupiają się jedynie na konkretnych, lokalnych szczegółach otoczenia.'"
     },
     {
       "id": 17,
@@ -260,7 +260,7 @@
         "Tworzy abstrakcyjne kategorie, schematycznie i bez detali."
       ],
       "correctAnswerIndex": 0,
-      "explanation": "PDF: LEWA PÓŁKULA — 'Postawa otwarta (bez przed-sądów)', 'Postrzega siebie jako połączoną ze światem', 'Zainteresowana tym, co osobowe'. PRAWA PÓŁKULA — 'Postawa oceniająca', 'Zainteresowana tym, co bezosobowe', 'Tworzy re-prezentacje obiektów schematycznie, abstrakcyjnie'. Opcje B, C, D opisują prawą półkulę."
+      "explanation": "LEWA PÓŁKULA — 'Postawa otwarta (bez przed-sądów)', 'Postrzega siebie jako połączoną ze światem', 'Zainteresowana tym, co osobowe'. PRAWA PÓŁKULA — 'Postawa oceniająca', 'Zainteresowana tym, co bezosobowe', 'Tworzy re-prezentacje obiektów schematycznie, abstrakcyjnie'. Opcje B, C, D opisują prawą półkulę."
     },
     {
       "id": 21,
@@ -403,7 +403,7 @@
         "Niską wrażliwością na bodźce i obojętnością na otoczenie"
       ],
       "correctAnswerIndex": 0,
-      "explanation": "PDF opisuje sympatykotoników jako: tachypsychizm (szybsze myślenie), porywczość, nerwowość, wybuchowość, skłonność do dominacji nad otoczeniem, rozwinięty instynkt atak-obrona. Opcje B, C, D opisują wagotoników."
+      "explanation": "Wykład opisuje sympatykotoników jako: tachypsychizm (szybsze myślenie), porywczość, nerwowość, wybuchowość, skłonność do dominacji nad otoczeniem, rozwinięty instynkt atak-obrona. Opcje B, C, D opisują wagotoników."
     },
     {
       "id": 32,
@@ -468,7 +468,7 @@
         "Całkowite zamrożenie postawy w obliczu stresu."
       ],
       "correctAnswerIndex": 1,
-      "explanation": "PDF jednoznacznie: LEWA PÓŁKULA — 'Ruchy eksploracyjne', 'Troska', 'Kooperacja'. PRAWA PÓŁKULA — 'Ruchy celowe (sięganie po, chwytanie)', 'Działanie instrumentalne (manipulacyjne)', 'Rywalizacja'."
+      "explanation": "Zgodnie z wykładem: LEWA PÓŁKULA — 'Ruchy eksploracyjne', 'Troska', 'Kooperacja'. PRAWA PÓŁKULA — 'Ruchy celowe (sięganie po, chwytanie)', 'Działanie instrumentalne (manipulacyjne)', 'Rywalizacja'."
     },
     {
       "id": 37,
