@@ -1,0 +1,900 @@
+{
+  "title": "Baza Pytań - Emocje i Motywacja",
+  "difficulty": "Trudny",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single-choice",
+      "question": "Według koncepcji Iaina McGilchrista i badań nad lateralizacją, jakimi cechami charakteryzuje się uwaga prawej półkuli mózgowej?",
+      "options": [
+        "Jest wąska, wysoce skupiona, selektywna i teliczna (zorientowana na cel)",
+        "Jest szeroka, trwała, elastyczna i otwarta na nowość",
+        "Jest nakierowana na abstrakcyjne i sekwencyjne przetwarzanie informacji w izolacji",
+        "Jest związana wyłącznie z rutynowymi, odgórnie motywowanymi zachowaniami (np. żerowaniem)"
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Zgodnie z ujęciem McGilchrista, uwaga lewej półkuli jest wąska (intensywna, skupiona), natomiast uwaga prawej półkuli jest szeroka, trwała, elastyczna (ekstensywna) i szukająca nowości."
+    },
+    {
+      "id": 2,
+      "type": "single-choice",
+      "question": "Zgodnie z afektywną neuronauką Jaaka Pankseppa, główną ewolucyjną funkcją systemu ZABAWY (PLAY) jest:",
+      "options": [
+        "redukcja napięcia, ulga oraz fizjologiczny powrót do homeostazy po sytuacji zagrożenia",
+        "uczenie się funkcjonowania w społeczeństwie, wchodzenia w role oraz rozumienia relacji władzy i hierarchii",
+        "stymulacja rozwoju kory przedczołowej w celu lepszego rozwiązywania abstrakcyjnych problemów matematyczno-logicznych",
+        "przygotowanie organizmu samca do zachowań kopulacyjnych oraz aktywacja systemu ŻĄDZY"
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Panksepp wskazuje, że system ZABAWY (PLAY) zachęca do udawania, wchodzenia w różne role i badania relacji władzy czy hierarchii, co służy ewolucyjnemu uczeniu się funkcjonowania w grupach społecznych."
+    },
+    {
+      "id": 3,
+      "type": "single-choice",
+      "question": "Według koncepcji Lowena, patologiczny wzorzec 'oddychania piersiowego', charakteryzujący się rozdętą, usztywnioną klatką piersiową i lękiem przed głębokim wydechem, jest typowym wyrazem:",
+      "options": [
+        "osobowości typu C i głębokiego charakteru depresyjnego",
+        "zdrowego, naturalnego oddechu sterowanego przez pień mózgu",
+        "charakteru sztywnego (np. u osobowości typu A), stanowiąc mechanizm powstrzymywania emocji i nadmiernej samokontroli",
+        "prawidłowo indukowanej reakcji relaksacyjnej Bensona"
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Alexander Lowen przypisuje tzw. oddychanie piersiowe (usztywniona, rozdęta klatka, lęk przed wydechem) charakterowi sztywnemu i osobowości typu A. Cechuje się ono powstrzymywaniem uczuć oraz nadmierną samokontrolą."
+    },
+    {
+      "id": 4,
+      "type": "single-choice",
+      "question": "Według modelu Lloyda deMause'a, etap w historii dzieciństwa, w którym rodzice przeszli od prób powstrzymania wzrostu dziecka do prób kontrolowania jego umysłu, wnętrzności i wypleniania grzechu w celu uczynienia go bezwzględnie posłusznym, określa się mianem:",
+      "options": [
+        "rodzicielstwa socjalizującego",
+        "rodzicielstwa intruzywnego (natrętnego)",
+        "rodzicielstwa ambiwalentnego",
+        "rodzicielstwa porzucającego"
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "W klasyfikacji deMause'a jest to faza rodzicielstwa natrętnego/intruzywnego (XVIII wiek), w której celem dorosłych stało się łamanie woli, dyscyplinowanie dziecka i kontrola jego umysłu."
+    },
+    {
+      "id": 5,
+      "type": "single-choice",
+      "question": "Sytuacja potocznie określana jako 'fatalne zauroczenie' (osoba powtarza: 'nie mogę z nim żyć, ale bez niego też nie mogę'), gdzie podmiot odczuwa silny pociąg i jednocześnie równie silną niechęć wobec tego samego obiektu, to przykład konfliktu motywacyjnego typu:",
+      "options": [
+        "dążenie-dążenie",
+        "unikanie-unikanie",
+        "dążenie-unikanie",
+        "podwójne unikanie-unikanie"
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Podręcznikowo jest to konflikt typu 'dążenie-unikanie', w którym wobec jednego i tego samego obiektu odczuwamy ambiwalencję: silny pociąg (dążenie) oraz równie silną niechęć lub obawę (unikanie)."
+    },
+    {
+      "id": 6,
+      "type": "single-choice",
+      "question": "W typologii stylów humoru Roda Martina, humor stosowany w celu przypodobania się grupie kosztem własnej godności, naśmiewania się z własnych słabości w celu negacji prawdziwych problemów (często zaliczany do humoru nieadaptacyjnego), to:",
+      "options": [
+        "humor afiliatywny",
+        "humor agresywny",
+        "humor wzmacniający 'ja' (w służbie ego)",
+        "humor poniżający 'ja' (autoagresywny)"
+      ],
+      "correctAnswerIndex": 3,
+      "explanation": "Jest to destrukcyjny i nieadaptacyjny styl określany jako humor poniżający 'ja' (autoagresywny/masochistyczny). Służy on przypodobaniu się innym za cenę umniejszania własnej wartości."
+    },
+    {
+      "id": 7,
+      "type": "single-choice",
+      "question": "W kontekście zarządzania emocjami w środowisku pracy (praca emocjonalna wg Hochschild), czym charakteryzuje się tzw. 'głęboka praca emocjonalna' (deep acting)?",
+      "options": [
+        "Tłumieniem fizjologicznej ekspresji niepożądanych emocji (np. złości) i maskowaniem ich wyuczonym uśmiechem",
+        "Celowym i autentycznym wprowadzaniem się w pożądany stan emocjonalny (regulowanie wewnętrznych przeżyć) zanim emocja zostanie uzewnętrzniona",
+        "Wyłącznie udawaniem entuzjazmu bez jakiejkolwiek ingerencji w prawdziwe wewnętrzne uczucia (mechaniczne odgrywanie roli)",
+        "Nieświadomym i automatycznym zarażaniem się emocjami od obsługiwanych klientów"
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Głęboka praca emocjonalna różni się od płytkiej (maskowania) tym, że pracownik celowo wprowadza się w dany, pożądany stan i autentycznie reguluje swoje odczucia przed ich ekspresją (strategia wyprzedzająca)."
+    },
+    {
+      "id": 8,
+      "type": "single-choice",
+      "question": "Zgodnie z koncepcją mózgu trójjedynego (MacLean), tzw. mózg paleossaków (odpowiadający m.in. układowi limbicznemu):",
+      "options": [
+        "odpowiada wyłącznie za automatyczne reakcje instynktowne typu 'walcz/uciekaj' z wyłączeniem procesów uczenia się",
+        "generuje podstawowe emocje ułatwiające zwierzętom stadnym m.in. łączenie się, opiekę nad potomstwem i regulację interakcji grupowych",
+        "odpowiada za precyzyjną percepcję, świadomość, wolną wolę oraz myślenie logiczno-sekwencyjne",
+        "zawiaduje wyłącznie wegetatywnymi funkcjami utrzymania homeostazy i zmysłowymi afektami receptorowymi"
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Mózg paleossaków, inaczej mózg emocjonalny lub układ limbiczny, ewolucyjnie rozwinął się u zwierząt stadnych. Odpowiada on za emocje promujące spójność grupy, współpracę, zabawę i przywiązanie."
+    },
+    {
+      "id": 9,
+      "type": "single-choice",
+      "question": "Na czym polega fundamentalna różnica między afektywną funkcją nastroju a emocji, wskazana m.in. w koncepcji Richarda J. Davidsona?",
+      "options": [
+        "Emocje są zjawiskiem czysto poznawczym, podczas gdy nastroje wynikają tylko z biologicznych popędów",
+        "Zarówno emocje jak i nastroje pełnią dokładnie tę samą funkcję, lecz różnią się uwarunkowaniem genetycznym",
+        "Emocje służą głównie modulacji i selekcji działań (reakcji), podczas gdy nastroje modulują i selekcjonują nasze procesy poznawcze (np. dostępność pamięciową, uwagę)",
+        "Nastrój jest zawsze wtórny wobec myślenia celowego, a emocja poprzedza wszelkie procesy neurologiczne"
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Davidson i inni badacze postawili hipotezę, że główną funkcją emocji jest selekcja i modulacja bieżących działań, podczas gdy nastroje wpływają na tło – organizując procesy uwagowe i poznawcze."
+    },
+    {
+      "id": 10,
+      "type": "single-choice",
+      "question": "W modelu Zagnieżdżonego Mózgu/Umysłu (Panksepp, Solms), tzw. afekty kognitywne (procesy trzeciorzędowe, uczucia wyższe) takie jak poczucie winy czy rozbudowana nienawiść, charakteryzują się tym, że:",
+      "options": [
+        "są generowane przez pień mózgu jako czyste, wrodzone schematy motoryczne nie poddające się kontroli wolicjonalnej",
+        "są wynikiem warunkowania klasycznego (np. nabyty lęk przed psami)",
+        "stanowią uniwersalne instynkty wspólne ludziom i gadom",
+        "wymagają ustrukturyzowanych procesów poznawczych i powstają w wyniku np. wybiegania myślami w przyszłość lub ruminacji"
+      ],
+      "correctAnswerIndex": 3,
+      "explanation": "Procesy trzeciorzędowe (kognitywne) to wyższe emocje poznawcze. Powstają jako wynik pracy z internalizacjami, symulowania w głowie (np. plany zemsty budujące nienawiść) i ruminacji."
+    },
+    {
+      "id": 11,
+      "type": "single-choice",
+      "question": "Jaka jest hierarchiczna i chronologiczna relacja między uczuciami a myślami według teorii Marka Solmsa?",
+      "options": [
+        "Myśli pojawiają się pierwsze w wyniku percepcji, by ukształtować nasze uczucia",
+        "Zarówno uczucia jak i myśli powstają w korze nowej jednocześnie, wykluczając się wzajemnie w sytuacjach stresowych",
+        "Myślenie jest mechanizmem wrodzonym noworodka, z którego wyrastają uczucia wtórne",
+        "Uczucia pojawiają się pierwsze, zmuszając umysł do podjęcia pracy ('reprezentują problem'), a myślenie służy znalezieniu rozwiązania uśmierzającego dany afekt"
+      ],
+      "correctAnswerIndex": 3,
+      "explanation": "Solms kategorycznie stwierdza, że uczucia (afekty) są pierwsze zarówno ewolucyjnie, hierarchicznie, jak i chronologicznie. To uczucia reprezentują zapotrzebowania, zmuszając mózg (umysł) do myślenia i szukania rozwiązania."
+    },
+    {
+      "id": 12,
+      "type": "single-choice",
+      "question": "Pojęcie tzw. 'poczuć bycia' (feelings of being / uczuć egzystencjalnych, np. głębokie poczucie wyobcowania lub przynależności) odróżnia się od standardowych nastrojów głównie tym, że:",
+      "options": [
+        "są to stany krótkotrwałe i zawsze ukierunkowane na konkretny obiekt",
+        "dominują na pierwszym planie świadomości, paraliżując procesy decyzyjne",
+        "są nieukierunkowane, obecne głęboko w tle (łatwo je przeoczyć) i w sposób całościowy organizują nasz sposób doświadczania świata",
+        "wynikają wyłącznie z wrodzonych reakcji pnia mózgu na bezpośrednie zagrożenie życia"
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Poczucia bycia (np. poczucie obcości czy jedności z naturą) to stany z głębokiego tła, trudne do uchwycenia, łatwe do przeoczenia, trwalsze i znacznie ogólniejsze niż nastroje. Strukturyzują całościowo naszą relację ze światem."
+    },
+    {
+      "id": 13,
+      "type": "single-choice",
+      "question": "W psychologii motywacji rozróżnia się potrzeby (needs) oraz pragnienia/chęci (wants). Fundamentalną osią podziału tych dwóch zjawisk jest to, że:",
+      "options": [
+        "pragnienia determinują biologiczne przetrwanie, podczas gdy potrzeby są luksusem narzuconym przez kulturę",
+        "niezaspokojenie potrzeby niesie zawsze poważne, obiektywne dysfunkcje dla organizmu lub zdrowia psychicznego, podczas gdy pragnienia nie są warunkiem koniecznym do prawidłowego funkcjonowania",
+        "potrzeby można swobodnie negocjować i zastępować, a pragnień (np. nałogów) nie",
+        "potrzeby wynikają bezpośrednio z hedonistycznego poszukiwania przyjemności (układ nagrody), a pragnienia zawsze służą unikaniu zła (układ kary)"
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Potrzeby traktuje się jako wymagania niezbędne do życia; deficyt potrzeby zawsze prowadzi do wyraźnego uszczerbku (dysfunkcji, choroby). Pragnienia są pożądaniami lub ochotami, których niespełnienie nie zagraża funkcjonowaniu."
+    },
+    {
+      "id": 14,
+      "type": "single-choice",
+      "question": "Co stanowi trzon założeń teorii 'poszerzania i budowania' (broaden-and-build) autorstwa Barbary Fredrickson?",
+      "options": [
+        "Emocje pozytywne wyewoluowały po to, by wygaszać szkodliwe działanie negatywnej inklinacji w sytuacjach krytycznego stresu",
+        "Emocje pozytywne w odróżnieniu od negatywnych zawężają uwagowe pole percepcyjne, by skupić podmiot na bieżącej nagrodzie",
+        "Emocje pozytywne rozszerzają nasz repertuar myśli, uwagi i działań, co sprzyja budowaniu elastyczności i trwałych zasobów osobistych",
+        "Człowiek dąży do ciągłej, euforycznej stymulacji pomijając znaczenie emocji z grupy tzw. normostresu"
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Zgodnie z koncepcją B. Fredrickson, pozytywne emocje pełnią funkcję 'rozszerzania' świadomości (uwagi, elastyczności), co następnie służy 'budowaniu' – kumulowaniu zasobów fizycznych, społecznych i poznawczych na przyszłość."
+    },
+    {
+      "id": 15,
+      "type": "single-choice",
+      "question": "W sytuacjach wywołujących emocję, jak określa się stan fizjologicznej demobilizacji w którym jednostka dysponuje wyzwaniem wprost idealnie skrojonym na miarę jej kompetencji (angażującym motywacyjnie, ale z nutą ekscytacji)?",
+      "options": [
+        "Hipostres",
+        "Trauma normatywna",
+        "Hiperstres",
+        "Eustres"
+      ],
+      "correctAnswerIndex": 3,
+      "explanation": "Eustres, czyli tzw. pozytywny stres, to sytuacja, w której wymogi stojące przed jednostką nieznacznie przekraczają kompetencje, co działa mobilizująco, sprzyja osiągnięciom i w efekcie generuje pozytywne uczucia (przy akceptowalnym poziomie niepokoju/ekscytacji)."
+    },
+    {
+      "id": 16,
+      "type": "single-choice",
+      "question": "Sytuacja w której pracownik pogrzebowy odczuwa wewnętrzne rozbawienie na skutek nietypowego wypadku na cmentarzu, ale świadomie (instrumentalnie) okrywa twarz fałszywym maskującym grymasem smutku, w ujęciu emocji udawanych to wariant w którym:",
+      "options": [
+        "emocja negatywna przykrywa odczuwaną emocję pozytywną",
+        "emocja pozytywna przykrywa odczuwaną emocję negatywną",
+        "proces drugo-rzędowy zablokowany jest przez afekt receptorowy",
+        "emocja wymuszona przeradza się w autentyczną emocję samoświadomościową"
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Jest to klasyczny przykład, gdzie niepożądana w danej sytuacji emocja pozytywna (rozbawienie) jest maskowana (udawana) odpowiednią kontekstowo emocją negatywną (smutkiem)."
+    },
+    {
+      "id": 17,
+      "type": "single-choice",
+      "question": "Która z wymienionych strategii regulowania emocji u innych (wyodrębnionych m.in. w narzędziu MEOS) służy tzw. 'pogarszaniu nastroju' (mood worsening) by zmanipulować cudzym zachowaniem?",
+      "options": [
+        "Używanie asertywnych komunikatów i zachęcanie innej osoby do pełnej ekspresji jej żalu",
+        "Rozluźnianie napięcia dyskusji merytorycznej poprzez nagłe wprowadzenie opowieści o własnym, nieudanym dzieciństwie",
+        "Intencjonalne uciekanie się do ostrej krytyki, podważanie cudzej pewności siebie lub manifestacyjne obrażanie się",
+        "Dyskretne, pełne troski i współczucia korygowanie nieprawidłowości bez publicznego obnażania błędu innej osoby"
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "W kwestionariuszu MEOS kategoria 'pogarszania nastroju' mierzy destrukcyjne zachowania służące manipulacji – takie jak krytykanctwo, uszczypliwości, intencjonalne złośliwości oraz wywoływanie u kogoś złości."
+    },
+    {
+      "id": 18,
+      "type": "single-choice",
+      "question": "W kontekście modelu trans-teoretycznego (TTM) zmiany zachowania (Prochaska i DiClemente), etap na którym jednostka analizuje wady i zalety dotychczasowego stylu życia, jednak nie wykazuje jeszcze gotowości by ułożyć konkretny plan naprawczy, określa się jako fazę:",
+      "options": [
+        "Przygotowania",
+        "Działania",
+        "Prekontemplacji",
+        "Kontemplacji"
+      ],
+      "correctAnswerIndex": 3,
+      "explanation": "Kontemplacja w modelu TTM to etap, na którym osoba zaczyna dostrzegać problem i rozważa jego 'plusy i minusy', ale nie podjęła jeszcze akcji ani konkretnych przygotowań (etap planowania)."
+    },
+    {
+      "id": 19,
+      "type": "single-choice",
+      "question": "Panksepp wskazuje uniwersalne bodźce bezwarunkowe dla systemów pierwotnych. Który system afektywny instynktownie aktywuje się w odpowiedzi na dostrzeżenie płaczu, objawów bezradności bądź oznak słabości u kogoś bliskiego (lub innej istoty)?",
+      "options": [
+        "System PANIKI/BOLEŚCI (GRIEF)",
+        "System ZABAWY (PLAY)",
+        "System TROSKI / CZUŁOŚCI (CARE)",
+        "System WŚCIEKŁOŚCI (RAGE)"
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Instynktownym, bezwarunkowym bodźcem spustowym wyzwalającym ewolucyjny system TROSKI i CZUŁOŚCI (CARE) u ssaków są płacz potomstwa oraz widoczne oznaki jego osłabienia i bezradności."
+    },
+    {
+      "id": 20,
+      "type": "single-choice",
+      "question": "Wśród działań gałęzi parasympatycznej (przywspółczulnej) autonomicznego układu nerwowego – w opozycji do reakcji organizmu na hiperstres – znajduje się:",
+      "options": [
+        "desynchronizacja fal EEG, przyspieszenie bicia serca oraz hamowanie wydzielania soków trzustkowych",
+        "rozszerzenie oskrzeli by usprawnić wydolność tlenową niezbędną do ucieczki",
+        "zwężenie źrenic, stymulacja pracy gruczołów łzowych oraz intensyfikacja trawienia w żołądku i jelitach",
+        "obkurczanie naczyń krwionośnych prowadzące do wzmożonego uwalniania adrenaliny i noradrenaliny z nadnerczy"
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Układ parasympatyczny ('odpocznij i traw') odpowiada za relaksację organizmu, co objawia się m.in. zwężeniem źrenic, zwolnieniem bicia serca, pracą gruczołów łzowych oraz silnym pobudzeniem funkcjonowania układu trawiennego."
+    },
+    {
+      "id": 21,
+      "type": "single-choice",
+      "question": "Co to jest przesunięcie pozytywności?",
+      "options": [
+        "Tendencja do przeceniania pozytywnych aspektów",
+        "Tendencja do przeceniania negatywnych aspektów",
+        "Naturalne skłonności do doświadczania większej ilości pozytywnych emocji niż negatywnych w codziennym życiu"
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": ""
+    },
+    {
+      "id": 22,
+      "type": "single-choice",
+      "question": "Czym jest hipostres?",
+      "options": [
+        "Optymalnym poziomem napięcia",
+        "Zjawiskiem spowodowanym brakiem stymulacji i monotonią",
+        "Techniką relaksacyjną opartą na odprężaniu mięśni",
+        "Stanem silnego pobudzenia i nadmiernego stresu"
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": ""
+    },
+    {
+      "id": 23,
+      "type": "single-choice",
+      "question": "Czym są meta emocje?",
+      "options": [
+        "Emocjami odczuwanymi wobec emocji innych",
+        "Reakcjami emocjonalnymi na bodźce zewnętrzne",
+        "Emocjami odczuwanymi w odpowiedzi na własne emocje",
+        "Emocjami odczuwanymi w obecności innych osób"
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": ""
+    },
+    {
+      "id": 24,
+      "type": "single-choice",
+      "question": "Do potrzeb prymarnych zaliczamy - podaj najtrafniejszą decyzję:",
+      "options": [
+        "fizjologiczne i bezpieczeństwa",
+        "powietrza, wody, jedzenia, schronienia, snu",
+        "bezpieczeństwa, przynależności"
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": ""
+    },
+    {
+      "id": 25,
+      "type": "single-choice",
+      "question": "Duma czy wstyd (tzw. emocje samoświadomościowe) w modelu Pankseppa należą do kategorii:",
+      "options": [
+        "Emocji wtórnych",
+        "Emocji pierwotnych",
+        "Emocji wyższych"
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": ""
+    },
+    {
+      "id": 26,
+      "type": "single-choice",
+      "question": "Jak negatywna inklinacja wpływa na nasze postrzeganie informacji?",
+      "options": [
+        "Skłania nas do zapominania negatywnych wydarzeń",
+        "Powoduje, że przypisujemy większą wagę negatywnym informacjom",
+        "Nie ma wpływu na nasze postrzeganie informacji",
+        "Sprawia, że jesteśmy bardziej optymistyczni w swoich ocenach"
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": ""
+    },
+    {
+      "id": 27,
+      "type": "single-choice",
+      "question": "Jaka jest różnica między potrzebami a pragnieniami?",
+      "options": [
+        "potrzeby są ogólne, a pragnienia są konkretne",
+        "pragnienia są silniejsze i bezdyskusyjne, a potrzeby można negocjować",
+        "potrzeby są indywidualne, a pragnienia uniwersalne"
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": ""
+    },
+    {
+      "id": 28,
+      "type": "single-choice",
+      "question": "Za zwiększenie tętna i ciśnienia krwi oraz tempa oddychania odpowiada:",
+      "options": [
+        "aktywacja współczulnego układu nerwowego",
+        "jednoczesna aktywacja sympatycznego i parasympatycznego układu nerwowego",
+        "aktywacja przywspółczulnego układu nerwowego"
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": ""
+    },
+    {
+      "id": 29,
+      "type": "single-choice",
+      "question": "Kluczowe w skutecznym stosowaniu techniki relaksacji progresywnej jest:",
+      "options": [
+        "prawidłowa sekwencja napinania mięśni",
+        "prawidłowy oddech w trakcie napinania i rozluźniania",
+        "skupianie się na wrażeniach napięcia i rozluźniania",
+        "napinanie i rozluźnianie w odpowiednim tempie i rytmie"
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": ""
+    },
+    {
+      "id": 30,
+      "type": "single-choice",
+      "question": "Kluczowe w skutecznym stosowaniu treningu autogennego Schultza jest:",
+      "options": [
+        "długie powtarzanie sugestii",
+        "stosowanie parafraz autosugestii",
+        "wykorzystywanie autosugestii w nastawieniu z wiarą na zmianę",
+        "wierne powtarzanie w głowie lub na głos afirmacji"
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": ""
+    },
+    {
+      "id": 31,
+      "type": "single-choice",
+      "question": "Zdaniem Pankseppa, najstarszą emocją jest:",
+      "options": [
+        "wściekłość",
+        "ciekawość (entuzjazm)",
+        "żądza (pożądanie)",
+        "strach (lęk)"
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": ""
+    },
+    {
+      "id": 32,
+      "type": "single-choice",
+      "question": "Które z poniższych emocji uchodzą w psychologii za pierwotne:",
+      "options": [
+        "wstyd, poczucie winy",
+        "pogarda, wstręt",
+        "gniew, strach",
+        "radość, miłość"
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": ""
+    },
+    {
+      "id": 33,
+      "type": "single-choice",
+      "question": "Jakie są główne objawy hipostresu?",
+      "options": [
+        "Wzrost kreatywności i produktywności",
+        "Niska energia i zmęczenie",
+        "Spokój, opanowanie i skupienie uwagi",
+        "Nadmierna aktywność i pobudzenie emocjonalne"
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": ""
+    },
+    {
+      "id": 34,
+      "type": "single-choice",
+      "question": "Lateralizacja funkcjonalna półkul mózgowych dotyczy - wybierz najtrafniejszą odpowiedź:",
+      "options": [
+        "pnia mózgu",
+        "kory mózgowej",
+        "kory pierwszorzędowej",
+        "kory drugorzędowej"
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": ""
+    },
+    {
+      "id": 35,
+      "type": "single-choice",
+      "question": "Każdy afekt charakteryzuje się w psychologii poprzez wskazanie:",
+      "options": [
+        "siły (intensywności)",
+        "walencji",
+        "wszystkich wymienionych parametrów",
+        "motywacji"
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": ""
+    },
+    {
+      "id": 36,
+      "type": "single-choice",
+      "question": "Z perspektywy psychologii emocji, płacz jest:",
+      "options": [
+        "ekspresją",
+        "zarówno może być przejawem emocji rozpaczy jak i bodźcem wzbudzającym współczucie",
+        "bodźcem pierwotnym dla współczucia/troski",
+        "impulsem do działania"
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": ""
+    },
+    {
+      "id": 37,
+      "type": "single-choice",
+      "question": "Zgodnie z afektywną neuronauką Pankseppa systemy emocjonalne ewoluowały w następującej kolejności:",
+      "options": [
+        "EMOCJE SPOŁECZNE -> ŻĄDZA -> SZUKANIE -> STRACH/WŚCIEKŁOŚĆ",
+        "SZUKANIE -> ŻĄDZA -> STRACH -> WŚCIEKŁOŚĆ -> EMOCJE SPOŁECZNE",
+        "SZUKANIE -> STRACH/WŚCIEKŁOŚĆ -> ŻĄDZA -> TROSKA/BOLEŚĆ -> ZABAWA"
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": ""
+    },
+    {
+      "id": 38,
+      "type": "single-choice",
+      "question": "Afekty pozytywne i negatywne różnią się:",
+      "options": [
+        "odpowiednio: funkcją przetrwania i funkcją rozwoju",
+        "odpowiednio: proaktywnością i reaktywnością",
+        "odpowiednio tym, że pierwsze są prymarnie egzogenne, a drugie prymarnie endogenne"
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": ""
+    },
+    {
+      "id": 39,
+      "type": "single-choice",
+      "question": "Temperament w psychologii rozumiany jest w następujący sposób - podaj najtrafniejszą definicję:",
+      "options": [
+        "duża pobudliwość fizyczna i psychiczna, szczególnie w dziedzinie seksualnej",
+        "zespół nabytych cech osobowości",
+        "skłonność do reagowania w sposób ożywiony i nerwowy",
+        "wrodzony zestaw cech emocjonalnych"
+      ],
+      "correctAnswerIndex": 3,
+      "explanation": ""
+    },
+    {
+      "id": 40,
+      "type": "single-choice",
+      "question": "Które z poniższych stwierdzeń najlepiej opisuje pojęcie zachowań polimotywacyjnych?",
+      "options": [
+        "Kierowanie się w działaniu wyłącznie nagrodami zewnętrznymi, takimi jak pieniądze czy nagrody.",
+        "Działanie pod wpływem wielu, często nakładających się na siebie motywów, zarówno wewnętrznych, jak i zewnętrznych.",
+        "Wykonywanie działań ukierunkowanych na osiągnięcie pojedynczego, jasno określonego celu."
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": ""
+    },
+    {
+      "id": 41,
+      "type": "single-choice",
+      "question": "Afekt to - podaj definicję psychologiczną:",
+      "options": [
+        "wewnętrzny stan dostępny jedynie jednostce przeżywającej go",
+        "ekspresja zewnętrzna emocji",
+        "myśl zawierająca ocenę danego bodźca lub zdarzenia"
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": ""
+    },
+    {
+      "id": 42,
+      "type": "single-choice",
+      "question": "Badania wskazują, że ... - podaj prawdziwe zdanie (dot. nastroju):",
+      "options": [
+        "Człowiek w każdym momencie doświadcza jakiegoś nastroju.",
+        "Ludzie są bardziej szczęśliwi, gdy ich umysły błądzą niż gdy są obecni.",
+        "Znaczna większość czasu czuwania spędzana jest w stanach emocjonalnych.",
+        "emocji mieszanych przeżywanych na co dzień to emocje mieszane niejednorodne."
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": ""
+    },
+    {
+      "id": 43,
+      "type": "single-choice",
+      "question": "Nienawiść w modelu zagnieżdżonego Mózgu/Umysłu (Pankseppa) - to:",
+      "options": [
+        "przykład emocji wtórnej",
+        "przykład emocji czystej (pierwotnej)",
+        "przykład emocji kognitywnej"
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": ""
+    },
+    {
+      "id": 44,
+      "type": "single-choice",
+      "question": "Badania wskazują, że ... - które zdanie jest prawdziwe (dot. półkul mózgowych):",
+      "options": [
+        "Prawa półkula mózgowa odpowiada za poszukiwanie pokarmu, rozpoznawanie twarzy, atakowanie zdobyczy / agresję",
+        "Lewa półkula specjalizuje się w rozpoznawaniu tego, co wyjątkowe oraz za uwagę ekstensywną",
+        "Prawa półkula odpowiada za rozpoznawanie ekspresji emocji"
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": ""
+    },
+    {
+      "id": 45,
+      "type": "single-choice",
+      "question": "Jaki jest związek między empatią a Inteligencją emocjonalną?",
+      "options": [
+        "Nie ma zadnego związku między empatią a inteligencją emocjonalną",
+        "Empatia jest jednym z elementów składowych inteligencji emocjonalnej",
+        "Empatia to synonim inteligencji emocjonalnej"
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": ""
+    },
+    {
+      "id": 46,
+      "type": "single-choice",
+      "question": "Która z poniższych sytuacji najlepiej ilustruje umiejętność samoregulacji emocji?",
+      "options": [
+        "Świadome opanowanie nerwów w trudnej sytuacji",
+        "Wybuch gniewu w odpowiedzi na krytykę",
+        "Ignorowanie swoich emocji"
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": ""
+    },
+    {
+      "id": 47,
+      "type": "single-choice",
+      "question": "Która z poniższych to funkcja terapeutyczna humoru?",
+      "options": [
+        "defensywna",
+        "agresywna",
+        "afirmacyjna"
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": ""
+    },
+    {
+      "id": 48,
+      "type": "single-choice",
+      "question": "Co oznacza przekroczenie Rubikonu w kontekście modelu Rubikonu?",
+      "options": [
+        "Przejście od etapu przemyśleń do etapu działania",
+        "Zakończenie całego procesu motywacyjnego",
+        "Rozpoczęcie procesu planowania"
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": ""
+    },
+    {
+      "id": 49,
+      "type": "single-choice",
+      "question": "Co to jest funkcja afirmacyjna humoru? Podaj najtrafniejszą odpowiedź",
+      "options": [
+        "Wywołuje smiech poprzez zaskakujące zakończenia",
+        "powoduje dezaprobatę wobec pewnych postaw",
+        "Potwierdza wartość, normy społeczne i wzmacnia więzi społeczne"
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": ""
+    },
+    {
+      "id": 50,
+      "type": "single-choice",
+      "question": "Według badań najbardziej prawdopodobne jest, że dzisiaj przeżyjesz:",
+      "options": [
+        "radość i złość (irytację)",
+        "strach i złość",
+        "radość i strach (lęk)",
+        "złość i smutek"
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": ""
+    },
+    {
+      "id": 51,
+      "type": "single-choice",
+      "question": "Zgodnie z koncepcją Alana Wallace'a, eudajmonia, w przeciwieństwie do hedonii, charakteryzuje się tym, że:",
+      "options": [
+        "Stanowi krótkotrwałą przyjemność płynącą wyłącznie z optymalnej stymulacji sensorycznej (np. smaku, dźwięku).",
+        "Jest formą autentycznego, trwałego dobrostanu, który jednostka wnosi do świata (np. poprzez etyczne życie i mądrość), a nie czerpie go z zewnątrz.",
+        "Jest wynikiem ewolucyjnego prymatu emocji negatywnych nad pozytywnymi w walce o przetrwanie.",
+        "Osiągana jest poprzez maksymalizację doznań zewnętrznych przy jednoczesnym unikaniu konfliktów wewnętrznych."
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Alan Wallace definiuje eudajmonię jako autentyczne dobre samopoczucie przychodzące 'ze środka' – jest to to, co wnosimy do świata poprzez etyczne życie i mądrość, a nie przelotna przyjemność czerpana ze stymulacji z zewnątrz (hedonia)."
+    },
+    {
+      "id": 52,
+      "type": "single-choice",
+      "question": "W oparciu o badania Heatha A. Demaree nad asymetrią aktywności płatów czołowych, poczucie dominacji i kontroli (któremu może towarzyszyć odwaga, złość, ale i radość) jest silnie związane z aktywnością:",
+      "options": [
+        "Lewego płata czołowego.",
+        "Prawego płata czołowego.",
+        "Kory pierwszorzędowej obu półkul w równym stopniu.",
+        "Pnia mózgu, przy jednoczesnym wyciszeniu kory przedczołowej."
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Według badań H.A. Demaree lewy płat czołowy odpowiada za poczucie dominacji, wpływu i wewnętrzne umiejscowienie kontroli (wyrażające się m.in. w odwadze, radości, ale też złości czy pogardzie). Prawy płat wiąże się natomiast z poczuciem poddania."
+    },
+    {
+      "id": 53,
+      "type": "single-choice",
+      "question": "Według Alexandra Lowena, tzw. 'oddech zredukowany' (sflaczała klatka piersiowa, miękki i pusty brzuch), charakterystyczny dla charakteru oralnego, jest odzwierciedleniem:",
+      "options": [
+        "Obronnego nadymania się, agresji i nadmiernej samokontroli jednostki.",
+        "Naturalnego, prozdrowotnego oddechu sterowanego bezpośrednio przez pień mózgu.",
+        "Głębokiego poczucia niedostatku, słabości i wyuczonego lęku przed 'braniem' (głodzenia się w zakresie powietrza i wsparcia).",
+        "Reakcji 'walcz lub uciekaj' aktywowanej przez sympatyczny układ nerwowy."
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Zredukowany, słaby oddech u charakteru oralnego wynika z wyuczonego strachu przed wyrażaniem chciwości czy 'braniem'. Taka osoba, czująca się w głębi pusto i słabo, dosłownie 'zagładza się' w zakresie powietrza, obawiając się głębokiego zaczerpnięcia (wdechu)."
+    },
+    {
+      "id": 54,
+      "type": "single-choice",
+      "question": "Władysław Witwicki wprowadził pojęcie tzw. 'uczuć przekonaniowych'. Czym one się wyróżniają?",
+      "options": [
+        "Zależą wyłącznie od tego, czy poznana prawda jest dla podmiotu obiektywnie korzystna (wzbudza przyjemność ze względu na osobisty zysk).",
+        "Są to afekty trzewne towarzyszące wegetatywnym procesom trawiennym.",
+        "Towarzyszą aktom poznawczym (zdobyciu prawdy) i są przyjemne niezależnie od tego, czy zdobyty sąd (informacja) jest dla nas życiowo pomyślny czy nie.",
+        "Pojawiają się wyłącznie podczas estetycznego docenienia dzieła sztuki lub natury."
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Uczucia przekonaniowe wg Witwickiego to przyjemność ze zdobycia prawdy (sądu prawdziwego), przy czym jakość samego wyroku jest obojętna – czujemy intelektualną satysfakcję ze zdobycia rzetelnej wiedzy, nawet jeśli sam fakt nie jest dla nas obiektywnie korzystny."
+    },
+    {
+      "id": 55,
+      "type": "single-choice",
+      "question": "W ujęciu Edwarda Abramowskiego, tzw. cenestezja (należąca do sfery kryptopsychiki / podświadomości) to:",
+      "options": [
+        "Patologiczne złudzenie odrealnienia i obcości własnego ciała występujące w stresie.",
+        "Stałe, całościowe i bezobrazowe poczucie własnego ciała ('czucie siebie'), wyznaczające naszą cielesną tożsamość.",
+        "Zdolność lewej półkuli do logicznego i abstrakcyjnego opisu stanów emocjonalnych za pomocą słów.",
+        "Wyłączne skupienie uwagi na zewnętrznych bodźcach wzrokowych z pominięciem sygnałów z trzewi."
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Abramowski definiuje cenestezję jako stałą, 'bezobrazową' i 'wzruszeniową' formę świadomości, będącą ogólnym czuciem siebie (poczuciem własnego ciała), która jest stale dostępna i wyznacza naszą tożsamość."
+    },
+    {
+      "id": 56,
+      "type": "single-choice",
+      "question": "W modelu Zagnieżdżonego Umysłu-Mózgu (Panksepp, Solms), fobie traktowane są jako:",
+      "options": [
+        "Emocje trzeciorzędowe, wynikające z bardzo skomplikowanych ruminacji i abstrakcyjnego wybiegania myślami w przyszłość.",
+        "Emocje pierwotne (czyste instynkty pnia mózgu), z którymi człowiek się rodzi.",
+        "Emocje wtórne (pochodne), nabyte w procesie warunkowania i uczenia się, automatycznie aktywujące określony bodziec jako spust dla systemu STRACHU.",
+        "Artefakty poznawcze nie posiadające żadnego trwałego połączenia z układem limbicznym."
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "W neuronauce afektywnej Pankseppa fobie klasyfikuje się jako emocje wtórne (procesy drugorzędowe). Są to nabyte poprzez doświadczenie/warunkowanie reakcje lękowe podpięte pod wrodzony system STRACHU."
+    },
+    {
+      "id": 57,
+      "type": "single-choice",
+      "question": "Który etap w ewolucji historii dzieciństwa (wg Lloyda deMause'a) charakteryzował się uznaniem, że dzieci należy kształtować za pomocą kar cielesnych, historycznym pojawieniem się żałoby po ich śmierci oraz zakończeniem praktyki rutynowego porzucania niemowląt?",
+      "options": [
+        "Rodzicielstwo ambiwalentne (XIV-XVII w.)",
+        "Rodzicielstwo natrętne / intruzywne (XVIII w.)",
+        "Rodzicielstwo socjalizujące (XIX w.)",
+        "Rodzicielstwo dzieciobójcze (antyk do IV w.)"
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Opis ten idealnie pasuje do fazy rodzicielstwa ambiwalentnego (XIV-XVII w.). To wtedy zakończono rutynowe porzucanie, pojawiła się żałoba po dzieciach (jako prekursor empatii), lecz wciąż uważano, że dziecko należy fizycznie kształtować (kary cielesne)."
+    },
+    {
+      "id": 58,
+      "type": "single-choice",
+      "question": "W analizie dynamiki części osobowości, zjawisko tzw. 'infantylizacji' (kiedy instancja Wewnętrznego Dorosłego ulega impulsom) oznacza:",
+      "options": [
+        "Stan osobowości w pełni zintegrowanej, gdzie racjonalny Dorosły działa w całkowitym porozumieniu z Dzieckiem.",
+        "Kontaminację (skażenie) racjonalnego stanu 'Ja Dorosłego' przez silne, nieprzetworzone impulsy i kaprysy Wewnętrznego Dziecka.",
+        "Trwałe odcięcie się od wszelkich emocji i przyjęcie maski (persony) ukrywającej podatność na zranienie.",
+        "Przejście w tryb wyłącznie analitycznego, chłodnego przetwarzania z perspektywy lewej półkuli."
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Infantylizacja występuje wtedy, gdy Wewnętrzny Dorosły (rozsądek) nie funkcjonuje poprawnie, lecz ulega skażeniu (kontaminacji) przez afekty Wewnętrznego Dziecka, co powoduje zbytnie uleganie impulsom."
+    },
+    {
+      "id": 59,
+      "type": "single-choice",
+      "question": "Konstytucjonalna przewaga parasympatycznego układu nerwowego, określana w literaturze mianem 'wagotonii' (od nerwu błędnego), charakteryzuje się psychologicznie i fizjologicznie:",
+      "options": [
+        "Tachypsychizmem, impulsywnością, porywczością i rozwiniętym instynktem 'atak-obrona'.",
+        "Tendencją do dominacji nad otoczeniem, potrzebą walki oraz niezwykle krótkim czasem reakcji mięśniowej.",
+        "Bradypsychizmem (powolnością myślenia), dążeniem do spokoju, biernością, a także meteopatią (wysoką wrażliwością m.in. na zmiany pogody).",
+        "Zmniejszoną wrażliwością na bodźce trzewne i brakiem jakichkolwiek problemów na tle cenestetycznym."
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Wagotonicy (przewaga gałęzi przywspółczulnej) charakteryzują się bradypsychizmem (powolnym myśleniem), poszukiwaniem spokoju, pewną dozą bierności, a fizjologicznie szybkim i gwałtownym odbiorem bodźców z trzewi oraz meteopatią."
+    },
+    {
+      "id": 60,
+      "type": "single-choice",
+      "question": "W teorii zasobów wymiany społecznej (Foa i Foa), do zasobów o charakterze ściśle niematerialnym, polegającym na wyrażaniu wysokiej oceny i posiadaniu wysokiego mniemania o kimś, zalicza się:",
+      "options": [
+        "Miłość",
+        "Status",
+        "Informację",
+        "Usługi"
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "W ujęciu Foa i Foa 'status' to zasób wymiany definiowany wprost jako ekspresja oceny wyrażająca wysokie mniemanie o drugiej osobie (czyli uznanie jej prestiżu czy znaczenia)."
+    },
+    {
+      "id": 61,
+      "type": "single-choice",
+      "question": "Herbert Benson zidentyfikował cztery esencjonalne elementy niezbędne do wzbudzenia fizjologicznej 'reakcji relaksacyjnej'. Należą do nich: ciche otoczenie, wygodna pozycja, mentalny środek skupienia (np. mantra) oraz fundamentalnie:",
+      "options": [
+        "Pasywna postawa (odłożenie na bok rozpraszających myśli i nie napinanie się na to, 'jak dobrze mi idzie').",
+        "Aktywne, systematyczne napinanie i rozluźnianie kolejnych grup mięśni w z góry określonej sekwencji.",
+        "Złożona autosugestia dotycząca ciężaru i ciepła powtarzana wielokrotnie na głos.",
+        "Silne wizualizowanie swoich przyszłych celów w stanie alfa."
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Według Bensona, kluczem do udanej reakcji relaksacyjnej (obok mantry, pozycji i otoczenia) jest pasywna postawa, czyli niestryktowanie się, nieocenianie swoich postępów ('nie martwienie się o to, jak dobrze wykonuje się technikę') i swobodne wracanie do punktu skupienia."
+    },
+    {
+      "id": 62,
+      "type": "single-choice",
+      "question": "Według badaczki Aliny Kolańczyk, uwaga o charakterze ekstensywnym (szerokim), w przeciwieństwie do uwagi intensywnej (wąskiej):",
+      "options": [
+        "Powiązana jest ściśle z zadaniową motywacją teliczną i napięciem mięśnia marszczącego brwi (corrugator).",
+        "Obejmuje szerokie pole percepcyjne i powiązana jest m.in. z rozluźnieniem lub napięciem czoła (frontalis) oraz elastyczną motywacją parateliczną.",
+        "Jest mechanizmem uruchamianym wyłącznie przez sympatyczny układ nerwowy w celu wyśledzenia konkretnego drapieżnika.",
+        "Służy wyłącznie analitycznemu, sekwencyjnemu przetwarzaniu słów tekstowych przez lewą półkulę."
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Uwaga ekstensywna (szeroka) wg Kolańczyk dotyczy poszerzonego pola percepcyjnego. Związana jest ze swobodną motywacją parateliczną oraz napięciem/pracą mięśnia czołowego (frontalis), a nie mięśnia marszczącego (corrugator, który uruchamia się przy wąskiej uwadze telicznej)."
+    },
+    {
+      "id": 63,
+      "type": "single-choice",
+      "question": "W ramach typologii pozytywnych emocji auto-transcendentnych, jak określa się ciepłe, podnoszące na duchu uczucie, które pojawia się u nas, gdy stajemy się świadkami nieoczekiwanych aktów ludzkiej dobroci, współczucia i heroizmu u innych?",
+      "options": [
+        "Ekstaza (bliss)",
+        "Duma z osiągnięć (fiero)",
+        "Uwznioślenie (elevation)",
+        "Zadowolenie (contentment)"
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "To uczucie nosi nazwę uwznioślenia (elevation). Jest to pozytywna emocja auto-transcendentna indukowana widokiem wyjątkowych aktów dobroci lub altruizmu, motywująca obserwatora do bycia lepszym człowiekiem."
+    },
+    {
+      "id": 64,
+      "type": "single-choice",
+      "question": "Na czym polega istota błędu poznawczego określanego w psychologii mianem 'emocjonalnego uzasadniania' (w odróżnieniu od adaptacyjnej heurystyki afektu)?",
+      "options": [
+        "Na racjonalnym odrzuceniu własnych emocji po to, by podjąć decyzję stricte na chłodno.",
+        "Na przyjmowaniu założenia, że skoro odczuwamy daną emocję (np. lęk), to z definicji odzwierciedla ona obiektywną, prawdziwą rzeczywistość zewnętrzną ('czuję, że on kłamie, więc to musi być prawda').",
+        "Na szybkim rozwiązywaniu złożonych problemów matematycznych za pomocą nagłego wglądu intuicyjnego.",
+        "Na wtórnym dorabianiu fałszywych powodów do płaczu przez dzieci wychowywane w modelu ambiwalentnym."
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Emocjonalne uzasadnianie to błędne wyciąganie wniosków na podstawie własnych uczuć pod hasłem 'Czuję to, dlatego musi to być obiektywna prawda' (np. 'skoro czuję lęk, to wokół na pewno jest niebezpiecznie')."
+    },
+    {
+      "id": 65,
+      "type": "single-choice",
+      "question": "Zgodnie z głośnymi badaniami Killingswortha i Gilberta nad zjawiskiem 'błądzenia umysłu' (mind-wandering):",
+      "options": [
+        "Błądzenie myślami jest formą skutecznej relaksacji progresywnej, redukującą poziom kortyzolu.",
+        "Oderwanie od rzeczywistości 'tu i teraz' poprawia znacząco satysfakcję z wykonywanego zadania ze względu na wzrost stymulacji dopaminergicznej.",
+        "Stanowi ono z reguły bezpośrednią przyczynę poczucia bycia nieszczęśliwym (obniżonego nastroju), a nie tylko jego konsekwencję.",
+        "Zjawisko to występuje tylko wtedy, gdy doświadczamy hiperstresu związanego z naruszeniem fizycznej integralności ciała."
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Badania Killingswortha i Gilberta jednoznacznie wskazują, że choć zły nastrój wywołuje błądzenie myślami, to utrata uważności (mind-wandering, niebycie w 'tu i teraz') jest generalnie bezpośrednią przyczyną nieszczęścia, a nie tylko jego skutkiem."
+    },
+    {
+      "id": 66,
+      "type": "single-choice",
+      "question": "W zrewidowanej, ewolucyjnej piramidzie ludzkich potrzeb autorstwa Kenricka i współpracowników, co zastąpiło Maslowowską 'samorealizację' na samym szczycie hierarchii?",
+      "options": [
+        "Potrzeba afiliacji i bezwarunkowej akceptacji ze strony grupy wczesnorówieśniczej.",
+        "Cele reprodukcyjne i ewolucyjne (m.in. zdobycie partnera, utrzymanie go i skuteczne rodzicielstwo).",
+        "Potrzeby stricte egzystencjalne, wynikające z transpersonalnego zjednoczenia ze wszechświatem.",
+        "Ochrona fizycznego 'ja' (self-protection) jako najbardziej fundamentalny instynkt przed zagrażającym środowiskiem."
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "W reewizji piramidy autorstwa Kenricka najwyższe piętro stanowi osiągnięcie ewolucyjnych celów reprodukcyjnych: m.in. znalezienie partnera, utrzymanie związku oraz pomyślne rodzicielstwo."
+    },
+    {
+      "id": 67,
+      "type": "single-choice",
+      "question": "Zgodnie z koncepcją afektywnych systemów mózgowych Pankseppa, bodźce wyzwalające (bezwarunkowe) dla podstawowych instynktów mają korzenie ewolucyjne. Który z poniższych bodźców instynktownie uruchamia u człowieka system ŻĄDZY (LUST)?",
+      "options": [
+        "Płacz i oznaki słabości (np. widok bezradnego noworodka).",
+        "Wysokość, nagłe nieoczekiwane dźwięki lub wijące się kształty (np. węże).",
+        "Neotenia (cechy dziecięce u dorosłych osobników), preferowany ewolucyjnie stosunek talii do bioder i określone okrągłości.",
+        "Nagłe pojawienie się obcego, niezbadanego przedmiotu stymulującego układ nagrody."
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Bodźcem bezwarunkowym aktywującym system ŻĄDZY są wdrukowane ewolucyjnie cechy płciowe oraz zwiastuny młodości, np. stosunek talii do bioder czy określona budowa tkanki tłuszczowej, a u dorosłych osobników tzw. neotenia (cechy dziecięce twarzy i ciała)."
+    },
+    {
+      "id": 68,
+      "type": "single-choice",
+      "question": "Pracownik, który obsługując bardzo roszczeniowego klienta odczuwa ogromną złość, ale całkowicie maskuje ją przyklejonym uśmiechem nie próbując modyfikować swoich prawdziwych, wewnętrznych odczuć, dokonuje w ujęciu Hochschild tzw.:",
+      "options": [
+        "Głębokiej pracy emocjonalnej (deep acting).",
+        "Płytkiej pracy emocjonalnej (surface acting).",
+        "Afiliacyjnej regulacji nastroju drugiego człowieka.",
+        "Dysocjacyjnej ucieczki w fantazję obronną."
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Płytka praca emocjonalna polega wyłącznie na zmianie zewnętrznej ekspresji bez ruszania prawdziwej emocji. Prowadzi to do nienaturalnego 'udawania' pożądanego nastroju wbrew aktualnym odczuciom wewnętrznym."
+    },
+    {
+      "id": 69,
+      "type": "single-choice",
+      "question": "W ramach modelu 'dwóch dróg' Josepha LeDoux, czym charakteryzuje się tzw. droga dolna przetwarzania informacji emocjonalnej?",
+      "options": [
+        "Omija całkowicie korę mózgową (sygnał idzie ze wzgórza bezpośrednio do ciała migdałowatego), warunkując błyskawiczny, automatyczny i często nieuświadomiony afekt.",
+        "Umożliwia dokładną, racjonalną ocenę zjawiska przed podjęciem decyzji (sygnał kierowany jest do płatów przedczołowych).",
+        "Pozwala na intencjonalne i świadome wygaszanie reakcji układu współczulnego metodą wolicjonalną.",
+        "Wymaga przetworzenia bodźca przez ośrodek Broki w celu wewnętrznego nazwania odczuwanej emocji."
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Droga dolna omija całkowicie wyższe rejony mózgu. Bodziec wędruje bezpośrednio z receptorów do wzgórza i od razu do ciała migdałowatego (oraz efektorów), aktywując afekt pierwotny szybciej, niż zdążymy bodziec racjonalnie rozpoznać."
+    },
+    {
+      "id": 70,
+      "type": "single-choice",
+      "question": "Zgodnie z ujęciem Marka Solmsa, lewa półkula mózgowa rozwija język nie tylko w funkcji komunikacji interpersonalnej, ale także w funkcji tworzenia 'mowy wewnętrznej'. Jakie są główne korzyści ewolucyjne z tej drugiej zdolności?",
+      "options": [
+        "Możliwość wyobrażania sobie wielowymiarowych obiektów przestrzennych bez ich fizycznej obecności.",
+        "Skuteczna nawigacja w terenie oparta na kodowaniu geometrycznym map otoczenia.",
+        "Możliwość autoregulacji zachowania: podporządkowania bieżących impulsów wyższym planom i sekwencjom (np. auto-instrukcjom 'zanim to zrobię, najpierw muszę zrobić coś innego').",
+        "Natychmiastowe indukowanie u siebie fizjologicznego stanu relaksacji metodą Schulza z pominięciem układu limbicznego."
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Solms wskazuje, że wykształcenie języka w lewej półkuli dało możliwość prowadzenia tzw. mowy wewnętrznej. Jest to funkcja autoregulacyjna, pozwalająca formułować w głowie ciągi myśli (autoinstrukcje), co powstrzymuje nas przed bezrefleksyjnym działaniem i ułatwia realizację planów krok po kroku."
+    }
+  ]
+}
