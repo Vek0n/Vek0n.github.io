@@ -5,392 +5,392 @@
     {
       "id": 1,
       "type": "single-choice",
-      "question": "Jak w ujęciu relacyjnym (inaczej transakcyjnym lub systemowym) psychologia precyzyjnie definiuje zjawisko stresu u człowieka?",
+      "question": "Jak w ujęciu relacyjnym (transakcyjnym) psychologia definiuje zjawisko stresu?",
       "options": [
-        "Jako obiektywne i odczuwalne zakłócenie równowagi pomiędzy możliwościami jednostki a jej wymaganiami.",
-        "Jako wyłącznie fizjologiczną, automatyczną reakcję układu nerwowego na niebezpieczne, zewnętrzne bodźce bólowe.",
-        "Jako długotrwały stan podwyższonego napięcia mięśniowego wynikający bezpośrednio z permanentnego braku snu.",
-        "Jako wrodzoną skłonność organizmu do ciągłego wyolbrzymiania drobnych trudności w celu wymuszenia opieki u innych."
+        "Jako zakłócenie równowagi pomiędzy możliwościami jednostki a jej wymaganiami.",
+        "Jako fizjologiczną reakcję układu nerwowego na bodźce bólowe.",
+        "Jako stan podwyższonego napięcia mięśniowego wynikający z braku snu.",
+        "Jako skłonność do wyolbrzymiania drobnych trudności w celu wymuszenia opieki."
       ],
       "correctAnswerIndex": 0,
-      "explanation": "Podejście relacyjne określa stres jako zakłócenie bilansu między osobistymi zasobami (energią, kompetencjami) a zewnętrznymi lub wewnętrznymi wymaganiami środowiska."
+      "explanation": "Ujęcie relacyjne: stres to zakłócenie równowagi między zasobami jednostki a wymaganiami."
     },
     {
       "id": 2,
       "type": "single-choice",
-      "question": "Biorąc pod uwagę relację wyzwania do naszych kompetencji, czym z definicji charakteryzuje się eustres?",
+      "question": "Biorąc pod uwagę relację wyzwania do naszych kompetencji, czym charakteryzuje się eustres?",
       "options": [
-        "Stanowi całkowity brak jakichkolwiek wyzwań, co powoduje u człowieka uczucie destrukcyjnej nudy.",
+        "Stanowi brak wyzwań, co powoduje uczucie nudy.",
         "To sytuacja zagrażająca życiu, w której organizm traci kontrolę wegetatywną.",
-        "To optymalne wyzwanie, nieznacznie przekraczające nasze siły, które budzi pozytywną motywację.",
-        "To stan pod-pobudzenia, w którym świadomie unikamy wyzwań ze strachu przed porażką."
+        "To wyzwanie nieznacznie przekraczające nasze siły, budzące pozytywną motywację.",
+        "To stan pod-pobudzenia, w którym unikamy wyzwań ze strachu przed porażką."
       ],
       "correctAnswerIndex": 2,
-      "explanation": "Eustres to rodzaj produktywnego wyzwania (stresu pozytywnego), które jest dopasowane do naszych możliwości (nieznacznie je przekracza), wywołując pożądane skupienie i ekscytację."
+      "explanation": "Eustres to wyzwanie nieznacznie przekraczające możliwości, wywołujące motywację i skupienie."
     },
     {
       "id": 3,
       "type": "single-choice",
-      "question": "Zgodnie z psychofizjologicznym modelem autoregulacji, na czym polega kluczowa różnica między relaksem a rozluźnieniem?",
+      "question": "Zgodnie z modelem autoregulacji, na czym polega różnica między relaksem a rozluźnieniem?",
       "options": [
-        "Relaks wyklucza jakąkolwiek aktywność korową, a rozluźnienie stymuluje twórcze myślenie.",
-        "Relaks to swobodne czuwanie ułatwiające regenerację, a rozluźnienie to wyczerpująca rezygnacja.",
-        "Relaks polega na głębokim i długim śnie, z kolei rozluźnienie występuje w trakcie wysiłku.",
-        "Relaks jest procesem angażującym duże mięśnie, a rozluźnienie to ich patologiczne zesztywnienie."
+        "Relaks wyklucza aktywność korową, a rozluźnienie stymuluje myślenie.",
+        "Relaks to swobodne czuwanie ułatwiające regenerację, a rozluźnienie to rezygnacja.",
+        "Relaks polega na śnie, a rozluźnienie występuje w trakcie wysiłku.",
+        "Relaks angażuje mięśnie, a rozluźnienie to ich zesztywnienie."
       ],
       "correctAnswerIndex": 1,
-      "explanation": "Relaks polega na zachowaniu swobodnego czuwania przy jednoczesnej regeneracji (odpuszczenie, \"zmniejszenie obrotów\"), natomiast rozluźnienie to stan rezygnacji i zredukowanych sił bez odzyskiwania energii."
+      "explanation": "Relaks: swobodne czuwanie i regeneracja (odpuszczenie). Rozluźnienie: rezygnacja bez odzyskiwania energii."
     },
     {
       "id": 4,
       "type": "single-choice",
-      "question": "Co z klinicznego punktu widzenia oznacza stan określany jako rozregulowanie autonomicznego układu nerwowego (AUN)?",
+      "question": "Co z klinicznego punktu widzenia oznacza stan rozregulowania autonomicznego układu nerwowego (AUN)?",
       "options": [
-        "Całkowitą i nieodwracalną utratę zdolności organizmu do wydzielania groźnych hormonów stresu.",
-        "Trwałą utratę elastycznej oscylacji, zmuszającą do trwania w ciągłym nad- lub pod-pobudzeniu.",
-        "Niezwykle harmonijne przechodzenie organizmu od fiksacji do stanu rozluźnienia.",
-        "Niekontrolowany przyrost komórek nerwowych pnia mózgu, blokujący sygnały o realnym zagrożeniu."
+        "Nieodwracalną utratę zdolności organizmu do wydzielania hormonów stresu.",
+        "Utratę elastycznej oscylacji, zmuszającą do trwania w nad- lub pod-pobudzeniu.",
+        "Harmonijne przechodzenie organizmu od fiksacji do stanu rozluźnienia.",
+        "Niekontrolowany przyrost komórek nerwowych pnia mózgu, blokujący sygnały o zagrożeniu."
       ],
       "correctAnswerIndex": 1,
-      "explanation": "Zdrowy AUN charakteryzuje się cykliczną oscylacją między trybami aktywacji i odpoczynku; jego rozregulowanie oznacza zatracenie tej równowagi i destrukcyjne \"utknięcie\" w jednym ze skrajnych biegunów."
+      "explanation": "Zdrowy AUN oscyluje między aktywacją a odpoczynkiem; rozregulowanie to utknięcie w nad- lub pod-pobudzeniu."
     },
     {
       "id": 5,
       "type": "single-choice",
-      "question": "Wykorzystując wiedzę o pracy z oddechem (breathwork), w jakim konkretnym celu jednostka powinna zastosować świadomy wzorzec oddychania, w którym wdech jest dłuższy od wydechu?",
+      "question": "W jakim celu jednostka powinna zastosować świadomy wzorzec oddychania, w którym wdech jest dłuższy od wydechu?",
       "options": [
-        "Aby zredukować stres i płynnie wprowadzić chory organizm w stan relaksu przed snem.",
-        "W celu wygaszenia aktywności układu sympatycznego i wymuszenia silnej, pełnej rezygnacji.",
-        "Aby podwyższyć własną czujność, uśmierzyć ból oraz zwiększyć poziom energii ustroju.",
-        "Wyłącznie w celu wyleczenia przewlekłych bólów wywołanych napięciem przedniej części przepony."
+        "Aby zredukować stres i wprowadzić organizm w stan relaksu przed snem.",
+        "W celu wygaszenia aktywności układu sympatycznego i wywołania rezygnacji.",
+        "Aby podwyższyć czujność, uśmierzyć ból oraz zwiększyć poziom energii.",
+        "W celu wyleczenia bólów wywołanych napięciem przedniej części przepony."
       ],
       "correctAnswerIndex": 2,
-      "explanation": "Dłuższe wdechy stymulują układ sympatyczny, podwyższając poziom pobudzenia, czujności, energii oraz uodparniając organizm na ból fizyczny."
+      "explanation": "Dłuższy wdech stymuluje układ sympatyczny, podwyższając czujność, energię i odporność na ból."
     },
     {
       "id": 6,
       "type": "single-choice",
-      "question": "Na jakim kluczowym fizjologicznym zjawisku opiera się pierwszy, fundamentalny etap klasycznego treningu autogennego Schultza?",
+      "question": "Na jakim kluczowym zjawisku fizjologicznym opiera się pierwszy etap treningu autogennego Schultza?",
       "options": [
-        "Na głośnym powtarzaniu słów w celu wywołania autohipnotycznego echa w świadomości pacjenta.",
-        "Na wzbudzaniu uczucia ciężaru, co wprost prowadzi do zwiotczenia mięśni szkieletowych ciała.",
-        "Na dynamicznym, celowym napinaniu łydek w celu pobudzenia krążenia obwodowego ustroju.",
-        "Na intensywnym odczuwaniu gorąca na czole, co chłodzi ludzkie narządy w trzewiach."
+        "Na powtarzaniu słów w celu wywołania autohipnotycznego echa w świadomości pacjenta.",
+        "Na wzbudzaniu uczucia ciężaru, co prowadzi do zwiotczenia mięśni szkieletowych.",
+        "Na napinaniu łydek w celu pobudzenia krążenia obwodowego.",
+        "Na odczuwaniu gorąca na czole, co chłodzi narządy w trzewiach."
       ],
       "correctAnswerIndex": 1,
-      "explanation": "Pierwszym krokiem procedury autohipnotycznej Schultza jest wywoływanie wrażenia silnego ciężaru w kończynach, co ma na celu bezpośrednie zwiotczenie szkieletowych partii mięśniowych."
+      "explanation": "Schultz: uczucie ciężaru prowadzi do zwiotczenia mięśni szkieletowych (pierwszy krok autohipnozy)."
     },
     {
       "id": 7,
       "type": "single-choice",
-      "question": "Z jakiego obiektywnego założenia naukowego wychodzi trening relaksacji progresywnej Edmunda Jacobsona?",
+      "question": "Z jakiego założenia naukowego wychodzi trening relaksacji progresywnej Edmunda Jacobsona?",
       "options": [
-        "Że choroby psychiczne zawsze wynikają bezpośrednio z niewłaściwej diety i patologicznego snu.",
-        "Że psychiczny niepokój można osłabić przez fizyczne napięcie i rozluźnienie mięśni u pacjenta.",
-        "Że stan długiego relaksu osiąga się jedynie poprzez intensywne powtarzanie religijnych mantr.",
-        "Że ukryte w ciele emocje można uwolnić tylko przez masaż powięziowy mięśni karku."
+        "Że choroby psychiczne wynikają z niewłaściwej diety i snu.",
+        "Że psychiczny niepokój można osłabić przez fizyczne napięcie i rozluźnienie mięśni.",
+        "Że stan relaksu osiąga się przez powtarzanie religijnych mantr.",
+        "Że emocje można uwolnić przez masaż powięziowy mięśni karku."
       ],
       "correctAnswerIndex": 1,
-      "explanation": "Jacobson założył, że kognitywne napięcie jest tożsame ze skurczem mięśni, dlatego systematyczne, celowe napinanie, a następnie świadome ich uwalnianie redukuje niepokój w ciele."
+      "explanation": "Jacobson: napięcie psychiczne to skurcz mięśni; napinanie i rozluźnianie mięśni redukuje niepokój."
     },
     {
       "id": 8,
       "type": "single-choice",
-      "question": "Czym w psychologii stresu obiektywnie charakteryzuje się podjęcie odpoczynku dysfunkcjonalnego?",
+      "question": "Czym w psychologii stresu charakteryzuje się odpoczynek dysfunkcjonalny?",
       "options": [
-        "Jest to aktywność, która mocno odciąga uwagę i regeneruje zasoby umysłowe organizmu.",
-        "To przerwa, która pogłębia letarg i uniemożliwia oderwanie myśli od podjętych zadań.",
-        "Polega na wykonywaniu ćwiczeń fizycznych bezpośrednio po silnym stresie pnia.",
-        "To stan świadomego snu polifazowego, który wymusza na organizmie szybką regenerację."
+        "Jest to aktywność, która odciąga uwagę i regeneruje zasoby umysłowe.",
+        "To przerwa, która pogłębia letarg i uniemożliwia oderwanie myśli od zadań.",
+        "Polega na wykonywaniu ćwiczeń fizycznych po wystąpieniu stresu.",
+        "To stan snu polifazowego, który przyspiesza regenerację organizmu."
       ],
       "correctAnswerIndex": 1,
-      "explanation": "Dysfunkcjonalny odpoczynek to aktywność (np. bezmyślne przełączanie programów w TV), która nie angażuje w sposób konstruktywny, lecz nasila stan napięcia i poczucie letargu."
+      "explanation": "Odpoczynek dysfunkcjonalny (np. przełączanie kanałów TV) nie odciąża uwagi i pogłębia letarg."
     },
     {
       "id": 9,
       "type": "single-choice",
-      "question": "Jaki specyficzny wzorzec oddychania, zgodnie z teorią Reicha i Lowena, przypisuje się osobom o charakterze (osobowość typu A)?",
+      "question": "Jaki specyficzny wzorzec oddychania, zgodnie z teorią Reicha i Lowena, przypisuje się osobom o charakterze sztywnym (osobowość typu A)?",
       "options": [
-        "Zredukowany i wolny oddech brzuszny połączony z pustą, opadającą klatką na jawie.",
-        "Wybitnie nieregularny, ociężały oddech przeponowy, który łatwo manifestuje się poprzez częste ziewanie.",
-        "Nadmiernie napompowana klatka piersiowa usztywniona na wdechu połączona z niepełnym wydechem powietrza.",
-        "szybkie i płytkie oddychanie, angażujące wyłącznie mięśnie brzucha a omijające płuca z lewej."
+        "Zredukowany oddech brzuszny połączony z opadającą klatką piersiową.",
+        "Nieregularny oddech przeponowy, manifestujący się przez częste ziewanie.",
+        "Napompowana klatka piersiowa na wdechu połączona z niepełnym wydechem.",
+        "Szybkie i płytkie oddychanie, angażujące mięśnie brzucha z pominięciem płuc."
       ],
       "correctAnswerIndex": 2,
-      "explanation": "Wzorzec przypisany osobowości (typ A) objawia się silnym zablokowaniem swobodnej mobilności przepony poprzez sztuczne utrzymywanie klatki w permanentnie wdechowej, rozdętej pozycji."
+      "explanation": "Typ A: zablokowanie przepony przez utrzymywanie klatki piersiowej w pozycji wdechowej."
     },
     {
       "id": 10,
       "type": "single-choice",
-      "question": "Z jakimi typowymi predyspozycjami behawioralnymi i zdrowotnymi wiąże się u pacjentów posiadanie osobowości typu C?",
+      "question": "Z jakimi predyspozycjami behawioralnymi i zdrowotnymi wiąże się posiadanie osobowości typu C?",
       "options": [
-        "Z silną uległością, skłonnością do użalania się nad sobą oraz wyższym ryzykiem nowotworów.",
-        "Z dominacją asertywności, dążeniem do perfekcji oraz podwyższonym ryzykiem chorób serca.",
-        "Z optymizmem, ogromną odpornością na silny stres i szybkim refleksem motorycznym.",
-        "Z żądzą władzy, otwartym niszczeniem cudzej kariery i chronicznym pobudzeniem narządów kory."
+        "Z uległością, skłonnością do użalania się oraz wyższym ryzykiem nowotworów.",
+        "Z dominacją, dążeniem do perfekcji oraz podwyższonym ryzykiem chorób serca.",
+        "Z optymizmem, odpornością na stres i szybkim refleksem motorycznym.",
+        "Z żądzą władzy, niszczeniem cudzej kariery i chronicznym pobudzeniem."
       ],
       "correctAnswerIndex": 0,
-      "explanation": "Osobowość typu C cechuje się wycofaniem, rezygnacją z celów, trudnościami w okazywaniu gniewu, ukrywaniem emocji pod maską łagodności i uległości, co powiązano z ryzykiem zachorowania na raka."
+      "explanation": "Typ C: wycofanie, rezygnacja, tłumienie gniewu, fasadowa łagodność — powiązane z ryzykiem nowotworów."
     },
     {
       "id": 11,
       "type": "single-choice",
-      "question": "Na czym, zgodnie z obserwacjami klinicznymi, polega fizjologiczna istota zdrowego i uwolnionego tzw. \"oddechu naturalnego\"?",
+      "question": "Na czym polega fizjologiczna istota zdrowego, uwolnionego \"oddechu naturalnego\"?",
       "options": [
-        "Jest to oddech poddany wolicjonalnej kontroli, idealnie regularny, głośny i świadomy.",
-        "To oddech niedokonany i zmienny, realizowany pod dyktando autonomicznego pnia i układu limbicznego.",
-        "Jest to specyficzny stan asany, w którym fazy wdechu i wydechu muszą być wyrównane do sekundy.",
-        "Polega na kategorycznym wstrzymywaniu wymiany gazowej na szczycie wdechu by obudzić korę czołową."
+        "Jest to oddech poddany kontroli woli, regularny i świadomy.",
+        "To oddech niedokonany i zmienny, realizowany przez pień mózgu i układ limbiczny.",
+        "Jest to stan, w którym fazy wdechu i wydechu muszą być wyrównane.",
+        "Polega na wstrzymywaniu wymiany gazowej na szczycie wdechu, by pobudzić korę czołową."
       ],
       "correctAnswerIndex": 1,
-      "explanation": "Oddech naturalny to nie to samo, co kontrolowany wolicjonalnie głęboki wdech. Odczuwa się go tak, jakby przebiegał sam, pozbawiony tempa na bazie czystych procesów homeostatycznych."
+      "explanation": "Oddech naturalny przebiega samoistnie, sterowany przez pień mózgu i układ limbiczny, nie przez wolę."
     },
     {
       "id": 12,
       "type": "single-choice",
-      "question": "Jaką rolę w indukowaniu tzw. reakcji relaksacyjnej H. Bensona pełni zdefiniowana przez badacza wymuszona „postawa pasywna”?",
+      "question": "Jaką rolę w indukowaniu reakcji relaksacyjnej H. Bensona pełni \"postawa pasywna\"?",
       "options": [
-        "Zmusza do ciągłego analizowania napięcia mięśni i do rygorystycznego poprawiania obranej postawy.",
-        "Oznacza rezygnację z oceny poprawności techniki i spokojne odkładanie na bok myśli.",
-        "Wymusza sztywne unieruchomienie stawów szkieletu pacjenta i trwanie w wybranym układzie bez dechu.",
-        "Polega na przerwaniu powtarzanej mantry za każdym razem, gdy pacjent zgubi się w emocjach."
+        "Zmusza do analizowania napięcia mięśni i poprawiania postawy.",
+        "Oznacza rezygnację z oceny poprawności techniki i odkładanie na bok myśli.",
+        "Wymusza unieruchomienie stawów i trwanie w wybranym układzie bez oddechu.",
+        "Polega na przerwaniu powtarzanej mantry, gdy pacjent zgubi się w emocjach."
       ],
       "correctAnswerIndex": 1,
-      "explanation": "Postawa pasywna u Bensona uwalnia pacjenta od wymogu idealnego wykonania ćwiczenia – w momencie rozproszenia zaleca się wyrozumiałe i spokojne przywracanie uwagi, bez karcenia samego siebie."
+      "explanation": "Postawa pasywna Bensona: nie oceniaj wykonania techniki; gdy uwaga odpłynie, spokojnie do niej wróć."
     },
     {
       "id": 13,
       "type": "single-choice",
-      "question": "Biorąc pod uwagę definicje stanów stresowych, jak w psychologii odróżnia się ostre zjawisko \"traumy\" od klasycznego dystresu?",
+      "question": "Jak w psychologii odróżnia się zjawisko \"traumy\" od klasycznego dystresu?",
       "options": [
-        "Dystres jest wynikiem radosnych wydarzeń, a trauma wywodzi się tylko z długotrwałej nudy mięśni.",
-        "Trauma oznacza trwalszą zmianę strukturalną wywołaną szokiem lub długim dystresem, a nie jedynie brak.",
-        "Dystres niszczy architekturę kory nowej, z kolei trauma to tylko chwilowe odczucie lekkiego zmęczenia.",
-        "Trauma dotyczy obiektywnych fizycznych uszkodzeń narządów, a dystres to zjawisko kognitywne."
+        "Dystres wynika z radosnych wydarzeń, a trauma z długotrwałej nudy.",
+        "Trauma oznacza trwalszą zmianę wywołaną szokiem lub długim dystresem.",
+        "Dystres niszczy architekturę kory nowej, a trauma to chwilowe zmęczenie.",
+        "Trauma dotyczy fizycznych uszkodzeń narządów, a dystres to zjawisko poznawcze."
       ],
       "correctAnswerIndex": 1,
-      "explanation": "Dystres to stan ogólnego, szkodliwego i nieproduktywnego pobudzenia organizmu. Trauma tymczasem niesie za sobą trwalszą psychologiczną zmianę, stanowiącą psychiczne uszkodzenie wskutek tego napięcia."
+      "explanation": "Dystres to nieproduktywne pobudzenie; trauma to trwałe uszkodzenie psychiczne po szoku lub przewlekłym dystresie."
     },
     {
       "id": 14,
       "type": "single-choice",
-      "question": "Co wykazują bezpośrednie obserwacje kliniczne dotyczące przypisywania ludzi do \"czystych typów\" aktywności autonomicznego układu nerwowego (AUN)?",
+      "question": "Co wykazują obserwacje kliniczne dotyczące \"czystych typów\" aktywności autonomicznego układu nerwowego?",
       "options": [
-        "Typy czyste występują w ciele każdego człowieka, ułatwiając psychologom sprawną diagnozę pacjenta.",
+        "Typy czyste występują u każdego człowieka, ułatwiając diagnozę.",
         "Typy czyste to rzadkość; częściej dominują stany mieszane współczulno-przywspółczulne.",
-        "Typ sympatykotoniczny charakteryzuje neurotyków, a wagotoniczny jest spotykany wyłącznie u dzieci.",
-        "Zdecydowana większość badanych to osoby wyzbyte naturalnej aktywności układu współczulnego."
+        "Typ sympatykotoniczny charakteryzuje neurotyków, a wagotoniczny występuje u dzieci.",
+        "Większość badanych to osoby pozbawione aktywności układu współczulnego."
       ],
       "correctAnswerIndex": 1,
-      "explanation": "W praktyce klinicznej czyste typy rzadko znajdują swoje potwierdzenie – dominuje reaktywność mieszana, w której np. narządy głowy są sympatykotoniczne, a jelita wagotoniczne."
+      "explanation": "W praktyce klinicznej dominują typy mieszane: np. sympatykotonia głowy z wagotonią jelit."
     },
     {
       "id": 15,
       "type": "single-choice",
-      "question": "W oparciu o fenomenologiczną analizę procesu oddychania, z jakimi konkretnie stanami psychologicznymi i bezpośrednio wiąże się faza naturalnego wydechu?",
+      "question": "Z jakimi stanami psychologicznymi wiąże się faza naturalnego wydechu?",
       "options": [
-        "Z pobudzeniem, pełną aktywnością fizyczną i nagłą stymulacją ośrodkowego układu u ofiary.",
-        "Z wyraźnym uspokojeniem, stanem odprężenia, pasywnością i fizjologiczną redukcją napięcia ciała.",
-        "Z rosnącą psychiczną gotowością, wysoką czujnością oraz gromadzeniem twardych sił do nocnej walki.",
+        "Z pobudzeniem, aktywnością fizyczną i stymulacją układu nerwowego.",
+        "Z uspokojeniem, odprężeniem, pasywnością i redukcją napięcia.",
+        "Z rosnącą gotowością, czujnością oraz gromadzeniem sił do walki.",
         "Wrogość interpersonalna i reaktywność emocjonalna."
       ],
       "correctAnswerIndex": 1,
-      "explanation": "Wydech posiada silną charakterystykę uspokajającą; fizjologicznie łączy się ze stymulacją części przywspółczulnej wegetatywnego pnia nerwowego i generuje uczucia rezygnacji i zredukowania."
+      "explanation": "Wydech uspokaja: stymuluje układ przywspółczulny AUN, wywołując rezygnację i odprężenie."
     },
     {
       "id": 16,
       "type": "single-choice",
       "question": "W jaki sposób psychologia odróżnia potoczne rozumienie stresu jako \"bodźca\" od jego ujęcia jako \"reakcji\"?",
       "options": [
-        "Ujęcie bodźcowe zakłada, że stres to wyłącznie patologiczna zmiana w ciele, podczas gdy ujęcie reakcyjne traktuje stres jako zdrową mobilizację umysłu.",
-        "Ujęcie bodźcowe określa stres jako przeżywane napięcie i dyskomfort, natomiast reakcyjne definiuje go jako wydarzenie zewnętrzne.",
-        "Ujęcie bodźcowe interpretuje stres jako konkretną trudną sytuację z zewnątrz, z kolei reakcyjne traktuje go jako wewnętrzne przeżycie i przykrą emocję.",
-        "Ujęcie bodźcowe przypisuje stres mechanizmom ewolucyjnego pnia mózgu, a ujęcie reakcyjne wyłącznie świadomym, procesom kory przedczołowej."
+        "Ujęcie bodźcowe: stres to zmiana w ciele. Ujęcie reakcyjne: stres to mobilizacja umysłu.",
+        "Ujęcie bodźcowe: stres jako przeżywane napięcie. Ujęcie reakcyjne: stres jako wydarzenie zewnętrzne.",
+        "Ujęcie bodźcowe: stres jako trudna sytuacja zewnętrzna. Ujęcie reakcyjne: stres jako wewnętrzne przeżycie.",
+        "Ujęcie bodźcowe: stres mechanizmem pnia mózgu. Ujęcie reakcyjne: stres procesem kory przedczołowej."
       ],
       "correctAnswerIndex": 2,
-      "explanation": "Podejście bodźcowe opisuje stres jako zewnętrzne obciążenie i okoliczności, natomiast podejście reakcyjne skupia się na wewnętrznym napięciu i nieprzyjemnych emocjach ustroju."
+      "explanation": "Bodźcowe: stres = sytuacja zewnętrzna. Reakcyjne: stres = wewnętrzne napięcie i przykra emocja."
     },
     {
       "id": 17,
       "type": "single-choice",
-      "question": "Zgodnie z ujęciem psychofizjologicznej autoregulacji, na czym polega kluczowa różnica między konstruktywnym \"relaksem\" a zwykłym \"rozluźnieniem\"?",
+      "question": "Zgodnie z ujęciem psychofizjologicznej autoregulacji, na czym polega różnica między konstruktywnym \"relaksem\" a zwykłym \"rozluźnieniem\"?",
       "options": [
-        "Relaks angażuje wyłącznie układ parasympatyczny usypiając pacjenta, a rozluźnienie wyzwala w nim i niepokojący skok ciśnienia krwi.",
-        "Relaks oznacza pełną utratę zdolności do działania po wysiłku, podczas gdy rozluźnienie podnosi poziom koncentracji i gotowości do walki.",
-        "Relaks opiera się na wyparciu emocji i obniżeniu rytmu serca, a rozluźnienie wymaga fizycznego zmęczenia dużych partii mięśni.",
-        "Relaks to stan odpuszczenia dający poczucie regeneracji, podczas gdy rozluźnienie to stan rezygnacji połączony z poczuciem braku sił."
+        "Relaks angażuje układ parasympatyczny; rozluźnienie wyzwala skok ciśnienia krwi.",
+        "Relaks to utrata zdolności do działania; rozluźnienie podnosi koncentrację i gotowość.",
+        "Relaks opiera się na wyparciu emocji i obniżeniu rytmu serca; rozluźnienie wymaga zmęczenia mięśni.",
+        "Relaks to stan odpuszczenia dający regenerację; rozluźnienie to rezygnacja z poczuciem braku sił."
       ],
       "correctAnswerIndex": 3,
-      "explanation": "Relaks (od-prężenie) wiąże się ze swobodnym czuwaniem i regeneracją, natomiast rozluźnienie to stan rezygnacji i zredukowanych chęci, w którym nie odczuwamy odbudowy energii."
+      "explanation": "Relaks: swobodne czuwanie i regeneracja. Rozluźnienie: rezygnacja, brak odbudowy energii."
     },
     {
       "id": 18,
       "type": "single-choice",
-      "question": "Jakie specyficzne symptomy psychofizyczne charakteryzują pacjenta, który według modelu znalazł się w stanie \"hipostresu\"?",
+      "question": "Jakie symptomy psychofizyczne charakteryzują pacjenta w stanie \"hipostresu\"?",
       "options": [
-        "Odczuwa on nagły, paraliżujący lęk przed nowymi wyzwaniami, który uniemożliwia mu podjęcie jakiegokolwiek działania zawodowego.",
-        "Znajduje się w stanie niedostatecznego pobudzenia, przez co \"gnuśnieje\", odczuwa silną nudę oraz traci swoją pierwotną motywację.",
-        "Manifestuje niespokojny akcjonizm, zmuszający go do nieustannego poszukiwania ryzykownych, i niebezpiecznych doświadczeń.",
-        "Wykazuje nadmierne, nieproduktywne napięcie organizmu, które prowadzi go do utraty samokontroli oraz wypalenia sił."
+        "Odczuwa paraliżujący lęk przed wyzwaniami, uniemożliwiający podjęcie działania.",
+        "Znajduje się w stanie niedostatecznego pobudzenia, gnuśnieje, odczuwa nudę i traci motywację.",
+        "Manifestuje akcjonizm, zmuszający do poszukiwania ryzykownych doświadczeń.",
+        "Wykazuje nadmierne napięcie, prowadzące do utraty samokontroli i wypalenia."
       ],
       "correctAnswerIndex": 1,
-      "explanation": "Hipostres to stan zbyt niskiego pobudzenia i braku adekwatnych wyzwań. Osoba w tym stanie nudzi się, rozleniwia i wykazuje objawy apatii lub zgnuśnienia."
+      "explanation": "Hipostres: zbyt niskie pobudzenie, brak wyzwań — nuda, rozleniwienie, apatia, zgnuśnienie."
     },
     {
       "id": 19,
       "type": "single-choice",
-      "question": "Jak zdefiniowany został \"dysfunkcjonalny odpoczynek\" w przeciwieństwie do odpoczynku odżywczego (funkcjonalnego)?",
+      "question": "Czym jest \"dysfunkcjonalny odpoczynek\" w przeciwieństwie do odpoczynku funkcjonalnego?",
       "options": [
-        "Jest to aktywność, która angażuje tak dużo energii poznawczej, że przekierowuje przepływ krwi do kory przedczołowej, odciążając układ trawienny.",
-        "Jest to przerwa w działaniu, która uspokaja tętno, ale wywołuje u jednostki podświadome, nieprzyjemne poczucie winy i żal.",
-        "To rodzaj odpoczynku, który zmusza organizm do snu w ciągu dnia, zaburzając tym samym dobowy i optymalny rytm czuwania.",
-        "To przerwa, która nieskutecznie odciąga naszą uwagę od pracy, przez co realnie nie regeneruje sił, a często wręcz pogłębia uczucie letargu."
+        "To aktywność angażująca energię poznawczą i odciążająca układ trawienny.",
+        "To przerwa, która uspokaja tętno, ale wywołuje poczucie winy i żal.",
+        "To odpoczynek zmuszający do snu w ciągu dnia, zaburzający rytm dobowy.",
+        "To przerwa, która nie odciąga uwagi od pracy, nie regeneruje sił i pogłębia letarg."
       ],
       "correctAnswerIndex": 3,
-      "explanation": "Odpoczynek dysfunkcjonalny (np. bezcelowe przełączanie programów w telewizji) nie pozwala oderwać myśli i odzyskać zasobów, prowadząc do nasilenia letargu lub napięcia."
+      "explanation": "Odpoczynek dysfunkcjonalny nie uwalnia uwagi i nie regeneruje — pogłębia letarg lub napięcie."
     },
     {
       "id": 20,
       "type": "single-choice",
-      "question": "Analizując model krzywej wydajności psychofizycznej, z jakimi objawami naczyniowo-ruchowymi (krążeniowymi) wiąże się najniższy poziom pobudzenia, czyli najgłębszy sen?",
+      "question": "Analizując krzywą wydajności psychofizycznej, z jakimi objawami krążeniowymi wiąże się najniższy poziom pobudzenia (głęboki sen)?",
       "options": [
-        "Ze słabym krążeniem obwodowym, wyraźnym zwężeniem naczyń krwionośnych oraz subiektywnym odczuwaniem zimna w częściach ciała.",
-        "Z oszczędniejszą pracą serca, ale jednoczesnym zdrowym rozszerzeniem naczyń, co zapewnia ogólne uczucie bezpiecznego ciepła.",
-        "Z podwyższonym tętniem, wymuszającym szybkie przepompowanie krwi w celu utrzymania podstawowych funkcji letargicznego mózgu.",
-        "Z silnym i rozszerzeniem głównych naczyń żylnych wokół szyi, co u pacjenta skutkuje zauważalnym zaczerwienieniem twarzy."
+        "Ze słabym krążeniem obwodowym, zwężeniem naczyń i odczuwaniem zimna.",
+        "Z oszczędniejszą pracą serca, rozszerzeniem naczyń i uczuciem ciepła.",
+        "Z podwyższonym tętnem, przepompowującym krew dla utrzymania funkcji mózgu.",
+        "Z rozszerzeniem naczyń żylnych wokół szyi, skutkującym zaczerwienieniem twarzy."
       ],
       "correctAnswerIndex": 0,
-      "explanation": "Najniższy punkt pobudzenia (głęboki sen) charakteryzuje się spowolnieniem pracy narządów: słabym krążeniem, zwężeniem naczyń krwionośnych oraz fizycznym odczuwaniem chłodu (w dłoniach i stopach)."
+      "explanation": "Najniższe pobudzenie (sen): słabe krążenie, zwężenie naczyń, odczuwanie zimna w kończynach."
     },
     {
       "id": 21,
       "type": "single-choice",
-      "question": "Na krzywej wydajności psychofizycznej, czym w sferze afektywnej objawia się osuwanie się organizmu ze swobodnego czuwania w stronę patologicznej \"senności\"?",
+      "question": "Na krzywej wydajności psychofizycznej, czym w sferze afektywnej objawia się osuwanie się ze swobodnego czuwania w stronę senności?",
       "options": [
-        "wyostrzaniem się percepcji zagrożeń, co skutkuje nerwowymi napadami płaczu i lęku.",
-        "Występowaniem \"płaskiego afektu\", ogólnej obojętności, zblazowania oraz tendencji do unikania emocji.",
-        "wysoką, choć sztucznie podtrzymywaną, pobudliwością połączoną z szybkim, chaotycznym myśleniem.",
-        "Ożywionym i ciepłym angażowaniem się w relacje, z całkowitą, naturalną utratą bieżącej samokontroli."
+        "Wyostrzaniem percepcji zagrożeń, skutkującym napadami płaczu i lęku.",
+        "Występowaniem płaskiego afektu, obojętności, zblazowania i unikania emocji.",
+        "Wysoką pobudliwością połączoną z szybkim, chaotycznym myśleniem.",
+        "Ożywionym angażowaniem się w relacje z utratą samokontroli."
       ],
       "correctAnswerIndex": 1,
-      "explanation": "Przesunięcie w kierunku pod-pobudzenia (senność) powoduje stłumienie emocji: u pacjenta pojawia się płaski afekt, zblazowanie, nieczułość oraz unikanie emocji (emotofobia)."
+      "explanation": "Senność (pod-pobudzenie): płaski afekt, zblazowanie, nieczułość, unikanie emocji (emotofobia)."
     },
     {
       "id": 22,
       "type": "single-choice",
-      "question": "Według modelu autoregulacji organizmu, który zestaw technik interwencyjnych zadziała na pacjenta bezpośrednio i pobudzająco?",
+      "question": "Według modelu autoregulacji, który zestaw technik zadziała na pacjenta pobudzająco?",
       "options": [
-        "Delikatne, rozluźniające ćwiczenia fizyczne, wyłączenie myślenia oraz ciepła, długa kąpiel po pracy.",
-        "Mechaniczne napinanie grup mięśniowych, zastosowanie prysznica oraz wydłużenie fazy wdechu nad wydechem.",
-        "Wyrównanie długości wdechu z wydechem, spoczywanie w zaciemnionym pomieszczeniu oraz wypicie naparu z melisy.",
-        "Ograniczenie bodźców sensorycznych do minimum, utrzymywanie pełnego bezruchu i skupienie myśli wyłącznie na teraźniejszości."
+        "Rozluźniające ćwiczenia fizyczne, wyłączenie myślenia i ciepła kąpiel.",
+        "Napinanie grup mięśniowych, prysznic oraz wydłużenie fazy wdechu nad wydechem.",
+        "Wyrównanie długości wdechu z wydechem, spoczywanie w zaciemnionym pomieszczeniu i napar z melisy.",
+        "Ograniczenie bodźców sensorycznych, utrzymywanie bezruchu i skupienie na teraźniejszości."
       ],
       "correctAnswerIndex": 1,
-      "explanation": "Środki pobudzające układ współczulny obejmują m.in. akcentowanie wdechu, celowe napinanie mięśni szkieletowych, wystawienie się (prysznic) oraz jasne światło."
+      "explanation": "Środki pobudzające: akcentowanie wdechu, napinanie mięśni, zimny prysznic, jasne światło."
     },
     {
       "id": 23,
       "type": "single-choice",
-      "question": "Jaką rolę fizjologiczną w klasycznym treningu autogennym Schultza pełni przechodzenie z etapu wyobrażania sobie \"ciężaru\" do etapu wyobrażania sobie promieniującego \"ciepła\"?",
+      "question": "Jaką rolę fizjologiczną w treningu autogennym Schultza pełni przechodzenie z etapu \"ciężaru\" do etapu \"ciepła\"?",
       "options": [
-        "Ciężar odpowiada za rozluźnienie serca, a ciepło relaksuje asocjacyjną korę przedczołową zmniejszając lawinę myśli.",
-        "Zarówno ciężar, jak i ciepło służą wyłącznie odwróceniu uwagi pacjenta od przewlekłego, szkodliwego bólu narządów wewnętrznych.",
-        "Ciężar wyzwala drżenie, które resetuje napięte nerwy, a ciepło następnie wprowadza umysł w trans i głęboki letarg poakcyjny.",
-        "Ciężar ma wywołać zwiotczenie mięśni szkieletowych, natomiast ciepło ma rozszerzyć naczynia krwionośne i rozluźnić mięśnie gładkie."
+        "Ciężar odpowiada za rozluźnienie serca, a ciepło relaksuje korę przedczołową.",
+        "Ciężar i ciepło służą odwróceniu uwagi pacjenta od bólu narządów wewnętrznych.",
+        "Ciężar wyzwala drżenie resetujące napięte nerwy, a ciepło wprowadza umysł w trans.",
+        "Ciężar wywołuje zwiotczenie mięśni szkieletowych, ciepło rozszerza naczynia i rozluźnia mięśnie gładkie."
       ],
       "correctAnswerIndex": 3,
-      "explanation": "Zgodnie z procedurą autohipnotyczną Schultza, ciężar obniża napięcie poprzecznie prążkowanych mięśni szkieletowych (aparat ruchu), a ciepło zwiotcza mięśnie gładkie (narządy, naczynia), poprawiając krążenie."
+      "explanation": "Schultz: ciężar zwiotcza mięśnie szkieletowe, ciepło rozszerza naczynia i rozluźnia mięśnie gładkie."
     },
     {
       "id": 24,
       "type": "single-choice",
-      "question": "Jakie są dokładne ramy czasowe zalecane do prawidłowego wykonania pojedynczego ćwiczenia w progresywnej relaksacji mięśni Jacobsona?",
+      "question": "Jakie są ramy czasowe zalecane do wykonania pojedynczego ćwiczenia w progresywnej relaksacji mięśni Jacobsona?",
       "options": [
-        "Mocne napięcie mięśni utrzymuje się przez 10 do 15 sekund, po czym wraca się do normalnej aktywności ruchowej.",
-        "Napina się lekko dany mięsień przez równe 30 sekund, po czym wykonuje się głęboki masaż odprężający tej okolicy ciała.",
-        "Grupa mięśni jest napinana siłą woli na 5 do 7 sekund, a następnie pacjent poświęca 30 do 40 sekund na profesjonalną obserwację odczucia jej rozluźnienia.",
-        "Faza intensywnego skurczu musi trwać pełną minutę, podczas gdy faza rozluźnienia nie powinna przekraczać 10 sekund skupienia."
+        "Napięcie mięśni utrzymuje się 10-15 sekund, po czym wraca się do normalnej aktywności.",
+        "Napina się mięsień przez 30 sekund, po czym wykonuje się masaż tej okolicy.",
+        "Grupa mięśni napinana na 5-7 s, potem 30-40 s obserwacji odczucia rozluźnienia.",
+        "Faza skurczu musi trwać minutę, faza rozluźnienia nie powinna przekraczać 10 sekund."
       ],
       "correctAnswerIndex": 2,
-      "explanation": "Według instrukcji metodycznej, napięcie utrzymuje się krótko (5-7 sekund, nieco krócej dla stóp), a potem przez 30-40 sekund uwaga musi koncentrować się na uwalnianym napięciu w profesjonalnej fazie odpoczynku."
+      "explanation": "Jacobson: napięcie 5-7 s, potem 30-40 s skupienia na odczuciu rozluźnienia mięśni."
     },
     {
       "id": 25,
       "type": "single-choice",
-      "question": "W propozycji indukowania reakcji relaksacyjnej (Herbert Benson), jak w praktyce powinna przejawiać się zdefiniowana przez niego tzw. \"postawa pasywna\" pacjenta?",
+      "question": "W metodzie indukowania reakcji relaksacyjnej (Benson), jak w praktyce powinna przejawiać się \"postawa pasywna\"?",
       "options": [
-        "Całkowitym brakiem wykonywania jakichkolwiek widocznych ruchów motorycznych przez wymagany czas minimum dwóch godzin na dobę.",
-        "Uporczywym odrzucaniem wszystkich emocji i natychmiastowym karceniem swojego umysłu, gdy tylko pojawi się w nim jakakolwiek obca myśl.",
-        "Odstąpieniem od martwienia się tym, czy technika jest wykonywana idealnie poprawnie, i swobodnym, niewymuszonym odkładaniem na bok rozpraszających uwag.",
-        "Pozwoleniem, by środowisko zewnętrzne narzucało tempo oddechu, bez jakiejkolwiek wolicjonalnej interwencji w naturalny rytm funkcjonowania pnia mózgu."
+        "Brakiem wykonywania ruchów motorycznych przez minimum dwie godziny na dobę.",
+        "Odrzucaniem emocji i karceniem umysłu, gdy pojawi się w nim obca myśl.",
+        "Nie martwieniem się o poprawność techniki i spokojnym odkładaniem na bok rozproszeń.",
+        "Pozwoleniem, by środowisko narzucało tempo oddechu, bez wolicjonalnej interwencji."
       ],
       "correctAnswerIndex": 2,
-      "explanation": "Benson podkreślał, że postawa pasywna oznacza brak krytycznej oceny własnych osiągnięć w trakcie relaksacji – kiedy uwaga odleci, należy bez napięcia powrócić do wybranego punktu skupienia."
+      "explanation": "Postawa pasywna: nie oceniaj wykonania; gdy uwaga odpłynie, spokojnie wróć do mantry."
     },
     {
       "id": 26,
       "type": "single-choice",
-      "question": "Zgodnie z koncepcją bioenergetyczną (Lowen), w jaki sposób fizycznie objawia się tzw. opancerzenie mięśniowe typowe dla \"charakteru sztywnego\" (osobowość typu A)?",
+      "question": "Zgodnie z koncepcją bioenergetyczną (Lowen), jak fizycznie objawia się opancerzenie mięśniowe typu A?",
       "options": [
-        "Skrajnie wolnym oddychaniem brzusznym, miękką postawą ramion i wyraźnym obniżeniem ciśnienia tętniczego pod wpływem negatywnego stresu.",
-        "Nadmiernie zapadniętą klatką piersiową w pozycji przypominającej głęboki wydech oraz sflaczałymi mięśniami przedniej ściany brzucha.",
-        "Całkowitym brakiem kontroli nad oddechem w sytuacjach, połączonym z częstym wpadaniem w bezdech wywołany atakiem paniki.",
-        "Utrzymywaniem klatki piersiowej w rozdętej pozycji wdechu, połączonym z rygorystycznym usztywnieniem mięśni karku z powodu stłumionej złości."
+        "Wolnym oddychaniem brzusznym, miękką postawą ramion i obniżeniem ciśnienia pod wpływem stresu.",
+        "Zapadniętą klatką piersiową w pozycji wydechu i sflaczałymi mięśniami brzucha.",
+        "Brakiem kontroli nad oddechem, połączonym z wpadaniem w bezdech wywołany paniką.",
+        "Utrzymywaniem klatki piersiowej w pozycji wdechu, z napięciem karku wynikającym ze stłumionej złości."
       ],
       "correctAnswerIndex": 3,
-      "explanation": "Charakter (związany z osobowością typu A) oddycha piersiowo, utrzymując twardą, \"napompowaną\" klatkę piersiową w pozycji wdechu, powstrzymując w ten sposób łzy. Sztywny kark wyraża tu utajoną mściwość."
+      "explanation": "Typ A: klatka w pozycji wdechu (powstrzymywanie łez), napięty kark (stłumiona złość)."
     },
     {
       "id": 27,
       "type": "single-choice",
-      "question": "Z czym psychologicznie wiąże się występowanie \"zredukowanego oddechu\" przypisanego przez badaczy osobom o typie \"charakteru oralnego\" (depresyjnego)?",
+      "question": "Z czym psychologicznie wiąże się \"zredukowany oddech\" przypisany osobom o charakterze oralnym (depresyjnym)?",
       "options": [
-        "Wynika on z uwarunkowanego w dzieciństwie lęku przed byciem zachłannym na tlen, spowodowanym wczesnym rozczarowaniem i przerwaniem funkcji bezpiecznego ssania.",
-        "Jest to wyuczona z wiekiem fizjologiczna odpowiedź na nadmiar przyjmowanych kalorii, która ma na celu znaczne obniżenie metabolizmu, aby zapobiec patologicznej otyłości.",
-        "Stanowi on wynik świadomie wypracowanego oporu przed podporządkowaniem się autorytetom, co fizycznie manifestuje się niechęcią do szybkiego oddychania.",
-        "Pojawia się wyłącznie u osób o silnej potrzebie rywalizacji, które celowo redukują oddech, by przygotować swoje mięśnie do fizycznej konfrontacji w biznesie."
+        "Wynika z dziecięcego lęku przed zachłannością na tlen, po rozczarowaniu i przerwaniu funkcji ssania.",
+        "Jest odpowiedzią na nadmiar kalorii, obniżającą metabolizm dla zapobieżenia otyłości.",
+        "Wynika z oporu przed autorytetami, manifestującego się niechęcią do oddychania.",
+        "Występuje u rywalizujących osób, redukujących oddech dla przygotowania do konfrontacji."
       ],
       "correctAnswerIndex": 0,
-      "explanation": "Lowen i Reich wiążą oddech zredukowany (płytki z wiotką, pustą klatką) z depresyjnym charakterem oralnym. Niespełnienie w fazie ssania wywołało u jednostki podświadomy opór przed zaczerpnięciem życia (\"zassaniem\" wdechu w pełni)."
+      "explanation": "Oddech zredukowany = charakter oralny: przerwane ssanie w dzieciństwie → opór przed zaczerpnięciem powietrza."
     },
     {
       "id": 28,
       "type": "single-choice",
-      "question": "Jakie specyficzne cechy psychologiczne i adaptacyjne charakteryzują na co dzień pacjenta diagnozowanego klinicznie jako osobowość typu C?",
+      "question": "Jakie cechy psychologiczne i adaptacyjne charakteryzują pacjenta diagnozowanego jako osobowość typu C?",
       "options": [
-        "Chęć stałej dominacji nad rozmówcą, niecierpliwość w działaniu, pracoholizm oraz wyraźna niechęć do wszelkiej opieszałości innych.",
-        "Duża asertywność, egoizm, doskonała odporność na niepokój i sytuacje społeczne oraz silny układ odpornościowy.",
-        "Ukrywanie swoich uczuć za maską łagodności, altruizm posunięty do poświęcania siebie, brak zdolności do gniewu i uległość wobec autorytetów.",
-        "Urodzony optymizm powiązany z szybkim procesowaniem informacji, wysoka aktywność społeczna i łatwość w nawiązywaniu głębokich więzi."
+        "Chęć dominacji, niecierpliwość, pracoholizm i niechęć do opieszałości innych.",
+        "Asertywność, egoizm, odporność na niepokój i silny układ odpornościowy.",
+        "Ukrywanie uczuć za maską łagodności, altruizm, poświęcanie siebie, brak gniewu i uległość.",
+        "Optymizm, szybkie procesowanie informacji, aktywność społeczna i łatwość w nawiązywaniu więzi."
       ],
       "correctAnswerIndex": 2,
-      "explanation": "Osobowość typu C cechuje się wycofaniem w sytuacjach stresowych, bezradnością, stłumieniem gniewu, uległością oraz fasadową \"dobrocią\" dla innych kosztem własnych potrzeb (co statystycznie wiąże się ze zwiększonym ryzykiem chorób novotworowych)."
+      "explanation": "Typ C: wycofanie, stłumienie gniewu, uległość, fasadowa dobroć kosztem siebie — ryzyko nowotworów."
     },
     {
       "id": 29,
       "type": "single-choice",
-      "question": "Czym z definicji wyróżnia się fizjologiczny, wolny od kontroli woli \"oddech naturalny\" od klasycznych, odgórnych ćwiczeń oddychania?",
+      "question": "Czym wyróżnia się fizjologiczny, wolny od kontroli woli \"oddech naturalny\" od ćwiczeń oddechowych?",
       "options": [
-        "Oddech naturalny utrzymuje zawsze doskonałą i stałą regularność w każdej minucie życia, bez względu na zmieniające się otoczenie i nastrój.",
-        "Oddech naturalny jest przez schematy kory przedczołowej i zawsze kończy się wydechem z ust.",
-        "Oddech naturalny jest tzw. oddechem niedokonanym, kierowanym przez pień mózgu i układ limbiczny, przez co naturalnie zmienia swoje parametry z każdym kolejnym wdechem.",
-        "Oddech naturalny to technika, w LinkedIn której czas wdechu jest sztywno zrównany z czasem wydechu, by precyzyjnie wyrównać pracę serca z pracą płuc u pacjenta."
+        "Oddech naturalny utrzymuje regularność bez względu na otoczenie i nastrój.",
+        "Oddech naturalny jest kontrolowany przez korę przedczołową i kończy się wydechem z ust.",
+        "Oddech naturalny jest niedokonany, sterowany przez pień mózgu i układ limbiczny.",
+        "Oddech naturalny: czas wdechu zrównany z wydechem dla wyrównania pracy serca i płuc."
       ],
       "correctAnswerIndex": 2,
-      "explanation": "Naturalny oddech odbywa się samoistnie (niedokonanie) pod kontrolą struktur podkorowych, dlatego jest nieregularny, zmieniając swoją głębokość i tempo w zależności od chwilowych stanów emocjonalnych organizmu."
+      "explanation": "Oddech naturalny: samoistny (niedokonany), sterowany podkorowo, zmienny w zależności od stanu emocjonalnego."
     },
     {
       "id": 30,
       "type": "single-choice",
-      "question": "Jakie rygorystyczne wymagania dotyczące zachowania narzuca zalecana w ćwiczeniach relaksacyjnych optymalna pozycja trupa (shava-asana)?",
+      "question": "Jakie wymagania dotyczące zachowania narzuca pozycja trupa (shava-asana) w ćwiczeniach relaksacyjnych?",
       "options": [
-        "Zakłada swobodne i celowe poruszanie kończynami na wydechu, aby poprawić ukrwienie dystalnych, wyziębionych partii ciała przed uśnięciem.",
-        "Nakazuje kompletny bezruch całego ciała, surowo zabraniając nawet tak mimowolnych odruchów jak mruganie oczami, drapanie skóry czy poprawianie ułożenia włosów.",
-        "Wymaga aktywnego i cyklicznego napinania wszystkich mięśni na każdy zrobiony głęboki wdech nosowy, aby ułatwić im późniejszy powrót do pełnej i zdrowej relaksacji.",
-        "Polega na ułożeniu dłoni wyłącznie na czubku głowy i spowolnieniu myślenia poprzez głośne artykułowanie powtarzalnej mantry dla przebudzenia kory mózgowej."
+        "Zakłada poruszanie kończynami na wydechu, by poprawić ukrwienie dystalnych partii ciała.",
+        "Nakazuje bezruch całego ciała, zabraniając mrugania, drapania czy poprawiania włosów.",
+        "Wymaga napinania wszystkich mięśni na każdy wdech, by ułatwić im powrót do relaksacji.",
+        "Polega na ułożeniu dłoni na czubku głowy i spowolnieniu myślenia przez artykułowanie mantry."
       ],
       "correctAnswerIndex": 1,
-      "explanation": "Pozycja shava-asana (trupa) wymaga ustania wszelkich dobrowolnych ruchów; w instrukcji explicite zalecono powstrzymanie się od wszelkich korekt ciała, drapania się, a nawet od mrugania powiekami."
+      "explanation": "Shava-asana: całkowity bezruch, zakaz korekt ciała, drapania i mrugania."
     }
   ]
 }
