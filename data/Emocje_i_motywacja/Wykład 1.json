@@ -5,7 +5,7 @@
     {
       "id": 1,
       "type": "single-choice",
-      "question": "Który model rodzicielstwa (wg DeMause’a) charakteryzował się zastąpieniem morderstw oddawaniem dzieci, co koreluje z osobowością masochistyczną?",
+      "question": "Który model rodzicielstwa (wg DeMause'a) charakteryzował się zastąpieniem morderstw oddawaniem dzieci, co koreluje z osobowością masochistyczną?",
       "options": [
         "Model stylu porzucającego",
         "Model stylu socjalizującego",
@@ -35,7 +35,7 @@
       "options": [
         "Dziecka trwale zaniedbanego",
         "Dziecka nadmiernie uwiedzionego",
-        "Dziecka w pełni zawłaszczonego",
+        "Dziecka zawłaszczonego",
         "Dziecka przesadnie ubezwłasnowolnionego"
       ],
       "correctAnswerIndex": 0,
@@ -61,7 +61,7 @@
       "options": [
         "Stanowią system pierwotnie nadrzędny i wcześniejszy",
         "Pojawiają się wtórnie jako efekt oceny poznawczej",
-        "Rozwijają się w pełni symultanicznie z myśleniem",
+        "Rozwijają się symultanicznie z myśleniem",
         "Są formą zinternalizowanych percepcyjnie obrazów"
       ],
       "correctAnswerIndex": 0,
@@ -164,7 +164,7 @@
       "question": "Zjawisko idealizowania zakochanej osoby lub skrajnego dewaluowania wroga, będące efektem silnego pobudzenia emocjonalnego, to przykład:",
       "options": [
         "Dyfuzyjnego rozlewania się afektu",
-        "Skrajnego tłumienia kory mózgowej",
+        "Tłumienia kory mózgowej",
         "Aktywacji nastroju egzystencjalnego",
         "Działania afektu czysto trzewnego"
       ],
@@ -192,7 +192,7 @@
         "Uzasadniania emocjonalnego",
         "Heurystyki dostępu do afektu",
         "Afektywnego przeniesienia winy",
-        "Atrybucji całkowicie zewnętrznej"
+        "Atrybucji zewnętrznej"
       ],
       "correctAnswerIndex": 0,
       "explanation": "Emocjonalne uzasadnianie to wyciąganie wniosków o faktach na podstawie własnych, subiektywnych uczuć ('czuję to, więc to prawda')."
@@ -228,8 +228,8 @@
       "type": "single-choice",
       "question": "Zjawisko okazywania radości, która w rzeczywistości ma celowo ukryć i maskować głęboki smutek podczas pogrzebu, nazywamy emocją:",
       "options": [
-        "Skrajnie sztuczną (udawaną)",
-        "Silnie i trwale wymuszoną",
+        "Sztuczną (udawaną)",
+        "Trwale wymuszoną",
         "Czysto samoświadomościową",
         "Trzeciorzędową intelektualną"
       ],
@@ -280,7 +280,7 @@
       "type": "single-choice",
       "question": "Połączenie emocji wstrętu (obrzydzenia) ze smutkiem daje w rezultacie złożoną jakość afektywną nazywaną potocznie:",
       "options": [
-        "Silnymi wyrzutami sumienia",
+        "Wyrzutami sumienia",
         "Pogardą wobec oponenta",
         "Głębokim poczuciem beznadziei",
         "Egzystencjalnym brakiem sensu"
@@ -425,7 +425,7 @@
       "options": [
         "Umożliwia złożoną, racjonalną ocenę bodźców",
         "Automatycznie wyzwala atak i brutalną agresję",
-        "Całkowicie blokuje aktywność jądra podstawnego",
+        "Blokuje aktywność jądra podstawnego",
         "Prowadzi wyłącznie do ataku ślepej furi u zwierząt"
       ],
       "correctAnswerIndex": 0,
@@ -528,7 +528,7 @@
       "question": "Do emocji określanych jako autentyczne uczucia intelektualne (według W. Witwickiego) zaliczają się przede wszystkim uczucia:",
       "options": [
         "Przekonaniowe dotyczące samej wartości zdobytej wiedzy",
-        "Moralne opierające się całkowicie na sprawiedliwości",
+        "Moralne opierające się na sprawiedliwości",
         "Wrodzone wywodzące się z biologicznego pnia lęku",
         "Udawane i maskujące wewnętrzny smutek na zewnątrz"
       ],
@@ -568,8 +568,8 @@
       "options": [
         "Około trzy czwarte to czyste emocje jednej kategorii",
         "Niemalże wszystkie doświadczane emocje to mikstury",
-        "Połowę dnia spędzamy w całkowitym zawieszeniu uczuć",
-        "Większość czasu zajmują skrajnie wrogie nam nastroje"
+        "Połowę dnia spędzamy w zawieszeniu uczuć",
+        "Większość czasu zajmują wrogie nam nastroje"
       ],
       "correctAnswerIndex": 0,
       "explanation": "3/4 z nich to emocje pojedyncze (czyste), a tylko około 25% to w pełni świadome emocje mieszane."
@@ -595,7 +595,7 @@
         "Typowego ojcostwa intruzywnego",
         "Nurtu zwanego ambiwalencyjnym",
         "Rozwoju wychowania socjalizującego",
-        "Nurtu silnie wspierającego marzenia"
+        "Nurtu wspierającego marzenia"
       ],
       "correctAnswerIndex": 0,
       "explanation": "Model intruzywny (XVIII w.) zmuszał dzieci do ukrywania złości, co miało złamać ich niezależną wolę w zamian za uwagę rodziców."

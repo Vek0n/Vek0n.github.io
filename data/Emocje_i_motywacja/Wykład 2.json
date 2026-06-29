@@ -49,7 +49,7 @@
         "Transmisja jest wolniejsza i mniej gwałtowna.",
         "Transmisja jest błyskawiczna i bardzo silna.",
         "Bodźce stale przekraczają próg świadomości.",
-        "Bodźce wywołują silną, przewlekłą meteopatię."
+        "Bodźce wywołują przewlekłą meteopatię."
       ],
       "correctAnswerIndex": 0,
       "explanation": "U sympatykotoników przekaz z narządów wewnętrznych jest wolniejszy, w przeciwieństwie do wagotoników, u których łatwo przekracza on próg świadomości."
@@ -59,7 +59,7 @@
       "type": "single-choice",
       "question": "Zgodnie z modelem D. Boadelli, patologiczna przewaga układu współczulnego w reakcji na stres prowadzi do:",
       "options": [
-        "Ciągłego braku energii i silnej depresji.",
+        "Ciągłego braku energii i depresji.",
         "Nadmiernej bierności oraz załamania.",
         "Kompulsywnego angażowania się w pracę.",
         "Brak zdecydowania i obniżonej czujności."
@@ -166,7 +166,7 @@
         "Spędza około 47% czasu na błądzeniu myślami.",
         "Jest niemal stale sfokusowany na ciele.",
         "Skupia się w 80% na środowisku wewnętrznym.",
-        "Całkowicie ignoruje myśli o przyszłości."
+        "Ignoruje myśli o przyszłości."
       ],
       "correctAnswerIndex": 0,
       "explanation": "Około 47% naszego czasu spędzamy na rozmyślaniu o tym, co nie dzieje się w chwili obecnej (błądzenie umysłem)."
@@ -296,7 +296,7 @@
         "Lewy odpowiada za strach, prawy za radość i złość.",
         "Lewy reguluje uległość, prawy wzmaga arogancję.",
         "Lewy to uczucie dominacji, prawy to uczucie poddania.",
-        "Lewy hamuje emocje, prawy je stale i silnie wyzwala."
+        "Lewy hamuje emocje, prawy je stale wyzwala."
       ],
       "correctAnswerIndex": 2,
       "explanation": "Badania sugerują, że lewy płat czołowy wiąże się z emocjami dającymi poczucie dominacji (złość, odwaga), a prawy z uległością (strach, wstyd)."
@@ -306,7 +306,7 @@
       "type": "single-choice",
       "question": "Jak Iain McGilchrist interpretuje ewolucyjny cel rozwoju lewego płata przedczołowego?",
       "options": [
-        "Ma budować głębokie więzi poprzez silną empatię.",
+        "Ma budować głębokie więzi poprzez empatię.",
         "Przyjmuje cudzą perspektywę, aby ją przechytrzyć.",
         "Tworzy emocjonalny dystans ułatwiający relaks.",
         "Służy wyłącznie do hamowania zmysłu równowagi."
@@ -384,7 +384,7 @@
       "type": "single-choice",
       "question": "Co wyróżnia przetwarzanie poznawcze w lewej półkuli na tle aktywności prawej?",
       "options": [
-        "Działa metodą symultaniczną i w pełni niejawną.",
+        "Działa metodą symultaniczną i niejawną.",
         "Jest sekwencyjne, szeregowe i logiczno-dyskursywne.",
         "Skupia się na błyskawicznych momentach \"aha\".",
         "Opiera się na intuicyjnym, holistycznym wglądzie."
@@ -450,7 +450,7 @@
       "question": "Które sformułowanie najlepiej opisuje charakter działania kory pierwszorzędowej?",
       "options": [
         "Jest odpowiedzialna za kreatywność obu półkul.",
-        "Działa całkowicie asymetrycznie i wybiórczo.",
+        "Działa asymetrycznie i wybiórczo.",
         "Odpowiada wyłącznie za rozwój pamięci trwałej.",
         "Jest symetryczna i kontroluje przeciwne strony ciała."
       ],
@@ -473,7 +473,7 @@
     {
       "id": 37,
       "type": "single-choice",
-      "question": "Czym skutkuje brak czucia naprężenia mięśni jako formy zaburzenia świadomości somatycznej?",
+      "question": "Czym skutkuje brak czucia naprężenia mięśni jako forma zaburzenia świadomości somatycznej?",
       "options": [
         "Natychmiastową utratą poczucia sytości po zjedzeniu.",
         "Bólami pleców i przewlekłymi zwyrodnieniami stawów.",
@@ -527,7 +527,7 @@
       "type": "single-choice",
       "question": "Jakie funkcje trawienne są stymulowane przez układ sympatyczny podczas mobilizacji?",
       "options": [
-        "Silnie pobudza motorykę jelit i rozluźnia zwieracze.",
+        "Pobudza motorykę jelit i rozluźnia zwieracze.",
         "Zwiększa wydzielanie enzymów i soków trzustkowych.",
         "Pobudza funkcje żołądka, by szybko strawić pokarm.",
         "Żadne z powyższych – układ ten hamuje trawienie."
@@ -555,7 +555,7 @@
       "options": [
         "Ośrodkowy układ nerwowy działa w izolacji od obwodowego.",
         "W jednym narządzie dominuje sympatykotonia, w innym wagotonia.",
-        "Całkowicie utraciły możliwość odczuwania fizycznego bólu.",
+        "Utraciły możliwość odczuwania fizycznego bólu.",
         "Są genetycznie niezdolne do wyzwolenia reakcji walki."
       ],
       "correctAnswerIndex": 1,
@@ -566,7 +566,7 @@
       "type": "single-choice",
       "question": "Co powoduje obniżenie metabolizmu i zatrzymanie energii w modelu radzenia sobie Boadelli?",
       "options": [
-        "Skrajnie zadaniowe napięcie uwagi lewej półkuli.",
+        "Zadaniowe napięcie uwagi lewej półkuli.",
         "Dominacja układu sympatycznego i duży wyrzut adrenaliny.",
         "Dominacja układu przywspółczulnego (reakcja rezygnacji).",
         "Wzmożone, symultaniczne uwalnianie kortyzolu z nadnerczy."
