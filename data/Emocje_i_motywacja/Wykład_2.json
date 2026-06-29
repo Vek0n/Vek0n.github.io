@@ -1,0 +1,656 @@
+{
+  "title": "Wykład 2 - Neuroanatomia emocji",
+  "difficulty": "Trudny",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single-choice",
+      "question": "Zgodnie z koncepcją Thomasa Myersa, gdybyśmy wyekstrahowali jedną z trzech głównych sieci w stanie nienaruszonym, ukazałaby ona kształt całego ciała. Która z poniższych NIE jest jedną z nich?",
+      "options": [
+        "Zewnątrzkomórkowa sieć włóknista.",
+        "System naczyń krwionośnych organizmu.",
+        "Sieć tkanki mięśniowo-szkieletowej.",
+        "Kompleksowy układ nerwowy człowieka."
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Myers wyróżnia dokładnie trzy takie sieci: układ naczyniowy, układ nerwowy oraz sieć włóknistą utworzoną przez powięź."
+    },
+    {
+      "id": 2,
+      "type": "single-choice",
+      "question": "Jaką główną funkcję w organizmie przypisuje się gałęzi parasympatycznej (przywspółczulnej) autonomicznego układu nerwowego?",
+      "options": [
+        "Desynchronizację fal mózgowych EEG.",
+        "Hamowanie wydzielania enzymów.",
+        "Rozszerzanie dróg oddechowych.",
+        "Stymulację wydzielania śliny."
+      ],
+      "correctAnswerIndex": 3,
+      "explanation": "Układ parasympatyczny odpowiada za odpoczynek, co wiąże się ze stymulacją trawienia, w tym zwiększeniem wydzielania śliny."
+    },
+    {
+      "id": 3,
+      "type": "single-choice",
+      "question": "Według typologii autonomicznej, osoba o dominacji wagotonicznej charakteryzuje się najczęściej:",
+      "options": [
+        "Porywczością i wybuchowością w stresie.",
+        "Tachypsychizmem i szybszym myśleniem.",
+        "Bradypsychizmem i niższą wrażliwością.",
+        "Krótkim czasem reakcji psychomotorycznej."
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Wagotonia wiąże się z przewagą układu przywspółczulnego, co objawia się spowolnieniem myślenia (bradypsychizm) i niższą wrażliwością zewnętrzną."
+    },
+    {
+      "id": 4,
+      "type": "single-choice",
+      "question": "W jaki sposób sympatykotonik zazwyczaj przetwarza bodźce z narządów wewnętrznych (tzw. przekaz wewnętrzny)?",
+      "options": [
+        "Transmisja jest wolniejsza i mniej gwałtowna.",
+        "Transmisja jest błyskawiczna i bardzo silna.",
+        "Bodźce stale przekraczają próg świadomości.",
+        "Bodźce wywołują silną, przewlekłą meteopatię."
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "U sympatykotoników przekaz z narządów wewnętrznych jest wolniejszy, w przeciwieństwie do wagotoników, u których łatwo przekracza on próg świadomości."
+    },
+    {
+      "id": 5,
+      "type": "single-choice",
+      "question": "Zgodnie z modelem D. Boadelli, patologiczna przewaga układu współczulnego w reakcji na stres prowadzi do:",
+      "options": [
+        "Ciągłego braku energii i silnej depresji.",
+        "Nadmiernej bierności oraz załamania.",
+        "Kompulsywnego angażowania się w pracę.",
+        "Brak zdecydowania i obniżonej czujności."
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Typ wyładowujący się (współczulny) charakteryzuje się nadaktywnością, skłonnością do przesady i kompulsywnym wchodzeniem w działanie lub walkę."
+    },
+    {
+      "id": 6,
+      "type": "single-choice",
+      "question": "Rozregulowany autonomiczny układ nerwowy (AUN) traci swoją naturalną równowagę. Co to w praktyce oznacza dla organizmu?",
+      "options": [
+        "Utratę oscylacji między aktywacją obu gałęzi.",
+        "Trwałe wyłączenie układu parasympatycznego.",
+        "Całkowity brak reakcji na bodźce hormonalne.",
+        "Zwiększoną zdolność do szybkiej regeneracji."
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Rozregulowanie polega na utracie naturalnej cykliczności i oscylacji – organizm \"utycha\" w ciągłym nadpobudzeniu albo w pod-pobudzeniu."
+    },
+    {
+      "id": 7,
+      "type": "single-choice",
+      "question": "Który z gruczołów dokrewnych odpowiada za produkcję oksytocyny oraz hormonu wzrostu?",
+      "options": [
+        "Tarczyca, sterująca tempem metabolizmu.",
+        "Grasica, odpowiedzialna za odporność.",
+        "Przysadka mózgowa, kierowana podwzgórzem.",
+        "Szyszynka, reagująca na bodźce świetlne."
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Przysadka mózgowa działa pod wpływem podwzgórza, zawiaduje innymi gruczołami i produkuje m.in. oksytocynę i hormon wzrostu."
+    },
+    {
+      "id": 8,
+      "type": "single-choice",
+      "question": "W kontekście budowy układu nerwowego, tzw. środowisko wewnętrzne (soma) jest odbierane głównie przez:",
+      "options": [
+        "Korę mózgową i skojarzone z nią płaty.",
+        "Podwzgórze oraz cały układ limbiczny.",
+        "Pień mózgu i bezpośrednio przez móżdżek.",
+        "Zewnętrzne eksteroreceptory czuciowe."
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Informacje interoreceptywne i proprioreceptywne z ciała trafiają przede wszystkim do podwzgórza i są kojarzone w układzie limbicznym."
+    },
+    {
+      "id": 9,
+      "type": "single-choice",
+      "question": "Zgodnie z klasyfikacją Alana Fogela, patologiczna absorbcja jako forma zaburzonego kontaktu z ciałem objawia się poprzez:",
+      "options": [
+        "Uporczywe zaprzeczanie istnieniu bólu.",
+        "Poddawanie się nałogom i dramatyzowanie.",
+        "Skupianie się na symptomach bez działania.",
+        "Całkowite wyparcie fizycznego zmęczenia."
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Patologiczna absorbcja polega na ruminacji, czyli powtarzalnym skupianiu się na symptomach stresu, bez podejmowania aktywnego rozwiązania problemu."
+    },
+    {
+      "id": 10,
+      "type": "single-choice",
+      "question": "Według teorii mózgu trójjedynego, zachowania afiliacyjne skierowane na utrzymanie spójności grupy są domeną:",
+      "options": [
+        "Mózgu gadziego (pnia mózgu i móżdżku).",
+        "Kory pierwszorzędowej (neossaków).",
+        "Mózgu emocjonalnego (paleossaków).",
+        "Kory asocjacyjnej (płatów czołowych)."
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Mózg paleossaków (układ limbiczny) to mózg zwierząt stadnych, odpowiadający za łączenie się i regulowanie interakcji w grupie."
+    },
+    {
+      "id": 11,
+      "type": "single-choice",
+      "question": "W jaki sposób mózg gadzi (instynktowny) odnosi się do osi czasu i doświadczeń?",
+      "options": [
+        "Przetwarza traumy z odległej przeszłości.",
+        "Planuje długoterminowe strategie przetrwania.",
+        "Uczy się unikać błędów dzięki pamięci.",
+        "Działa wyłącznie w wymiarze tu i teraz."
+      ],
+      "correctAnswerIndex": 3,
+      "explanation": "Mózg gadzi nie uczy się z przeszłości ani nie planuje przyszłości – reaguje wyłącznie na bodźce w chwili obecnej (\"tu i teraz\")."
+    },
+    {
+      "id": 12,
+      "type": "single-choice",
+      "question": "Które z poniższych twierdzeń prawidłowo opisuje różnicę między korą pierwszorzędową a asocjacyjną?",
+      "options": [
+        "Kora asocjacyjna pozostaje symetryczna funkcjonalnie.",
+        "Kora pierwszorzędowa rozrosła się najmocniej u ludzi.",
+        "Tylko kora asocjacyjna wykazuje asymetrię funkcji.",
+        "Tylko kora pierwszorzędowa tworzy światy wewnętrzne."
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Asymetria funkcjonalna półkul dotyczy wyłącznie kory asocjacyjnej; kora pierwszorzędowa jest symetryczna względem obu połów ciała."
+    },
+    {
+      "id": 13,
+      "type": "single-choice",
+      "question": "Badania Killingswortha i Gilberta wykazały, że ludzki umysł w stanie czuwania:",
+      "options": [
+        "Spędza około 47% czasu na błądzeniu myślami.",
+        "Jest niemal stale sfokusowany na ciele.",
+        "Skupia się w 80% na środowisku wewnętrznym.",
+        "Całkowicie ignoruje myśli o przyszłości."
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Około 47% naszego czasu spędzamy na rozmyślaniu o tym, co nie dzieje się w chwili obecnej (błądzenie umysłem)."
+    },
+    {
+      "id": 14,
+      "type": "single-choice",
+      "question": "Z perspektywy ewolucyjnej, asymetria mózgu i podział obowiązków między półkulami pojawiły się po raz pierwszy u:",
+      "options": [
+        "Wczesnych naczelnych i pierwszych hominidów.",
+        "Kręgowców około 500 milionów lat temu.",
+        "Ssaków we wczesnej epoce lodowcowej.",
+        "Ptaków, jako mechanizm kontroli lotu."
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Lateralizacja nie jest wyłączna dla człowieka; wyewoluowała około pół miliarda lat temu wraz z powstaniem pierwszych kręgowców."
+    },
+    {
+      "id": 15,
+      "type": "single-choice",
+      "question": "Jaką funkcję, zgodnie z badaniami nad zwierzętami, pełni ewolucyjnie prawa półkula?",
+      "options": [
+        "Zarządza rutynowymi zachowaniami żywieniowymi.",
+        "Inicjuje wewnętrznie motywowane schematy.",
+        "Odpowiada za wykrywanie niespodziewanych bodźców.",
+        "Kontroluje zautomatyzowane procesy trawienne."
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Prawa półkula zawiaduje reakcjami oddolnymi, służąc do wykrywania nowości i zagrożeń ze środowiska, takich jak drapieżniki."
+    },
+    {
+      "id": 16,
+      "type": "single-choice",
+      "question": "W eksperymentach z kurczętami, ptaki z zakrytym prawym okiem (korzystające z prawej półkuli) wykazywały:",
+      "options": [
+        "Skupienie na drobnych szczegółach podłoża.",
+        "Ignorowanie bodźców zagrażających życiu.",
+        "Zainteresowanie globalnym aspektem otoczenia.",
+        "Tylko rutynowe, monotonne zachowania."
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Zgodnie z neuroanatomią (skrzyżowanie nerwów wzrokowych), zakryte prawe oko → widzi lewe oko → prawa półkula. PDF: 'Kurczęta, którym zakryto prawe oko, wykazują zainteresowanie szerokim zakresem bodźców, czyli globalnym aspektem środowiska; kurczęta mające zakryte lewe oko skupiają się jedynie na konkretnych, lokalnych szczegółach otoczenia.'"
+    },
+    {
+      "id": 17,
+      "type": "single-choice",
+      "question": "Alina Kolańczyk opisuje dwa rodzaje uwagi. Któremu z nich odpowiada napięcie mięśnia czołowego (frontalis)?",
+      "options": [
+        "Uwadze intensywnej, mocno sfokusowanej.",
+        "Uwadze ekstensywnej i mocno poszerzonej.",
+        "Uwadze wąskiej, o motywacji zadaniowej.",
+        "Uwadze selektywnej, dedykowanej logice."
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Napięcie mięśnia czołowego jest fizjologicznym markerem uwagi ekstensywnej (szerokiej), opartej na motywacji paratelicznej."
+    },
+    {
+      "id": 18,
+      "type": "single-choice",
+      "question": "W eksperymencie D. Delisa (litera H ułożona z małych liter A), uszkodzenie której struktury zaburzy najszybciej percepcję całościowego kształtu \"H\"?",
+      "options": [
+        "Prawej półkuli mózgowej pacjenta.",
+        "Lewej półkuli mózgowej pacjenta.",
+        "Spoidła wielkiego w części przedniej.",
+        "Pierwszorzędowej kory motorycznej."
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Prawa półkula specjalizuje się w dostrzeganiu całości (Gestalt). Lewa wyodrębnia i analizuje lokalne detale (litery A)."
+    },
+    {
+      "id": 19,
+      "type": "single-choice",
+      "question": "Co postuluje hipoteza globalnego pierwszeństwa (Navon 1977) w kontekście działania naszych półkul?",
+      "options": [
+        "Obraz jest syntetyzowany z najmniejszych detali.",
+        "Lewa półkula zawsze dominuje w procesie widzenia.",
+        "Percepcja zaczyna się od całościowego ujęcia bodźca.",
+        "Szczegóły są rejestrowane szybciej niż kontekst."
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Hipoteza Navona zakłada, że percepcja postępuje od globalnego zarysu (domena prawej półkuli) do późniejszej analizy szczegółów."
+    },
+    {
+      "id": 20,
+      "type": "single-choice",
+      "question": "Jaką postawę wobec świata reprezentuje dominacja lewej półkuli mózgowej?",
+      "options": [
+        "Jest bardzo otwarta i pozbawiona przed-sądów.",
+        "Utrzymuje stały dystans i postawę oceniającą.",
+        "Preferuje to, co bezosobowe i stworzone przez człowieka.",
+        "Tworzy abstrakcyjne kategorie, schematycznie i bez detali."
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "PDF: LEWA PÓŁKULA — 'Postawa otwarta (bez przed-sądów)', 'Postrzega siebie jako połączoną ze światem', 'Zainteresowana tym, co osobowe'. PRAWA PÓŁKULA — 'Postawa oceniająca', 'Zainteresowana tym, co bezosobowe', 'Tworzy re-prezentacje obiektów schematycznie, abstrakcyjnie'. Opcje B, C, D opisują prawą półkulę."
+    },
+    {
+      "id": 21,
+      "type": "single-choice",
+      "question": "Który rodzaj pamięci jest charakterystyczny dla pracy prawej półkuli mózgowej?",
+      "options": [
+        "Pamięć semantyczna faktów publicznych.",
+        "Pamięć abstrakcyjnych reguł gramatyki.",
+        "Epizodyczna pamięć autobiograficzna.",
+        "Pamięć wyłącznie bezczasowych schematów."
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Prawa półkula dysponuje epizodyczną pamięcią autobiograficzną, pamiętając specyficzne dla danego przypadku, unikalne detale i osadzając je w czasie."
+    },
+    {
+      "id": 22,
+      "type": "single-choice",
+      "question": "W jaki sposób prawa półkula różni się od lewej w sposobie reprezentowania rzeczywistości (tworzenia obiektów)?",
+      "options": [
+        "Tworzy obiekty schematycznie, w 2D.",
+        "Odrzuca wszelkie detale zmysłowe.",
+        "Integruje dane realistyczne i trójwymiarowe.",
+        "Konstruuje obiekty wysoce abstrakcyjne."
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Prawa półkula tworzy \"prezentacje\" wielowymiarowe, realistyczne, zintegrowane i osadzone w głębi przestrzennej."
+    },
+    {
+      "id": 23,
+      "type": "single-choice",
+      "question": "Według Heatha A. Demaree, jak emocjonalnie dzieli się kontrola między lewym a prawym płatem czołowym?",
+      "options": [
+        "Lewy odpowiada za strach, prawy za radość i złość.",
+        "Lewy reguluje uległość, prawy wzmaga arogancję.",
+        "Lewy to uczucie dominacji, prawy to uczucie poddania.",
+        "Lewy hamuje emocje, prawy je stale i silnie wyzwala."
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Badania sugerują, że lewy płat czołowy wiąże się z emocjami dającymi poczucie dominacji (złość, odwaga), a prawy z uległością (strach, wstyd)."
+    },
+    {
+      "id": 24,
+      "type": "single-choice",
+      "question": "Jak Iain McGilchrist interpretuje ewolucyjny cel rozwoju lewego płata przedczołowego?",
+      "options": [
+        "Ma budować głębokie więzi poprzez silną empatię.",
+        "Przyjmuje cudzą perspektywę, aby ją przechytrzyć.",
+        "Tworzy emocjonalny dystans ułatwiający relaks.",
+        "Służy wyłącznie do hamowania zmysłu równowagi."
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "McGilchrist określa podejście lewego płata jako \"makiaweliczne\" – hamuje on reakcje po to, by zyskać dystans i manipulować otoczeniem."
+    },
+    {
+      "id": 25,
+      "type": "single-choice",
+      "question": "Jaką potrójną rolę językową lewej półkuli wyróżnia w swoich badaniach Mark Solms?",
+      "options": [
+        "Intuicję, empatię przestrzenną oraz percepcję czasu.",
+        "Rozpoznawanie twarzy, muzykę i twórczość wizualną.",
+        "Komunikację, narzędzie intelektu oraz autoregulację.",
+        "Reakcje oddolne, odruchy i stałą pamięć epizodyczną."
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Solms wskazuje, że lewa półkula używa języka do komunikacji z innymi, jako narzędzia myślenia oraz do autoregulacji (mowa wewnętrzna)."
+    },
+    {
+      "id": 26,
+      "type": "single-choice",
+      "question": "Zygmunt Freud postulował, że ubieranie myśli w słowa (funkcja lewej półkuli) służy bezpośrednio:",
+      "options": [
+        "Trwałemu stłumieniu niechcianych wspomnień.",
+        "Sprowadzeniu tych myśli do pola świadomości.",
+        "Rozproszeniu uwagi i relaksacji całego ciała.",
+        "Zwiększeniu aktywności gałęzi sympatycznej."
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Według Freuda i współczesnej neurobiologii, werbalizacja pozwala wyciągnąć myśli z nieświadomości do refleksyjnej świadomości."
+    },
+    {
+      "id": 27,
+      "type": "single-choice",
+      "question": "Zaburzenie regulacyjnej funkcji języka (mowy wewnętrznej jako auto-instrukcji) występuje przy uszkodzeniu:",
+      "options": [
+        "Obu płatów czołowych w obszarach brzuszno-przyśrodkowych.",
+        "Lewego płata skroniowego w okolicach ośrodka Wernickego.",
+        "Tylko prawej kory ciemieniowej i układu limbicznego.",
+        "Ciała migdałowatego i hipokampa w obu półkulach."
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Uszkodzenia brzuszno-przyśrodkowe w OBU płatach czołowych uniemożliwiają skuteczną autoregulację opartą na mowie wewnętrznej."
+    },
+    {
+      "id": 28,
+      "type": "single-choice",
+      "question": "Jeżeli pacjent nie jest w stanie narysować roweru z właściwym rozlokowaniem jego części ani zorientować się w przestrzeni pokoju, uszkodzenie najpewniej obejmuje:",
+      "options": [
+        "Ośrodek Broki w lewym płacie czołowym.",
+        "Struktury pnia mózgu i cały móżdżek.",
+        "Krzyż potyliczno-skroniowo-ciemieniowy prawej półkuli.",
+        "Lewą pierwszorzędową korę motoryczną."
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Poznanie przestrzenne oraz relacja obiekt-\"ja\" są typowymi funkcjami prawej kory asocjacyjnej."
+    },
+    {
+      "id": 29,
+      "type": "single-choice",
+      "question": "W teście z obrazami Arcimboldo (twarz złożona z owoców) przeprowadzonym przez Gazzanigę, pacjent ze zbadaną prawą półkulą zgłosi, że widzi:",
+      "options": [
+        "Zbiór bardzo szczegółowo namalowanych owoców.",
+        "Całościowy kształt ludzkiej, wyraźnej twarzy.",
+        "Zupełnie bezsensowną plamę kolorów i kształtów.",
+        "Ciąg logicznie powiązanych liter i symboli."
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Prawa półkula jest zorientowana na odbiór całościowy (Gestalt) i rozpoznawanie twarzy, ignorując lokalne detale z jakich się składa."
+    },
+    {
+      "id": 30,
+      "type": "single-choice",
+      "question": "Co wyróżnia przetwarzanie poznawcze w lewej półkuli na tle aktywności prawej?",
+      "options": [
+        "Działa metodą symultaniczną i w pełni niejawną.",
+        "Jest sekwencyjne, szeregowe i logiczno-dyskursywne.",
+        "Skupia się na błyskawicznych momentach \"aha\".",
+        "Opiera się na intuicyjnym, holistycznym wglądzie."
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Lewa półkula przetwarza informacje krok po kroku (sekwencyjnie), podczas gdy prawa robi to równolegle i symultanicznie."
+    },
+    {
+      "id": 31,
+      "type": "single-choice",
+      "question": "Zgodnie z typologią autonomiczną, osoba z przewagą układu współczulnego (sympatykotoniczna) charakteryzuje się:",
+      "options": [
+        "Tachypsychizmem, porywczością i skłonnością do dominacji nad otoczeniem",
+        "Bradpsychizmem, apatią i tendencją do szukania spokoju",
+        "Krępą budową ciała z dużymi trzewiami i zamiłowaniem do spokojnego życia",
+        "Niską wrażliwością na bodźce i obojętnością na otoczenie"
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "PDF opisuje sympatykotoników jako: tachypsychizm (szybsze myślenie), porywczość, nerwowość, wybuchowość, skłonność do dominacji nad otoczeniem, rozwinięty instynkt atak-obrona. Opcje B, C, D opisują wagotoników."
+    },
+    {
+      "id": 32,
+      "type": "single-choice",
+      "question": "Kto był pionierem w odkryciu, że lewy płat przedczołowy odpowiada bezpośrednio za mowę, badając słynnego pacjenta \"Tana\"?",
+      "options": [
+        "Carl Wernicke.",
+        "Paul Broca.",
+        "Roger Sperry.",
+        "Mark Solms."
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "W 1861 r. Paul Broca dokonał tego odkrycia, co stało się fundamentem teorii o asymetrii językowej mózgu."
+    },
+    {
+      "id": 33,
+      "type": "single-choice",
+      "question": "Zjawisko \"świata wewnętrznego (subiektywnego)\" w ujęciu relacji z ciałem oznacza:",
+      "options": [
+        "Informacje z trzewi odbierane głównie przez podwzgórze.",
+        "Bodźce rejestrowane wzrokiem i analizowane przez korę.",
+        "Werbalne auto-instrukcje tworzone w płacie czołowym.",
+        "Odruchowe reakcje inicjowane w zwojach rdzenia."
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Środowisko wewnętrzne (soma) bazuje na interocepcji i propriocepcji, które są przetwarzane ewolucyjnie starszymi strukturami jak podwzgórze."
+    },
+    {
+      "id": 34,
+      "type": "single-choice",
+      "question": "Według klasyfikacji zachowań w stresie, osoba prezentująca postawę \"ulegania\" (wg Fogela) będzie wykazywać tendencję do:",
+      "options": [
+        "Zimnego, zdystansowanego zaprzeczania faktom.",
+        "Kompulsywnego poszukiwania wiedzy medycznej.",
+        "Histerii, dramatyzowania i pobłażania nałogom.",
+        "Aktywnej fizycznej ucieczki przed zagrożeniem."
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Uleganie to infantylny kontakt z własnymi emocjami, prowadzący do przesadnej ekspresji histerycznej i oddawania się nałogom."
+    },
+    {
+      "id": 35,
+      "type": "single-choice",
+      "question": "Które sformułowanie najlepiej opisuje charakter działania kory pierwszorzędowej?",
+      "options": [
+        "Jest odpowiedzialna za kreatywność obu półkul.",
+        "Działa całkowicie asymetrycznie i wybiórczo.",
+        "Odpowiada wyłącznie za rozwój pamięci trwałej.",
+        "Jest symetryczna i kontroluje przeciwne strony ciała."
+      ],
+      "correctAnswerIndex": 3,
+      "explanation": "Kora pierwszorzędowa (sensoryczna i motoryczna) wykonuje zrutynizowane operacje w sposób symetryczny na zasadzie skrzyżowań nerwowych."
+    },
+    {
+      "id": 36,
+      "type": "single-choice",
+      "question": "Jakie specyficzne zachowania motoryczne są preferowane przez lewą półkulę?",
+      "options": [
+        "Ruchy czysto eksploracyjne i nieustrukturyzowane.",
+        "Działania opiekuńcze, kooperacyjne i wspierające.",
+        "Ruchy celowe, instrumentalne i manipulacyjne.",
+        "Całkowite zamrożenie postawy w obliczu stresu."
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "PDF jednoznacznie: LEWA PÓŁKULA — 'Ruchy eksploracyjne', 'Troska', 'Kooperacja'. PRAWA PÓŁKULA — 'Ruchy celowe (sięganie po, chwytanie)', 'Działanie instrumentalne (manipulacyjne)', 'Rywalizacja'."
+    },
+    {
+      "id": 37,
+      "type": "single-choice",
+      "question": "Czym skutkuje brak czucia naprężenia mięśni jako formy zaburzenia świadomości somatycznej?",
+      "options": [
+        "Natychmiastową utratą poczucia sytości po zjedzeniu.",
+        "Bólami pleców i przewlekłymi zwyrodnieniami stawów.",
+        "Znacznym podwyższeniem nastroju i hiperaktywnością.",
+        "Całkowitym zanikiem czucia głębokiego w obrębie głowy."
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Ignorowanie napięć mięśniowych przekłada się na realne konsekwencje fizyczne, jak przewlekłe bóle pleców czy destrukcja stawów."
+    },
+    {
+      "id": 38,
+      "type": "single-choice",
+      "question": "W jaki sposób ewolucja zróżnicowała emocje między mózgiem paleossaków a neossaków?",
+      "options": [
+        "Mózg neossaków wygasił zdolność odczuwania radości.",
+        "Mózg paleossaków potrafi odczuwać emocje symultaniczne.",
+        "Mózg neossaków pozwala na werbalne niuansowanie uczuć.",
+        "Oba mózgi przetwarzają wstyd dokładnie w ten sam sposób."
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Podczas gdy układ limbiczny daje bazowe, płynące serie emocji, kora pozwala na ich precyzyjne nazwanie (np. zirytowany zamiast zły) i ujęcie symultaniczne."
+    },
+    {
+      "id": 39,
+      "type": "single-choice",
+      "question": "Cechą wyróżniającą uwagę prawej półkuli (według Marka Solmsa) jest:",
+      "options": [
+        "Zamknięcie na bodźce i skupienie na wewnętrznym obiekcie.",
+        "Skanująca otwartość zorientowana na zmiany \"tu i teraz\".",
+        "Wąska celowość wykorzystywana do operacji logicznych.",
+        "Całkowity brak kontroli nad środowiskiem akustycznym."
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Uwaga prawej półkuli jest elastyczna i skanująca, gotowa zaktualizować percepcję, gdy w świecie zewnętrznym zajdzie zmiana."
+    },
+    {
+      "id": 40,
+      "type": "single-choice",
+      "question": "Które zjawisko potwierdza teorię o ewolucyjnej asymetrii mózgu u zwierząt niższych?",
+      "options": [
+        "Szympansy uczą się mówić używając lewej kory.",
+        "Kury używają lewego oka do dziobania ziaren.",
+        "Ryby unikają drapieżników używając kory czołowej.",
+        "Ptaki silniej reagują na drapieżcę w lewym polu widzenia."
+      ],
+      "correctAnswerIndex": 3,
+      "explanation": "Lewe pole widzenia łączy się z prawą półkulą, która u większości kręgowców wyspecjalizowała się w szybkiej detekcji zagrożeń."
+    },
+    {
+      "id": 41,
+      "type": "single-choice",
+      "question": "Jakie funkcje trawienne są stymulowane przez układ sympatyczny podczas mobilizacji?",
+      "options": [
+        "Silnie pobudza motorykę jelit i rozluźnia zwieracze.",
+        "Zwiększa wydzielanie enzymów i soków trzustkowych.",
+        "Pobudza funkcje żołądka, by szybko strawić pokarm.",
+        "Żadne z powyższych – układ ten hamuje trawienie."
+      ],
+      "correctAnswerIndex": 3,
+      "explanation": "Układ współczulny zatrzymuje procesy trawienne (hamuje żołądek, trzustkę, jelita), przekierowując energię do mięśni."
+    },
+    {
+      "id": 42,
+      "type": "single-choice",
+      "question": "W jaki sposób prawe ramię i dłoń u człowieka korelują z lateralizacją mózgu?",
+      "options": [
+        "Są zarządzane wyłącznie przez kory prawej półkuli.",
+        "Wyewoluowały niezależnie od struktur mowy.",
+        "Krzyżują się z kontrolą w lewej półkuli mózgowej.",
+        "Opierają się na bezwarunkowych odruchach pnia."
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Połączenia między ciałem a mózgiem kręgowców krzyżują się, co oznacza, że lewa półkula steruje prawą stroną ciała."
+    },
+    {
+      "id": 43,
+      "type": "single-choice",
+      "question": "Osoby przejawiające tzw. typy mieszane w bilansie autonomicznym charakteryzują się tym, że:",
+      "options": [
+        "Ośrodkowy układ nerwowy działa w izolacji od obwodowego.",
+        "W jednym narządzie dominuje sympatykotonia, w innym wagotonia.",
+        "Całkowicie utraciły możliwość odczuwania fizycznego bólu.",
+        "Są genetycznie niezdolne do wyzwolenia reakcji walki."
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Typ mieszany oznacza przewagę funkcjonalną układu współczulnego w jednej części ciała, a przywspółczulnego w innej."
+    },
+    {
+      "id": 44,
+      "type": "single-choice",
+      "question": "Co powoduje obniżenie metabolizmu i zatrzymanie energii w modelu radzenia sobie Boadelli?",
+      "options": [
+        "Skrajnie zadaniowe napięcie uwagi lewej półkuli.",
+        "Dominacja układu sympatycznego i duży wyrzut adrenaliny.",
+        "Dominacja układu przywspółczulnego (reakcja rezygnacji).",
+        "Wzmożone, symultaniczne uwalnianie kortyzolu z nadnerczy."
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Typ relaksujący się w obliczu stresu \"zapadnie się\" (bierność, osłabienie), za co odpowiada nieadekwatna dominacja przywspółczulna."
+    },
+    {
+      "id": 45,
+      "type": "single-choice",
+      "question": "Która cecha najlepiej opisuje percepcję obiektów przez lewą półkulę?",
+      "options": [
+        "Wychwytuje unikalność i specyficzność każdego z nich.",
+        "Pozbawia je abstrakcji na rzecz trójwymiarowego detalu.",
+        "Skupia się na ich powtarzalnych, stałych własnościach.",
+        "Zawsze traktuje je jako spójne części większego wzorca."
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Lewa półkula kategoryzuje świat, odrzucając to co unikalne, a skupiając się na cechach niezmiennych i powtarzalnych."
+    },
+    {
+      "id": 46,
+      "type": "single-choice",
+      "question": "Gdy pacjent po przecięciu spoidła wielkiego poddany jest bodźcom, jego zachowanie udowadnia, że:",
+      "options": [
+        "Tylko lewa półkula radzi sobie ze słowami i obrazami.",
+        "Półkule nie mogą przetwarzać danych samodzielnie.",
+        "Zabieg doprowadził do śmiertelnego uszkodzenia kory.",
+        "Obie półkule działają w wysoce autonomiczny sposób."
+      ],
+      "correctAnswerIndex": 3,
+      "explanation": "Badania Sperry'ego i Gazzanigi ujawniły, że po kalozotomii pacjenci funkcjonują tak, jakby posiadali dwie odrębne, niezależne świadomości."
+    },
+    {
+      "id": 47,
+      "type": "single-choice",
+      "question": "Co jest głównym zadaniem ciała migdałowatego w modelu mózgu emocjonalnego (paleossaków)?",
+      "options": [
+        "Precyzyjne planowanie długofalowych działań.",
+        "Kontrolowanie oddechu i postawy pionowej ciała.",
+        "Udział w przetwarzaniu pobudzeń emocjonalnych.",
+        "Produkcja i uwalnianie hormonów do krwiobiegu."
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Ciało migdałowate, jako część układu limbicznego, jest strukturą wysoce aktywną przy każdym pobudzeniu afektywnym organizmu."
+    },
+    {
+      "id": 48,
+      "type": "single-choice",
+      "question": "Zjawisko wtórnego generowania poczucia bezczasowości (lub ponadczasowości) to efekt dominacji:",
+      "options": [
+        "Mózgu instynktownego (gadziego).",
+        "Współczulnego układu nerwowego.",
+        "Lewej półkuli kory asocjacyjnej.",
+        "Prawej półkuli kory asocjacyjnej."
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Lewa półkula gromadzi stałe zasady i fakty (pamięć semantyczna), co generuje doświadczenie świata statycznego i bezczasowego."
+    },
+    {
+      "id": 49,
+      "type": "single-choice",
+      "question": "Działanie \"zaprzyjaźniania się ze swoimi emocjami\" i ich kontenerowania charakteryzuje:",
+      "options": [
+        "Mechanizm ruminacji w stresie.",
+        "Zdrową autoekspresję somatyczną.",
+        "Tłumienie oparte na wyparciu uczuć.",
+        "Zależność od pnia mózgowego."
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Właściwy kontakt z ciałem pozwala na tzw. zdrową ekspresję – przyjmowanie i pozostawanie z negatywnymi emocjami bez ucieczki."
+    },
+    {
+      "id": 50,
+      "type": "single-choice",
+      "question": "Z punktu widzenia lateralizacji u owiec, rozpoznawanie konkretnych członków własnego stada z pamięci angażuje przede wszystkim:",
+      "options": [
+        "Ich rozbudowany płat czołowy.",
+        "Sieć powięziową i rdzeń kręgowy.",
+        "Ich lewą półkulę mózgową.",
+        "Ich prawą półkulę mózgową."
+      ],
+      "correctAnswerIndex": 3,
+      "explanation": "Rozpoznawanie twarzy/pysków współtowarzyszy i monitorowanie relacji to atawistyczna funkcja przypisywana właśnie prawej półkuli."
+    }
+  ]
+}
