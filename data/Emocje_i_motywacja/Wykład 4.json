@@ -5,115 +5,115 @@
     {
       "id": 1,
       "type": "single-choice",
-      "question": "Jak w ujęciu Mayera i Saloveya z 1990 roku definiuje się fundamentalną istotę ludzkiej inteligencji emocjonalnej?",
+      "question": "Jak Mayer i Salovey (1990) definiują inteligencję emocjonalną?",
       "options": [
-        "Jako całkowitą dominację procesów poznawczych nad nieświadomymi, odruchowymi procesami afektywnymi.",
+        "Jako dominację procesów poznawczych nad nieświadomymi procesami afektywnymi.",
         "Jako synergiczne połączenie systemu poznawczego oraz funkcjonowania emocjonalnego.",
-        "Jako uwarunkowaną biologicznie zdolność do trwałego hamowania wszystkich destrukcyjnych emocji.",
-        "Jako proces ciągłego wypierania afektu na rzecz czysto racjonalnej i chłodnej oceny sytuacji."
+        "Jako uwarunkowaną biologicznie zdolność do hamowania destrukcyjnych emocji.",
+        "Jako proces wypierania afektu na rzecz racjonalnej i chłodnej oceny sytuacji."
       ],
       "correctAnswerIndex": 1,
-      "explanation": "Zgodnie z podaną w materiale definicją Mayera i Saloveya, inteligencja emocjonalna to synergiczne połączenie systemu poznawczego i funkcjonowania emocjonalnego."
+      "explanation": "Według Mayera i Saloveya inteligencja emocjonalna to synergiczne połączenie systemu poznawczego i funkcjonowania emocjonalnego."
     },
     {
       "id": 2,
       "type": "single-choice",
-      "question": "Który z poniższych zestawów w pełni i poprawnie opisuje główne komponenty inteligencji emocjonalnej przedstawione w modelu teoretycznym?",
+      "question": "Który zestaw poprawnie opisuje główne komponenty inteligencji emocjonalnej?",
       "options": [
-        "Świadomość poznawcza, analiza procesów grupowych, wrodzona asertywność oraz zarządzanie ogólnym nastrojem.",
+        "Świadomość poznawcza, analiza procesów grupowych, asertywność oraz zarządzanie nastrojem.",
         "Samoświadomość emocjonalna, regulacja emocji własnych, rozpoznawanie emocji innych i zarządzanie nimi.",
         "Percepcja zmysłowa, tłumienie negatywnych emocji, intuicyjne przewidywanie zachowań oraz kontrola grupy.",
-        "Obserwacja własnego ciała, korygowanie niechcianego afektu, narzucona empatia i wyrachowana manipulacja."
+        "Obserwacja własnego ciała, korygowanie niechcianego afektu, empatia i wyrachowana manipulacja."
       ],
       "correctAnswerIndex": 1,
-      "explanation": "Model inteligencji emocjonalnej obejmuje cztery główne komponenty: samoświadomość emocjonalną, regulację emocji własnych, rozpoznawanie emocji innych oraz zarządzanie emocjami u innych."
+      "explanation": "Model inteligencji emocjonalnej obejmuje cztery komponenty: samoświadomość emocjonalną, regulację emocji własnych, rozpoznawanie emocji innych oraz zarządzanie emocjami u innych."
     },
     {
       "id": 3,
       "type": "single-choice",
-      "question": "Na czym dokładnie polega mechanizm klasycznej \"płytkiej pracy emocjonalnej\" w kontekście silnej regulacji afektu w środowisku zawodowym?",
+      "question": "Na czym polega mechanizm \"płytkiej pracy emocjonalnej\" w środowisku zawodowym?",
       "options": [
-        "Na intencjonalnym i trwałym modyfikowaniu swoich autentycznych przeżyć, by były zawsze adekwatne do wymagań roli zawodowej.",
-        "Na ograniczaniu wysiłku wyłącznie do zewnętrznej ekspresji, bez ingerowania w swoje wewnętrzne uczucia.",
-        "Na całkowitym wyparciu emocji w momencie podjęcia obowiązków, co skutkuje apatią podczas obsługi klienta.",
-        "Na bezwarunkowym, szczerym okazywaniu wszystkich przeżywanych afektów, bez względu na reguły organizacji."
+        "Na intencjonalnym modyfikowaniu autentycznych przeżyć, by były adekwatne do wymagań roli.",
+        "Na ograniczaniu wysiłku do zewnętrznej ekspresji, bez ingerowania w wewnętrzne uczucia.",
+        "Na wyparciu emocji w momencie podjęcia obowiązków, co skutkuje apatią przy obsłudze klienta.",
+        "Na szczerym okazywaniu przeżywanych afektów, bez względu na reguły organizacji."
       ],
       "correctAnswerIndex": 1,
-      "explanation": "Płytka praca emocjonalna nie modyfikuje 'prawdziwych' odczuć, lecz skupia się tylko na ukryciu lub udawaniu samej zewnętrznej ekspresji."
+      "explanation": "Płytka praca emocjonalna nie modyfikuje odczuć, lecz skupia się na ukryciu lub udawaniu zewnętrznej ekspresji."
     },
     {
       "id": 4,
       "type": "single-choice",
-      "question": "Dlaczego powierzchowna płytka praca emocjonalna jest klasyfikowana w psychologii pracy jako typowa \"strategia korygująca\"?",
+      "question": "Dlaczego płytka praca emocjonalna jest klasyfikowana jako \"strategia korygująca\"?",
       "options": [
-        "Ponieważ jednostka musi całkowicie zablokować źródło stresu, zanim wywoła ono negatywne uczucie.",
-        "Ponieważ ingeruje ona w modyfikację ekspresji emocji, która fizjologicznie została już wcześniej zaktywizowana.",
-        "Ponieważ jej założeniem jest trwała zmiana przekonań poznawczych na temat szkodliwego rozmówcy.",
-        "Ponieważ nakazuje człowiekowi szybką korektę własnej tożsamości, harmonizując ją z nową etyką firmy."
+        "Ponieważ jednostka musi zablokować źródło stresu, zanim wywoła ono negatywne uczucie.",
+        "Ponieważ ingeruje w modyfikację ekspresji emocji, która została już zaktywizowana.",
+        "Ponieważ jej celem jest zmiana przekonań poznawczych na temat rozmówcy.",
+        "Ponieważ nakazuje korektę własnej tożsamości, harmonizując ją z etyką firmy."
       ],
       "correctAnswerIndex": 1,
-      "explanation": "Płytka praca emocjonalna to strategia korygująca (reactive) — modyfikuje ekspresję emocji, która już powstała, zamiast zapobiegać jej powstaniu."
+      "explanation": "Płytka praca emocjonalna to strategia korygująca — modyfikuje ekspresję emocji, która już powstała, zamiast zapobiegać jej powstaniu."
     },
     {
       "id": 5,
       "type": "single-choice",
-      "question": "Jakie dwie udokumentowane formy działania obejmuje strategia korygująca wykorzystywana w ramach rzetelnej płytkiej pracy emocjonalnej?",
+      "question": "Jakie dwie formy działania obejmuje strategia korygująca w płytkiej pracy emocjonalnej?",
       "options": [
-        "Dogłębną reinterpretację trudnego bodźca poznawczego oraz całkowite odcięcie od odczuwanych stanów lęku.",
+        "Reinterpretację bodźca poznawczego oraz odcięcie od odczuwanego lęku.",
         "Celowe wyładowanie ukrywanej wściekłości połączone z fizycznym atakiem na klienta.",
-        "Ukrywanie i osłabianie widocznej ekspresji emocji niepożądanej lub sztuczne nasilanie ekspresji emocji pożądanej.",
-        "Wzbudzanie w sobie przed podjęciem służby pozytywnych uczuć oraz modyfikację dotychczasowego nastawienia."
+        "Ukrywanie i osłabianie ekspresji emocji niepożądanej lub nasilanie ekspresji emocji pożądanej.",
+        "Wzbudzanie pozytywnych uczuć przed podjęciem służby oraz modyfikację nastawienia."
       ],
       "correctAnswerIndex": 2,
-      "explanation": "W ramach płytkiej pracy wyróżnia się maskowanie autentycznych uczuć (ukrywanie) lub też sztuczne przyjmowanie wymaganej mimiki (udawanie)."
+      "explanation": "W ramach płytkiej pracy wyróżnia się maskowanie uczuć (ukrywanie) lub przyjmowanie wymaganej mimiki (udawanie)."
     },
     {
       "id": 6,
       "type": "single-choice",
-      "question": "Czym z definicji zasadniczo wyróżnia się tak zwana \"głęboka praca emocjonalna\" w jaskrawym przeciwieństwie do formy określanej jako praca płytka?",
+      "question": "Czym wyróżnia się \"głęboka praca emocjonalna\" w przeciwieństwie do pracy płytkiej?",
       "options": [
-        "Skupia się wyłącznie na kontrolowaniu własnej mimiki, nie wpływając wcale na wewnętrzne przeżycia.",
-        "Jej istotą jest intencjonalne wprowadzanie się w pożądany stan przez zmianę odczuwanych emocji, a nowa ekspresja jest tego pochodną.",
-        "Jej założeniem jest odwrócenie uwagi otoczenia od wybuchu płaczu bez zmiany własnego myślenia.",
-        "Opiera się na gwałtownym uwalnianiu zablokowanych, pierwotnych afektów na zaskoczonego klienta."
+        "Skupia się na kontrolowaniu mimiki, nie wpływając na wewnętrzne przeżycia.",
+        "Jej istotą jest intencjonalne wprowadzanie się w pożądany stan przez zmianę odczuwanych emocji.",
+        "Polega na odwróceniu uwagi otoczenia od płaczu bez zmiany własnego myślenia.",
+        "Opiera się na uwalnianiu zablokowanych afektów na klienta."
       ],
       "correctAnswerIndex": 1,
-      "explanation": "W przeciwieństwie do pracy płytkiej, praca głęboka ma za zadanie zmodyfikować to, co pracownik autentycznie czuje wewnątrz (np. wzbudzić szczerą sympatię)."
+      "explanation": "Praca głęboka modyfikuje to, co pracownik czuje wewnątrz (np. wzbudzić szczerą sympatię), a ekspresja jest tego pochodną."
     },
     {
       "id": 7,
       "type": "single-choice",
-      "question": "W jaki sposób, z uwagi na istotny w modelu moment dokonywanej interwencji psychologicznej, klasyfikuje się działania z zakresu głębokiej pracy emocjonalnej?",
+      "question": "Jak klasyfikuje się działania z zakresu głębokiej pracy emocjonalnej ze względu na moment interwencji?",
       "options": [
-        "Jako strategię korygującą, uruchamianą dopiero po silnym fizjologicznym wybuchu danej emocji.",
-        "Jako strategię wyprzedzającą, polegającą na podjęciu wysiłku zanim niechciana emocja powstanie.",
-        "Jako strategię tłumienia, która nakazuje korze nowej zamrożenie wszystkich mięśni w ciele.",
-        "Jako klasyczną terapię poznawczo-behawioralną, wykluczającą potrzebę ingerowania w reakcje fizjologiczne."
+        "Jako strategię korygującą, uruchamianą po fizjologicznym wybuchu emocji.",
+        "Jako strategię wyprzedzającą — podjęcie wysiłku, zanim emocja powstanie.",
+        "Jako strategię tłumienia, nakazującą zamrożenie mięśni.",
+        "Jako terapię poznawczo-behawioralną, wykluczającą ingerencję w reakcje fizjologiczne."
       ],
       "correctAnswerIndex": 1,
-      "explanation": "Głęboka praca emocjonalna to strategia wyprzedzająca (antecedent-focused) — polega na zmianie sposobu myślenia o sytuacji, zanim pojawi się niechciana emocja."
+      "explanation": "Głęboka praca emocjonalna to strategia wyprzedzająca — zmiana sposobu myślenia o sytuacji, zanim pojawi się niechciana emocja."
     },
     {
       "id": 8,
       "type": "single-choice",
-      "question": "Z jakich norm uwarunkowań środowiskowych zazwyczaj wynikają żelazne standardy regulowania ludzkich emocji w organizacjach niekomercyjnych (np. w przypadku pracy lekarza lub nauczyciela)?",
+      "question": "Z czego wynikają standardy regulowania emocji w organizacjach niekomercyjnych (np. lekarz, nauczyciel)?",
       "options": [
-        "Zawsze opierają się na sztywnych regulaminach narzucanych przez zarząd na szkoleniu.",
-        "Panuje w nich swobodna dowolność, pozwalająca personelowi okazywać każdego dnia cały swój nastrój.",
-        "Wynikają w największym stopniu z etosu konkretnego zawodu, a nie z narzucanych reguł biznesowych.",
-        "Kształtują się w oparciu o nabyte w toku warunkowania automatyczne instynkty biologiczne."
+        "Opierają się na regulaminach narzucanych przez zarząd.",
+        "Panuje w nich dowolność, pozwalająca personelowi okazywać nastrój.",
+        "Wynikają z etosu zawodu, a nie z reguł biznesowych.",
+        "Kształtują się w oparciu o instynkty biologiczne."
       ],
       "correctAnswerIndex": 2,
-      "explanation": "W organizacjach niekomercyjnych (lekarz, nauczyciel) standardy regulacji emocji wynikają głównie z etosu zawodowego, nie z komercyjnych reguł biznesowych."
+      "explanation": "W organizacjach niekomercyjnych standardy regulacji emocji wynikają z etosu zawodowego, nie z reguł biznesowych."
     },
     {
       "id": 9,
       "type": "single-choice",
-      "question": "Które z wymienionych zachowań definiują jednoznacznie strategię nazywaną w kwestionariuszu MEOS \"poprawianiem nastroju\" (mood enhancing)?",
+      "question": "Które zachowania definiują strategię \"poprawiania nastroju\" (mood enhancing) w MEOS?",
       "options": [
-        "Maskowanie problemów znajomych przy pomocy żartu i odciągania uwagi od trudnych przemyśleń.",
-        "Oferowanie bliskim pomocy i otuchy, okazywanie zrozumienia oraz umożliwienie swobodnego wyrazu uczuć.",
-        "Posługiwanie się sztuczną uprzejmością, pochlebstwami i obłudnymi gestami w celu zdobycia czyichś względów.",
+        "Maskowanie problemów znajomych żartem i odciąganiem uwagi od przemyśleń.",
+        "Oferowanie pomocy i otuchy, okazywanie zrozumienia oraz umożliwienie wyrazu uczuć.",
+        "Posługiwanie się sztuczną uprzejmością, pochlebstwami i obłudnymi gestami.",
         "Omijanie problemów rozmówcy, by nie narazić się na zarażenie cudzym lękiem."
       ],
       "correctAnswerIndex": 1,
@@ -122,80 +122,80 @@
     {
       "id": 10,
       "type": "single-choice",
-      "question": "Na podstawie analiz Kwestionariusza MEOS, do jakiej specyficznej kategorii zarządzania cudzymi emocjami zalicza się wykorzystywanie pochlebstw, wywoływanie zazdrości oraz okazywanie dąsania się?",
+      "question": "Do jakiej kategorii zarządzania cudzymi emocjami w MEOS zalicza się pochlebstwa, wywoływanie zazdrości i dąsanie się?",
       "options": [
-        "Do jawnego i celowego pogarszania nastroju u bliskich.",
-        "Do niejawnego, narcystycznego rzutowania własnych lęków na innych.",
-        "Do celowego manipulowania poprzez przejawianie nieautentycznych emocji.",
+        "Do jawnego pogarszania nastroju.",
+        "Do niejawnego rzutowania własnych lęków na innych.",
+        "Do przejawiania nieautentycznych emocji.",
         "Do konstruktywnej obrony przed atakiem paniki w grupie."
       ],
       "correctAnswerIndex": 2,
-      "explanation": "Wykorzystywanie pochlebstw, wywoływanie zazdrości i okazywanie dąsania się to kategoria 'nieautentycznych emocji' w kwestionariuszu MEOS — celowe manipulowanie cudzymi emocjami."
+      "explanation": "Pochlebstwa, wywoływanie zazdrości i dąsanie się to kategoria 'nieautentycznych emocji' w MEOS."
     },
     {
       "id": 11,
       "type": "single-choice",
-      "question": "Jaką zasadniczą, merytoryczną różnicę we wpływaniu na człowieka wprowadza model MEOS pomiędzy wymuszonym \"pogarszaniem nastroju\" a stosowaniem \"nieautentycznych emocji\"?",
+      "question": "Jaką różnicę wprowadza MEOS między \"pogarszaniem nastroju\" a \"nieautentycznymi emocjami\"?",
       "options": [
-        "Pogarszanie opiera się na jawnej krytyce, niszczeniu pewności i okazywaniu złości; nieautentyczne emocje ukryte są pod maską sztucznej uprzejmości lub winy.",
-        "Pogarszanie zakłada fizyczne odcięcie ofiary od bodźców sensorycznych; nieautentyczne emocje stosują potok słownej agresji.",
-        "Pogarszanie stosowane jest wyłącznie by chronić cudzą autonomię psychiczną; fałszywe uczucia pozwalają na asertywne budowanie więzi.",
-        "Pogarszanie bazuje na unikaniu niewygodnych dyskusji; wymuszony fałsz sprowadza się do celowego niszczenia kariery."
+        "Pogarszanie to jawna krytyka i okazywanie złości; nieautentyczne emocje to ukryta uprzejmość lub wzbudzanie winy.",
+        "Pogarszanie zakłada fizyczne odcięcie ofiary od bodźców; nieautentyczne emocje stosują agresję słowną.",
+        "Pogarszanie chroni autonomię; fałszywe uczucia budują więzi.",
+        "Pogarszanie to unikanie dyskusji; fałsz to niszczenie kariery."
       ],
       "correctAnswerIndex": 0,
-      "explanation": "Kategoria 'pogarszanie nastroju' to działania bardzo asertywne i jawnie negatywne (krytyka, złość, podważanie pewności), natomiast 'nieautentyczne emocje' polegają na ukrytych formach manipulacji (dąsy, wywołanie w kimś zazdrości czy wciskanie fałszywych pochlebstw)."
+      "explanation": "Pogarszanie nastroju to działania jawne i negatywne (krytyka, złość), nieautentyczne emocje to ukryte formy manipulacji (dąsy, zazdrość, pochlebstwa)."
     },
     {
       "id": 12,
       "type": "single-choice",
-      "question": "W jaki sposób w psychologii pracy i inteligencji emocjonalnej rozróżnia się u pracownika odwrócenie uwagi (diversion) od bezpośredniego poprawiania komuś nastroju?",
+      "question": "Czym różni się odwrócenie uwagi (diversion) od poprawiania nastroju?",
       "options": [
-        "Odwrócenie bazuje na negacji faktu przeżywanej traumy; poprawianie opiera się na podtrzymywaniu ruminacyjnych bólów.",
-        "Odwrócenie wykorzystuje izolację sensoryczną by uspokoić nerwy; poprawianie angażuje oponenta.",
-        "Odwrócenie dąży do poprawy nastroju przez bycie pozytywnym, dowcipnym i aranżowanie zajęć; poprawianie oferuje rozmowę i ułatwienie uwalniania uczuć.",
-        "Odwrócenie służy do zdobycia kontroli nad wrogiem w negocjacjach; poprawianie jest domeną uległej naiwności."
+        "Odwrócenie neguje traumę; poprawianie podtrzymuje ruminacje.",
+        "Odwrócenie wykorzystuje izolację sensoryczną; poprawianie angażuje rozmówcę.",
+        "Odwrócenie poprawia nastrój humorem i aranżowaniem zajęć; poprawianie oferuje rozmowę i uwalnianie uczuć.",
+        "Odwrócenie służy kontroli nad wrogiem; poprawianie jest domeną uległości."
       ],
       "correctAnswerIndex": 2,
-      "explanation": "Odwrócenie uwagi skupia się na rozproszeniu i skierowaniu myśli na tory 'przyjemne' (użycie humoru), podczas gdy właściwe poprawianie nastroju pozwala choremu na uzewnętrznienie się, konfrontację z problemem i przyjęcie ofiarowanego mądrego wsparcia."
+      "explanation": "Odwrócenie uwagi rozprasza i kieruje myśli na tory przyjemne (humor), a poprawianie nastroju pozwala na konfrontację z problemem i przyjęcie wsparcia."
     },
     {
       "id": 13,
       "type": "single-choice",
-      "question": "Jaką kluczową z perspektywy psychologii koncepcję dla definicji inteligencji emocjonalnej wybitnie i trafnie obrazuje przytoczony w materiale mądry cytat Arystotelesa dotyczący wyrażania złości?",
+      "question": "Jaką koncepcję inteligencji emocjonalnej obrazuje cytat Arystotelesa o wyrażaniu złości?",
       "options": [
-        "Nakazuje, by kora nowa natychmiast blokowała i wymazywała każdy przejaw afektu.",
-        "Ilustruje, że inteligentne funkcjonowanie emocjonalne wymaga elastycznego dopasowania reakcji do osoby, proporcji, celu oraz momentu.",
-        "Udowadnia, że spontaniczna złość jest zawsze destrukcyjna i wyklucza pełne zdrowie psychiczne.",
-        "Udowadnia, że wyrzucony w gniewie atawizm gwarantuje pełne mentalne ukojenie."
+        "Nakazuje blokowanie i wymazywanie każdego przejawu afektu.",
+        "Ilustruje, że inteligentne funkcjonowanie wymaga elastycznego dopasowania reakcji do osoby, proporcji, celu i momentu.",
+        "Udowadnia, że spontaniczna złość jest zawsze destrukcyjna i wyklucza zdrowie psychiczne.",
+        "Udowadnia, że wyrzucony w gniewie atawizm gwarantuje mentalne ukojenie."
       ],
       "correctAnswerIndex": 1,
-      "explanation": "Cytat Arystotelesa podkreśla, że kluczem do inteligencji emocjonalnej jest elastyczność — złość na właściwą osobę, we właściwym stopniu, we właściwym czasie, we właściwym celu i we właściwy sposób."
+      "explanation": "Cytat Arystotelesa podkreśla, że kluczem do inteligencji emocjonalnej jest elastyczność — złość na właściwą osobę, we właściwym stopniu, czasie, celu i sposób."
     },
     {
       "id": 14,
       "type": "single-choice",
-      "question": "Zgodnie z podanymi w opisie kwestionariusza SPGPE twardymi dowodami, jeżeli sprzedawca usilnie w korygującym i obiektywnie wymuszonym z czoła odruchu tłumi własną irytację bardzo wybrednym klientem i nakłada 'uśmiech', wykonuje on:",
+      "question": "Jeśli sprzedawca tłumi irytację i nakłada uśmiech, wykonuje:",
       "options": [
-        "Całkowite odcięcie kory od reakcji trzewnych, pozbawiające go wszelkiej empatii.",
-        "Bezbłędne wprowadzanie klienta w idealny, sztucznie wygenerowany stan zadowolenia.",
-        "Ukrywanie uczuć, będące przejawem typowej płytkiej pracy emocjonalnej (strategii korygującej).",
-        "Klasyczne wypieranie natrętnych myśli i instynktów agresji."
+        "Odcięcie kory od reakcji trzewnych, pozbawiające go empatii.",
+        "Wprowadzanie klienta w sztucznie wygenerowany stan zadowolenia.",
+        "Ukrywanie uczuć — przejaw płytkiej pracy emocjonalnej (strategii korygującej).",
+        "Wypieranie natrętnych myśli i instynktów agresji."
       ],
       "correctAnswerIndex": 2,
-      "explanation": "Tłumienie irytacji i nakładanie uśmiechu to klasyczny przykład płytkiej pracy emocjonalnej — strategii korygującej (reactive), która modyfikuje zewnętrzną ekspresję bez zmiany wewnętrznego stanu."
+      "explanation": "Tłumienie irytacji i nakładanie uśmiechu to płytka praca emocjonalna — strategia korygująca, modyfikująca ekspresję bez zmiany wewnętrznego stanu."
     },
     {
       "id": 15,
       "type": "single-choice",
-      "question": "W skali testu MEOS służącej do precyzyjnej oceny kompetencji w zakresie regulowania cudzych odczuć, co w opisie naukowców bardzo rzetelnie i konkretnie definiuje tak zwaną grupę \"słabych umiejętności emocjonalnych\" u pacjenta?",
+      "question": "Co w skali MEOS definiuje grupę \"słabych umiejętności emocjonalnych\"?",
       "options": [
-        "Notoryczne wykorzystywanie wiedzy o ukrytych wadach innych, by celowo niszczyć ich karierę.",
-        "Niezdolność do modyfikowania cudzego nastroju lub skutecznego motywowania ludzi.",
-        "Stosowanie wyrachowanych uśmiechów w celu uzyskania wysokich profitów finansowych od oszukanych ludzi.",
-        "Izolowanie rozmówcy za pomocą gróźb w celu chronienia jego poczucia wartości."
+        "Wykorzystywanie wiedzy o wadach innych, by niszczyć ich karierę.",
+        "Niezdolność do modyfikowania cudzego nastroju lub motywowania ludzi.",
+        "Stosowanie wyrachowanych uśmiechów w celu uzyskania profitów finansowych.",
+        "Izolowanie rozmówcy groźbami w celu chronienia jego poczucia wartości."
       ],
       "correctAnswerIndex": 1,
-      "explanation": "W skali MEOS grupa 'słabych umiejętności emocjonalnych' to osoby niezdolne do skutecznego wpływania na emocje innych i motywowania otoczenia."
+      "explanation": "Grupa 'słabych umiejętności emocjonalnych' w MEOS to osoby niezdolne do wpływania na emocje innych i motywowania otoczenia."
     }
   ]
 }
