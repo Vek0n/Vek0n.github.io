@@ -1,0 +1,383 @@
+{
+  "title": "Wykład 9-10 - Psychologia pozytywna",
+  "difficulty": "Trudny",
+  "questions": [
+    {
+      "id": 1,
+      "type": "single-choice",
+      "question": "Jakie zjawisko w psychologii ewolucyjnej tłumaczy paradoks polegający na tym, że choć statystycznie częściej przeżywamy stany pozytywne, to właśnie zdarzenia negatywne silniej determinują nasze procesy psychiczne?",
+      "options": [
+        "Efekt hedonistycznego dryfu, który sprawia, że przyzwyczajamy się do dobrych wydarzeń i przestajemy na nie reagować.",
+        "Nakładanie się na siebie dwóch zjawisk: „przesunięcia pozytywności” oraz ewolucyjnej „negatywnej inklinacji”.",
+        "Mechanizm auto-transcendencji, który ucisza emocje pozytywne na rzecz odczuwania empatii.",
+        "Asymetria układów popędowych mózgu, w której aktywacja endogennych stanów negatywnych tłumi te pozytywne."
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Przesunięcie pozytywności (positivity offset) sprawia, że stany pozytywne są częstsze, ale subtelne. Negatywna inklinacja (negativity bias) powoduje, że rzadsze zjawiska negatywne mają większy wpływ na psychikę."
+    },
+    {
+      "id": 2,
+      "type": "single-choice",
+      "question": "Czym w ujęciu Alana Wallace'a różni się poczucie eudajmonii od tradycyjnie pojmowanej ludzkiej hedonii?",
+      "options": [
+        "Eudajmonia stanowi wynik stymulacji sensorycznej, natomiast hedonia jest stanem braku cierpienia fizycznego.",
+        "Eudajmonia rodzi się z tego, co wnosimy do świata i z etyki, podczas gdy hedonia opiera się na bodźcach z zewnątrz.",
+        "Hedonia jest poczuciem spójności płynącym z medytacji, natomiast eudajmonia to ewolucyjny popęd do reprodukcji w grupie.",
+        "Obie koncepcje opisują ten sam stan, jednak eudajmonia zakłada wyższy próg pobudzenia kory przedczołowej."
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Hedonia dotyczy przyjemności czerpanej z czynników zewnętrznych (np. pogoda, jedzenie), natomiast eudajmonia płynie z życia etycznego, życzliwości i tego, co sami dajemy innym."
+    },
+    {
+      "id": 3,
+      "type": "single-choice",
+      "question": "Zgodnie z neurologiczną koncepcją Marka Solmsa, jaka jest zasadnicza różnica operacyjna pomiędzy naszymi popędami a podstawowymi emocjami?",
+      "options": [
+        "Popędy mają charakter endogenny i proaktywny, podczas gdy emocje podstawowe są egzogennymi reakcjami na otoczenie.",
+        "Emocje podstawowe budują plany przetrwania, a popędy służą do reagowania na ból.",
+        "Popędy wywodzą się z analizy kory nowej ssaków, natomiast emocje podstawowe stanowią odruchy generowane w pniu mózgu.",
+        "Emocje podstawowe generują stany pozytywne, a popędy bazują na lęku przed śmiercią."
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Solms kategoryzuje systemy takie jak SZUKANIE czy ZABAWA jako endogenne popędy, a emocje takie jak STRACH czy PANIKA jako odpowiedzi na bodźce zewnętrzne."
+    },
+    {
+      "id": 4,
+      "type": "single-choice",
+      "question": "W świetle teorii poszerzania i budowania B. Fredrickson, z jakiego głównego powodu ewolucja wyposażyła nas w stany afektywne o znaku pozytywnym?",
+      "options": [
+        "Aby redukowały tętno po ustąpieniu zagrożenia, ratując rezerwy glukozy w mięśniach.",
+        "Ponieważ umożliwiają budowanie trwałych zasobów osobistych oraz społecznych, dając adaptacyjne korzyści w długim czasie.",
+        "Aby na krótki czas zwężały uwagę, co pozwala organizmowi ignorować rany uciekając przed wrogiem.",
+        "Ponieważ funkcjonują jako mechanizm obronny, eliminujący dysonans poznawczy u członków grupy."
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Teoria Fredrickson mówi, że emocje pozytywne rozszerzają uwagę i percepcję, prowadząc do zachowań (np. eksploracji, zabawy), które długofalowo budują zasoby intelektualne, fizyczne i społeczne."
+    },
+    {
+      "id": 5,
+      "type": "single-choice",
+      "question": "Biorąc za punkt odniesienia taksonomię emocji Paula Ekmana, czym różni się uczucie „uwznioślenia” (elevation) od przeżywanej „dumy” (fiero)?",
+      "options": [
+        "Uwznioślenie pojawia się wskutek własnego sukcesu, z kolei duma występuje przy obserwacji porażki oponentów.",
+        "Uwznioślenie to odczucie po byciu świadkiem cudzego aktu dobroci, a duma to triumf po wykonaniu zadania.",
+        "Duma ułatwia auto-transcendencję, a uwznioślenie zostaje sensoryczną reakcją na obcowanie ze sztuką.",
+        "Uwznioślenie to ulga po ominięciu lęku, a fiero to szacunek do przywódcy."
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Według Ekmana „uwznioślenie” czujemy, widząc u innych altruizm czy życzliwość, a duma („fiero”) to osobisty triumf po uporaniu się z własnym wyzwaniem."
+    },
+    {
+      "id": 6,
+      "type": "single-choice",
+      "question": "Która spośród ujętych w badaniach Fredrickson dziesięciu pozytywnych emocji, jako jedyna prototypowo wyłania się w ponurych i niesprzyjających okolicznościach?",
+      "options": [
+        "Emocja wdzięczności, ponieważ pozwala docenić cudze wsparcie udzielane w chwilach kryzysu.",
+        "Stan pogody ducha, gdyż działa jako odpowiedź kompensacyjna na dystres.",
+        "Inspiracja, ponieważ skłania do podejmowania aktów odwagi w obliczu śmierci.",
+        "Uczucie nadziei, bo generuje się gdy jednostka obawia się najgorszego rezultatu, ale wyobraża sobie szansę na zmianę."
+      ],
+      "correctAnswerIndex": 3,
+      "explanation": "W klasyfikacji Fredrickson to nadzieja pojawia się na tle zagrożenia, lęku lub beznadziei, gdy człowiek liczy na to, że sytuacja zmieni się na lepsze."
+    },
+    {
+      "id": 7,
+      "type": "single-choice",
+      "question": "Zgodnie z koncepcją D. Yadena i współpracowników, co stanowi psychologiczny warunek sine qua non do zakwalifikowania danego stanu do grupy „emocji auto-transcendentnych”?",
+      "options": [
+        "Umocnienie poczucia autonomii, połączone z odrzuceniem norm wywieranych przez innych ludzi.",
+        "Obniżenie ważności własnego „ja” na rzecz poczucia jedności i połączenia z otoczeniem.",
+        "Pojawienie się tego afektu podczas ustrukturyzowanych i samotnych sesji medytacji.",
+        "Fizjologiczne zamrożenie współczulnego układu wegetatywnego, co czyni te emocje pozbawionymi cielesnych odczuć."
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Kluczem do auto-transcendencji (np. współczucia, zachwytu) jest obniżenie „self-salience” (poczucia, że „ja” jestem najważniejszy) oraz poczucie połączenia z innymi ludźmi lub naturą."
+    },
+    {
+      "id": 8,
+      "type": "single-choice",
+      "question": "Z perspektywy teorii Jaaka Pankseppa, jaka jest ewolucyjna oraz społeczna rola endogennego systemu ZABAWY u zaawansowanych ssaków?",
+      "options": [
+        "Odprowadzanie u młodych osobników nadmiaru agresji i ran wewnątrz stada.",
+        "Trenowanie technik ucieczki przed drapieżnikami na drodze naśladowania zachowań rodziców.",
+        "Kształtowanie umiejętności pełnienia ról społecznych, a w szczególności sprawdzania pozycji i dominacji.",
+        "Wyciszanie aktywności kory młodych w celu spowolnienia metabolizmu, co zabezpiecza je przed okresami głodu."
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Panksepp uważa, że obok sprawiania radości, siłowanki (rough and tumble play) i wchodzenie w interakcje w systemie zabawy przygotowują ssaki do testowania granic, ról społecznych oraz hierarchii we wspólnocie."
+    },
+    {
+      "id": 9,
+      "type": "single-choice",
+      "question": "W jakiej ewolucyjnie najstarszej, archaicznej sytuacji upatruje początków zjawiska śmiechu badacz Albert Rapp w zaproponowanych przez siebie etapach jego ewolucji?",
+      "options": [
+        "W okrzykach triumfu wydawanych po pokonaniu przeciwnika w walce i potwierdzeniu statusu zwycięzcy.",
+        "W naśladowczych dźwiękach uspokajających wydawanych przez karmiącą matkę z zamiarem wyciszenia płaczącego niemowlęcia.",
+        "W wypluwaniu powietrza, by zasygnalizować innym, że pokarm jest niesmaczny lub niebezpieczny.",
+        "W drżeniu oddechowym wynikającym z poczucia ulgi, następującej po ominięciu ataku bestii."
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Zgodnie z koncepcją Rappa, punktem wyjścia do ewolucji śmiechu był okrzyk triumfu nad rywalem, co z czasem cywilizowało się w formę np. dowcipu czy samoironii."
+    },
+    {
+      "id": 10,
+      "type": "single-choice",
+      "question": "Analizując typologię Roda Martina w zakresie stylów posługiwania się humorem, czym różni się styl wzmacniający „ja” od zachowań afiliatywnych?",
+      "options": [
+        "Styl afiliatywny opiera się na umniejszaniu kompetencji dla dobra zespołu, a wzmacniający na wyśmiewaniu błędów innych.",
+        "Styl wzmacniający służy radzeniu sobie ze stresem, a afiliatywny do zacieśniania więzi i relacji.",
+        "Humor afiliatywny niszczy więzi, a wzmacniający chroni autorytet przywódcy wobec ataków.",
+        "Styl wzmacniający wymaga opowiadania żartów widowni, a humor afiliatywny stosuje się w chwilach samotności i refleksji."
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Humor afiliatywny to humor prospołeczny używany do łączenia ludzi. Humor wzmacniający ego to mechanizm intra-psychiczny (kopingu) – zdolność do spojrzenia z dystansem na swoje problemy, by poczuć się lepiej."
+    },
+    {
+      "id": 11,
+      "type": "single-choice",
+      "question": "Jaka ukryta patologia psychologiczna kryje się nierzadko za częstym stosowaniem przez pracownika humoru klasyfikowanego jako „poniżający własne ja” (samo-deprecjonujący)?",
+      "options": [
+        "Służy jako faza wstępna dla sarkastycznego ataku na innych członków organizacji.",
+        "Ułatwia rozwiązywanie zadań analitycznych dzięki uświadomieniu sobie braków umysłu.",
+        "To próba uzyskania taniej sympatii przez deprecjonowanie siebie, by uniknąć odrzucenia czy maskowania wstydu.",
+        "Jest stosowany do budzenia poczucia litości i winy, co bywa wstępem do mobbingu."
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Humor poniżający „ja” (destruktywny) jest używany z powodu braku poczucia wartości, w celu przypodobania się grupie kosztem godności, obronnego zaprzeczania usterkom lub lęku przed wejściem w konflikt."
+    },
+    {
+      "id": 12,
+      "type": "single-choice",
+      "question": "Na jakim znanym z historii badawczej mechanizmie opierają się behawioralne metody poprawy nastroju przytaczane w podejściu „Rip it Up” R. Wisemana?",
+      "options": [
+        "Na pracy polegającej na werbalizowaniu w gabinecie traum z przeszłości.",
+        "Na zmuszeniu kory motorycznej do bierności, by doprowadzić układ limbiczny do resetu.",
+        "Na ocenie oraz modyfikacji przekonań o sensie pracy przed wdrożeniem działania.",
+        "Na założeniu, że udawanie ciałem stanu, np. wymuszanie uśmiechu czy chodu, uruchomi radość."
+      ],
+      "correctAnswerIndex": 3,
+      "explanation": "Zasada „As if” (Jak gdyby) Richarda Wisemana: zmień swoje zachowanie (śmiej się, wyprostuj się, tańcz), a za sprawą sprzężenia zwrotnego zmieni to Twój stan emocjonalny."
+    },
+    {
+      "id": 13,
+      "type": "single-choice",
+      "question": "Czym w teorii psychologii emocji jest kluczowy poznawczo czynnik, który sprawia, że konkretna, zewnętrzna sytuacja wywołuje w jednostce uczucie „rozbawienia”?",
+      "options": [
+        "Świadomość braku konieczności działania na rzecz stada przy nasyceniu organizmu zasobami pokarmowymi.",
+        "Dostrzeżenie niegroźnej niespójności albo przeżycie zaskoczenia, które znajduje rozwiązanie.",
+        "Zaobserwowanie heroizmu w walce, co zmusza mózg do poczucia jedności.",
+        "Rozładowanie bólu u pacjenta po osiągnięciu skuteczności przez przyjęte leki znieczulające."
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Rozbawienie opiera się na wychwyceniu niespójności („incongruity” – np. przejęzyczenie) i na drodze od oczekiwania przez zaskoczenie do zrozumienia błędu."
+    },
+    {
+      "id": 14,
+      "type": "single-choice",
+      "question": "Jaką funkcję w regulowaniu ogólnego i bazowego stanu emocjonalnego u człowieka pełni, opisana przez Marka Solmsa w ujęciu neurologicznym, struktura PAG (istota szara okołowodociągowa)?",
+      "options": [
+        "Sprawuje kontrolę nad procesami w korze przedczołowej, ucinając myśli obsesyjno-kompulsywne.",
+        "Tworzy „świadomość w tle”, generując serię uczuć przyjemnych i nieprzyjemnych dotyczących przetrwania.",
+        "Stanowi skupisko komórek w ciele migdałowatym odpowiadające za zapamiętywanie zagrożeń.",
+        "Działa jak filtr pamięci autobiograficznej, podsuwając wspomnienia z dzieciństwa dla wytworzenia stanu uniesienia."
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Zgodnie z ujęciem Solmsa PAG (istota szara okołowodociągowa) odpowiada za wytwarzanie „świadomości w tle” złożonej z serii uczuć informujących o komforcie lub braku."
+    },
+    {
+      "id": 15,
+      "type": "single-choice",
+      "question": "W propozycji ćwiczeń nazywanych powszechnie „pisaniem ekspresywnym”, jaki celowy i konstruktywny akt jest zalecany w celu poprawy długotrwałego dobrostanu psychicznego?",
+      "options": [
+        "Opisywanie wad oraz błędów współpracowników w formie list, by odprowadzić złość na organizację.",
+        "Prowadzenie dzienników wydatków domowych, w celu racjonalizacji lęków wokół stabilizacji.",
+        "Opisywanie przeżytych wydarzeń traumatycznych z dodaniem emocji lub kreślenie tego, za co czujemy wdzięczność.",
+        "Definiowanie celów krótkoterminowych (tzw. zadań SMART) aby zablokować apatię."
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Pisanie ekspresywne to technika polegająca np. na konfrontowaniu się na papierze ze swoimi przeżyciami z przeszłości, spisywaniu wizji przyszłości, albo na wyrażaniu wdzięczności za ludzi."
+    },
+    {
+      "id": 16,
+      "type": "single-choice",
+      "question": "Zgodnie z koncepcją Marka Solmsa, o czym informuje nas ewolucyjny, podstawowy mechanizm oparty na prymitywnych uczuciach przyjemności i przykrości (związany z układem PAG)?",
+      "options": [
+        "O stopniu zaspokojenia potrzeb poznawczych i moralnych jednostki.",
+        "O tym, czy zwiększamy szanse na przetrwanie i reprodukcję, czy też się od nich oddalamy.",
+        "O konieczności wycofania się z relacji stwarzającej dysonans poznawczy.",
+        "O skali zaburzenia kory nowej w przypadku zmiany środowiska na wrogie."
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Solms wskazuje, że przyjemność i przykrość z obszaru PAG to mechanizm promujący podejście lub wycofanie. Sygnalizuje on, czy realizujemy cele: przetrwanie i reprodukcję."
+    },
+    {
+      "id": 17,
+      "type": "single-choice",
+      "question": "Na czym polega ewolucyjne zjawisko „negatywnej inklinacji” (negativity bias) w odniesieniu do oceny docierających do nas bodźców środowiskowych?",
+      "options": [
+        "Zdarzenia negatywne mają większy wpływ na procesy psychiczne niż tak samo intensywne bodźce pozytywne.",
+        "Ludzie wykazują tendencję do odrzucania i wypierania negatywnych informacji, uciekając w iluzoryczny optymizm.",
+        "Bodźce zagrażające są zapamiętywane przez mózg słabiej i krócej, ponieważ organizm chroni się przed dystresem.",
+        "Interpretujemy obojętne i neutralne sytuacje jako niebezpieczne i raniące godność."
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Negatywna inklinacja to tendencja psychiki do silniejszego reagowania na bodźce negatywne niż na bodźce pozytywne o tej samej intensywności."
+    },
+    {
+      "id": 18,
+      "type": "single-choice",
+      "question": "W taksonomii emocji pozytywnych opracowanej przez Paula Ekmana, co stanowi różnicę pomiędzy odczuwaniem „zadowolenia” (contentment) a doznawaniem „ulgi” (relief)?",
+      "options": [
+        "Zadowolenie wynika z fascynacji nowością w otoczeniu, natomiast ulga rodzi się na bazie przyjemności sensorycznych.",
+        "Zadowolenie pojawia się, gdy nic nie musimy robić i akceptujemy chwilę, a ulga następuje po ustąpieniu napięcia.",
+        "Zadowolenie to stan triumfu po wykonaniu zadania, a ulga to odczucie pojawiające się po posiłku.",
+        "Zadowolenie towarzyszy obserwacji cudzych aktów dobroci, natomiast ulgę odczuwamy podczas ekstazy."
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Według Ekmana zadowolenie odczuwamy wtedy, gdy wszystko wydaje się być w porządku i nie czujemy presji działania. Ulga pojawia się w odpowiedzi na spadek napięcia."
+    },
+    {
+      "id": 19,
+      "type": "single-choice",
+      "question": "Czym w klasyfikacji Paula Ekmana charakteryzuje się emocja określana mianem „ekstazy” (ecstasy / bliss)?",
+      "options": [
+        "Stan solidarności grupowej, jednak bez angażowania bodźców płynących ze świata natury lub fizjologii.",
+        "To uczucie przytłoczenia w obliczu niebezpieczeństwa, wyłączające zdolność do myślenia.",
+        "To stan upojenia związany z auto-transcendencją, osiągany przez medytację, kontakt z naturą lub seksualność.",
+        "Jest to ulga pojawiająca się po zauważeniu, że nasz oponent poniósł porażkę."
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Ekstaza (bliss) jest w ujęciu Ekmana opisywana jako upojenie powiązane ze stanem auto-transcendencji. Jest wyzwalana m.in. przez praktyki medytacyjne, doznania w przyrodzie lub przeżycia seksualne."
+    },
+    {
+      "id": 20,
+      "type": "single-choice",
+      "question": "Biorąc pod uwagę klasyfikację zaproponowaną przez P. Desmeta (2013), do jakiej nadrzędnej kategorii emocjonalnej przypisano wspólnie stany takie jak: odwaga, nadzieja oraz oczekiwanie (anticipation)?",
+      "options": [
+        "Do kategorii opisującej stany ożywienia i energetyzacji.",
+        "Do grupy emocji związanych z odczuwaniem gratyfikacji.",
+        "Do grupy prospołecznych uczuć charakteryzujących budowanie i utrzymywanie czułości.",
+        "Do grupy afektów nastawionych ku przyszłości, definiujących poziom optymizmu."
+      ],
+      "correctAnswerIndex": 3,
+      "explanation": "P. Desmet zgrupował emocje w wymiary. Zgodnie z jego modelem odwaga (courage), nadzieja (hope) i oczekiwanie (anticipation) stanowią składowe kategorii Optymizmu."
+    },
+    {
+      "id": 21,
+      "type": "single-choice",
+      "question": "W jaki sposób autorska teoria poszerzania i budowania B. Fredrickson tłumaczy powody wzbudzania w człowieku emocji „zainteresowania” (interest)?",
+      "options": [
+        "Służy znieczuleniu i dysocjacji od rzeczywistości, kiedy napotykamy coś przytłaczającego i przekraczającego poziom.",
+        "Stanowi mechanizm wyzwalający kpinę, mający na celu utrzymanie pozycji w grupie.",
+        "Pojawia się w bezpiecznych warunkach oferujących nowość, by wzbudzić chęć eksplorowania i rozwijania kompetencji.",
+        "Jest to emocja zawężająca pole percepcji, która pozwala unikać bodźców stwarzających dysonans."
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Emocja zainteresowania wyłania się w obliczu niegroźnej nowości (tajemnicy). Pełni rolę, skłaniając do uczenia się i rozszerzania puli możliwości."
+    },
+    {
+      "id": 22,
+      "type": "single-choice",
+      "question": "Zgodnie z ujęciem 10 głównych emocji pozytywnych B. Fredrickson, w jakich okolicznościach jednostka odczuwa uczucie „spokoju / pogody ducha” (serenity)?",
+      "options": [
+        "Spokój występuje po odniesieniu zwycięstwa nad zagrażającym rywalem.",
+        "Pojawia się, gdy ludzie interpretują i doceniają swoje okoliczności jako cenne, słuszne lub satysfakcjonujące.",
+        "Jest to stan przejawiający się euforią po doświadczeniu czegoś beznadziejnego na drodze wspinaczki.",
+        "Rodzi się podczas medytacji, mającej na celu wyzbycie się przywiązania do dóbr."
+      ],
+      "correctAnswerIndex": 1,
+      "explanation": "Według Fredrickson spokój lub pogoda ducha (serenity) pojawia się, gdy czujemy się we właściwym miejscu i oceniamy swoje uwarunkowania jako wartościowe, słuszne i satysfakcjonujące."
+    },
+    {
+      "id": 23,
+      "type": "single-choice",
+      "question": "Czym z perspektywy założeń ujęcia emocji pozytywnych B. Fredrickson charakteryzuje się definicja uczucia „miłości”?",
+      "options": [
+        "Stanowi endogenną jednostkę, ewolucyjnie zabezpieczającą instynkt przedłużenia gatunku.",
+        "To auto-transcendencja, która wycisza aktywność kory i obniża empatię dla osób spoza kręgu.",
+        "To sytuacja, w której dowolna pozytywna emocja odczuwana jest i dzielona w kontekście relacji międzyludzkiej.",
+        "Występuje jako odpowiedź na odłączenie bliskich, objawiająca się potrzebą kontaktu."
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Zamiast wyodrębniać miłość jako emocję bazową, Fredrickson uważa, że miłość to doświadczanie którejkolwiek z innych pozytywnych emocji na tle kontaktu z osobą."
+    },
+    {
+      "id": 24,
+      "type": "single-choice",
+      "question": "Jak w ewolucyjnej koncepcji Alberta Rappa tłumaczony jest piąty etap cywilizacyjnego rozwoju ludzkiego zjawiska rozbawienia (czyli postać „dowcipu”)?",
+      "options": [
+        "Jest to intelektualna forma „pojedynku na pięści”, będąca odzwierciedleniem walki i rywalizacji o status.",
+        "Stanowi interakcję wykorzystywaną w celu redukowania konfliktów między grupami.",
+        "To śmiech na widok oznak porażki, zastępujący wybuchy wściekłości.",
+        "Został wypracowany przez mózg ssaka do naśladowania odgłosów po ucieczce przed zagrożeniem."
+      ],
+      "correctAnswerIndex": 0,
+      "explanation": "Rapp wysuwa teorię, że śmiech wyrażał triumf po zwycięstwie. Jego piąty etap — humor i dowcip — jest intelektualną kontynuacją takiego starcia, „pojedynkiem na pięści”."
+    },
+    {
+      "id": 25,
+      "type": "single-choice",
+      "question": "W oparciu o typologię zachowań humorystycznych Roda Martina, jakie funkcje adaptacyjne pełni w psychologii stosowanie stylu tzw. „humoru agresywnego”?",
+      "options": [
+        "Służy łagodzeniu sporów między osobami z grup przez budowanie dystansu do siebie.",
+        "Polega na obniżaniu postrzegania wartości, aby wzbudzić poczucie sympatii i chronić przed odrzuceniem.",
+        "Stosuje się go do manipulowania otoczeniem, krytykowania oraz podnoszenia wartości kosztem poniżania osób w grupie.",
+        "Sprzyja obniżonemu napięciu, pomagając walczyć w izolacji z traumami."
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Humor agresywny używa się (pod postacią drwin i sarkazmu) po to, by krytykować i spychać oponenta, w celu dowartościowania siebie kosztem osoby."
+    },
+    {
+      "id": 26,
+      "type": "single-choice",
+      "question": "W jaki sposób kognitywne modele pojawiania się humoru definiują poznawcze warunki niezbędne do tego, by w umyśle powstało prawdziwe „rozbawienie”?",
+      "options": [
+        "Zjawisko to powstaje jako odruch po osiągnięciu komfortu, któremu nie zagraża brak zasobów.",
+        "Wynika z przewidywalności zdarzeń, prowadząc do zadowolenia ze stabilności statusu.",
+        "Rozbawienie opiera się na trójfazowym procesie: oczekiwanie, zaskoczenie niespójnością i rozwiązanie pomyłki.",
+        "Występuje wtedy, gdy kora ssaka wyłącza układy emocjonalne w akcie wyparcia traumy."
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Kognitywna teoria rozbawienia zakłada, że wymaga ono łamania struktur (incongruity). Proces idzie od oczekiwania, poprzez zaskoczenie, aż do zrozumienia i poczucia ulgi."
+    },
+    {
+      "id": 27,
+      "type": "single-choice",
+      "question": "Zgodnie z koncepcją behawioralnej zmiany emocji „Rip it Up” R. Wisemana, z jakich elementów ruchowych ma docelowo składać się wykonywany przez nas „radosny chód”?",
+      "options": [
+        "Robienie długich kroków z zaciśniętymi dłońmi w dążeniu do wytworzenia uczucia stabilizacji.",
+        "Przemieszczanie się krokami przy obniżonych plecach, by powstrzymać mózg od wydzielania kortyzolu.",
+        "Wykonywanie chodu przy zamaszystych krokach ze spuszczonym wzrokiem, zachowując usztywnienie ramion.",
+        "Wykonywanie długich kroków, utrzymywanie uniesionej głowy, rozhuśtanie ramion oraz dodanie podskoku."
+      ],
+      "correctAnswerIndex": 3,
+      "explanation": "W ramach metody 4 wg Wisemana (zasada działania zwrotnego z ciała do umysłu), należy zachować wyprostowaną sylwetkę, unieść głowę, stawiać długie kroki z ruchami ramion oraz podskokiem."
+    },
+    {
+      "id": 28,
+      "type": "single-choice",
+      "question": "W kontekście sprawdzonych recept na szczęście, czym ze swej natury wyróżnia się zalecone wprowadzanie własnej dojrzałej, intencjonalnej i proaktywnej zmiany życiowej?",
+      "options": [
+        "Polega na dokonywaniu zakupów pozbawionych wysiłku, by stymulować układ nagrody.",
+        "Powinno być czynnością nakierowaną na obniżanie dystresu przez wyizolowanie.",
+        "Należy szukać trwałej zmiany, wymagającej nakładu pracy przy osiąganiu celu, a nie czegoś okolicznościowego.",
+        "Wyklucza możliwość brania udziału w projektach by ochronić układ."
+      ],
+      "correctAnswerIndex": 2,
+      "explanation": "Intencjonalna zmiana życiowa polega na tworzeniu nowej wartości (np. nauka języka czy nowa forma zajęć), wymagającej zaangażowania i wysiłku, co przeciwstawiane jest zadowalaniu się zmianami okoliczności."
+    },
+    {
+      "id": 29,
+      "type": "single-choice",
+      "question": "Zgodnie z systematyką zaproponowaną przez Paula Ekmana, jaka grupa ludzkich doznań psychicznych wchodzi w definicję emocji określanej jako „przyjemność zmysłowa” (sensory pleasure)?",
+      "options": [
+        "Są to momenty zrozumienia zjawisk przyrody, dające ulgę i zadowolenie bez uczestnictwa ciała.",
+        "Pojawia się, gdy doświadczamy szacunku dla liderów wspólnoty po zaobserwowaniu ich osiągnięć.",
+        "Zalicza się do niej zjawiska powstrzymywania lęku w warunkach stresu.",
+        "Odczucie to wynika z doznań zmysłów na płaszczyźnie dotyku, czerpania przyjemności ze smaku lub wyczuwania zapachów."
+      ],
+      "correctAnswerIndex": 3,
+      "explanation": "W klasyfikacji Paula Ekmana kategoria sensory pleasure (przyjemność zmysłowa) jest ograniczona do przyjemności płynących z wejść sensorycznych, tj. smakowania słodyczy, głaskania osoby, czy zapachu kwiatów."
+    }
+  ]
+}
