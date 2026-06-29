@@ -31,7 +31,7 @@
     {
       "id": 3,
       "type": "single-choice",
-      "question": "W jaki sposób afektywna neuronauka tłumaczy zjawisko „zimnej agresji” (drapieżnej) w przeciwieństwie do „gorącej agresji”?",
+      "question": "W jaki sposób afektywna neuronauka tłumaczy zjawisko „agresji” (drapieżnej) w przeciwieństwie do „gorącej agresji”?",
       "options": [
         "Zimna agresja jest wyzwalana przez system Wściekłości podczas frustracji, a gorąca przez system Strachu.",
         "Gorąca agresja wynika z aktywności układu kognitywnego, a zimna jest czysto odruchową reakcją pnia mózgu.",
@@ -46,13 +46,13 @@
       "type": "single-choice",
       "question": "Zgodnie z koncepcją hierarchii mózgu-umysłu, w jaki sposób wczesne doświadczenia kształtują układ emocjonalny u ssaków?",
       "options": [
-        "Zastępują one całkowicie wrodzone instynkty, tworząc od podstaw nowe sieci neuronowe w korze mózgowej.",
+        "Zastępują one instynkty, tworząc od podstaw nowe sieci neuronowe w korze mózgowej.",
         "Wypełniają puste reprezentacje obiektowe w systemach pierwotnych, tworząc tzw. afekty wtórne (np. specyficzne fobie).",
         "Blokują oddolny wpływ afektów na procesy poznawcze, pozwalając na pełną racjonalizację zachowań społecznych.",
-        "Przenoszą generowanie emocji z pnia mózgu bezpośrednio do kory nowej, eliminując udział układu limbicznego."
+        "Przenoszą generowanie emocji mózgu bezpośrednio do kory nowej, eliminując udział układu limbicznego."
       ],
       "correctAnswerIndex": 1,
-      "explanation": "Wrodzone systemy (np. Strachu) mają puste »luki« obiektowe, które wczesne doświadczenia wypełniają, tworząc afekty wtórne."
+      "explanation": "systemy (np. Strachu) mają puste »luki« obiektowe, które wczesne doświadczenia wypełniają, tworząc afekty wtórne."
     },
     {
       "id": 5,
@@ -87,7 +87,7 @@
       "options": [
         "Ponieważ procesy pierwotne nie potrafią odróżnić fikcji od rzeczywistości, co trwale wyłącza system Strachu.",
         "Dzięki procesom trzeciorzędowym możemy bezpiecznie manipulować pierwotnymi systemami afektywnymi, wiedząc, że nie ma realnego zagrożenia.",
-        "Kora nowa w takich sytuacjach całkowicie odcina komunikację z układem limbicznym, generując sztuczną euforię.",
+        "Kora nowa w takich sytuacjach odcina komunikację z układem limbicznym, generując sztuczną euforię.",
         "Horrory aktywują wyłącznie system Zabawy, który maskuje jakiekolwiek oznaki działania systemu Strachu i Paniki."
       ],
       "correctAnswerIndex": 1,
@@ -99,7 +99,7 @@
       "question": "Na czym polega dwufazowość reakcji systemu BOLEŚCI (przywiązania) w sytuacji separacji młodego osobnika od opiekuna?",
       "options": [
         "Najpierw następuje faza ukrywania się przed drapieżnikami, a następnie faza aktywnego poszukiwania nowego stada.",
-        "W pierwszej fazie osobnik reaguje gorącą agresją wobec intruzów, a w drugiej całkowitym znieruchomieniem (zamrożeniem).",
+        "W pierwszej fazie osobnik reaguje gorącą agresją wobec intruzów, a w drugiej znieruchomieniem (zamrożeniem).",
         "Początkowo pojawia się protest i aktywna panika (płacz, nawoływanie), a po pewnym czasie rozpacz, poddanie się i depresja.",
         "Reakcja rozpoczyna się od natychmiastowej apatii, która dopiero po wielu godzinach przechodzi w głośne wokalizacje."
       ],
@@ -125,7 +125,7 @@
       "question": "Które zdanie najlepiej charakteryzuje naturę afektów pierwotnych w koncepcji Pankseppa?",
       "options": [
         "Są one wynikiem złożonych ocen poznawczych i pojawiają się dopiero po drugim roku życia wraz z rozwojem mowy.",
-        "Są to silnie zindywidualizowane reakcje zależne od kultury, które można w pełni modyfikować poprzez racjonalne myślenie.",
+        "Są to zindywidualizowane reakcje zależne od kultury, które można modyfikować poprzez racjonalne myślenie.",
         "Są bezwarunkowe, wrodzone, prekognitywne i stanowią ewolucyjną pamięć ułatwiającą przetrwanie organizmu.",
         "Wymagają one zawsze świadomego zidentyfikowania bodźca, zanim wywołają jakąkolwiek fizjologiczną zmianę w ciele."
       ],
@@ -150,10 +150,10 @@
       "type": "single-choice",
       "question": "Który z poniższych przykładów najlepiej ilustruje proces warunkowania tworzący afekt wtórny?",
       "options": [
-        "Odruch wymiotny pojawiający się natychmiast po spożyciu silnie toksycznej i gorzkiej w smaku rośliny.",
+        "Odruch wymiotny pojawiający się po spożyciu toksycznej i gorzkiej w smaku rośliny.",
         "Zwiększone wydzielanie śliny u psa w reakcji na pojawienie się w jego polu widzenia świeżego mięsa.",
         "Kompulsywne sięganie po telefon komórkowy za każdym razem, gdy usłyszy się znajomy dźwięk powiadomienia.",
-        "Odczuwanie głębokiego żalu i pustki egzystencjalnej po śmierci kogoś z rodziny, połączone z rozmyślaniem o sensie życia."
+        "Odczuwanie żalu i pustki egzystencjalnej po śmierci kogoś z rodziny, połączone z rozmyślaniem o sensie życia."
       ],
       "correctAnswerIndex": 2,
       "explanation": "Reagowanie na dzwonek telefonu (lub wyuczona fobia/fetysz) to automatyczny, nabyty w toku uczenia proces wtórny (układ limbiczny)."
@@ -165,24 +165,24 @@
       "options": [
         "Procesy kognitywne odgórnie hamują wszelkie afekty, podczas gdy afekty pierwotne nie mają dostępu do wyższych partii mózgu.",
         "Afekty oddolnie wpływają na uczenie się i ruminacje, podczas gdy wyższe procesy kognitywne mogą odgórnie regulować te reakcje.",
-        "Systemy emocjonalne rozwijają się odgórnie, zaczynając od kory nowej, a kończąc na wrodzonych odruchach pnia mózgu.",
+        "Systemy emocjonalne rozwijają się odgórnie, zaczynając od kory nowej, a kończąc na odruchach pnia mózgu.",
         "Zarówno uczucia wyższe, jak i podstawowe instynkty są generowane odgórnie przez myśli i oczekiwania społeczne."
       ],
       "correctAnswerIndex": 1,
-      "explanation": "Model zakłada dwukierunkowość: emocje z pnia mózgu oddolnie napędzają myśli i uczenie, a kognicja z kory odgórnie je warunkuje i reguluje."
+      "explanation": "Model zakłada dwukierunkowość: emocje mózgu oddolnie napędzają myśli i uczenie, a kognicja z kory odgórnie je warunkuje i reguluje."
     },
     {
       "id": 14,
       "type": "single-choice",
       "question": "Co jest bezwarunkowym bodźcem wyzwalającym dla systemu WŚCIEKŁOŚCI u ssaków?",
       "options": [
-        "Pojawienie się całkowicie nowego, nieznanego i wysoce stymulującego obiektu w znajomym środowisku.",
+        "Pojawienie się nowego, nieznanego i stymulującego obiektu w znajomym środowisku.",
         "Rozdzielenie z obiektem przywiązania (opiekunem) skutkujące narastającym poczuciem osamotnienia.",
         "Napotkanie fizycznej lub psychologicznej przeszkody uniemożliwiającej osiągnięcie zamierzonego celu.",
         "Zauważenie fizycznych oznak słabości lub płaczu u innego osobnika należącego do tej samej grupy."
       ],
       "correctAnswerIndex": 2,
-      "explanation": "Frustracja, czyli udaremnienie ukierunkowanego działania (napotkanie przeszkody), jest wrodzonym wyzwalaczem wściekłości."
+      "explanation": "Frustracja, czyli udaremnienie ukierunkowanego działania (napotkanie przeszkody), jest wyzwalaczem wściekłości."
     },
     {
       "id": 15,
@@ -192,7 +192,7 @@
         "Zależy głównie od wyrzutu dopaminy, która wyzwala zimną agresję w obronie własnego potomstwa przed intruzami.",
         "Opiera się na aktywności oksytocyny i opioidów, które wywołują przyjemność i hamują tendencje agresywne wobec młodych.",
         "Aktywowany jest wyłącznie przez hormony stresu, zmuszając organizm matki do chronicznego czuwania i wyczerpania.",
-        "Wykorzystuje serotoninę do całkowitego zablokowania systemu Szukania, aby rodzic nie oddalał się od swojego potomstwa."
+        "Wykorzystuje serotoninę do zablokowania systemu Szukania, aby rodzic nie oddalał się od swojego potomstwa."
       ],
       "correctAnswerIndex": 1,
       "explanation": "System Troski związany jest z oksytocyną i opioidami, które nagradzają zachowania opiekuńcze i wyciszają drażliwość."
@@ -205,7 +205,7 @@
         "Wykształcił się jako ewolucyjna modyfikacja systemu odpowiedzialnego za odczuwanie zmysłowego wstrętu.",
         "Rozwinął się bezpośrednio z sieci neuronowych odpowiadających pierwotnie za przetwarzanie fizycznego bólu.",
         "Jest ubocznym efektem ubocznym rozwoju kory przedczołowej i świadomości własnej egzystencji u naczelnych.",
-        "Powstał w wyniku nadaktywności systemu Szukania połączonej z całkowitym zablokowaniem systemu Strachu."
+        "Powstał w wyniku nadaktywności systemu Szukania połączonej z zablokowaniem systemu Strachu."
       ],
       "correctAnswerIndex": 1,
       "explanation": "Psychologiczny ból (separacyjny) wyewoluował na bazie starszych ewolucyjnie struktur odpowiedzialnych za ból fizyczny."
@@ -217,7 +217,7 @@
       "options": [
         "Ponieważ jest to jedyny sposób na bezpieczne wyładowanie narastającej, uwarunkowanej genetycznie Wściekłości.",
         "Pozwala to na zablokowanie wydzielania oksytocyny, co jest niezbędne do samodzielnego przetrwania w dorosłości.",
-        "Służy to uczeniu się empatii, odczuwania fizycznego bólu oraz radzenia sobie w sytuacjach całkowitej izolacji od stada.",
+        "Służy to uczeniu się empatii, odczuwania fizycznego bólu oraz radzenia sobie w sytuacjach izolacji od stada.",
         "Testują w ten sposób granice siły, role władzy oraz uczą się norm społecznych, odkrywając co wolno robić innym."
       ],
       "correctAnswerIndex": 3,
@@ -228,7 +228,7 @@
       "type": "single-choice",
       "question": "Jak Panksepp odnosi się do teorii 'czystych' emocji w kontekście ich mieszania się?",
       "options": [
-        "Uważa, że afekty pierwotne nieustannie mieszają się ze sobą w pniu mózgu, uniemożliwiając konkretne reakcje.",
+        "Uważa, że afekty pierwotne mieszają się ze sobą w pniu mózgu, uniemożliwiając konkretne reakcje.",
         "Stwierdza, że zmieszane emocje są domeną wyłącznie afektów wtórnych i kognitywnych, podczas gdy pierwotne są dyskretne.",
         "Twierdzi, że zjawisko 'zmieszanych emocji' to całkowity mit i każdy ssak przeżywa tylko jedną emocję naraz przez całe życie.",
         "Przekonuje, że układ limbiczny rozdziela emocje na podstawowe kategorie, które dopiero w rdzeniu kręgowym ulegają fuzji."
@@ -241,7 +241,7 @@
       "type": "single-choice",
       "question": "Jaki jest patologiczny skutek trwałej niedoczynności systemu SZUKANIA u człowieka?",
       "options": [
-        "Rozwój ekstremalnych fobii społecznych połączonych z niekontrolowanymi napadami gorącej agresji.",
+        "Rozwój fobii społecznych połączonych z niekontrolowanymi napadami gorącej agresji.",
         "Skłonność do podejmowania nadmiernego ryzyka fizycznego, poszukiwanie adrenaliny i uzależnienie od hazardu.",
         "Pojawienie się stanów maniakalnych i epizodów psychotycznych charakteryzujących się gonitwą myśli.",
         "Wystąpienie objawów klinicznej depresji, apatii oraz braku motywacji do jakiegokolwiek działania."
@@ -281,7 +281,7 @@
       "question": "Które z wymienionych zachowań u zwierząt świadczy o uruchomieniu układu TROSKI (opiekuńczego)?",
       "options": [
         "Zajmowanie stabilnej postawy, wysuwanie przednich kończyn i szczerzenie zębów na widok intruza.",
-        "Wydawanie nawołujących dźwięków, kwilenie i wycie natychmiast po oddaleniu się od reszty stada.",
+        "Wydawanie nawołujących dźwięków, kwilenie i wycie po oddaleniu się od reszty stada.",
         "Kompulsywne obwąchiwanie i eksplorowanie terenu bez wyraźnego celu po znalezieniu się w nowym miejscu.",
         "Pielęgnowanie, pocieszanie oraz wokalizacje wyrażające współczucie w stosunku do słabszych osobników."
       ],
@@ -294,12 +294,12 @@
       "question": "W jaki sposób kształtują się afekty wtórne u małego dziecka w pierwszych latach życia?",
       "options": [
         "Powstają wyłącznie poprzez świadome obserwowanie zachowań dorosłych i ich logiczną analizę kognitywną.",
-        "Są genetycznie zaprogramowane do ujawniania się w z góry określonym czasie, bez względu na środowisko.",
-        "Tworzą się poprzez łączenie wrodzonych reakcji afektywnych ze specyficznymi bodźcami z otoczenia (warunkowanie).",
+        "Są genetycznie zaprogramowane do ujawniania się w określonym czasie, bez względu na środowisko.",
+        "Tworzą się poprzez łączenie reakcji afektywnych ze specyficznymi bodźcami z otoczenia (warunkowanie).",
         "Pojawiają się dopiero w wyniku tłumienia naturalnych popędów biologicznych przez surowe normy społeczne."
       ],
       "correctAnswerIndex": 2,
-      "explanation": "Afekty wtórne (np. specyficzne fobie czy gusta) to wynik połączenia wrodzonych popędów (afektów pierwotnych) z doświadczeniem."
+      "explanation": "Afekty wtórne (np. specyficzne fobie czy gusta) to wynik połączenia popędów (afektów pierwotnych) z doświadczeniem."
     },
     {
       "id": 24,
@@ -321,11 +321,11 @@
       "options": [
         "Procesy poznawcze (np. uświadamianie sobie winy) są niezależne od starych, podkorowych struktur mózgu.",
         "Wszystkie dorosłe i złożone uczucia opierają się na fundamencie ewolucyjnie starszych, instynktownych emocji.",
-        "Emocje wyższe zastępują emocje pierwotne w miarę dojrzewania układu nerwowego, całkowicie je dezaktywując.",
+        "Emocje wyższe zastępują emocje pierwotne w miarę dojrzewania układu nerwowego, je dezaktywując.",
         "Logiczne myślenie nie ma żadnego wpływu na siłę ani charakter przeżywanych emocji pochodnych."
       ],
       "correctAnswerIndex": 1,
-      "explanation": "Zgodnie z koncepcją hierarchiczną, wyrafinowane emocje (kognitywne) mają swój rdzeń w pierwotnych, wrodzonych afektach pnia mózgu."
+      "explanation": "Zgodnie z koncepcją hierarchiczną, wyrafinowane emocje (kognitywne) mają swój rdzeń w pierwotnych, afektach pnia mózgu."
     },
     {
       "id": 26,
@@ -335,7 +335,7 @@
         "Z układu SZUKANIA, który ewolucja przekierowała na poszukiwanie innych osobników zamiast pożywienia.",
         "Z systemu ŻĄDZY samic, który zaadaptowano w naturze do budowania relacji z bezradnym potomstwem.",
         "Z systemu BOLEŚCI, jako obronny mechanizm kompensacyjny przed odczuwaniem lęku separacyjnego.",
-        "Z systemu ZABAWY, który z czasem zaczął silnie premiować delikatne i opiekuńcze interakcje fizyczne."
+        "Z systemu ZABAWY, który z czasem zaczął premiować delikatne i opiekuńcze interakcje fizyczne."
       ],
       "correctAnswerIndex": 1,
       "explanation": "Zgodnie z koncepcją Pankseppa przypuszcza się, że w toku ewolucji system Troski wyewoluował z systemu Żądzy samic."
@@ -343,9 +343,9 @@
     {
       "id": 27,
       "type": "single-choice",
-      "question": "W jaki sposób system BOLEŚCI (Paniki) w ostatecznej fazie swojej aktywności prowadzi do zachowań depresyjnych?",
+      "question": "W jaki sposób system BOLEŚCI (Paniki) w fazie swojej aktywności prowadzi do zachowań depresyjnych?",
       "options": [
-        "Powoduje on chroniczne wydzielanie oksytocyny, co generuje drastyczny spadek ciśnienia i całkowitą apatię.",
+        "Powoduje on chroniczne wydzielanie oksytocyny, co generuje spadek ciśnienia i całkowitą apatię.",
         "Wywołuje on stan silnego pobudzenia i protestu, który chemicznie blokuje wydzielanie dopaminy w mózgu.",
         "Jego wydłużona aktywność, po bezskutecznej fazie protestu, przechodzi w załamanie, rezygnację i rozpacz.",
         "Inicjuje on natychmiastowe ruminacje w korze nowej, zmuszając organizm do analizowania swoich porażek."
@@ -356,9 +356,9 @@
     {
       "id": 28,
       "type": "single-choice",
-      "question": "Jaka jest główna neurochemiczna rola oksytocyny i opioidów w funkcjonowaniu wrodzonych emocji społecznych?",
+      "question": "Jaka jest główna neurochemiczna rola oksytocyny i opioidów w funkcjonowaniu emocji społecznych?",
       "options": [
-        "Stymulują układ nagrody, wywołując bezwarunkową euforię niezbędną do inicjowania zimnej agresji drapieżnej.",
+        "Stymulują układ nagrody, wywołując bezwarunkową euforię niezbędną do inicjowania agresji drapieżnej.",
         "Silnie wspierają system Troski, generując odczucie przyjemności i hamując naturalne tendencje agresywne.",
         "Aktywują bezpośrednio system Strachu, zmuszając zagrożone ssaki do trwałego unikania obcych drapieżników.",
         "Odgórnie blokują powstawanie afektów wtórnych, uniemożliwiając przedwczesne warunkowanie lękowe dzieci."
@@ -372,8 +372,8 @@
       "question": "Dlaczego w ujęciu modelu Pankseppa 'ciekawość' klasyfikowana jest w grupie emocji pierwotnych, a nie procesów kognitywnych?",
       "options": [
         "Wymaga zaawansowanych struktur kory przedczołowej do analizowania, rozumienia i selekcji nowych bodźców.",
-        "Stanowi odruchową funkcję wrodzonego systemu Szukania, motywującą do natychmiastowej eksploracji środowiska.",
-        "Jest ona w całości nabywana poprzez wczesne warunkowanie społeczne w interakcjach ze starszymi osobnikami.",
+        "Stanowi odruchową funkcję systemu Szukania, motywującą do natychmiastowej eksploracji środowiska.",
+        "Jest ona nabywana poprzez wczesne warunkowanie społeczne w interakcjach ze starszymi osobnikami.",
         "Uruchamia się wyłącznie pod wpływem specyficznych, genetycznie zaprogramowanych zagrożeń terytorialnych."
       ],
       "correctAnswerIndex": 1,
@@ -412,8 +412,8 @@
       "options": [
         "Jest to proces trzeciorzędowy kory, bazujący na chęci celowego i wyrafinowanego naśladownictwa cudzego stanu.",
         "Należy do uwarunkowanych afektów wtórnych, wyuczanych przez noworodki wskutek modelowania zachowań matki.",
-        "Stanowi element procesów pierwotnych służących wrodzonej synchronizacji biologicznej w obrębie danego stada.",
-        "Jawi się jako silnie patologiczna manifestacja przeciążenia układu Paniki wskutek chronicznego braku snu i sił."
+        "Stanowi element procesów pierwotnych służących synchronizacji biologicznej w obrębie danego stada.",
+        "Jawi się jako patologiczna manifestacja przeciążenia układu Paniki wskutek chronicznego braku snu i sił."
       ],
       "correctAnswerIndex": 2,
       "explanation": "Ziewanie jest wrodzonym, nieracjonalnym procesem pierwotnym, synchronizującym tryb bycia jednostek w spójnej grupie biologicznej."
@@ -421,12 +421,12 @@
     {
       "id": 33,
       "type": "single-choice",
-      "question": "Na jakiej teoretycznej podstawie 'zaskoczenie' oraz 'zmęczenie' podzielono w ostatecznej taksonomii afektów pierwotnych?",
+      "question": "Na jakiej teoretycznej podstawie 'zaskoczenie' oraz 'zmęczenie' podzielono w taksonomii afektów pierwotnych?",
       "options": [
         "Zaskoczenie to afekt zmysłowy wywoływany nagłym bodźcem, a zmęczenie to ewolucyjny afekt trzewny organizmu.",
         "Zaskoczenie kognitywnie aktywuje korę przedczołową, podczas gdy czyste zmęczenie tworzone jest u podstawy pnia.",
-        "Zaskoczenie uznaje się za odruch w pełni awersyjny, a zmęczenie to nabyta, przemyślana taktyka na obronę zasobów.",
-        "Zaskoczenie silnie dominuje jako główny układ emocjonalny, podczas gdy zmęczenie stanowi tylko spadek dopaminy."
+        "Zaskoczenie uznaje się za odruch awersyjny, a zmęczenie to nabyta, przemyślana taktyka na obronę zasobów.",
+        "Zaskoczenie dominuje jako główny układ emocjonalny, podczas gdy zmęczenie stanowi tylko spadek dopaminy."
       ],
       "correctAnswerIndex": 0,
       "explanation": "Afekty zmysłowe (związane z czuciem zewnętrznym) to np. ból i zaskoczenie; afekty trzewne (homeostatyczne) to m.in. głód i zmęczenie."
@@ -438,11 +438,11 @@
       "options": [
         "Jako rezultat genetycznych uszkodzeń płata czołowego zapobiegających logicznej ocenie i kategoryzacji obiektów.",
         "Traktuje się je jako silne procesy wtórne, gdzie pierwotny afekt trwale łączy się z wcześniej neutralnym bodźcem.",
-        "Jako wyśmienite ilustracje wyuczonych emocji trzeciorzędowych rodzących się wyłącznie w trakcie intymnych monologów.",
-        "Jako twardy ewolucyjny dowód na patologiczną nadaktywność układu Zabawy w zetknięciu ze środowiskiem dorosłych."
+        "Jako wyśmienite ilustracje emocji trzeciorzędowych rodzących się wyłącznie w trakcie intymnych monologów.",
+        "Jako ewolucyjny dowód na patologiczną nadaktywność układu Zabawy w zetknięciu ze środowiskiem dorosłych."
       ],
       "correctAnswerIndex": 1,
-      "explanation": "Fetysz to przykład uczenia się asocjacyjnego z udziałem układu limbicznego, w którym głęboko nieświadomy popęd zespala się z obiektem (proces wtórny)."
+      "explanation": "Fetysz to przykład uczenia się asocjacyjnego z udziałem układu limbicznego, w którym nieświadomy popęd zespala się z obiektem (proces wtórny)."
     },
     {
       "id": 35,
@@ -450,12 +450,12 @@
       "question": "Z jakiego praktycznego powodu, wedle afektywnej neuronauki, układy emocjonalne zaraz po urodzeniu ssaka uważane są za 'ślepe'?",
       "options": [
         "Wykazują one absolutny brak fizjologicznej aktywności do momentu stymulacji konkretnymi interakcjami otoczenia.",
-        "Generują one potężne pobudzenie celowe, ale osobnik musi doświadczyć, jaki obiekt trwale zaspokoi ten niepokój.",
+        "Generują one pobudzenie celowe, ale osobnik musi doświadczyć, jaki obiekt trwale zaspokoi ten niepokój.",
         "Aktywują się one zupełnie chaotycznie i w żaden widoczny sposób nie służą fizycznemu przetrwaniu organizmu matki.",
         "Można je zauważyć u niemowląt wyłącznie w fazach płytkiego snu, bez bezpośredniego połączenia z obiektywną jawą."
       ],
       "correctAnswerIndex": 1,
-      "explanation": "Wrodzone systemy (jak Szukanie) popychają do działania (chęć), jednak reprezentacja obiektowa jest na początku pusta i uczy się z doświadczenia."
+      "explanation": "systemy (jak Szukanie) popychają do działania (chęć), jednak reprezentacja obiektowa jest na początku pusta i uczy się z doświadczenia."
     },
     {
       "id": 36,
@@ -464,11 +464,11 @@
       "options": [
         "Jest to uwarunkowany, podświadomy proces wtórny automatyzujący ataki terytorialnej ucieczki lub nagłego zamrożenia.",
         "Stanowi ona rzadką dysfunkcję zlokalizowaną w układzie Troski generującą nielogiczne zachowania izolacyjne w grupach.",
-        "Określana bywa jako emocja rdzennie kognitywna (trzeciorzędowa) wymagająca do manifestacji głębokiego rozmyślania.",
-        "Wpisuje się bezwzględnie w katalog czystych emocji pierwotnych dziedziczonych wskutek traum przodków i środowiska."
+        "Określana bywa jako emocja rdzennie kognitywna (trzeciorzędowa) wymagająca do manifestacji rozmyślania.",
+        "Wpisuje się w katalog czystych emocji pierwotnych dziedziczonych wskutek traum przodków i środowiska."
       ],
       "correctAnswerIndex": 0,
-      "explanation": "Fobie (np. wyuczony strach przed zwierzętami) zaliczają się do emocji wtórnych, zakodowanych głęboko jako sztywny nawyk w układzie limbicznym."
+      "explanation": "Fobie (np. strach przed zwierzętami) zaliczają się do emocji wtórnych, zakodowanych jako nawyk w układzie limbicznym."
     },
     {
       "id": 37,
@@ -489,22 +489,22 @@
       "question": "Do jakich trwałych konsekwencji psychologicznych mogą doprowadzić poważne ewolucyjne deficyty w stymulacji układu TROSKI?",
       "options": [
         "Bezpośrednio wyłączają one receptory lęku powodując ślepe narażanie zdrowia pod wpływem bodźców terytorialnych.",
-        "Prowadzą do wyraźnych braków w naturalnej empatii a w drastycznych scenariuszach skutkują klasyczną psychopatią.",
-        "Hiperaktywują sztucznie wbudowany popęd Zabawy tworząc osoby bez zahamowań ale niezwykle łatwe w socjalizacji.",
+        "Prowadzą do wyraźnych braków w naturalnej empatii a w scenariuszach skutkują klasyczną psychopatią.",
+        "Hiperaktywują sztucznie wbudowany popęd Zabawy tworząc osoby bez zahamowań ale łatwe w socjalizacji.",
         "Nieodwracalnie dezaktywują chemię potrzebną do przetwarzania bólu sensorycznego czyniąc jednostki twardymi fizycznie."
       ],
       "correctAnswerIndex": 1,
-      "explanation": "Panksepp uważa niedoczynność lub brak rozwoju systemu Troski (opieki nad innymi) za główne źródło obojętności i ostatecznie psychopatii."
+      "explanation": "Panksepp uważa niedoczynność lub brak rozwoju systemu Troski (opieki nad innymi) za główne źródło obojętności i psychopatii."
     },
     {
       "id": 39,
       "type": "single-choice",
-      "question": "Dlaczego drastyczna aktywacja systemu STRACHU wiąże się w biologii organizmu z ostrym zahamowaniem funkcji trawiennych?",
+      "question": "Dlaczego drastyczna aktywacja systemu STRACHU wiąże się w biologii organizmu z zahamowaniem funkcji trawiennych?",
       "options": [
         "Aparat trawienny mógłby wygenerować bóle wewnętrzne blokujące płynny i swobodny ucieczkowy odruch terytorialny.",
-        "Jest to fatalny ewolucyjny defekt utrwalający krzyżowe zwarcie neuronów Szukania pokarmu z wrodzonym instynktem ucieczki.",
-        "Organizm zmuszony jest błyskawicznie przepompować zasoby krwi do układu ruchu aby realnie maksymalizować ucieczkę.",
-        "Substancje stresowe są wysoce niszczycielskie dla mikroflory zmuszając florę bakteryjną do prewencyjnego zamrożenia się."
+        "Jest to fatalny ewolucyjny defekt utrwalający krzyżowe zwarcie neuronów Szukania pokarmu z instynktem ucieczki.",
+        "Organizm zmuszony jest przepompować zasoby krwi do układu ruchu aby realnie maksymalizować ucieczkę.",
+        "Substancje stresowe są niszczycielskie dla mikroflory zmuszając florę bakteryjną do prewencyjnego zamrożenia się."
       ],
       "correctAnswerIndex": 2,
       "explanation": "Zatrzymanie trawienia i przepompowanie krwi ze ściany żołądka do dużych mięśni szkieletowych ma czysto utylitarny, przetrwaniowy cel."
@@ -514,10 +514,10 @@
       "type": "single-choice",
       "question": "Co z punktu widzenia etologii wchodzi w zakres ewolucyjnych wyzwalaczy bezwarunkowych dla systemu społecznego ZABAWY?",
       "options": [
-        "Wyłączne postrzeganie skrajnej bezbronności ofiary która zachęca grupę drapieżników do fizycznego i surowego odwetu.",
+        "Wyłączne postrzeganie bezbronności ofiary która zachęca grupę drapieżników do fizycznego i surowego odwetu.",
         "Chemiczny nadmiar nagromadzonej u osobnika glukozy który zmusza wegetatywny mózg do bezcelowych ruchów motorycznych.",
         "Typowe, wewnątrzgatunkowe zaproszenia i gesty rówieśnicze jak chociażby przyjazne merdanie ogonem wśród psowatych.",
-        "Potrzeba ominięcia i pokonania złożonych i wysoce przemyślanych barier by w ogóle uzyskać akceptację reszty swego stada."
+        "Potrzeba ominięcia i pokonania złożonych i przemyślanych barier by w ogóle uzyskać akceptację reszty swego stada."
       ],
       "correctAnswerIndex": 2,
       "explanation": "Bodźcem bezwarunkowym aktywującym Radość (Zabawę) jest m.in. jasny gest 'zaproszenia' do interakcji bez ataku."
@@ -525,7 +525,7 @@
     {
       "id": 41,
       "type": "single-choice",
-      "question": "Na czym polega unikalny mechanizm ewolucyjny przez który rówieśniczy system ZABAWY skutecznie buduje pożądane nawyki?",
+      "question": "Na czym polega unikalny mechanizm ewolucyjny przez który rówieśniczy system ZABAWY buduje pożądane nawyki?",
       "options": [
         "Silnie zmusza ssaki do wchodzenia w role i imitacji przemocy ustalając bez ranienia ostateczne terytoria władzy oraz granice.",
         "Przeprowadza bezkompromisową selekcję fizyczną poprzez którą odrzuca na wczesnym etapie osobniki pozbawione agresji.",
@@ -540,10 +540,10 @@
       "type": "single-choice",
       "question": "Jakie specyficzne parametry percepcyjne zaliczono na kartach książki do bodźców wyzwalających bezpośrednio wrodzoną ŻĄDZĘ?",
       "options": [
-        "Dominacja, autorytet władzy a także ogólne wysokie miejsce i wywalczony silną ręką prestiż jednostki wokół grupy rówieśniczej.",
-        "Odpowiednie parametry stosunku talii do bioder, specyficzna witalna owalność figur kobiet i absolutny brak zrostów owłosienia.",
-        "Wyraźne werbalne i fizyczne sygnały kompletnej uległości i drastycznego pogorszenia zmysłowego zdrowia ewentualnego partnera.",
-        "Oryginalne cechy drapieżnika które u samicy warunkują przekazanie puli faworyzującej zdolność natychmiastowego brutalnego ataku."
+        "Dominacja, autorytet władzy i wysoki status w hierarchii grupy.",
+        "Odpowiedni stosunek talii do bioder, owalność sylwetki kobiet i dobry stan zdrowia.",
+        "Wyraźne sygnały uległości i pogorszenia stanu zdrowia u rywali.",
+        "Cechy drapieżnika, które u samicy warunkują przekazanie genów faworyzujących instynkt przetrwania."
       ],
       "correctAnswerIndex": 1,
       "explanation": "Do bodźców zmysłowych dla Żądzy zaliczono konkretne atrybuty fizyczne m.in. neotenię, obwody, proporcje czy gładką skórę."
@@ -551,12 +551,12 @@
     {
       "id": 43,
       "type": "single-choice",
-      "question": "W jaki neurologiczny sposób Panksepp dokonuje dyskretnego podziału pomiędzy czystą Paniką a wrodzonym i trwałym Strachem?",
+      "question": "W jaki neurologiczny sposób Panksepp dokonuje dyskretnego podziału pomiędzy czystą Paniką a i trwałym Strachem?",
       "options": [
         "Panika oddziałuje głównie na ściany żołądka blokując tlen i oddech, podczas gdy strach wywołuje pieczenie skóry a także łzy.",
-        "Strach rodzi się w obszarach ukształtowanych później by racjonalizować niepokój, panika jest ułomnym wrodzonym odruchem.",
+        "Strach rodzi się w obszarach ukształtowanych później by racjonalizować niepokój, panika jest ułomnym odruchem.",
         "Strach paraliżuje całą kognicję wprowadzając osobników w apatię natomiast panika prowokuje wyłącznie histeryczny i wrogi krzyk.",
-        "Panika wiąże się wprost z dystresem i gwałtownym bólem psychicznym z braku ciepła, a klasyczny strach to reakcja unikowa w obawie o życie."
+        "Panika wiąże się wprost z dystresem i bólem psychicznym z braku ciepła, a klasyczny strach to reakcja unikowa w obawie o życie."
       ],
       "correctAnswerIndex": 3,
       "explanation": "Panika to emocja przywiązania i bólu izolacyjnego, a Strach to alarmowy odruch przed fizycznym zranieniem lub drapieżnikiem."
@@ -564,12 +564,12 @@
     {
       "id": 44,
       "type": "single-choice",
-      "question": "Na co pozwala bliskość przebywania we własnym dobrze chronionym gnieździe w obrębie tak zwanego obiektu przywiązania?",
+      "question": "Na co pozwala bliskość przebywania we własnym dobrze chronionym gnieździe w obrębie obiektu przywiązania?",
       "options": [
         "Odczuwa się gwałtowną potrzebę zdobycia wyłączności wymuszając odruchową zimną agresję i eliminację każdego konkurenta z boku.",
         "Prymarny układ zawiadujący osamotnieniem ulega doskonałemu wyciszeniu oddając miejsce relaksowi i cieple miłości bez cienia lęku.",
         "Fizjologia stada wyłącza korę nową by ułatwić jednostkom długotrwały letarg obniżający ryzyka niepotrzebnej i nadmiernej aktywności.",
-        "Reakcja ta nakłada silne wtórne lęki warunkowe aby wypracowane z trudem terytorium nie stało się areną uciążliwej gry politycznej."
+        "Reakcja ta nakłada silne wtórne lęki warunkowe aby wypracowane z trudem terytorium nie stało się areną gry politycznej."
       ],
       "correctAnswerIndex": 1,
       "explanation": "Kiedy zwierzę przebywa przy swoim obiekcie przywiązania (attachement object), system Boleści milknie, dając bezpieczeństwo i ciepło."
@@ -577,11 +577,11 @@
     {
       "id": 45,
       "type": "single-choice",
-      "question": "Z jakiego konkretnie wrodzonego powodu udaremnienie i frustracja uruchamiają potężną reakcję z rdzenia systemu WŚCIEKŁOŚCI?",
+      "question": "Z jakiego konkretnie powodu udaremnienie i frustracja uruchamiają potężną reakcję z rdzenia systemu WŚCIEKŁOŚCI?",
       "options": [
         "Wynika to z zaprogramowanej walki plemiennej gdy każde utrudnienie uważa się za jawną zdradę wymagającą wyeliminowania sojuszników.",
         "Mechanizm ten powstał by chronić delikatny rdzeń emocji Troski przekształcając łzy rozpaczy na czysto pokazowy atak na terytorium wokół.",
-        "System odruchowo reaguje twardym wymierzeniem kary gdy wysoce ukierunkowane eksploracyjne zachowania ssaka nagle napotykają ślepą barierę.",
+        "System reaguje wymierzeniem kary gdy ukierunkowane eksploracyjne zachowania ssaka nagle napotykają ślepą barierę.",
         "Bodziec ów naśladuje dokładnie wzorce wizualne drapieżników paraliżując proces kognitywny kory i prowokując ssaki do nieskoordynowanej walki."
       ],
       "correctAnswerIndex": 2,
@@ -592,9 +592,9 @@
       "type": "single-choice",
       "question": "W oparciu o hierarchiczne etapy rozwoju, dlaczego małe dziecko nie wykazuje autentycznego poczucia cynicznego rozbawienia?",
       "options": [
-        "Gdyż takie wyrafinowane akty wymagają w pełni aktywnego sprzętu poznawczego, kory nowej oraz zdolności skomplikowanej projekcji kognitywnej.",
-        "Z powodu genetycznego ukrywania prawdziwych atrybucji co ma rzekomo uspokajać matki i chronić noworodki by uniknęły bolesnego odrzucenia.",
-        "Dzieje się tak ponieważ wszystkie afekty pochodne ujawniają się kaskadowo najwcześniej na etapie budzenia się i uaktywnienia wrodzonej Żądzy.",
+        "Gdyż takie wyrafinowane akty wymagają aktywnego sprzętu poznawczego, kory nowej oraz zdolności skomplikowanej projekcji kognitywnej.",
+        "Z powodu genetycznego ukrywania prawdziwych atrybucji co ma rzekomo uspokajać matki i chronić noworodki by uniknęły odrzucenia.",
+        "Dzieje się tak ponieważ wszystkie afekty pochodne ujawniają się kaskadowo najwcześniej na etapie budzenia się i uaktywnienia Żądzy.",
         "Stwierdzenie to uchodzi za mocno przestarzały pogląd gdyż każdy rodzaj arogancji wpisuje się ściśle w obszar czystych i niezależnych zjawisk pnia."
       ],
       "correctAnswerIndex": 0,
@@ -605,23 +605,23 @@
       "type": "single-choice",
       "question": "W jaki sposób struktury głębokie wyłoniły system psychologicznej rozpaczy powalający ssakom na wygenerowanie wezwania opieki?",
       "options": [
-        "Ewolucja ukształtowała mechanizm olfaktoryczny z niespotykaną nigdy dotąd i potężną czułością na naturalne zapachy i ślady pozostawione w grupie.",
-        "Bazując na wstręcie zmysłowym wywołano stałą i bolesną do zignorowania awersję na cienie popychając ssaki by same pragnęły chronić się pod ziemią.",
-        "Umysł zapożyczył najzwyklejszy obwód fizycznego bólu i przeprogramował na głośny system alarmujący wokół i generujący głęboki stres rozstania.",
-        "Rozwiązano ową kwestię wyodrębniając nowy układ myślenia społecznego by w pełni obiektywnie kalkulować straty z bycia uwięzionym i bezbronnym."
+        "Ewolucja ukształtowała mechanizm węchowy z czułością na naturalne feromony zbliżenia i reprodukcji.",
+        "Bazując na wstręcie zmysłowym, wywołano awersję na zapach padliny, popychając w stronę czystego pokarmu.",
+        "Umysł zapożyczył obwód bólu fizycznego i przeprogramował go na system alarmujący w przypadku izolacji społecznej.",
+        "Wyodrębniono układ myślenia społecznego, by kalkulować wartość sojuszy i zobowiązań bez polegania wyłącznie na afekcie."
       ],
       "correctAnswerIndex": 2,
-      "explanation": "System bolesnej paniki separacyjnej wyewoluował na starej kanwie tkankowego/fizjologicznego bólu sensorycznego."
+      "explanation": "System paniki separacyjnej wyewoluował na starej kanwie tkankowego/fizjologicznego bólu sensorycznego."
     },
     {
       "id": 48,
       "type": "single-choice",
       "question": "Jaki z omówionych mechanizmów określany jest dumnie mianem fundamentu sił wolicjonalnych każdego prawidłowego mózgu u ssaków?",
       "options": [
-        "Mocny układ obronny Żądzy, utrzymujący pęd przetrwania by jak najliczniej pozostawić odciski własnego DNA bez ryzykowania cennym życiem stada.",
-        "Głęboki ustrój opiekuńczej i oddanej Troski skłaniający by dążyć za dobrem wspólnym wyłączając aspołeczne egocentryczne kalkulacje i chęć zdrady.",
-        "Napędzający ciało powszechny układ Szukania odpowiedzialny rdzennie za entuzjazm i niepowstrzymaną pogoń wokół obiecujących nagrodę zakamarków.",
-        "Czysty logiczny wehikuł analityczny wpisany głęboko z tyłu głowy rozważający ostrożnie kiedy ruszyć z działaniem a w jakiej minucie bezpiecznie tkwić z tyłu."
+        "Układ obronny Żądzy, utrzymujący pęd przetrwania, by pozostawić jak najwięcej potomstwa.",
+        "Ustrój opiekuńczej Troski, skłaniający do dbania o dobro wspólne i wyłączający aspołeczne zachowania.",
+        "Napędzający ciało układ Szukania, odpowiedzialny za entuzjazm i niepowstrzymaną potrzebę poznawania świata.",
+        "Analityczny mechanizm korowy, rozważający, kiedy ruszyć do akcji, a kiedy odpuścić dane wyzwanie."
       ],
       "correctAnswerIndex": 2,
       "explanation": "Szukanie utożsamiane jest z systemem dopaminergicznym 'Nagrody' i entuzjastycznej ciekawości stanowiącej kręgosłup naszej woli i witalności."
@@ -629,25 +629,25 @@
     {
       "id": 49,
       "type": "single-choice",
-      "question": "Jak szybko reaguje obwód w pełni wrodzonego afektu pierwotnego w zderzeniu z wyzwalaczem w bezpośrednim i otwartym otoczeniu?",
+      "question": "Jak szybko reaguje obwód afektu pierwotnego w zderzeniu z wyzwalaczem w bezpośrednim i otwartym otoczeniu?",
       "options": [
-        "Reakcja ta pozwala najpierw skrupulatnie rozważyć wady czy pożytki w korelacji do rówieśników u boku a następnie oddala chęć brutalnego natarcia.",
-        "Sygnał uderza w sposób bezwzględnie automatyczny chroniąc ciało z odruchu na krótko zanim umysł dorosłego zrozumie i przetrawi źródło niepokoju.",
-        "Zalążek ataku żąda na początku autoryzacji u kory decyzyjnej po czym momentalnie odpala hormony nakazujące agresję wobec źródła przerażenia lub intruza.",
-        "Impuls zatraca się często u podstaw głowy rzadko w ogóle wpływając na zewnątrz dopóki ssak nie będzie regularnie w identyczny sposób powtarzać swych prób."
+        "Reakcja ta pozwala rozważyć wady i pożytki w relacji do rówieśników, zanim wyzwoli się właściwy afekt pierwotny.",
+        "Sygnał uderza automatycznie, chroniąc ciało na krótko, zanim umysł dorosłego zrozumie, co się właściwie wydarzyło.",
+        "Zalążek ataku żąda autoryzacji u kory decyzyjnej, po czym odpala hormony nakazujące skok na przeciwnika.",
+        "Impuls zatraca się u podstaw, rzadko wpływając na zewnątrz, dopóki ssak nie będzie w stanie zwerbalizować źródła swojego gniewu."
       ],
       "correctAnswerIndex": 1,
-      "explanation": "Afekty te są wybitnie i bezkompromisowo prekognitywne. Wyrzut chemiczny zachodzi szybciej niż świadome zarejestrowanie faktu (Dzięki temu nie musimy myśleć...)."
+      "explanation": "Afekty te są i bezkompromisowo prekognitywne. Wyrzut chemiczny zachodzi szybciej niż świadome zarejestrowanie faktu (Dzięki temu nie musimy myśleć...)."
     },
     {
       "id": 50,
       "type": "single-choice",
       "question": "Jaki powszechny przykład został wykorzystany przez wykładowcę by dobitnie zobrazować zjawisko tak zwanych afektów zmysłowych?",
       "options": [
-        "Głębokiego, dławiącego klatkę poczucia osamotnienia po śmierci obiektu wieloletniego trwałego i niczym nie naruszonego oddanego przywiązania.",
-        "Ciągłego bezsensownego nawyku bazgrolenia wzorów by zająć czas palców uszu i rąk podczas przewlekłych nic nieznaczących i powtarzanych rozmów wokół stołu.",
-        "Krótkiego i wysoce gwałtownego odczucia wybitnie piekącego bólu na skutek mocnego potężnego i bezpośredniego uderzenia czy ewentualnie poparzenia ognia.",
-        "Absolutnego znieruchomienia młodego osobnika wpędzonego głęboko we własne terytorium nagłym wejściem niechcianego obcego starszego rywala pełnego dominacji."
+        "Poczucia osamotnienia po śmierci obiektu długoletniej i nierozerwalnej więzi.",
+        "Nawyku bazgrolenia wzorów dla zajęcia rąk podczas przewlekłych stanów nudy i braku zaangażowania społecznego.",
+        "Krótkiego i gwałtownego odczucia piekącego bólu na skutek bezpośredniego uderzenia lub oparzenia ciała.",
+        "Znieruchomienia młodego osobnika wpędzonego na własne terytorium przez nagłe wejście drapieżnika."
       ],
       "correctAnswerIndex": 2,
       "explanation": "Afektem w stu procentach sensorycznym i bezpośrednim (zmysłowym) jest uczycie bólu fizycznego (wykrzyknięcie 'Auuu' po nagłym zranieniu/ukłuciu)."

@@ -7,7 +7,7 @@
       "type": "single-choice",
       "question": "W jaki sposób, w świetle psychologii motywacji, precyzyjnie definiuje się pojęcie ludzkiej \"woli\"?",
       "options": [
-        "Jako zdolność do mechanicznego reagowania na silne wrodzone biologicznie popędy.",
+        "Jako zdolność do mechanicznego reagowania na silne biologicznie popędy.",
         "Jako zdolność wzniesienia się ponad kontrolujące nas siły biologii i środowiska.",
         "Jako całkowitą bezwzględną dominację procesów poznawczych nad emocjami z trzewi.",
         "Jako unikalną predyspozycję środowiska do warunkowania naszych nowych nawyków."
@@ -20,13 +20,13 @@
       "type": "single-choice",
       "question": "Zgodnie z definicją K. Obuchowskiego, jaka jest fundamentalna różnica psychologiczna pomiędzy potrzebą a pragnieniem?",
       "options": [
-        "Potrzeby są mocno uwarunkowane społecznie, a ludzkie pragnienia całkowicie wrodzone.",
-        "Potrzeby są absolutnie niezbędne do rozwoju, a pragnienia nierzadko wysoce szkodliwe.",
+        "Potrzeby są mocno uwarunkowane społecznie, a ludzkie pragnienia wrodzone.",
+        "Potrzeby są niezbędne do rozwoju, a pragnienia nierzadko szkodliwe.",
         "Potrzeby zawsze i ściśle dotyczą obiektów z zewnątrz, a pragnienia tylko stanów ciała.",
-        "Potrzeby są przez nas w pełni uświadamiane, z kolei pragnienia na zawsze ukryte w tle."
+        "Potrzeby są przez nas uświadamiane, z kolei pragnienia ukryte w tle."
       ],
       "correctAnswerIndex": 1,
-      "explanation": "Potrzeby to stany absolutnie niezbędne dla organizmu do istnienia, rozwoju i wolności, podczas gdy pragnienia (apetyty) bywają dla człowieka destrukcyjne i szkodliwe."
+      "explanation": "Potrzeby to stany niezbędne dla organizmu do istnienia, rozwoju i wolności, podczas gdy pragnienia (apetyty) bywają dla człowieka destrukcyjne i szkodliwe."
     },
     {
       "id": 3,
@@ -34,7 +34,7 @@
       "question": "W propozycji rozróżnienia trzech znaczeń słowa \"potrzeba\", co dokładnie oznacza potrzeba rozumiana w sensie podmiotowym?",
       "options": [
         "Wewnętrzny stan organizmu odczuwającego dany deficyt, na przykład biologiczny głód.",
-        "Zewnętrzny względem ustroju pożądany konkretny zasób, taki jak zdrowy pełny pokarm.",
+        "Zewnętrzny względem organizmu pożądany konkretny zasób, taki jak zdrowy pełny pokarm.",
         "Wyuczona czynność podejmowana w celu zaspokojenia deficytu, jak odruchowe jedzenie.",
         "Poznawcza reprezentacja abstrakcyjnego celu umiejscowionego w najbliższym środowisku."
       ],
@@ -47,7 +47,7 @@
       "question": "Czym w ujęciu Abramowskiego jest tak zwana \"cenestezja\", powiązana ściśle z zaspokajaniem potrzeb fizjologicznych ciała?",
       "options": [
         "Świadomą, opartą na obrazach analityczną i rzetelną oceną własnych parametrów życiowych.",
-        "Intuicyjną, całkowicie bezobrazową oraz ciągłą reprezentacją czuciową własnego organizmu.",
+        "Intuicyjną, bezobrazową oraz ciągłą reprezentacją czuciową własnego organizmu.",
         "Chwilowym patologicznym zaburzeniem homeostazy, które prowadzi wprost do poważnych chorób.",
         "Całkowicie nieświadomym łukiem odruchowym, który sztywno i twardo koordynuje układ trzewi."
       ],
@@ -59,9 +59,9 @@
       "type": "single-choice",
       "question": "Czym różni się nowa, ewolucyjna piramida potrzeb Kenricka i współpracowników od klasycznego modelu wypracowanego przez Maslowa?",
       "options": [
-        "Uznaje bezpieczeństwo fizyczne za absolutnie najwyższą potrzebę dorosłego człowieka.",
+        "Uznaje bezpieczeństwo fizyczne za najwyższą potrzebę dorosłego człowieka.",
         "Zastępuje samorealizację na szczycie hierarchii celami z zakresu zdobywania partnera.",
-        "Całkowicie eliminuje znaczenie potrzeb fizjologicznych dla ustroju jednostki w grupie.",
+        "Całkowicie eliminuje znaczenie potrzeb fizjologicznych dla organizmu jednostki w grupie.",
         "Wprowadza transcendencję duchową jako najważniejszy, jedyny ostateczny cel ewolucji."
       ],
       "correctAnswerIndex": 1,
@@ -91,17 +91,17 @@
         "Rozwój osobisty daje suwerenność drugiego rzędu, a duchowy daje suwerenność pierwszego rzędu."
       ],
       "correctAnswerIndex": 1,
-      "explanation": "Rozwój osobisty polega na ulepszaniu osobowości (zmniejszaniu luki między ja realnym a idealnym), natomiast rozwój duchowy to dążenie do całkowitego przekroczenia swojej tożsamości osobowej (samotranscendencja)."
+      "explanation": "Rozwój osobisty polega na ulepszaniu osobowości (zmniejszaniu luki między ja realnym a idealnym), natomiast rozwój duchowy to dążenie do przekroczenia swojej tożsamości osobowej (samotranscendencja)."
     },
     {
       "id": 8,
       "type": "single-choice",
       "question": "Jaki mechanizm neurohormonalny odpowiada za reakcję „opieki i zaprzyjaźniania się” (tend-and-befriend) pojawiającą się w silnym stresie?",
       "options": [
-        "Gwałtowny wyrzut adrenaliny, wymuszający natychmiastowe ostre negocjacje w grupie.",
-        "Wydzielanie oksytocyny przez przysadkę, co silnie budzi ssaczy instynkt opiekuńczy.",
+        "wyrzut adrenaliny, wymuszający natychmiastowe ostre negocjacje w grupie.",
+        "Wydzielanie oksytocyny przez przysadkę, co budzi ssaczy instynkt opiekuńczy.",
         "Nagły wzrost stężenia kortyzolu, który trwale wygasza wszelkie dzikie odruchy walki.",
-        "Znaczne obniżenie poziomu dopaminy, skutkujące głęboką i wysoce chroniczną apatią."
+        "Znaczne obniżenie poziomu dopaminy, skutkujące głęboką i chroniczną apatią."
       ],
       "correctAnswerIndex": 1,
       "explanation": "Reakcja poszukiwania bliskości i opieki pod wpływem stresu jest sterowana poprzez wydzielanie oksytocyny, która warunkuje instynkty macierzyńskie i chęć budowania więzi."
@@ -111,10 +111,10 @@
       "type": "single-choice",
       "question": "Zgodnie z chronologią wyłaniania się hierarchii ludzkich potrzeb, w jakim momencie życia najczęściej aktywują się wyższe \"potrzeby ego\"?",
       "options": [
-        "Gdy człowiek czuje dojmującą samotność ustroju i zaczyna usilnie szukać silnego wsparcia.",
-        "Gdy jednostka wyraźnie dostrzega nietrwałość świata i poszukuje wiecznych, stałych prawd.",
+        "Gdy człowiek czuje dojmującą samotność organizmu i zaczyna usilnie szukać silnego wsparcia.",
+        "Gdy jednostka dostrzega nietrwałość świata i poszukuje wiecznych, stałych prawd.",
         "Gdy jednostka odczuwa nieznośne zniewolenie i pragnie większej osobistej niezależności.",
-        "Gdy nasze fizyczne bezpieczeństwo jest nagle silnie zagrożone przez zmiany w środowisku."
+        "Gdy nasze fizyczne bezpieczeństwo jest nagle zagrożone przez zmiany w środowisku."
       ],
       "correctAnswerIndex": 2,
       "explanation": "Potrzeby ego (samostanowienia, wolności) wyłaniają się wtedy, gdy człowiek dostrzega swoje uzależnienie od innych i zaczyna dążyć do większej autonomii oraz autentyczności."
@@ -124,8 +124,8 @@
       "type": "single-choice",
       "question": "W jaki sposób w teorii zasobów wymiany społecznej autorstwa Foa i Foa ściśle zdefiniowany jest cenny dla ludzi zasób \"statusu\"?",
       "options": [
-        "Potrzebą zakochania się, odwzajemnionego uczucia i bycia razem aż do końca życia.",
-        "Potrzebą głębokiego uczucia miłości, wyrażania jej i akceptowania siebie nawzajem.",
+        "Potrzebą zakochania się, odwzajemnionego uczucia i bycia razem aż życia.",
+        "Potrzebą uczucia miłości, wyrażania jej i akceptowania siebie nawzajem.",
         "Dążeniem do pełnej samowystarczalności i braku potrzeby posiadania relacji.",
         "Wypadkową dwóch potrzeb fizjologicznych związanych z popędem rozrodczym."
       ],
@@ -137,10 +137,10 @@
       "type": "single-choice",
       "question": "Jego główne, rdzennie wpisane założenie szkoły behawiorystycznej (teorii uczenia się) w kontekście psychologii motywacji?",
       "options": [
-        "Zachowanie ludzkie jest z natury zawsze w pełni wolne od ukrytych środowiskowych uwarunkowań.",
-        "Motywacja wynika wyłącznie z bardzo bolesnego w ciele poznawczego dysonansu samej jednostki.",
-        "Proces uczenia się jest wysoce aktywny i kategorycznie wymaga celowego planowania działań.",
-        "Uczenie się jest procesem dość biernym, a nabyte z czasem nawyki głęboko wpływają na życie."
+        "Zachowanie ludzkie jest z natury zawsze wolne od ukrytych środowiskowych uwarunkowań.",
+        "Motywacja wynika wyłącznie z w ciele poznawczego dysonansu samej jednostki.",
+        "Proces uczenia się jest aktywny i wymaga celowego planowania działań.",
+        "Uczenie się jest procesem dość biernym, a nabyte z czasem nawyki wpływają na życie."
       ],
       "correctAnswerIndex": 3,
       "explanation": "Podejście behawiorystyczne zakłada, że uczenie się (przez warunkowanie lub naśladownictwo) ma charakter bierny, a raz nabyte nawyki przejmują głęboką kontrolę nad zachowaniem."
@@ -150,10 +150,10 @@
       "type": "single-choice",
       "question": "W jaki sposób modele poznawcze w psychologii tłumaczą bezpośredni mechanizm uruchamiania umotywowanego zachowania u człowieka?",
       "options": [
-        "Poprzez mechaniczne i całkowicie automatyczne rozładowanie dawnych napięć pnia mózgowego.",
+        "Poprzez mechaniczne i automatyczne rozładowanie dawnych napięć pnia mózgowego.",
         "Przez aktywne przetwarzanie informacji i skuteczną redukcję wszelkich odczutych niezgodności.",
-        "Dzięki bezwarunkowemu i bardzo silnemu wzmacnianiu wcześniej utrwalonych nawyków ruchowych.",
-        "Poprzez bezpośrednią i wyjątkowo nagłą aktywację wrodzonych popędów biologicznych u ssaka."
+        "Dzięki bezwarunkowemu i silnemu wzmacnianiu wcześniej utrwalonych nawyków ruchowych.",
+        "Poprzez bezpośrednią i wyjątkowo nagłą aktywację popędów biologicznych u ssaka."
       ],
       "correctAnswerIndex": 1,
       "explanation": "Koncepcje poznawcze (jak teoria dysonansu Festingera czy teoria Berlyne'a) wiążą motywację z konfliktem informacyjnym – brak równowagi rodzi napięcie, które skłania jednostkę do działania redukującego ten dysonans."
@@ -176,10 +176,10 @@
       "type": "single-choice",
       "question": "Jak subiektywnie doświadczany jest (w ujęciu fenomenologicznym) idealny biologiczny stan pełnej homeostazy organizmu?",
       "options": [
-        "Jako niezwykle intensywna, euforyczna radość następująca po szybkim spadku zagrożenia z zewnątrz.",
-        "Jako wysoce podwyższony stan nerwowego pobudzenia, który optymalnie przygotowuje ciało do walki.",
+        "Jako intensywna, euforyczna radość następująca po szybkim spadku zagrożenia z zewnątrz.",
+        "Jako podwyższony stan nerwowego pobudzenia, który optymalnie przygotowuje ciało do walki.",
         "Jako łagodne uczucie dobrostanu i optymalnego zdrowia, w którym poczuciu nie brakuje nam niczego.",
-        "Jako niezwykle głęboka i dotkliwie przejmująca apatia z całkowitym brakiem jakichkolwiek odczuć."
+        "Jako głęboka i dotkliwie przejmująca apatia z brakiem jakichkolwiek odczuć."
       ],
       "correctAnswerIndex": 2,
       "explanation": "Z perspektywy fenomenologii, homeostaza nie jest ani radosna, ani smutna, lecz jawi się jako spokojne ukontentowanie i witalność (poczucie, że wszystko jest dokładnie tak, jak powinno być)."
@@ -202,10 +202,10 @@
       "type": "single-choice",
       "question": "Czym w klasycznej koncepcji motywacji topologicznej Kurta Lewina charakteryzuje się \"podwójny konflikt typu dążenie-uniknięcie\"?",
       "options": [
-        "Kiedy dany podmiot musi szybko i sprawnie wybrać pomiędzy dwiema równie atrakcyjnymi opcjami.",
-        "Gdy obolała jednostka stoi przed bardzo trudnym i bolesnym wyborem między dwiema złymi drogami.",
+        "Kiedy dany podmiot musi szybko i wybrać pomiędzy dwiema równie atrakcyjnymi opcjami.",
+        "Gdy obolała jednostka stoi przed i bolesnym wyborem między dwiema złymi drogami.",
         "Gdy badany człowiek czuje jednoczesny silny pociąg i potężną niechęć do tego samego obiektu z tła.",
-        "Gdy osoba jest w pełni rozdarta między opcjami, z których każda ma dla niej liczne zyski oraz wady."
+        "Gdy osoba jest rozdarta między opcjami, z których każda ma dla niej liczne zyski oraz wady."
       ],
       "correctAnswerIndex": 3,
       "explanation": "Podwójny konflikt dążenie-uniknięcie to sytuacja rozdarcia między dwiema różnymi alternatywami (np. opcja A i opcja B), z których każda posiada jednocześnie mocne zalety oraz wady, co powoduje zakleszczenie w decyzji."
@@ -215,10 +215,10 @@
       "type": "single-choice",
       "question": "Jakie fundamentalne psychologiczne cechy (zgodnie z definicjami w prezentacji) posiadają z natury obiektywne \"potrzeby\"?",
       "options": [
-        "Są one w praktyce całkowicie z reguły tożsame z konkretnymi strategiami zaspokajania takich braków.",
-        "Są bardzo uniwersalne dla każdego żywego gatunku i pozostają zazwyczaj dość słabo uświadamiane.",
-        "Są w pełni świadomymi, głośno i wybitnie celowo wypowiadanymi przez jednostkę preferencjami.",
-        "Mogą być w środowisku naturalnym skutecznie zaspokojone tylko i wyłącznie w jeden sztywny sposób."
+        "Są one w praktyce tożsame z konkretnymi strategiami zaspokajania takich braków.",
+        "Są uniwersalne dla każdego żywego gatunku i pozostają zazwyczaj dość słabo uświadamiane.",
+        "Są świadomymi, głośno i celowo wypowiadanymi przez jednostkę preferencjami.",
+        "Mogą być w środowisku naturalnym zaspokojone tylko i wyłącznie w jeden sposób."
       ],
       "correctAnswerIndex": 1,
       "explanation": "Potrzeby biologiczne wg Obuchowskiego są uniwersalne dla wszystkich ludzi — wynikają z konieczności utrzymania życia."
@@ -228,10 +228,10 @@
       "type": "single-choice",
       "question": "Zgodnie z ujęciem Pankseppa (wersja Solmsa), które specyficzne afektywne systemy emocjonalne zalicza się do grupy odpowiadającej za proaktywne przetrwanie gatunku i jednostki?",
       "options": [
-        "Wyłącznie systemy obronne: STRACHU, WŚCIEKŁOŚCI oraz nagłej, potężnej BOLEŚCI i głośnej PANIKI.",
-        "Złożone i wrodzone układy: SZUKANIA, POŻĄDANIA, rzetelnej TROSKI oraz radosnej, twórczej ZABAWY.",
+        "Wyłącznie systemy obronne: STRACHU, WŚCIEKŁOŚCI oraz nagłej, BOLEŚCI i głośnej PANIKI.",
+        "Złożone i układy: SZUKANIA, POŻĄDANIA, TROSKI oraz radosnej, twórczej ZABAWY.",
         "Jedynie proaktywny system SZUKANIA, ponieważ to on bezpośrednio warunkuje naszą eksplorację.",
-        "Tylko i wyłącznie uciążliwy układ WŚCIEKŁOŚCI, ze względu na jego w pełni obronny, ostry charakter."
+        "Tylko i wyłącznie układ WŚCIEKŁOŚCI, ze względu na jego obronny, charakter."
       ],
       "correctAnswerIndex": 1,
       "explanation": "W ujęciu Reykowskiego POŻĄDANIE to specyficzny stan motywacyjny, w którym człowiek dąży do zdobycia pożądanego obiektu — różni się od żądzy która ma charakter bardziej popędowy."
@@ -241,13 +241,13 @@
       "type": "single-choice",
       "question": "Jakie jest ewolucyjne uzasadnienie dla wykształcenia się u człowieka wokalnego aparatu i zdolności językowego porozumiewania się (zgodnie z Teorią Wymiany Społecznej)?",
       "options": [
-        "Jako bardzo wysoce użyteczne narzędzie, które znacznie ułatwia nam negocjację i wymianę zasobów.",
+        "Jako użyteczne narzędzie, które ułatwia nam negocjację i wymianę zasobów.",
         "Tylko i wyłącznie po to, by głośno i ekspresyjnie wyrażać stany zaburzonej homeostazy w trzewiach.",
-        "By raz na zawsze skutecznie zastąpić fizyczną agresję z pnia niezwykle bezpiecznym sporem w korze.",
-        "Aby izolowane jednostki mogły przetrwać oraz funkcjonować całkowicie samotnie bez tworzenia sieci."
+        "By raz zastąpić fizyczną agresję bezpiecznym sporem w korze.",
+        "Aby izolowane jednostki mogły przetrwać oraz funkcjonować samotnie bez tworzenia sieci."
       ],
       "correctAnswerIndex": 0,
-      "explanation": "Zgodnie z Teorią Wymiany Społecznej, zdolność językowego porozumiewania się wyewoluowała u ludzi właśnie jako optymalny środek, który bardzo mocno ułatwił koordynację oraz negocjację wymiany życiowych zasobów."
+      "explanation": "Zgodnie z Teorią Wymiany Społecznej, zdolność językowego porozumiewania się wyewoluowała u ludzi właśnie jako optymalny środek, który mocno ułatwił koordynację oraz negocjację wymiany życiowych zasobów."
     },
     {
       "id": 20,
@@ -255,8 +255,8 @@
       "question": "W jaki sposób udowodniony biologicznie rozwój określonych wyższych i niższych potrzeb psychologicznych u człowieka koreluje z neuroanatomią rozwijającego się mózgu?",
       "options": [
         "Głośne i wylewne potrzeby społeczne wyłaniają się wyłącznie w pniu mózgu w wczesnym niemowlęctwie.",
-        "Nasze pierwotne potrzeby bezpieczeństwa mają bardzo ścisły związek z rozwojem układu limbicznego.",
-        "Złożone potrzeby ego są w pełni gotowe w korze przedczołowej natychmiast po narodzinach dziecka.",
+        "Nasze pierwotne potrzeby bezpieczeństwa mają ścisły związek z rozwojem układu limbicznego.",
+        "Złożone potrzeby ego są gotowe w korze przedczołowej po narodzinach dziecka.",
         "Głębokie potrzeby duchowe lokalizują się zawsze w ewolucyjnie starym pniu tuż przed okresem mowy."
       ],
       "correctAnswerIndex": 1,
@@ -267,13 +267,13 @@
       "type": "single-choice",
       "question": "W podstawowej terminologii psychologii motywacji, jak precyzyjnie definiuje się pojęcie „zachęty” (pokusy, z ang. incentive)?",
       "options": [
-        "Zewnętrzna siła lub obiekt w środowisku, który skutecznie wyzwala w nas określone umotywowane zachowanie.",
-        "Wrodzony i zdeterminowany biologicznie ślepy wzorzec zachowania pojawiający się wobec nagłych zagrożeń.",
-        "Wewnętrzne i narastające napięcie ustroju prowadzące wprost do szybkiego zaspokojenia pilnych braków.",
-        "Abstrakcyjna, czysto mentalna reprezentacja pożądanego przez jednostkę, bardzo długoterminowego stanu."
+        "Zewnętrzna siła lub obiekt w środowisku, który wyzwala w nas określone umotywowane zachowanie.",
+        "i zdeterminowany biologicznie ślepy wzorzec zachowania pojawiający się wobec nagłych zagrożeń.",
+        "Wewnętrzne i narastające napięcie organizmu prowadzące wprost do szybkiego zaspokojenia pilnych braków.",
+        "Abstrakcyjna, czysto mentalna reprezentacja pożądanego przez jednostkę, długoterminowego stanu."
       ],
       "correctAnswerIndex": 0,
-      "explanation": "Zachęta (pokusa, pobudka) to zewnętrzna siła lub obiekt, który motywuje nasze zachowanie, w opozycji do popędu, który jest siłą całkowicie wewnętrzną."
+      "explanation": "Zachęta (pokusa, pobudka) to zewnętrzna siła lub obiekt, który motywuje nasze zachowanie, w opozycji do popędu, który jest siłą wewnętrzną."
     },
     {
       "id": 22,
@@ -291,11 +291,11 @@
     {
       "id": 23,
       "type": "single-choice",
-      "question": "W kontekście utrzymania i podtrzymywania obranej aktywności (przebiegu zachowania), czym w praktyce wyróżniają się osoby wysoce impulsywne?",
+      "question": "W kontekście utrzymania i podtrzymywania obranej aktywności (przebiegu zachowania), czym w praktyce wyróżniają się osoby impulsywne?",
       "options": [
-        "Posiadają wrodzoną, wysoką zdolność do sprawnego odraczania gratyfikacji dla znacznie większych nagród.",
-        "Bardzo łatwo znoszą długie oczekiwanie, o ile ich podstawowe potrzeby fizjologiczne są w pełni zaspokojone.",
-        "Mają bardzo duże trudności z czekaniem na nagrodę i preferują działania przynoszące niezwykle szybkie efekty.",
+        "Posiadają wrodzoną, wysoką zdolność do sprawnego odraczania gratyfikacji dla większych nagród.",
+        "łatwo znoszą długie oczekiwanie, o ile ich podstawowe potrzeby fizjologiczne są zaspokojone.",
+        "Mają duże trudności z czekaniem na nagrodę i preferują działania przynoszące szybkie efekty.",
         "Wyróżniają się niesamowitą wytrwałością, która z psychologicznego punktu widzenia gwarantuje im szybki sukces."
       ],
       "correctAnswerIndex": 2,
@@ -308,8 +308,8 @@
       "options": [
         "Jako potrzeba wyłącznego, romantycznego poszukiwania idealnego partnera w celu przedłużenia gatunku w grupie.",
         "Jako zjawisko instrumentalnego tworzenia zespołów zadaniowych dla sprawnego osiągnięcia wspólnych korzyści.",
-        "Jako silne i niezwykle głębokie pragnienie odnalezienia bezwarunkowo wspierającej, idealnej bratniej duszy.",
-        "Jako obezwładniająca chęć całkowitego wtopienia się w makro-grupę kosztem utraty własnej tożsamości jednostki."
+        "Jako silne i głębokie pragnienie odnalezienia bezwarunkowo wspierającej, idealnej bratniej duszy.",
+        "Jako obezwładniająca chęć wtopienia się w makro-grupę kosztem utraty własnej tożsamości jednostki."
       ],
       "correctAnswerIndex": 1,
       "explanation": "Potrzeba koalicji instrumentalnych (afiliacji) dotyczy współtworzenia konkretnych zespołów zadaniowych, aby wspólnymi siłami osiągnąć pożądane przez członków cele."
@@ -321,7 +321,7 @@
       "options": [
         "Do zestawu fundamentalnych potrzeb czysto duchowych oraz świadomych dążeń do zjednoczenia z uniwersalnym sacrum.",
         "Do unikalnego obszaru rdzennych potrzeb stricte ludzkich, uwarunkowanych mądrością poznawczą i dojrzałą etyką.",
-        "Do bardzo szerokiej kategorii potrzeb społecznych, wynikających wprost z wysoce relacyjnego charakteru człowieka.",
+        "Do szerokiej kategorii potrzeb społecznych, wynikających wprost z relacyjnego charakteru człowieka.",
         "Do podstawowego zbioru potrzeb egzystencjalnych, w tym potrzeb ściśle fizjologicznych oraz bezpieczeństwa ciała."
       ],
       "correctAnswerIndex": 3,
@@ -330,12 +330,12 @@
     {
       "id": 26,
       "type": "single-choice",
-      "question": "Co w psychologii motywacji oznacza zdefiniowanie wieloznacznego pojęcia „potrzeba” w jej tak zwanym sensie typowo czynnościowym?",
+      "question": "Co w psychologii motywacji oznacza zdefiniowanie wieloznacznego pojęcia „potrzeba” w jej sensie typowo czynnościowym?",
       "options": [
-        "Oznacza to subiektywny i w pełni wewnętrzny stan braku lub niekomfortowego nadmiaru, np. dotkliwe uczucie głodu.",
+        "Oznacza to subiektywny i wewnętrzny stan braku lub niekomfortowego nadmiaru, np. dotkliwe uczucie głodu.",
         "Oznacza to obiektywny i zewnętrzny obiekt ze środowiska, który zaspokaja dany deficyt, np. zdrowy i pożywny pokarm.",
         "Oznacza to celową i specyficzną aktywność organizmu skierowaną wprost na zaspokojenie owego braku, np. proces jedzenia.",
-        "Oznacza to całkowicie abstrakcyjny, rozbudowany kognitywny plan szybkiego zdobycia niezbędnych do przeżycia zasobów."
+        "Oznacza to abstrakcyjny, rozbudowany kognitywny plan szybkiego zdobycia niezbędnych do przeżycia zasobów."
       ],
       "correctAnswerIndex": 2,
       "explanation": "Potrzeba w sensie czynnościowym definiowana jest jako konkretna czynność pozwalająca na redukcję deficytu (np. jedzenie, w przeciwieństwie do pokarmu czy samego głodu)."
@@ -346,9 +346,9 @@
       "question": "Czym w teorii zasobów wymiany społecznej autorstwa Foa i Foa charakteryzuje się zasób klasyfikowany ściśle jako „informacja”?",
       "options": [
         "To użyteczny zbiór cennych instrukcji oraz opinii, wykluczający jednak wyraźne sygnały okazywania miłości lub statusu.",
-        "To absolutnie każdy komunikat werbalny, który wyraża subiektywne, wysokie mniemanie o drugiej, słuchającej osobie.",
+        "To każdy komunikat werbalny, który wyraża subiektywne, wysokie mniemanie o drugiej, słuchającej osobie.",
         "To wyłącznie niematerialne dane, które w systemie kapitalistycznym można bezpośrednio wymienić na twardą gotówkę.",
-        "To fizyczne, zaplanowane i w pełni wymierne oddziaływanie na osobistą własność lub na biologiczne ciało innego człowieka."
+        "To fizyczne, zaplanowane i wymierne oddziaływanie na osobistą własność lub na biologiczne ciało innego człowieka."
       ],
       "correctAnswerIndex": 0,
       "explanation": "W klasyfikacji Foa i Foa informacja obejmuje rady i wiedzę, ale z definicji wyklucza te specyficzne komunikaty, które służą bezpośrednio do budowania statusu czy okazywania miłości."
@@ -356,12 +356,12 @@
     {
       "id": 28,
       "type": "single-choice",
-      "question": "W psychologicznym modelu trans-teoretycznym (TTM), na czym obiektywnie polega faza tak zwanej „prekontemplacji” w procesie zmiany zachowania?",
+      "question": "W psychologicznym modelu trans-teoretycznym (TTM), na czym obiektywnie polega faza „prekontemplacji” w procesie zmiany zachowania?",
       "options": [
-        "Jednostka bardzo pilnie i metodycznie przygotowuje konkretne plany w celu świadomego zapobiegania ewentualnym nawrotom.",
-        "Jednostka wysoce aktywnie i wnikliwie rozważa na chłodno wszelkie możliwe plusy oraz minusy nowej, trudnej sytuacji.",
+        "Jednostka pilnie i metodycznie przygotowuje konkretne plany w celu świadomego zapobiegania ewentualnym nawrotom.",
+        "Jednostka aktywnie i wnikliwie rozważa wszelkie możliwe plusy oraz minusy nowej, sytuacji.",
         "Osoba w ogóle nie rozważa wprowadzenia jakichkolwiek zmian, a rola interwencji ogranicza się do prowokowania do myślenia.",
-        "Osoba z pełnym sukcesem i zadowoleniem utrzymuje swoje nowe, wypracowane wcześniej zachowanie przez bardzo długi czas."
+        "Osoba z pełnym sukcesem i zadowoleniem utrzymuje swoje nowe, wypracowane wcześniej zachowanie przez długi czas."
       ],
       "correctAnswerIndex": 2,
       "explanation": "Prekontemplacja to najwcześniejsza faza, w której jednostka w ogóle nie uświadamia sobie problemu i nie rozważa zmiany, dlatego wymaga prowokowania do myślenia."
@@ -369,11 +369,11 @@
     {
       "id": 29,
       "type": "single-choice",
-      "question": "Z perspektywy podejścia ewolucyjnego, jaki jest fundamentalny, ostateczny cel istnienia potężnej u ludzi grupy tak zwanych „potrzeb wzrostu”?",
+      "question": "Z perspektywy podejścia ewolucyjnego, jaki jest fundamentalny, ostateczny cel istnienia u ludzi grupy tak zwanych „potrzeb wzrostu”?",
       "options": [
-        "Służą one do absolutnego zminimalizowania wszelkiego wysiłku poznawczego, co pozwala oszczędzać cenną, deficytową energię.",
-        "Skłaniają one do całkowicie bezrefleksyjnego przekazywania własnych genów za pomocą uwodzenia wielu potencjalnych partnerów.",
-        "Popychają one do owocnej współpracy, rzetelnego uczenia się i nabywania zasobów w celu zwiększenia naszych szans na przetrwanie.",
+        "Służą one do zminimalizowania wszelkiego wysiłku poznawczego, co pozwala oszczędzać cenną, deficytową energię.",
+        "Skłaniają one do bezrefleksyjnego przekazywania własnych genów za pomocą uwodzenia wielu potencjalnych partnerów.",
+        "Popychają one do owocnej współpracy, uczenia się i nabywania zasobów w celu zwiększenia naszych szans na przetrwanie.",
         "Mobilizują one organizm do odruchowego, szybkiego unikania nagłych zagrożeń i uciekania przed silnymi, fizycznymi drapieżnikami."
       ],
       "correctAnswerIndex": 2,
@@ -384,10 +384,10 @@
       "type": "single-choice",
       "question": "W klasyfikacji wyższych potrzeb psychologicznych u człowieka, czym na co dzień objawia się tak zwana potrzeba zgodności poznawczej (należąca do potrzeb ego)?",
       "options": [
-        "Silnym, ciągłym dążeniem jednostki do samostanowienia oraz jej pełnej, nieograniczonej niezależności od otaczającego społeczeństwa.",
-        "Naturalnym pragnieniem zachowania wewnętrznej harmonii, pełnej spójności własnych przekonań oraz bezpiecznego omijania dysonansu.",
-        "Głęboko zakorzenionym w ustroju popędem do rozwijania własnego fizycznego potencjału ukierunkowanym na stałą, mozolną autokreację.",
-        "Potężną, wrodzoną dążnością ssaka do przekroczenia swojej własnej tożsamości osobowej dla uzyskania wzniosłych doznań transpersonalnych."
+        "Dążeniem jednostki do samostanowienia i niezależności od otaczającego społeczeństwa.",
+        "Pragnieniem zachowania wewnętrznej harmonii, spójności własnych przekonań i unikania dysonansu.",
+        "Popędem do rozwijania własnego potencjału ukierunkowanym na autokreację.",
+        "Dążnością do przekroczenia własnej tożsamości osobowej dla uzyskania doznań transpersonalnych."
       ],
       "correctAnswerIndex": 1,
       "explanation": "Zgodność poznawcza to potrzeba ego polegająca na utrzymaniu wewnętrznej spójności, kongruencji, konsekwencji swoich przekonań i równowagi uwalniającej od dysonansu."
@@ -397,7 +397,7 @@
       "type": "single-choice",
       "question": "Zgodnie z ujęciem psychologii biologicznej, co z ewolucyjnego punktu widzenia stanowiło pierwszy i najistotniejszy powód wykształcenia się samego mózgu?",
       "options": [
-        "Sprawne przetwarzanie bardzo skomplikowanych, wysoce abstrakcyjnych symboli mowy w złożonych, powtarzalnych relacjach społecznych.",
+        "Sprawne przetwarzanie skomplikowanych, abstrakcyjnych symboli mowy w złożonych, powtarzalnych relacjach społecznych.",
         "Precyzyjne i stałe utrzymywanie ścisłej homeostazy, czyli stanu niezbędnej, biologicznej równowagi podstawowych parametrów organizmu.",
         "Silne generowanie głębokich, zaawansowanych potrzeb duchowych, które trwale i bezwarunkowo łączą nas ze spokojnym światem sacrum.",
         "Błyskawiczne warunkowanie wyuczonych, sztywnych nawyków środowiskowych opartych na silnym unikaniu zagrażających ciału bolesnych kar."
@@ -410,10 +410,10 @@
       "type": "single-choice",
       "question": "Analizując motywację w przebiegu zachowania na osi czasu, od czego zależy pierwotne uruchomienie ukierunkowanego działania przez podmiot?",
       "options": [
-        "Jest ono niemal całkowicie zdeterminowane przez biologiczną impulsywność jednostki oraz jej ogromne trudności w odraczaniu gratyfikacji.",
-        "Wynika ono wprost z uprzedniego, pełnego i absolutnego zaspokojenia wszelkich niższych, ewolucyjnych potrzeb fizjologicznych ciała ssaka.",
+        "Jest ono niemal zdeterminowane przez biologiczną impulsywność jednostki oraz jej trudności w odraczaniu gratyfikacji.",
+        "Wynika ono wprost z uprzedniego, pełnego i zaspokojenia wszelkich niższych, ewolucyjnych potrzeb fizjologicznych ciała ssaka.",
         "Zależy ono ściśle od trafnego rozpoznania prawdziwej wartości celu, aktywacji oczekiwań oraz uznania adekwatności własnych możliwości.",
-        "Powstaje ono automatycznie w wyniku ostatecznej ewaluacji i bardzo surowej, chłodnej oceny rezultatów podjętego już wcześniej działania."
+        "Powstaje ono automatycznie w wyniku ewaluacji i surowej, chłodnej oceny rezultatów podjętego już wcześniej działania."
       ],
       "correctAnswerIndex": 2,
       "explanation": "Za zainicjowanie zachowania odpowiada kognitywny proces rozpoznania wartości danego celu oraz aktywacja oczekiwań połączona z uznaniem własnych zdolności do jego osiągnięcia."
@@ -423,10 +423,10 @@
       "type": "single-choice",
       "question": "Jaką funkcję w rygorystycznym psychologicznym modelu procesu motywacyjno-wolitywnego Rubikonu pełni jego finalna faza poakcyjna?",
       "options": [
-        "To niezbędny czas rzetelnego i wysoce analitycznego rozważania korzyści jeszcze przed właściwym, twardym uformowaniem początkowej intencji.",
-        "Jest to trudny okres skrupulatnego planowania merytorycznych, logistycznych kroków niezbędnych do rzetelnego wykonania obranego zadania.",
+        "To niezbędny czas i analitycznego rozważania korzyści jeszcze przed właściwym, uformowaniem początkowej intencji.",
+        "Jest to okres skrupulatnego planowania merytorycznych, logistycznych kroków niezbędnych do wykonania obranego zadania.",
         "Obejmuje ona surową, wnikliwą kognitywną ocenę (ewaluację) ostatecznych wyników, następującą zaraz po pełnej dezaktywacji wykonanej intencji.",
-        "To wysoce aktywna fizycznie faza właściwego, trudnego działania motorycznego w środowisku, która najsilniej ze wszystkich angażuje naszą wolę."
+        "To aktywna fizycznie faza właściwego, działania motorycznego w środowisku, która najsilniej ze wszystkich angażuje naszą wolę."
       ],
       "correctAnswerIndex": 2,
       "explanation": "Faza poakcyjna w modelu Rubikonu (Motivation postactional) to etap ewaluacji, na którym oceniamy skutki zachowania po zakończeniu działania i dezaktywacji intencji."
@@ -434,11 +434,11 @@
     {
       "id": 34,
       "type": "single-choice",
-      "question": "W jaki sposób w psychologicznych klasyfikacjach potrzeb społecznych precyzyjnie definiowana jest odrębna dla ustroju potrzeba porządku społecznego?",
+      "question": "W jaki sposób w psychologicznych klasyfikacjach potrzeb społecznych precyzyjnie definiowana jest odrębna dla organizmu potrzeba porządku społecznego?",
       "options": [
-        "Jako ślepe i usilne dążenie do pełnego zdominowania oponentów za pomocą brutalnej, bezwzględnej i atawistycznej siły fizycznej starego pnia.",
+        "Jako ślepe i usilne dążenie do pełnego zdominowania oponentów za pomocą brutalnej, i atawistycznej siły fizycznej starego pnia.",
         "Jako nagła i silna chęć szybkiego odwrócenia uwagi od życiowej monotonii oraz konieczność czasowego, bezpiecznego wyrwania się z pęt konwencji.",
-        "Jako celowe poszukiwanie ustalonych społecznie reguł i norm postępowania, które rzetelnie zabezpieczą własne, wymierne interesy jednostki w grupie.",
+        "Jako celowe poszukiwanie ustalonych społecznie reguł i norm postępowania, które zabezpieczą własne, wymierne interesy jednostki w grupie.",
         "Jako naturalne i instynktowne pragnienie szybkiego uzyskania potwierdzenia własnej powierzchownej atrakcyjności w opinii wszystkich współpracowników."
       ],
       "correctAnswerIndex": 2,
@@ -449,9 +449,9 @@
       "type": "single-choice",
       "question": "Czym dokładnie wyróżnia się druga, późniejsza autorska wersja modelu hierarchii potrzeb opracowana pod koniec życia przez Abrahama Maslowa w stosunku do jej pierwowzoru?",
       "options": [
-        "W nowej wersji autor usunął z niej całkowicie uciążliwe potrzeby bezpieczeństwa, uznając je w teorii za w pełni i ściśle zwierzęce.",
-        "W drugiej, ostatecznie zrewidowanej wersji na samym jej górnym szczycie dodano jako nadrzędną wysoce istotną potrzebę transcendencji.",
-        "Zmieniona, chłodna poznawczo wersja zakłada, że potrzeba wysokiej samorealizacji bezwzględnie w rozwoju poprzedza potrzeby fizjologiczne.",
+        "W nowej wersji autor usunął z niej potrzeby bezpieczeństwa, uznając je w teorii za i ściśle zwierzęce.",
+        "W drugiej, zrewidowanej wersji na samym jej górnym szczycie dodano jako nadrzędną istotną potrzebę transcendencji.",
+        "Zmieniona, chłodna poznawczo wersja zakłada, że potrzeba wysokiej samorealizacji w rozwoju poprzedza potrzeby fizjologiczne.",
         "W najnowszej, biologicznej wersji szczyt całej piramidy został zdominowany przez zdobycie oraz celowe utrzymanie przy sobie partnera."
       ],
       "correctAnswerIndex": 1,
