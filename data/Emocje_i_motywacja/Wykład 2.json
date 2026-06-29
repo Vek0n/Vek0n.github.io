@@ -200,7 +200,7 @@
     {
       "id": 16,
       "type": "single-choice",
-      "question": "W eksperymentach z kurczętami, ptaki z zakrytym lewym okiem (korzystające z prawej półkuli) wykazywały:",
+      "question": "W eksperymentach z kurczętami, ptaki z zakrytym prawym okiem (korzystające z prawej półkuli) wykazywały:",
       "options": [
         "Skupienie na drobnych szczegółach podłoża.",
         "Ignorowanie bodźców zagrażających życiu.",
@@ -208,7 +208,7 @@
         "Tylko rutynowe, monotonne zachowania."
       ],
       "correctAnswerIndex": 2,
-      "explanation": "Używanie prawej półkuli (prawe oko zakryte) sprawiało, że kurczęta reagowały na szeroki, globalny aspekt środowiska, a nie na detale."
+      "explanation": "Zgodnie z neuroanatomią (skrzyżowanie nerwów wzrokowych), zakryte prawe oko → widzi lewe oko → prawa półkula. PDF: 'Kurczęta, którym zakryto prawe oko, wykazują zainteresowanie szerokim zakresem bodźców, czyli globalnym aspektem środowiska; kurczęta mające zakryte lewe oko skupiają się jedynie na konkretnych, lokalnych szczegółach otoczenia.'"
     },
     {
       "id": 17,
@@ -256,11 +256,11 @@
       "options": [
         "Jest bardzo otwarta i pozbawiona przed-sądów.",
         "Utrzymuje stały dystans i postawę oceniającą.",
-        "Traktuje rzeczywistość niezwykle osobiście.",
-        "Czuje się głęboko połączona ze środowiskiem."
+        "Preferuje to, co bezosobowe i stworzone przez człowieka.",
+        "Tworzy abstrakcyjne kategorie, schematycznie i bez detali."
       ],
-      "correctAnswerIndex": 1,
-      "explanation": "Lewa półkula trzyma się z dala od świata, preferuje postawę zdystansowaną, oceniającą i analityczną względem otoczenia."
+      "correctAnswerIndex": 0,
+      "explanation": "PDF: LEWA PÓŁKULA — 'Postawa otwarta (bez przed-sądów)', 'Postrzega siebie jako połączoną ze światem', 'Zainteresowana tym, co osobowe'. PRAWA PÓŁKULA — 'Postawa oceniająca', 'Zainteresowana tym, co bezosobowe', 'Tworzy re-prezentacje obiektów schematycznie, abstrakcyjnie'. Opcje B, C, D opisują prawą półkulę."
     },
     {
       "id": 21,
@@ -395,15 +395,15 @@
     {
       "id": 31,
       "type": "single-choice",
-      "question": "W systemie Polyvagal (Porgesa/Weimera) za zaangażowanie społeczne (Social) odpowiada układ oznaczony kolorem:",
+      "question": "Zgodnie z typologią autonomiczną, osoba z przewagą układu współczulnego (sympatykotoniczna) charakteryzuje się:",
       "options": [
-        "Bursztynowym (Sympathetic).",
-        "Czerwonym (Parasympathetic).",
-        "Zielonym (Social NS Nuclei).",
-        "Niebieskim (Vagus Root)."
+        "Tachypsychizmem, porywczością i skłonnością do dominacji nad otoczeniem",
+        "Bradpsychizmem, apatią i tendencją do szukania spokoju",
+        "Krępą budową ciała z dużymi trzewiami i zamiłowaniem do spokojnego życia",
+        "Niską wrażliwością na bodźce i obojętnością na otoczenie"
       ],
-      "correctAnswerIndex": 2,
-      "explanation": "Model na wykresie przypisuje kolor zielony (Green) układowi odpowiedzialnemu za komunikację i zaangażowanie społeczne."
+      "correctAnswerIndex": 0,
+      "explanation": "PDF opisuje sympatykotoników jako: tachypsychizm (szybsze myślenie), porywczość, nerwowość, wybuchowość, skłonność do dominacji nad otoczeniem, rozwinięty instynkt atak-obrona. Opcje B, C, D opisują wagotoników."
     },
     {
       "id": 32,
@@ -467,8 +467,8 @@
         "Ruchy celowe, instrumentalne i manipulacyjne.",
         "Całkowite zamrożenie postawy w obliczu stresu."
       ],
-      "correctAnswerIndex": 2,
-      "explanation": "Lewa półkula zawiaduje postawą rywalizacyjną oraz działaniami chwytnymi, celowymi i instrumentalnymi."
+      "correctAnswerIndex": 1,
+      "explanation": "PDF jednoznacznie: LEWA PÓŁKULA — 'Ruchy eksploracyjne', 'Troska', 'Kooperacja'. PRAWA PÓŁKULA — 'Ruchy celowe (sięganie po, chwytanie)', 'Działanie instrumentalne (manipulacyjne)', 'Rywalizacja'."
     },
     {
       "id": 37,

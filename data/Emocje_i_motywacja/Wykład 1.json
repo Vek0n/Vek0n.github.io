@@ -59,7 +59,7 @@
       "type": "single-choice",
       "question": "Zgodnie z tezami Marka Solmsa, uczucia w stosunku do procesów myślowych (chronologicznie oraz hierarchicznie):",
       "options": [
-        "Stanowią system zawsze nadrzędny i wcześniejszy",
+        "Stanowią system pierwotnie nadrzędny i wcześniejszy",
         "Pojawiają się wtórnie jako efekt oceny poznawczej",
         "Rozwijają się w pełni symultanicznie z myśleniem",
         "Są formą zinternalizowanych percepcyjnie obrazów"
@@ -85,13 +85,13 @@
       "type": "single-choice",
       "question": "W psychologii panuje zgoda, że trzy główne aspekty każdego afektu to walencja (przyjemne/nieprzyjemne), pobudzenie oraz:",
       "options": [
-        "Gotowość motywacyjna",
+        "Motywacja (kierunek działania)",
         "Percepcja poznawcza",
         "Reaktywność trzewna",
         "Wewnętrzna atrybucja"
       ],
       "correctAnswerIndex": 0,
-      "explanation": "Trzy osie to walencja, pobudzenie i motywacja (tendencja do przyciągania lub odpychania)."
+      "explanation": "Trzy osie afektu to walencja, pobudzenie i motywacja (tendencja do przyciągania lub odpychania, gotowość do działania)."
     },
     {
       "id": 8,
@@ -122,7 +122,7 @@
     {
       "id": 10,
       "type": "single-choice",
-      "question": "Zgodnie z ewolucyjną hipotezą (Jack et al.), emocja podstawowa złości (gniewu) wyewoluowała bezpośrednio z pre-emocji:",
+      "question": "Zgodnie z ewolucyjną hipotezą, emocja podstawowa złości (gniewu) wyewoluowała bezpośrednio z pre-emocji:",
       "options": [
         "Fizjologicznego wstrętu",
         "Bólu powierzchniowego",
@@ -176,7 +176,7 @@
       "type": "single-choice",
       "question": "Stosowanie skrótów myślowych, pozwalających na szybkie decyzje dotyczące ryzyka wyłącznie na bazie własnych, aktualnych odczuć, to:",
       "options": [
-        "Heurystyka procesów afektywnych",
+        "Heurystyka afektu",
         "Błąd uzasadniania emocjonalnego",
         "Trzeciorzędowa regulacja odgórna",
         "Zjawisko projekcji podświadomej"
@@ -239,7 +239,7 @@
     {
       "id": 19,
       "type": "single-choice",
-      "question": "Według klasyfikacji Plutchika, diada łącząca ewolucyjnie Oczekiwanie i Zaskoczenie ma na celu przede wszystkim:",
+      "question": "Według klasyfikacji Plutchika, diada przeciwstawna łącząca ewolucyjnie Oczekiwanie i Zaskoczenie ma na celu przede wszystkim:",
       "options": [
         "Ocenę znaności nowo napotkanego bodźca",
         "Błyskawiczną mobilizację mięśni do ucieczki",
@@ -319,7 +319,7 @@
       "type": "single-choice",
       "question": "Richard Lazarus uważa, że nasz codzienny, dominujący nastrój nie zależy od nagłych bodźców, lecz wynika bezpośrednio z:",
       "options": [
-        "Podświadomej oceny tła egzystencjalnego życia",
+        "Ciągłej, automatycznej oceny tła egzystencjalnego życia",
         "Szybkiej aktywacji podkorowej drogi dolnej lęku",
         "Fluktuacji neurochemicznych poziomu serotoniny",
         "Natężenia zewnętrznych stymulantów i używek"
@@ -333,12 +333,12 @@
       "question": "Badania Killingswortha i Gilberta nad zjawiskiem 'błądzenia myślami' w ciągu dnia jednoznacznie udowodniły, że:",
       "options": [
         "Błądzenie umysłem jest główną przyczyną smutku",
-        "Depresja zawsze powoduje szybsze błądzenie",
-        "Brak skupienia znacząco podnosi jakość życia",
-        "Uważność sprzyja silnym wahaniom nastrojów"
+        "Koncentracja na teraźniejszości koreluje z wyższym poziomem szczęścia",
+        "Ludzie spędzają średnio 47% czasu na myśleniu o czymś innym niż obecna czynność",
+        "Afekty negatywne są częstsze podczas błądzenia niż podczas skupienia"
       ],
       "correctAnswerIndex": 0,
-      "explanation": "Błądzenie umysłu (myślenie o tym, czego nie ma tu i teraz) jest przyczyną zmartwienia, a nie tylko jego konsekwencją."
+      "explanation": "Badania Killingswortha i Gilberta wykazały, że błądzenie umysłu (mind-wandering) wyprzedza pojawienie się smutku, a nie odwrotnie — jest przyczyną, nie tylko konsekwencją."
     },
     {
       "id": 27,
@@ -358,10 +358,10 @@
       "type": "single-choice",
       "question": "Poczucia bycia (uczucia egzystencjalne, np. poczucie wyobcowania) różnią się od klasycznych nastrojów głównie tym, że:",
       "options": [
-        "Stanowią tylko głębokie, drugoplanowe tło myśli",
-        "Mają jeden, bardzo sprecyzowany cel w świecie",
-        "Zawsze dominują w sposób nagły w świadomości",
-        "Trwają jedynie przez ułamek mijającej sekundy"
+        "Stanowią głębokie, drugoplanowe tło świadomości",
+        "Są zawsze powiązane z konkretnym, rozpoznawalnym bodźcem wyzwalającym",
+        "Dominują w świadomości w sposób nagły i intensywny",
+        "Mają ściśle określony czas trwania — zwykle kilka sekund"
       ],
       "correctAnswerIndex": 0,
       "explanation": "Poczucia bycia są ukryte głęboko w tle świadomości ('na drugim planie') i rzadko przykuwają bezpośrednią uwagę, w przeciwieństwie do nastrojów."
@@ -387,7 +387,7 @@
         "Holistycznej przebudowy całego stylu życia",
         "Tłumienia mimiki podczas odczuwania lęku",
         "Prostej reinterpretacji pojedynczego bodźca",
-        "Technik bardzo szybkiego oddychania klatką"
+        "Technik krótkotrwałego, kontrolowanego oddechu"
       ],
       "correctAnswerIndex": 0,
       "explanation": "Zmienić szkodliwe poczucia bycia można jedynie kompleksowo rozważając własny styl życia i relację ze światem, a nie poprzez reinterpretację jednej sytuacji."
@@ -408,7 +408,7 @@
     {
       "id": 32,
       "type": "single-choice",
-      "question": "Teoria neurobiologiczna Josepha LeDoux zakłada, że w mózgu funkcjonuje szybka 'droga dolna' powstawania emocji, która anatomie omija:",
+      "question": "Teoria neurobiologiczna Josepha LeDoux zakłada, że w mózgu funkcjonuje szybka 'droga dolna' powstawania emocji, która anatomicznie omija:",
       "options": [
         "Analityczną, świadomą korę mózgową",
         "Przekaźnikowe ciało migdałowate lęku",
@@ -438,8 +438,8 @@
       "options": [
         "Uczucie może wyprzedzać sam akt rozpoznania",
         "Myślenie z zasady chronologicznie wyprzedza afekt",
-        "Analiza kognitywna jest konieczna do bicia serca",
-        "Racjonalizm ewolucyjnie chronił przed stratą życia"
+        "Afekt jest zawsze wynikiem wcześniejszej analizy poznawczej",
+        "Procesy emocjonalne i poznawcze przebiegają równolegle i niezależnie"
       ],
       "correctAnswerIndex": 0,
       "explanation": "Zajonc udowodnił, że reakcja emocjonalna zachodzi przed świadomym ułożeniem informacji poznawczej (często boimy się czegoś, nie wiedząc jeszcze, czym to w ogóle jest)."
@@ -475,7 +475,7 @@
       "type": "single-choice",
       "question": "Według matrycy czterech podstawowych nastrojów R. Thayera, poranne dobre samopoczucie i wigor opisuje się mianem stanu:",
       "options": [
-        "Spokojnego z dominującą, dużą energią",
+        "Spokojnego z dużą energią",
         "Spiętego połączonego z silną energią",
         "Spokojnego z uczuciem zmęczenia rano",
         "Spiętego z głębokim wyczerpaniem tła"
@@ -489,7 +489,7 @@
       "question": "Stan 'Spięty zmęczony' (Thayer), charakteryzujący się wypaleniem i kryzysem około godziny 16:00, charakteryzuje obiektywnie:",
       "options": [
         "Zbyt niski poziom energii oraz duże napięcie",
-        "Maksymalny zasób sił i potężne napięcie karku",
+        "Maksymalny zasób sił i wysokie napięcie",
         "Całkowity brak energii i silny, pełen relaks",
         "Idealna homeostaza pracy układu przywspółczulnego"
       ],
@@ -514,13 +514,13 @@
       "type": "single-choice",
       "question": "W badaniach dziennych K. Scherera (2004) nad częstotliwością przeżywania stanów mieszanych, dominującą kompozycją emocji u ludzi była zazwyczaj:",
       "options": [
-        "Mieszanka agresywnej złości i bolesnego smutku",
-        "Mieszanka euforycznej radości i potężnego strachu",
-        "Mieszanka obrzydzenia z pełną miłością do bliskich",
-        "Mieszanka głębokiego zaskoczenia ze wstrętem rano"
+        "Mieszanka złości i smutku",
+        "Mieszanka radości i strachu",
+        "Mieszanka obrzydzenia i miłości do bliskich",
+        "Mieszanka zaskoczenia i wstrętu"
       ],
       "correctAnswerIndex": 0,
-      "explanation": "Scherer wykazał, że najczęstsze emocje mieszane to mieszanki złości ze smutkiem, a następnie smutku z niepokojem."
+      "explanation": "Scherer wykazał, że najczęstsze emocje mieszane to połączenia złości ze smutkiem, a następnie smutku z niepokojem."
     },
     {
       "id": 41,
@@ -553,10 +553,10 @@
       "type": "single-choice",
       "question": "Jaka struktura mózgu bywa potocznie nazywana w materiałach neurobiologicznych 'siedliskiem rozumu', korygującym prymitywne popędy?",
       "options": [
-        "Zewnętrzna powłoka kory nowej",
+        "Kora nowa (neocortex)",
         "Zintegrowane ciało migdałowate",
-        "Podstawowy przekaźnik ciał wzgórza",
-        "Wewnętrzna ścieżka z pnia głowy"
+        "Jądra wzgórza jako przekaźnik",
+        "Wewnętrzna ścieżka z pnia mózgu"
       ],
       "correctAnswerIndex": 0,
       "explanation": "Kora nowa (cortex) odpowiada za kontrolę zachowania, planowanie i procesy poznawcze, podczas gdy ciało migdałowate to emocjonalne 'serce' lęku."
@@ -605,10 +605,10 @@
       "type": "single-choice",
       "question": "Według Hilla H. Goldsmitha, skokowe reakcje emocjonalne mają z zasady i biologicznego założenia charakter przede wszystkim:",
       "options": [
-        "Głęboko relacyjny oraz w pełni interpersonalny",
-        "Wizualny i skupiony wyłącznie na sobie samym",
-        "Urojony, związany ściśle ze sferą marzeń nocnych",
-        "Odroczony w długim, co najmniej miesięcznym czasie"
+        "Głęboko relacyjny oraz interpersonalny",
+        "Wyłącznie fizjologiczny i automatyczny",
+        "Czysto poznawczy, poprzedzony analizą korową",
+        "Reaktywny i krótkotrwały — trwający ułamek sekundy"
       ],
       "correctAnswerIndex": 0,
       "explanation": "Goldsmith uważa, że emocje sygnalizują zmianę w relacji 'ja' i świata społecznego, nadając im naturę wysoce interpersonalną."
@@ -616,12 +616,12 @@
     {
       "id": 48,
       "type": "single-choice",
-      "question": "Kto był twórcą znanej wypowiedzi: 'Wychowanie to nie miła zabawa, a zadanie, w które należy włożyć kapitał ciężkich przeżyć'?",
+      "question": "Kto był twórcą znanej wypowiedzi: 'Wychowanie to nie miła zabawa, a zadanie, w które należy włożyć kapitał ciężkich przeżyć i myśli'?",
       "options": [
-        "Stary, przedwojenny polski pedagog Janusz Korczak",
-        "Współczesny terapeuta w nurcie behawioralnym Skinner",
-        "Znany psycholog rozwojowy nurtu psychoanalizy Freud",
-        "Badacz ewolucyjnego ujęcia lęków u dzieci, N. Frijda"
+        "Janusz Korczak",
+        "B.F. Skinner",
+        "Zygmunt Freud",
+        "Nico H. Frijda"
       ],
       "correctAnswerIndex": 0,
       "explanation": "Są to autentyczne słowa Janusza Korczaka o odpowiedzialnym rodzicielstwie bazującym na 'mądrej miłości'."
@@ -631,7 +631,7 @@
       "type": "single-choice",
       "question": "Z czego wynikają (zgodnie z neurobiologią) stany, w których niemal od urodzenia czujemy chroniczne poczucie nieukierunkowanego lęku w tle?",
       "options": [
-        "Ze skumulowanych interakcji i wczesnych traum tła",
+        "Ze skumulowanych wczesnych doświadczeń i interakcji cielesno-afektywnych",
         "Z jednorazowej, świadomej oceny zagrażającej sytuacji",
         "Z uszkodzenia wzrokowego na drodze kory wzrokowej",
         "Z wrodzonego braku jakichkolwiek funkcji wegetatywnych"
