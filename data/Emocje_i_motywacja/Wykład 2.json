@@ -256,11 +256,11 @@
       "options": [
         "Jest bardzo otwarta i pozbawiona przed-sądów.",
         "Utrzymuje stały dystans i postawę oceniającą.",
-        "Preferuje to, co bezosobowe i stworzone przez człowieka.",
-        "Tworzy abstrakcyjne kategorie, schematycznie i bez detali."
+        "Jest zainteresowana tym, co osobowe i naturalne.",
+        "Postrzega siebie jako połączoną ze światem."
       ],
-      "correctAnswerIndex": 0,
-      "explanation": "LEWA PÓŁKULA — 'Postawa otwarta (bez przed-sądów)', 'Postrzega siebie jako połączoną ze światem', 'Zainteresowana tym, co osobowe'. PRAWA PÓŁKULA — 'Postawa oceniająca', 'Zainteresowana tym, co bezosobowe', 'Tworzy re-prezentacje obiektów schematycznie, abstrakcyjnie'. Opcje B, C, D opisują prawą półkulę."
+      "correctAnswerIndex": 1,
+      "explanation": "Zgodnie z podsumowaniem perspektywy McGilchrista: LEWA PÓŁKULA — postawa ZDYSTANSOWANA, poznanie abstrakcyjne/sekwencyjne, uwaga wąska. PRAWA PÓŁKULA — postawa RELACYJNA, otwarta, bez przed-sądów, zainteresowana tym co osobowe, postrzega siebie jako połączoną ze światem."
     },
     {
       "id": 21,
@@ -467,8 +467,8 @@
         "Ruchy celowe, instrumentalne i manipulacyjne.",
         "Całkowite zamrożenie postawy w obliczu stresu."
       ],
-      "correctAnswerIndex": 1,
-      "explanation": "Zgodnie z wykładem: LEWA PÓŁKULA — 'Ruchy eksploracyjne', 'Troska', 'Kooperacja'. PRAWA PÓŁKULA — 'Ruchy celowe (sięganie po, chwytanie)', 'Działanie instrumentalne (manipulacyjne)', 'Rywalizacja'."
+      "correctAnswerIndex": 2,
+      "explanation": "Zgodnie z podsumowaniem McGilchrista: LEWA PÓŁKULA — działanie = KONTROLA, ruchy celowe, instrumentalne, manipulacyjne, rywalizacja. PRAWA PÓŁKULA — działanie = TROSKA, ruchy eksploracyjne, kooperacja."
     },
     {
       "id": 37,
